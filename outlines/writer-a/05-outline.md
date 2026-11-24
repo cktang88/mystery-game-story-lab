@@ -1,282 +1,283 @@
-# The Unsigned: outline (third pass)
+# The Unsigned: outline (fourth pass)
 
 ## One sentence
 
-**Player-facing:** *A grieving tax assessor must cast a foreseen death, and decide whether to sign for it.*
+**For players:** *A tax assessor must find her vanished pen pal before the signature that will sell a world. Then she must decide whether to sign for what she did.*
 
-**Internal pitch:** *When the future arrives as an x-ray, you survive your death by growing someone to fit it.*
+**Internal pitch:** *When the future arrives as a scan with no faces, you can choose who stands in it.*
 
 ## One paragraph
 
-Ponni, an assessor of the Five Hundred's revenue office, crosses four light-years to meet the pen pal she has written to for twenty-two years. She lands on Ilavenil, the AGI-owned pleasure world, a day after her friend Minmini was found dead. The death was foreseen on a future plate and licensed as a *vidai*, a lawful "foreseen loss", because Minmini was a proxy: a clone the law calls property, belonging to a bride just back, young, from a time-dilation vault to marry the heir of a rival firm.
+Ponni is an assessor of the Five Hundred's revenue office. She crosses four light-years to meet the pen pal she has written to for twenty-two years, and lands on Ilavenil, the AGI-owned pleasure world, a day after her friend Minmini has vanished. The disappearance was foreseen on a future scan and licensed as a *vidai*, a lawful "foreseen loss", because Minmini is a proxy. She is a clone the law counts as property, belonging to a bride just back from a time-dilation vault and about to marry the heir of a rival firm.
 
-**First disaster:** the weapon was pollen the vault had hoarded for decades. Its release shuts Ilavenil's bloom, and the aliens' polity begins three rounds of argument about whether to cut the hub out of the faster-than-light post. Ponni's sister, alone on Thinnai, must negotiate with an envoy as the confederation's bond coupon goes unpaid and a creditor fleet's council splits over calling the debt.
+**First disaster.** The drug used to take Minmini was pollen the vault had hoarded for decades. When it was released, Ilavenil's great bloom closed and the alien polity began three rounds of argument over cutting the hub out of the faster-than-light post. Ponni's sister, stranded on Thinnai, must face an envoy and her own treasury while the confederation misses a debt payment to a creditor fleet whose captains are split.
 
-**Second disaster, caused by Ponni's investigation:** her published readings get the toymaker and her own clerk, who was the hand, murdered. What she finds is worse. Twenty-four years ago the bride's grandmother saw a blurred x-ray of "the heir" lying in the bloom's chamber on her wedding night and grew Minmini to fill it. Minmini was killed so the real bride would fill it instead. The shadow cannot be changed, only cast. Ponni finds her own soldered toy and her own seal in the old image: it is not a death but Minmini's funeral, and Ponni will lay it out. With the bride and groom, she takes her friend's body from the pyre and lays it in the shadow. Then she signs the closure, the first person ever to do so, and stops the grandmother from shooting the killer so she can arrest him herself.
+**Second disaster, caused by Ponni's investigation.** Her published readings send the toymaker into the same vault and get her own clerk, the man who did it, shot. What she uncovers is bigger. Twenty-four years ago, the bride's grandmother saw a faceless scan of "the heir" sealing a document on her wedding night. Not knowing who or what, she grew Minmini to stand there. Minmini was taken so that the real bride would have to seal the merger that hands her firm's berths to the rival. A scan cannot be changed, only filled. Ponni finds her own tin parrot on the scanned table and her own seal at its edge, and opens the bird. Inside is a deed Minmini wrote for that table.
 
-**Third disaster, caused by that signature:** it strikes down the law that made Ilavenil a haven and licensed killing proxies, and lifts to power the commissioner who let Minmini die. In four days Ponni faces the killer across a table, proves the confederation's first ordeal was rigged by her own office's founders, and duels the commissioner for the Seal, trading her silence for every proxy's personhood. Then she writes her own ordeal term, convicts herself alone so the bride and groom go free, and goes into the slow for forty years. From there she begins writing to the bride.
+**The climax.** On the wedding day, the bride and groom slip out of their own feast. With Ponni they break into the vault and wake Minmini, who has lived four hours while nine days passed outside, and the two pen pals meet. That night, in the sealing hall under guard, Minmini stands in the bride's anklets and seals her own deed. Ponni signs the closure: she is the first person ever to do so. Then she stops the grandmother from shooting the man behind it, so that she can arrest him herself.
 
-## Threads, places and load
+**Third disaster, caused by that signature.** It strikes down the law that made Ilavenil a haven and licensed taking proxies, and it lifts to power the commissioner who let it all run. Over five days Ponni:
+- faces the man behind the taking across a table;
+- proves the confederation's first trial was rigged by her own office's founders;
+- duels the commissioner for the Seal, trading her silence for every proxy's personhood;
+- stands as sole author of the break-in so her friends go free, and is sent forty years ahead.
 
-| Thread | Viewpoint | Home | Look | Want, plainly |
-|---|---|---|---|---|
-| **A** | Ponni | Irai office, Minmini's rooms, cold room | ochre, ledger-amber, kolam light | name the author; keep Kayal out; sign or not; face Thamarai |
-| **B** | Kayal and Kathir (a couple) | Slow House, plate-house, round hall, chamber, Kuzhi | black stone and bells; salt-white lightboxes | survive the wedding; win the vote; make it right |
-| **C** | Thumbi | roost and the flagship *Kaaru* | dust-gold; teak and brass | reopen the bloom; keep the debt from being called |
-| **D** | Aruvi | Thinnai, and only Thinnai | ochre dust, treasury brass, a closed dome | get the coupon out; answer the envoy |
+From a garden berth, she starts writing letters again.
 
-**Load after this pass:**
-- **Verbs:** 8 (weigh, lease, fit, mimic, tail, trace, trade beads, parley).
-- **Rules:** 10, down from about 12.
-- **Glossary terms:** 12, down from about 20.
-- **Named power players:** 14. The toymaker and the old Seal-holder are now unnamed in play; three minor names were cut and four arcs added.
-- **Branching choices:** 4.
-- **Ending states:** 4.
+## Threads and load
 
-**Start together:** threads A, B and C are at the pyre in Ch 2. Thread D begins on Thinnai in Ch 6. That is the one thread that starts elsewhere, and it never moves.
+| Thread | Viewpoint | Home | Want |
+|---|---|---|---|
+| **A** | Ponni | Irai office, Minmini's rooms, the Lightbox Exchange | find Minmini; then cast the sealing; then sign or not; then face Thamarai |
+| **B** | Kayal and Kathir (a couple) | Slow House, plate-house, the hall, the Mella | pass at court; survive the merger; free Minmini |
+| **C** | Thumbi | the roost; the flagship *Kaaru* | reopen the bloom; stop the debt being called |
+| **D** | Aruvi | Thinnai only | get the remittance out; win the Bench; answer the envoy |
 
-**The ledger board** sits between chapters. It shows the question, each thread's want, the days to the wedding and to the coupon, the bead and token counts, the Crossing's map, the suspense count, and the **glossary strip of objects** (see `03`).
+**Load.** 7 verbs (down from 8). 10 rules. 12 glossary terms. 14 named power players. 4 branching choices and 5 ending states. No deaths: the crimes are two time-nappings, a shooting the victim survives, and a fraud.
+
+**Start together.** Threads A, B and C meet at Minmini's door in Ch 2. Thread D starts on Thinnai and never moves.
+
+**The ledger board** shows, between chapters: each thread's current question and want; the days to the wedding and the coupon; bead and token counts; the Crossing map; *Suspense / Signed*; and the glossary of objects.
 
 ## Full outline
 
-### Prologue: Day −8, 04:00
+### Prologue: AS 188, the Mella
 
-1. The Proprietor's 04:00 safety-film sweep of private rooms. The player pans across bone and metal: sleepers with bells, two thalis on one pillow, a gambler asleep on his coins, a vast flower's ribs, closed.
-2. A bedroom: a woman lying still, a steel ring at her wrist, a toy carrier stopped beside her hand. **Asleep or dead, the image cannot say.**
-3. A cassette window glows. Title.
+A white vault room. A woman's hands (Valli, younger) lift a leaf from a developing tray. In blue-white light the scan rises:
+- a vaulted hall of mineral ribs, and a table;
+- anklet bells shining bright;
+- a seal pressed to something the scan cannot show;
+- a tin bird on the table with a bright blob on its key;
+- at the edge, a faint second figure wearing a disc with a hole.
+
+Valli whispers: "Whoever stands there signs for us." Title.
 
 ### Act 1: "Nobody's" (Day −7)
 
-New items: lease, weigh (with the shallowest-loop rule), proxy (fact only).
+**Ch 1 (A). Dock.** Ponni's slow ship docks beneath the kilometre-high Kaanthal, which is shut. The roost below it is idle. She collects four years of letters held for her and walks into a city drawn in kolam light. At each threshold she must **lease** passage. Each lease form has a blank field headed *purpose*, which she leaves blank, as everyone does. She arrives at Minmini's address.
 
-**Ch 1 (A). Dock.** The roost is idle and the bloom is shut. Ponni collects four years of held letters. Kolam lines block each threshold until she **leases** passage. Each lease form she signs has a blank field headed *purpose*; she leaves it blank, as everyone does. At the gate she finds mourners.
+**Ch 2 (A, B, C). The door.** Paalai's staff are carrying crates out of Minmini's rooms. Everyone is here: Valli; Kayal ("controlling holder, back from the Mella"); Kathir of Neithal, her betrothed; Nedumaran; Commissioner Thamarai; the clerk Selvan; Thumbi of the roost. The Proprietor announces: "Loss of property, licensed. Act of no one." Ponni learns that her pen pal is a **proxy**, and that she has vanished. Valli: "She fled the sealing." Ponni presses her stamp to the door: *UNDER ASSESSMENT*. The crates go back in. Thamarai, passing her aide on the stair, speaks of the bond panic: "Let it run."
 
-**Ch 2 (A, B, C). The pyre.** At the shut Kaanthal, the officiant's roll call states every relationship:
-- Valli, chair of Paalai;
-- Kayal, controlling holder, back from the slow;
-- Kathir, chair-designate of Neithal, her betrothed;
-- Nedumaran, his father;
-- Commissioner Thamarai;
-- Selvan, the clerk;
-- Thumbi, a roost reader;
-- the old Seal-holder.
+**Ch 3 (A). The rooms.** Ponni calibrates her **Balance** on the Irai's **double coin**. It reads a one-day loop; she enters it, and a ten-year loop shows behind. The rule, *shallowest first*, is learned by doing. She weighs:
+- the bed: looped, two days;
+- a toy carrier on the pillow: looped;
+- the tin **parrot** she sent in AS 198: looped, **twenty-four years**. It is also **heavier than she remembers**.
 
-The Proprietor: "Act of no one." Ponni sees Minmini's face, and the **ring** under her wrist skin. Valli: "Property of the house." Ponni: then folding duty must be assessed, and nothing under assessment burns. She stamps **UNDER ASSESSMENT** and the pyre stops. Overheard as the crowd leaves:
-- Thamarai, to a Mawsim purser: **"Let it run."**
-- Thamarai, warmly, to Ponni: she approved Ponni's cadet letters herself, in 190.
-- The Seal-holder's aide: his heart medicine is due on the next post.
-
-**Ch 3 (A). The rooms.** Ponni takes custody. Before anything else she calibrates her **Balance** on the Irai's **double coin**. The first reading is a one-day loop. When she enters it in the ledger ("Irai, calibration"), the needle frees and a ten-year loop shows behind it. *The Balance shows the shallowest loop first* is taught in twenty seconds. Then:
-- the body: two days;
-- the toy carrier: looped;
-- the tin **parrot** with its soldered key: **twenty-four years**, and nothing shallower.
-
-Within a minute, all three readings are on the public board. Ponni lists the old leases (legally Kayal's) without opening them, including an "antique" from AS 0. The gate film from 19:30 shows a visitor with a **solid disc**. Ponni taps her own seal: "Clerks get the solid ones; we get the hole." Selvan winds a clockwork box on his desk and steps out to the stair for a pipe.
+An **empty bracelet clasp** lies on the floor, ripped from a mount. The gate's record film shows a 19:30 visitor whose only bright metal is a **solid disc**. Ponni taps her own seal: "Clerks get the solid ones; we get the hole." Selvan winds a clockwork box on his desk. Within the minute, all her readings are on the public board.
 
 **Ch 4 (B). The couple.**
-- *Kayal:* at a mourning reception she lifts a cup right-handed and a delegate's eyebrow rises. Valli's **clockwork pistol** lies on the desk. She remembers **the folding**: Minmini holding a cup **left hand under**, "You'll need it."
-- *Kathir:* a wordless memory from Day −30. He pleads with a back-lit **silhouette**, which nods. The locket holds a strip of his hand in hers. He begins watching his own firm.
+- **Kayal** lifts a cup right-handed at a reception and a delegate's eyebrow rises. On Valli's desk sit a clockwork pistol and a Mella berth key. She remembers **the folding**: Minmini showing her the cup held **left hand under**. "You'll need it."
+- **Kathir** remembers Day −30 without words: he pleads with a back-lit **silhouette** in a lightbox room, and it nods.
 
-**Ch 5 (C). The idle roost.** Thumbi's brother has been laid off. Over the shut bloom a few carriers circle and leave: "empty flights". That afternoon the Mawsim fleet's lights fill the sky.
+**Ch 5 (C). The fleet.** At the idle roost, Thumbi's brother has been laid off. "Empty flights" of carriers circle overhead and leave. Then the Mawsim fleet drops into orbit: teak-dark slow ships the size of districts, their running lights filling the evening.
 
-**Ch 6 (D). Thinnai.** Aruvi counts the coupon into its post-crate at the Irai treasury. The quarter's 0.9 million kaasu is due at Ilavenil in four days. Thinnai's small bloom is open and the post still runs. She posts a letter to her sister ("You'll have met her by now") and walks past a sealed vault door marked *Evidence: seized carriage*, which clerks are not allowed to open. No verb is taught here.
+**Ch 6 (D). Thinnai.** Aruvi seals the quarter's **remittance**, the money that pays the Mawsim coupon, into a post-crate on Thinnai's roost. Thinnai's small bloom is open and the post is still running. She posts a letter to her sister. On her way out she passes a treasury door marked *Evidence: seized carriage*, which clerks may not open.
 
-**Ch 7 (A). Letters.** Two lines are voiced. From an old letter about a gambler: "The shadow doesn't say dead, Ponni. It only says *there*." From the last letter: "If I'm not there to meet you, you'll find me where the ribs open. Bring the bird. Wind it for me." Ponni opens a ledger entry and will not write "no one".
+**Ch 7 (A). Letters.** Two voiced lines. From an old letter about a gambler: "A scan doesn't say who, Ponni. It only says *there*." From the last letter: "If I'm not there to meet you, look where the ribs open. Bring the bird. Wind it for me." Ponni opens a ledger entry and refuses to write "no one".
 
-### Act 2: "The Shadow Market" (Day −6 to Day −4)
+### Act 2: "The Lightbox Exchange" (Day −6 to Day −4)
 
-New items, one per chapter: trade beads, re-perform, the vidai, fit, mimic, tail, trace, parley, the procession, the ordeal and the purpose field, shielding, berths.
+**Ch 8 (C). Day −6: council, first session.** Thumbi is invited aboard the *Kaaru*: a teak deck that never stops moving, with brass astrolabes and monsoon charts. The nakhodas vote with tokens, and she learns to **trade beads**: each undecided captain sets out what they want as an object. **Jauhar** wants the debt called so that berths can house the fleet's ageing elders. **Saleha** wants the contract kept. Jauhar wins: if the coupon is missed on Day −3, the bonds are called. Thumbi watches his purser pay the roost readers for an omen.
 
-**Ch 8 (C). Day −6: the council, first session.** The Mawsim invite a roost reader aboard the *Kaaru*, and Thumbi goes. The council of nakhodas votes with astrolabe tokens. **Trade beads** is taught here: each undecided captain shows a want as an object (a chart, a berth key, a child's shoe). **Jauhar** argues that calling the debt would house the fleet's ageing elders in berths. Saleha argues for contract and patience. Jauhar wins the session: the coupon is due on Day −3, and if it is missed the bonds are called. Thumbi watches his purser pay the roost bench for its "refusal of the alliance" omen.
+**Ch 9 (A). Day −6: the building re-performs the night.** Ponni has custody of the rooms, and the building plays Minmini's last night back around her: the 19:30 chime; the 22:00 seal; a 04:00 hum from a cassette slot that **was not Minmini's**; the 06:00 vents.
 
-**Ch 9 (A). Day −6: the building re-performs.** Using her custody, Ponni re-leases Minmini's last night. The building plays it again around her: the 19:30 gate chime, the 22:00 seal, a 04:00 hum from a cassette slot **not leased by Minmini**, and the 06:00 vents.
+**Ch 10 (A). Day −6: the claim.** She compels the books of the cassette's lessee, the shell **Uppalam Salt**, and finds:
+- a lease on the cassette for Day −8 at 04:00, bought from an **Irai terminal**;
+- a **vidai claim** on a leaf showing *an empty bed*, perfected Day −8.
 
-**Ch 10 (A). Day −6: the claim.** She compels the books of the slot's lessee, **Uppalam Salt**. They hold a cassette lease for "Day −8, 04:00 only", bought from an **Irai terminal on Ilavenil**, and a **vidai claim** filed Day −10 and perfected Day −8. The statute is shown in one slip: *a leaf showing the property at the place, a certified loss, a fee*. Proxies call it "a licence for a shadow". Ponni stamps nothing.
+The statute on the slip is plain: a foreseen loss of property, no one's. Proxies call it "a licence for an absence". Ponni understands that Minmini did not flee. **She was taken.**
 
-**Ch 11 (A). Day −6, afternoon: the alley.** A broker waves a leaf showing a man lying prone. Ponni **fits** it over the live alley and finds the debtor asleep in spilled bloom-wine. "It only says *there*."
+**Ch 11 (A). Day −6, afternoon: the alley.** A broker on the Exchange floor waves a leaf of a man sprawled in an alley. Ponni **fits** it to the live alley and finds him asleep in spilled bloom-wine. "It only says *there*."
 
-**Ch 12a (B). Day −6: mimic.** *Kayal* re-leases Minmini's routines (her leases passed to Kayal at the folding) and walks them. **Sevvanthi**, a proxy from the bench who loved Minmini, coaches her through three habits. The player **mimics** them at Paalai's board, and the suspicion markers fall. Valli, asked why she does not mourn: "You let the leaf run."
-**Ch 12b (B). Night of Day −6: tail.** *Kathir* **tails** Kuyil through clockwork streets to the toymaker's shop and copies his father's lease page (*Uppalam Salt: Minmini's bedroom*). He sends a walking toy with a slip to Ponni's door. Through her window, he sees a figure at her desk reading it.
+**Ch 12 (B). Day −6: pass.** Kayal re-leases Minmini's daily routines (Minmini's leases passed to Kayal at the folding) and walks them. **Sevvanthi** of the proxies' bench, who loved Minmini, coaches her. The player **blends** by passing, performing three habits at Paalai's board. The board reads out the merger contract's **breach clause**: if the bride refuses the sealing, Paalai's berth-notes pass to Neithal. Valli, asked why she isn't searching: "You let the leaf run."
 
-**Ch 13 (A). Day −5, morning: the toymaker.** Over breakfast Ponni **traces** a kolam from an old letter. At the toymaker's shop she finds the woman murdered, a tin carrier circling by her hand. The ledger accepts only *murder*: the toymaker was free. The gear cipher in her order book gives two carriers ordered and one delivered, collected by "the Irai courier". On the bench is a half-built dead-man's box: *opens if unwound three days; burns if forced.*
+**Ch 13 (B). Night of Day −6: follow.** Kathir **blends** through the clockwork streets behind Neithal's runner, a man with a clockwork fan, to the toymaker's shop, and copies his father's lease page (*Uppalam Salt: Minmini's bedroom*). He sends a wind-up toy to Ponni's door with a slip. Through her window he sees a figure at her desk reading it.
 
-**Ch 14 (B). Day −5: the hall.** The old Seal-holder is dead; his medicine never came. Nedumaran insists the vote follow the wedding, so it is set for **Day +2**. That evening Thamarai resigns to stand. *Kayal* **trades beads** in the round hall, the same verb in a second court. The blocs are shown by object: a hull plate (the shipyard bloc), a proxy ring in a dish (the farm bloc), a berth key (the carriage bloc). The proxies' bench, Sevvanthi among them, wants what no one offers. A clerk reads the **estate law** aloud: a spouse who dies without issue leaves her holdings to the surviving spouse's house.
+**Ch 14 (A). Day −5, morning: the toymaker.** Over breakfast Ponni **traces** a kolam from an old letter. At the shop the toymaker is gone, with a tin carrier still circling on her bench. Her order book, a gear cipher, traces to **two carriers ordered** and one delivered, collected by "the Irai courier". On the bench is a half-built **dead-man's box**: *opens if unwound three days; burns if forced*. A figure with a fan slips out of the back alley, and Ponni **chases** him over kolam-lit rooftops. She loses him in the clockwork streets, where the house cannot follow.
 
-**Ch 15 (D). Day −5, evening: the envoy.** On Thinnai, the bloom closes in front of Aruvi. The post-crate with the coupon sits on the dead roost. An old carrier with a **holed vane** lands and stays. This is **Ottai**. It sets down pollen in coats, then waits, facing her. **Parley** is taught. She reads the coats: *closed, in sympathy, with Ilavenil*, and a rust coat, *drop the hub*. She lays out a reply: the only returned crossings she has, a few unclaimed packets from the roost office, placed by route. Ottai takes them up and leaves.
+**Ch 15 (B). Day −5: the hall.** The old Seal-holder's term ends, and the vote is set for Day +3, after the wedding. Thamarai resigns to stand. Kayal **trades beads** in the round hall. The blocs show their wants as objects: a hull plate, a glass cradle seal, a berth key. The proxies' bench wants what no one offers. In the plate bloc someone murmurs: "the son, if the father stumbles."
 
-**Ch 16 (C). Night of Day −5: the procession, and a frightened woman.** From the roost, Thumbi reads the same round on Ilavenil. The Crossing panel lights up on the board, with two worlds dark and a rust faction. Below, another couple's **wedding procession** passes: Neithal's florist garlands, the groom's-house escort to the chamber, the 23:00 hum. On the open roost she finds Sevvanthi, who will not sleep in a sealable room because a gift toy came tonight. Thumbi sits with her until dawn. The couple come out laughing.
+**Ch 16 (D). Day −5, evening: Ottai.** Thinnai's bloom closes over Aruvi's head. The crate holding the remittance sits on a dead roost. An old carrier with a **holed vane** lands and waits, facing her. **Parley** is taught:
+- **Read:** pale *closed*, pale *sympathy*; rust *drop the hub*.
+- **Reply:** she lays the few bundles the roost office holds into the five lanes on the floor. They settle one partner.
+- **Learn:** Thinnai is **in breach**. Something on Thinnai has been kept, so Thinnai has **no vote**.
 
-**Ch 17 (A). Day −4: the ordeal.** A broker's **shadow ordeal**. Her rival has leased her cassette; she claims **the accused's priority** and leases her own cassette on the standard term; the leaf comes up blank; the urn is burned. Her clerk grumbles about the **sole-author rule**. Thamarai is campaigning on the market floor: "No one has ever signed a closure. The day someone does, the court must hear them." A blank lease form is pinned to the glossary strip under **purpose**.
+Ottai leaves.
 
-**Ch 18 (B). Day −4: the chest.** Kayal's room film shows a dense rectangle in her sealed bridal chest. She breaks custom to open it: a lead **sheath**, *188-1, late, live: unsheathe only in a cassette*. Shielding is taught.
+**Ch 17 (C). Night of Day −5: a sealing night.** On Ilavenil, Thumbi reads the same round, and the Crossing map lights two worlds dark. Below her, another couple's **sealing procession** passes: the groom's-house escort to the threshold of the Sealing Hall, the assessor-witness walking behind with her seal, the 23:00 hum, the couple coming out laughing. On the open roost Thumbi finds Sevvanthi, who will not sleep in a room that can be sealed because a gift toy arrived tonight. They watch the sky until dawn.
 
-**Ch 19 (A). Day −4, evening: the note.** Ponni weighs a Paalai **berth-note**: looped since AS 188. The board shows the slow rate at 1,000. She remembers her own AS 203 letter.
+**Ch 18 (A). Day −4: the Proof.** On the Exchange floor a broker is tried by **Proof**: three rounds of exhibits on the lightbox, with beads dropped into the urn. Her advocate files the count lease first, with the standard term, *"count the urn as it lies"*. She is acquitted. Thamarai, campaigning: "No one has ever signed a closure. The day someone does, the court must hear them."
 
-### Act 3: "The Long Leaf" (Day −4 night to Day −3 night)
+**Ch 19 (B). Day −4: the chest.** The record film of Kayal's room shows a dense rectangle in her sealed bridal chest. She breaks custom and opens it: a lead **sheath**, *188-1, late, live*.
 
-**Ch 20 (A, B). Midpoint.** A gapped kolam in Minmini's letters, traced closed, gives a post-box number. Inside is a soft contact copy. Ponni **fits** it to the chamber: open ribs, a faint figure, bells, a thali, a toy, no ring, a disc at the edge. Kayal arrives with the sheath. Ponni weighs it unopened: **twenty-four years**. The reading publishes. *It is a long plate: Paalai's heir lying in the ribs on her wedding night. Minmini was grown to lie there. With Minmini dead, it is Kayal.* Kayal lifts a cup left hand under, and Ponni has to leave the room.
+**Ch 20 (A). Day −4, evening: the note.** Ponni weighs a Paalai **berth-note**: looped since AS 188. The board shows the slow rate at 1,000. She remembers her own AS 203 letter.
 
-**Ch 21 (D). Day −3: the vault door.** The coupon date passes and the payment is missed. Aruvi opens the evidence vault: **forty years of seized packets, kept**. The retention orders are signed by successive Commissioners, the last of them Thamarai. Against orders, she unpacks them onto the Thinnai roost floor. Ottai returns for **round 2**. Its coats are split between pale and rust. She lays out the returned crossings by route. Then she slips a folded letter into the pollen. Ottai does not shake it off. It leaves carrying both.
+### Act 3: "The Long Leaf" (night of Day −4 to night of Day −3)
 
-**Ch 22 (C). Day −3: the council, second session.** The missed coupon has brought Jauhar's motion to call. Thumbi lays out the strata (unaged pollen; the sympathy coats; the factions) against the bought omen, and **trades tokens** with the captains in the middle. Saleha turns: a false reading would cost the fleet the debt. The call is deferred to **round 3**, which Thumbi reckons will fall at dusk on Day −1.
+**Ch 21 (A, B). Midpoint.** A gapped kolam in the letters traces to a roost post box, and in it a soft copy of a scan. Ponni **fits** it to the Sealing Hall: the table, the anklets, a seal, the bird, a disc. Kayal arrives with the sheath. Ponni weighs it unopened: **twenty-four years**, and the reading publishes. *It is the sealing on Kayal's wedding night. Minmini was grown to stand there. With Minmini gone, it will be Kayal, sealing the merger or triggering the breach clause.* Kayal lifts a cup left hand under, and Ponni has to step out.
 
-**Ch 23 (A). Day −3: the clerk.** Three proofs: AS 188 pollen in the seams of Selvan's satchel (Thumbi), his roster against the 19:30 solid disc, and the lease registered at his terminal. The player chooses the order to lay them down. Selvan breaks: Neithal's money, the swap. He agrees to testify that **he caused the loss**. That would void the vidai, turning it into wilful destruction of Paalai's property, poisoning the merger and sinking Nedumaran's Seal bid. Ponni leases her office doors shut around him.
+**Ch 22 (D). Day −3: the Bench.** The coupon is missed. Aruvi opens the evidence door and finds **forty years of seized packets**, kept under retention orders signed by Commissioners, the last three by Thamarai. She takes them to Thinnai's **Treasury Bench** of three treasurers and **trades beads**:
+- one treasurer wants the scandal buried;
+- one wants promotion;
+- one wants the rules kept.
 
-**Ch 24 (B). Day −3: confessions.**
-- *Kayal* sets the copy in front of Valli. Valli confesses to the AS 188 leaf, the growing, the planned draught and the chest. She gives Kayal the **original early leaf**. Then the knife: "She was assigned to your assessor in 190."
-- *Kathir*, who has seen Kuyil lease the cassette of the Irai stair, comes to warn them. He confesses: **the silhouette was his father.**
-- Ponni traces the AS 196 kolam: **"I have stopped writing to you for them. This one is mine."** Not looped.
+She wins two of the three, and the packets go back to the roost floor. Ottai returns for **round 2**, its coats split. She lays the bundles out by lane. Then she slips a letter into the pollen, and Ottai does not shake it off. **Thinnai's breach is cured, and its vote is restored.**
 
-**Ch 25 (A). Night of Day −3: the stair, and the frame-break.** Selvan steps out for his pipe, past the end of Ponni's lease line. He is murdered. His last words: "She said let it run." Ponni hears Valli. Later that night she lays the real parrot on the original leaf (**blob over blob**) and her seal on the disc (**hole over hole**). She weighs her own hand: the shallow loops are already entered, so the needle settles at twenty-four years (sealed). The player enters *Body: Minmini. Laid out by: Ponni.* Only then does she say aloud: "It was always her."
+**Ch 23 (C). Day −3: council, second session.** The coupon is missed and Jauhar moves to call. Thumbi lays out the strata, the sympathy coats and the factions against the bought omen. Saleha turns. The call is deferred to **round 3**, which falls at dusk on Day −1.
+
+**Ch 24 (A). Day −3: the clerk.** Three proofs against Selvan:
+- AS 188 pollen in the seams of his satchel;
+- his roster against the solid disc on the gate film;
+- the lease bought from his terminal.
+
+The player lays them out in an order of their choosing, and Selvan breaks. He agrees to testify that **he caused the loss**, which voids the vidai.
+
+**Ch 25 (B). Day −3: confessions.**
+- Kayal sets the copy in front of Valli. Valli confesses the AS 188 scan, the growing, and the chest. She gives Kayal the **original early leaf**, and adds: "She was assigned to your assessor in 190."
+- Kathir confesses: **the silhouette was his father.**
+- Ponni traces the AS 196 kolam: **"I have stopped writing to you for them. This one is mine."** The Balance shows it is not looped.
+
+**Ch 26 (A). Night of Day −3: the stair, and the bird.** Selvan steps outside the line of Ponni's lease, and a shot comes from the gantries. Ponni chases the runner across the roost's carrier gantries, over gold-lit drops, and loses him. Selvan is carried to the medics, and says: "She said let it run." He will live, but stays sedated until Day +2. Ponni thinks he means Valli.
+
+At the lightbox Ponni lays the parrot on the original leaf: **blob over blob**. The small bright **bar** inside the scanned bird lines up with the clasp under its wing. Her seal goes on the disc: **hole over hole**. She opens the bird. Folded inside is Minmini's **deed**: *Paalai's controlling holder releases every berth-note into an open trust and returns the hoard.* The player enters *Document sealed: the deed. Witness: Ponni.* Only then does she say it: "It was never the merger."
 
 ### Act 4: "Where the Ribs Open" (Day −2 to the night of Day 0)
 
-**Ch 26 (B). Day −2, 06:00: the Kuzhi.** Kayal enters the vault. Two clocks run on every wall, and each vault minute costs fifty outside minutes. She signs the hoard's release. Arumbu's sealed room is hers to open. Inside are a desk, a child's drawing of a flower and a **clay urn**, which she carries out without knowing why.
+**Ch 27 (A, B). Day −2: the registry.** Ponni searches the Mella's berth registry under Kayal's controlling access and finds **two Neithal nominee berths**, opened on Day −8 and Day −5. The same page lists *clay jar, AS 0, retained*, sealed in Arumbu's room. Kathir copies his father's nominee codes. At dusk a holed-vane carrier lands on Ilavenil's roost with Aruvi's letter: **the Irai kept too.**
 
-**Ch 27 (A). Day −2: the order and the letter.** Nedumaran and Valli obtain a court order to burn the body on Day 0 at 16:00: he wants the weapon destroyed, she wants the hoard gone. Kathir finds the florist's ticket for "steeped" chamber garlands. At dusk a holed-vane carrier lands on Ilavenil's roost, and Thumbi brings Ponni the letter from its pollen. Aruvi writes: **the Irai kept too.**
+**Ch 28 (C, D). Day −1: round 3.** Ottai lands in front of Thumbi, and beside it a **rust-coated envoy from Thondi** sets down its *price*. Thumbi **parleys** with the returned hoard (six bundles, five lanes, an order). Canon: the oldest bundles go first, two Old Crossing partners are settled, and one concession is laid in a rust lane. Readmission carries, and the hub's share of routes falls from 42% to **32%**. The Kaanthal opens rib by rib at dusk, and on Thinnai, Aruvi watches her dome open as well. The remittance rides the first carrier out. The hoard scandal breaks and the slow rate falls to 750. The readers' bench strikes Thumbi off.
 
-**Ch 28 (A, B). Day −1, 07:00: choice 1.** Kayal comes out of the vault and **gives Ponni Minmini's archive**, which is hers by law: Ponni's letters and the AS 0 lease. "She'd want you to have the letters. The rest is worse in my hands." Then they choose how to fill the shadow: **cast Minmini's body** (canon), or **Kayal lies there alive**.
+**Ch 29 (A, B). Day −1, evening: choice 1.** Ponni, Kayal and Kathir have one question to settle: who stands at the table? Either they **cast Minmini**, extracting her from the Mella during the wedding feast, or they **let Kayal seal the merger**. The extraction plan is laid out on a lightbox: six berth-minutes inside is about five hours outside.
 
-**Ch 29 (C, D). Day −1: round 3.** The hoard is unpacked on Ilavenil's roost. Ottai lands and faces Thumbi, its coats split. Thumbi **parleys**: she lays out the hoard by route, oldest crossings first, toward the Old Crossing's partners. The rust coats answer with a price. On Thinnai, Aruvi watches her bloom open at dusk. On Ilavenil, the Kaanthal opens, rib by rib. The board shows the hub's share of routes falling from 42% to 28%. The readers' bench strikes Thumbi off for contradicting the omen.
+**Ch 30 (C). Day 0, dawn: council, third session.** The remittance has arrived and the coupon is paid. Jauhar moves to call anyway over the hoard fraud. Thumbi trades the last tokens, and **Saleha wins the monsoon seat**. Afterwards Jauhar stands in the elders' cabins.
 
-**Ch 30 (A). Night of Day −1: the ring.** In the cold room, Kathir holds the lamp while Ponni cuts the steel ring from Minmini's wrist. She washes the wrist, winds the parrot, and lets it walk across the steel table.
+**Ch 31 (B, C). Day 0, 11:00: the wedding.** It is a celebration: kolam light across every terrace, nadaswaram and thavil, jasmine in the air. Kathir ties the thali on Kayal, a living bride sealing an alliance her house chose. Across the city, Selvan's dead-man's box springs open in the empty Irai lab. Thumbi reads it: *C. replied: let it run.*
 
-**Ch 31 (C). Day 0, dawn: the council, third session.** The first carrier in from Thinnai brings the Irai's coupon. Jauhar moves to call the debt anyway, citing the hoard fraud: at a post-scandal slow rate of 750, a call would hand the fleet two-thirds of all berth-years. Thumbi trades the last tokens, and **Saleha wins the monsoon seat**. The bonds stand. Jauhar, alone afterwards in the elders' cabins, is the face of what this costs.
+**Ch 32 (all). Day 0, 13:00 to 20:00: the extraction.** Kayal and Kathir slip out of their own feast, and Thumbi flies the shuttle to the Mella ring, a band of white garden-rooms around a dark star. Inside, two clocks run on every wall and **each berth-minute costs fifty outside minutes**. The heist is played as stealth under the vault's own leases: Kathir's nominee codes, Kayal's controlling seal, Ponni's registry map. They open the nominee berth. **Minmini** wakes; for her it is the same night she went to bed. She sees the woman beside the bed and knows her from twenty-two years of handwriting. **The pen pals meet.** They also free the toymaker and take the clay jar from Arumbu's room. They are out at 19:00 and back by 20:00.
 
-**Ch 32 (B, C). Day 0, 11:00: the wedding, and the box.** Kathir ties the thali on Kayal. Across the city, Selvan's dead-man's box springs open in the empty Irai lab, where Thumbi works since her expulsion. She reads: *"C. replied: let it run."*
+**Ch 33 (all). Day 0, 21:00 to 23:00: the sealing.** Neithal's runner escorts the couple to the threshold of the Sealing Hall and stops there. Inside are Minmini and the witness, Ponni.
+- Kayal gives Minmini the anklets and the seal, then leaves through the far ribs with Kathir, out of frame.
+- Ponni's key opens Minmini's bracelet.
+- Minmini winds the parrot. It walks across the table, and its clasp springs open.
+- She **seals her deed**. The merger charter stays unsealed beside it.
 
-**Ch 33 (B). Day 0, 14:00: the garlands.** *Kathir* **tails** the florist's runner and swaps the steeped garlands. On the live-casting path, failure here kills Kayal.
+At 22:55 Ponni unsheathes the late leaf in the one dark corner the lens marks safe and slides it into the cassette. **Choice 2:** the purpose field. In canon she writes *to close a leaf* and signs her name, then stands at the edge with her seal on its cord. In the fitting lens the room and the scan line up: bells, bird, bar, hole. The hum at 23:00.
 
-**Ch 34 (A, B, C). Day 0, 16:00: the pyre.** Under a leased dimming, timed to the first great carrier flight, Ponni and Kathir swap the body for a bundle. Kayal lights the pyre. Thumbi presses the log into Ponni's hand.
+**Ch 34 (A, B). Day 0, 23:40: the pistol.** At the Slow House, Nedumaran arrives with his runner. The record shows a sealing, but not his charter, and he invokes the breach clause to seize the anklets. Valli winds the clockwork pistol. Ponni **steps between them**: "Let me assess him." She arrests him for ordering Selvan's shooting and the toymaker's kidnapping.
 
-**Ch 35 (B). Day 0, 19:00: the lease.** Kayal assigns Ponni the chamber cassette Valli leased in AS 207. The purpose field is blank. "Sign it or don't."
+### Act 5: "Signed" (Day +1 to Day +5)
 
-**Ch 36 (A, B). Day 0, 21:00 to 23:00: the chamber.** Kuyil escorts the couple to the threshold and turns his back. Inside:
-- *Kayal* closes her own anklets on Minmini.
-- *Kathir* ties a **thali** on Minmini, so that she is laid out as a married woman and honoured as a *sumangali*. (Flagged for review by Tamil readers.)
-- *Ponni* puts the parrot in Minmini's hand and winds it. It walks two steps and stops against the thumb.
+**Ch 35 (A, B). Day +1.**
+- Ponni crosses out *no one* and stamps **Mine**. The board reads *Suspense: 4,117 · Signed: 1*. The Proprietor: "Entered. Thank you."
+- **The interrogation**, played. Nedumaran: "I licensed a loss." The player lays out the proofs in order: the toymaker's testimony, the copied lease page, the nominee codes. The vidai is void and the kidnapping stands.
+- Kayal and Kathir file a **civil dissolution by mutual consent**; both sign, both smiling.
+- The acting Commissioner charges Ponni, Kayal and Kathir with **breaking a depositor's berth**, and Ponni also with **opening a bracelet without warrant**. The Proof is set for Day +4.
+- Evening: Ponni and Minmini sit on the roost watching carriers come in. It is their first conversation out loud.
 
-At 22:55, Ponni **unsheathes** the leaf in the dark corner the lens marks as safe and loads it. **Choice 2:** canon, she writes *to close a leaf* in the purpose field and signs. She kneels at the edge with her seal. In the fitting lens: bell to bell, blob to blob, hole to hole. At 23:00 the inspection hums. **Signed.**
+**Ch 36 (D). Day +1: Thinnai.** Aruvi is reprimanded by the Bench, then quietly promoted by the treasurer she won over. She posts the retention orders to her sister.
 
-**Ch 37 (A, B). Day 0, 23:40: the pistol.** Kayal has told Valli everything, with Ponni beside her. Nedumaran arrives with Kuyil "to bring the bride to her husband's house", expecting mourners. Valli winds the pistol. Ponni **steps between them**: "If you fire, it's yours, and he dies a victim. Let me assess him." The player may step aside instead, a minor choice. In canon Valli lowers the pistol, and Ponni arrests Nedumaran and Kuyil for the murders of the toymaker and Selvan.
+**Ch 37 (A). Day +2: the altered term.**
+- The Seal-court hears Ponni, the first party with standing, and **voids the Doctrine and the vidai**.
+- Selvan wakes and names "C.": Thamarai.
+- The Irai files the count lease for Ponni's Proof: *"count the urn as the Commission instructs."* The player has known the standard term since Ch 18 and can spot the change.
+- Ponni re-leases the AS 0 hour, and the AS 0 count lease carries **the same altered term**. The **hall film** shows a woman leaving with a clay jar of bright silver beads, the majority, and beside her the arbiter's **holed seal**. Kayal sets the jar from Arumbu's room on the table.
+- **Second frame-break:** the first Seal was stolen by Ponni's own office, and the Doctrine was written so that no one could be shown to have done it.
 
-### Act 5: "Signed" (Day +1 to Day +4)
+**Ch 38 (A). Day +3: the duel.**
+- **In private:** Ponni lays out the courier log, the retention orders (they arrived that morning), the film and the jar. Thamarai answers each one: the debt retired, the fleet paid, the charge sheet. "Someone had to let it run. You signed. I only counted."
+- **In the hall:** a bead duel. Thamarai's moves: Saleha's token, the shipyard bloc, a warning of constitutional void. Ponni and Kayal's moves: the proxies' bench through Sevvanthi, the farm bloc, the jar. Kathir, chair of Neithal since his father's arrest, stands against Thamarai with the plate bloc.
+- **Choice 3:** silence in exchange for personhood (canon), silence in exchange for amnesty, or reveal.
+- In canon Thamarai is elected and signs her first decree: **every proxy a person**. Sevvanthi stands on the bench and does not sit down.
 
-**Ch 38 (A). Day +1, morning: "Mine", and the killer.** Ponni crosses out *no one* and stamps **Mine**. The Proprietor: "Leased. Entered. Thank you." The suspense count reads 4,116. Then the interrogation room, **played**. Nedumaran: "I licensed a loss. You desecrated a body." The player lays the proofs in an order of their choosing: Kuyil's testimony (traded for a lesser term), the copied lease page, Selvan's courier log. The vidai is void because the holder caused the loss. The two murders stand. He refuses to look at the parrot on the table.
+**Ch 39 (A). Day +4: the Proof.** Ponni files the count lease first, on the standard term. **Choice 4:** in canon she **stands as sole author** of the break-in. She is convicted on both counts, twenty years and twenty, and **sent forty years ahead**. Kayal and Kathir are discharged. Nedumaran declines his Proof and gets forty years; the runner gets twenty.
 
-**Ch 39 (B). Day +1: the funeral, the charge, and the antique.** Kayal and Kathir burn Minmini properly. Kayal sifts the scorched parrot from the ashes. Kathir declares his morning marriage void ("one thali, one wife"), and the merger lapses. The acting Commissioner charges all three (Ponni, Kayal, Kathir) with taking a body against a court order, and Ponni also with the ring. The ordeal is set for Day +3 under an Irai lease *without condition*.
+**Ch 40 (all). Day +5: departures.** Valli asks to go ahead too. At the shuttle, Minmini: "I'll write." Ponni: "You'll be old." Minmini: "Then I'll write a lot." Thumbi sails with the monsoon seat. Paalai publishes its berth prices, and the slow rate recovers to 900.
 
-Ponni re-leases the AS 0 hour. The building re-performs it, and the **hall film** shows a woman leaving with a clay urn whose beads show on x-ray as silver, a majority, and, beside her, the arbiter's **seal with a hole**. Ponni lays her own seal on the film: **hole over hole, again.** Kayal sets Arumbu's urn on the table. Ponni overlays the Irai's new lease term on the AS 0 term: the same words. **Second frame-break: the first Seal was stolen by Ponni's own office, and the Doctrine was written so no one could be shown to have done it.**
+**Epilogue: the Mella.** A bright garden berth. Letters arrive in bales, a year of the outside world each, carrying scans from three worlds. In one, Sevvanthi writes that she met her original "as a person". One week a box arrives holding the tin parrot. **Small choice:** whether the first letter Ponni sends out releases the founding evidence. **Final image:** the parrot walks a few steps across the desk past a year's letters that came in a week, and stops.
 
-**Ch 40 (D). Day +1: Thinnai.** Aruvi is reprimanded in a brass-lit hearing room for opening the vault. The first post brings her sister's letter, which asks for the retention orders. She copies them by hand and posts them: Thamarai's signature, three times.
-
-**Ch 41 (A, all). Day +2: the confrontation.** In the morning the Seal-court, with Ponni as the first party with standing, rules that **the Doctrine and the vidai are void**. Then two played rounds:
-- **In private,** in a leased room above the hall. Ponni lays down objects one at a time: the courier log, Aruvi's retention orders, the hall film, the urn. Thamarai answers each one: the debt retired, the fleet funded, Ponni's own charge. "Someone had to let it run. You signed. I only counted." The player chooses what to demand.
-- **In the hall,** a duel of beads. Thamarai's moves (Mawsim backing through Saleha, the shipyards, the threat of a constitutional void) against Ponni and Kayal's (the proxies' bench through Sevvanthi, the farm bloc, the founding evidence). **Choice 3:**
-  - **bargain** (canon): Ponni's silence on the founding crime in exchange for Thamarai's first decree, registering **all proxies as persons**;
-  - **reveal**: the founding crime made public, Thamarai falls, Kathir is elected.
-
-Canon: Thamarai is elected and signs the decree in her first hour. Sevvanthi stands up on the bench and does not sit down.
-
-**Ch 42 (A). Day +3: the ordeal.** Under the accused's priority, **choice 4**: the stricter term (canon), the standard term, or refusal. Ponni writes the stricter term before the court and develops her early leaf. Her skeleton rises in the tray, and her seal with the hole. **Guilty, as sole author.** Kayal and Kathir are discharged. Forty years. Nedumaran refuses an ordeal and is sentenced to forty years; Kuyil to twenty.
-
-**Ch 43 (all). Day +4: partings.** Valli asks for sixty years "for the one I grew to die". At the vault shuttle, Kayal: "I'll write." Ponni: "You'll be old." Kayal: "Then I'll write a lot." Thumbi sails with the monsoon seat. Aruvi posts the first letter to the slow.
-
-**Epilogue: the Kuzhi.** Letters arrive in bales, a year of Kayal's life each, carrying x-ray portraits from three worlds (Thinnai, the deck, Uppalam). They also bring Sevvanthi's note: she met her original at the folding, as a person. One week a box arrives holding the scorched parrot. **Small choice:** does Ponni's first letter release the founding evidence and break her bargain? **Final image:** the parrot walks a few steps past a year's letters that came in a week, and stops.
-
-## Branch budget (locked)
+## Branch budget
 
 | # | Choice | Options | Effect |
 |---|---|---|---|
-| 1 | How to fill the shadow (Day −1) | cast Minmini (canon) / Kayal alive | Kayal alive needs the garland swap and the threshold to hold. If either fails, Kayal dies (ending D) |
-| 2 | Sign (Day 0) | sign (canon) / leave unsigned | Unsigned: the Doctrine and the vidai stand, and Sevvanthi still sleeps on the roost. The body-theft charge and the ordeal still follow, because that law is ordinary |
-| 3 | The duel (Day +2) | bargain (canon) / reveal | Reveal: Kathir is elected; constitutional crisis; the Irai's ordeal lease is struck; the urn is opened at the ordeal |
-| 4 | The ordeal term (Day +3) | stricter (canon) / standard / refuse | Standard: the urn decides (acquittal after a reveal; all three convicted after a bargain). Refuse: forty years, unsigned |
+| 1 | Who stands at the table (Day −1) | cast Minmini (canon) / let Kayal seal the merger | Merger: Neithal takes the berths, Minmini stays banked, Ponni stays free (ending D) |
+| 2 | Sign (Day 0) | sign (canon) / leave unsigned | Unsigned: the Doctrine and the vidai stand. The break-in charge and the Proof still follow |
+| 3 | The duel (Day +3) | silence for personhood (canon) / silence for amnesty / reveal | Amnesty: Ponni goes free, and proxies stay property. Reveal: Kathir is elected, the Irai's count lease is struck, and a crisis follows |
+| 4 | The Proof (Day +4) | sole author (canon) / contest / decline | Contest after a reveal: acquittal. Contest after a bargain: Ponni 40 years, Kayal and Kathir 20 each. Decline: Ponni 40, and the other two face their own Proofs |
 
-Minor choices change epilogue lines only: stepping aside at the pistol (Nedumaran dies facing Ponni, and Valli serves forty years), and the last letter.
+**The parley variable** sets the hub's share of routes (28%, 32% or 35%). If the parley fails, readmission slips a round and the bonds are called at 750.
 
-**Four ending states:**
-- **A (canon):** signed; bargain; stricter term.
-- **B:** revealed; Kathir rules; Ponni acquitted or imprisoned by term.
-- **C:** unsigned.
-- **D:** Kayal dies.
+**Minor choices** change epilogue lines only: stepping aside at the pistol, and the last letter.
 
-Each ending state has two epilogue variants, decided by the last letter.
+**Five ending states:** A (canon), A′ (amnesty), B (reveal), C (unsigned), D (merger).
 
 ## Reveal order and question ledger
 
-| # | When | Answer | It opens |
+| # | Chapter | Answer | Opens |
 |---|---|---|---|
-| 1 | Ch 2 | The pen pal was a proxy | Why did a proxy write to an assessor? |
-| 2 | Ch 3 | Looped; legally no one's | Who looped it? |
-| 3 | Ch 3 | The parrot is looped twenty-four years | What was foreseen so long ago? |
-| 4 | Ch 10 | A vidai filed by a shell, from an Irai terminal | Who in her office? |
-| 5 | Ch 13 | Two toys ordered, one delivered; the toymaker murdered | Who is the courier? |
-| 6 | Ch 15–16 | The blooms are a polity with factions; Thinnai has closed | What will the next round decide? |
-| 7 | Ch 19 | Paalai has been looped since AS 188 | What reaches back twenty-four years? |
-| 8 | Ch 20 (midpoint) | The long plate; Minmini was the substitute; now it is Kayal | Who will lie in the ribs? |
-| 9 | Ch 21 | The Irai kept packets too | How clean is Ponni's own office? |
-| 10 | Ch 23–24 | Selvan; Nedumaran; the friendship's turn | Can a shadow be cast? |
-| 11 | Ch 25 (frame-break) | It is a funeral, and Ponni lays it out | How, and will she sign? |
-| 12 | Ch 32–34 | Thamarai let it run | Will she sign anyway? |
-| 13 | Ch 39 (second frame-break) | The first ordeal was rigged by the Irai | What will she trade for it? |
+| 1 | 2 | The pen pal is a proxy, and she has vanished | Who took her? |
+| 2 | 3 | Her disappearance is looped, and the parrot is looped twenty-four years | What was foreseen? |
+| 3 | 10 | She was taken under a vidai claimed through a shell, from an Irai terminal | Who in Ponni's office? |
+| 4 | 14 | Two carriers were ordered; the toymaker has vanished | Who is the courier? |
+| 5 | 16–17 | The blooms are a polity with factions; Thinnai has no vote | What is Thinnai keeping? |
+| 6 | 20 | Paalai has been looped since AS 188 | What reaches back twenty-four years? |
+| 7 | 21 (midpoint) | The sealing scan: Minmini was the stand-in, so now it is Kayal | Who will stand at the table? |
+| 8 | 22 | The Irai kept packets too | How clean is Ponni's own office? |
+| 9 | 24–25 | Selvan; Nedumaran; the turn in the friendship | Where is Minmini? |
+| 10 | 26 (frame-break) | The bird holds Minmini's deed | How do they get her to the table? |
+| 11 | 27 | The nominee berths | Can they get in and out in time? |
+| 12 | 31 | Thamarai let it run | Will Ponni sign anyway? |
+| 13 | 37 (second frame-break) | The first Proof was rigged by the Irai | What will Ponni trade? |
 
 ## Thread grid summary
 
 | Ch | Day | A | B | C | D | New item |
 |---|---|---|---|---|---|---|
-| P–7 | −8 to −7 | dock, pyre, rooms, letters | pyre, couple | pyre, roost | treasury | lease, weigh, proxy |
-| 8–13 | −6 to −5 | re-perform, claim, alley, toymaker | mimic, tail | council 1 | — | trade beads, re-perform, vidai, fit, mimic, tail, trace |
-| 14–19 | −5 to −4 | ordeal, note | hall, chest | procession, Sevvanthi | envoy, round 1 | parley, procession, ordeal and purpose, shielding, berths |
-| 20–25 | −4 to −3 | midpoint, Selvan, stair, frame-break | confessions | council 2 | vault door, round 2 | — |
-| 26–30 | −2 to −1 | order, letter, choice 1, ring | Kuzhi, choice 1 | round 3 | round 3 | — |
-| 31–37 | 0 | pyre, chamber, pistol | wedding, garlands, chamber | council 3, box | — | — |
-| 38–43 | +1 to +4 | Mine, killer, AS 0, duel, ordeal | funeral, urn | sails | hearing, orders | — |
+| P–7 | AS 188, −7 | dock, door, rooms, letters | door, couple | door, fleet | treasury | lease, proxy, weigh |
+| 8–15 | −6 to −5 | re-perform, claim, alley, toymaker and chase | pass, follow, hall | council 1 | — | trade beads, re-perform, vidai, fit, blend, trace |
+| 16–20 | −5 to −4 | Proof, note | chest | sealing night | Ottai, round 1 | parley, custom, Proof, sheath, berths |
+| 21–26 | −4 to −3 | midpoint, Selvan, stair, bird | confessions | council 2 | Bench, round 2 | — |
+| 27–34 | −2 to 0 | registry, choice 1, extraction, sealing, pistol | wedding, extraction, sealing | round 3, council 3, box | round 3 | — |
+| 35–40 | +1 to +5 | Mine, interrogation, AS 0, duel, Proof | dissolution, jar | sails | Bench | — |
 
-No more than four places are live in any sitting. The Kaanthal, and Ottai, link the threads.
-
-## Clue matrix (three or more clues from two or more areas)
+## Clue matrix (three or more clues across two or more areas)
 
 | Revelation | Clues |
 |---|---|
-| R1 proxy | the ring (pyre); "property" (pyre); Kayal's younger face; the folding |
-| R2 licensed loss, other deaths murder | loop (rooms); third-party cassette (re-performance); the claim slip (books); the toymaker free (shop) |
-| R3 the swapped gift | two orders, one delivery (shop); "your gift" (Slow House); solid disc (gate film); the prologue's toy |
-| R4 hoard pollen | unaged AS 188 pollen (Thumbi, Ch 16, 23); venting 06:00 versus closing 07:30; berth-note looped |
-| R5 Selvan | solid disc; satchel pollen; his terminal; his roster; the figure at the desk (Ch 12b) |
-| R6 Neithal's motive | lease page (Ch 12b); estate law (Ch 14); Selvan's statement; the silhouette named (Ch 24) |
-| R7 the long leaf | parrot at twenty-four years; berth-note; sheath "188-1"; contact copy; Valli |
-| R8 a funeral | "it only says *there*" (letter, alley); blob (rooms, the AS 198 letter, leaf); hole against solid (rooms, leaf); "bring the bird"; self-reading |
-| R9 Thamarai let it run | "let it run" (Ch 2, 17); cadet remark (Ch 2); Valli's knife (Ch 24); Selvan's last words; the log (Ch 32); the retention orders (Ch 40) |
-| R10 AS 0 rigged | the antique lease (rooms, the archive); the Irai's term; accused's priority (Ch 17); the hall film's silver and holed seal; the urn (Kuzhi) |
-| R11 Crossing factions | empty flights (Ch 5); rust and pale coats (Ch 15, 16); split coats in round 2 (Ch 21); the price in round 3 (Ch 29) |
+| R1. Minmini is a proxy who was taken | Valli's "property"; the empty bracelet clasp; the empty-bed leaf in the claim; Kayal's younger face |
+| R2. The vidai was licensed, but the toymaker is a person | the claim slip; the third-party cassette; "a licence for an absence"; the toymaker is free |
+| R3. The swapped toy | two carriers ordered, one delivered; "your gift"; the solid disc; the toy on the pillow |
+| R4. The hoard pollen | unaged AS 188 coats (Ch 23); venting at 06:00 against closing at 07:30; the berth-note |
+| R5. Selvan | the solid disc; the satchel pollen; his terminal; his roster; the figure at the desk (Ch 13) |
+| R6. Nedumaran's plan | the lease page (Ch 13); the breach clause (Paalai board, Ch 12); Selvan's statement; the silhouette named |
+| R7. The sealing scan | the parrot at twenty-four years; the berth-note; the sheath; the contact copy; Valli |
+| R8. The deed is in the bird | "bring the bird, wind it for me"; the parrot is heavier than she remembers (Ch 3); the bar in the scan; the clasp under the wing; hole over hole |
+| R9. Thamarai let it run | "let it run" (Ch 2, Ch 18); the cadet scheme (Ch 25); Selvan's words; the box (Ch 31); the retention orders (Ch 22, 38) |
+| R10. AS 0 was rigged | the standard term (Ch 18) against the altered term (Ch 37); the AS 0 lease; the film; the jar listed in the registry (Ch 27) |
+| R11. The Crossing's factions | empty flights; pale and rust coats; Thinnai's lost vote; the rust envoy |
 
-**Red herrings:** Valli as "she"; the silhouette; the bought omen.
-
-**Gates:** choice 1 opens once R7 and R8 are entered; the duel opens once R9 and R10 are entered.
+**Red herrings:** Valli as "she"; the silhouette; the bought omen; "she fled the sealing".
 
 ## Escalation and cost
 
 | Rung | Hook | Scale | Who pays |
 |---|---|---|---|
-| 1 | a woman meets her pen pal | one room | Ponni; the toymaker |
-| 2 | vent dust and a closed dome | two worlds' blooms; the coupon; a foreign council | the old Seal-holder; Aruvi (reprimand); Thumbi (her place on the bench); the hub (a third of its routes) |
-| 3 | a sheath in a chest | a firm's crime; a fixed shadow | Selvan; Kayal (her marriage) |
-| 4 | a purpose field | the Doctrine, the vidai, the haven | Ponni (forty years); Neithal (ruin) |
-| 5 | an antique lease | the founding of the state | Ponni's silence, or the Seal |
+| 1 | a pen pal is missing | one room | Ponni; the toymaker (taken) |
+| 2 | a dome closes over a crate | two blooms, a coupon, a foreign council | Aruvi (reprimand); Thumbi (struck off the bench); the hub (its route share) |
+| 3 | a sheath in a chest | a firm's sealing | Selvan (shot); Kayal (her marriage) |
+| 4 | a purpose field | the Doctrine, the vidai, the haven | Ponni (forty years ahead); Neithal (ruin) |
+| 5 | an altered lease term | the founding of the state | Ponni's silence, or the Seal |
 
 ## Shocks and their plants
 
-| Shock | Ch | Plants |
+| Shock | Ch | Planted by |
 |---|---|---|
-| Minmini dies | P | quiet lease; nightly winding; the folding toy |
-| The toymaker murdered | 13 | the slip read at Ponni's desk (Ch 12b) |
-| The old Seal-holder dies | 14 | his medicine (Ch 2) |
-| Thinnai closes | 15 | empty flights (Ch 5) |
-| The Irai kept too | 21 | the sealed evidence door (Ch 6) |
-| Selvan is the hand, then murdered | 23, 25 | the disc; his pipe; the lease line |
-| Kathir's plea | 24 | the silhouette (Ch 4) |
-| Ponni stops the shot | 37 | the pistol (Ch 4); "Let me assess him" echoes "Nobody's" refused (Ch 2) |
-| Thamarai let it run | 32 | the phrase (Ch 2, 17); the box (Ch 3, 13) |
-| Thamarai elected | 41 | her campaign from Ch 14 |
-| Ponni convicts herself | 42 | priority and the sole-author rule (Ch 17) |
+| Minmini taken, not fled | 10 | the empty clasp; the toy on the pillow |
+| The toymaker vanishes | 14 | the slip read at Ponni's desk |
+| Thinnai has no vote | 16 | the evidence door (Ch 6) |
+| The Irai kept too | 22 | the evidence door |
+| Selvan is the hand, and is shot | 24, 26 | the disc; leaving the lease line |
+| The parrot holds the deed | 26 | its weight (Ch 3); "bring the bird" |
+| The pen pals meet | 32 | twenty-two years of letters |
+| Ponni steps between | 34 | the pistol (Ch 4); "Nobody's" refused |
+| The altered term | 37 | the standard term (Ch 18) |
+| Ponni stands as sole author | 39 | the sole-author rule (Ch 18) |
