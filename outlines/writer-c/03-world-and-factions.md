@@ -8,7 +8,7 @@
 | Quarter | **The Wall Quarter** (throughout) | A strip of human cells backed onto Bnne cells. Market boards, tea stalls, residents' illegal "scrapes" in the lacquer for privacy, and the Nairouz tables. |
 | Ring | **Kellia** | An orbital ring-city on the ceasefire line, built half by each side and split along its whole circumference by the living Wall. Human half: the treaty hall and union, the Daybook, the Treasury annex, the interpreters' school, the Djeme counting-house. Bnne half: dark grafting groves without dust; the union groves (Paopi) and the Koiak trade-groves. |
 | System | **Shiet** | A binary star on the front line. Also here: the **Vault-Ring** (the Oikonomos, Ch 20), the **sickle platforms** (Ch 22), and the **Pemdje debt hulk**, a bond-labour ship stripping war salvage in Shiet orbit (Ch 16, 19). |
-| Realm | **The Nomes**: 42 nome-worlds ruled from **Shmin** (Ch 8, 11) | Named on screen: Shmin, Pemdje (Horsi), Tkow, Psoi and Pmoun. Five governors sit at the Hearing (Ch 24). |
+| Realm | **The Nomes**: 42 nome-worlds ruled from **Shmin** (Ch 8, 11) | Named on screen: Shmin, Pemdje (Horsi), Tkow, Psoi and Pmoun. Five governors sit at the Hearing (Ch 25). |
 | Other side | **The Callus**: the Bnne commonwealth of grove-worlds | Represented at Kellia by two rival courts. |
 
 ## 2. World rules: one mechanism, one cap, one price per pillar
