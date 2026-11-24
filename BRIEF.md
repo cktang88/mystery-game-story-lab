@@ -15,6 +15,12 @@ Constraints from the project owner, in priority order.
 - Layered like Game of Thrones: multiple character threads that run in parallel and converge.
 - Unveiled bit by bit over time.
 
+## Worldbuilding and lore
+
+- A good story rests on good worldbuilding.
+- Iceberg model, as in Halo: what the player explores is only the tip of a much larger, crazier lore, and sensing the rest beneath is what makes it fun to play.
+- The world should have deep history, factions and rules that exist beyond what the plot needs, revealed in glimpses.
+
 ## Original
 
 - Never plagiarize. Be inspired by the great stories, but copy no plots, characters, names, settings, signature twists or lines from them.
