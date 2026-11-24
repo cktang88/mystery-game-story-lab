@@ -21,13 +21,16 @@ The deliverable the owner asked for:
 | Research notes (14) | Done, ~82k words | `research/notes/` |
 | Compiled report | Done, ~13.8k words; ends with 16 principles, checklist, trope table, 13-step development process | `research/REPORT.md` |
 | Research index and grep cheatsheet | Done | `research/INDEX.md` |
-| Three writer outlines | **Next** | `outlines/writer-a/`, `writer-b/`, `writer-c/` (empty) |
-| Graders' reviews and writer revisions | After outlines | `judging/` |
+| Three writer outlines, round 1 | Done. A, B and C all converged on one template (northern-European sea coast, drowning, sound-based alien, ~19-year cycle) | A kept in `outlines/writer-a/`; B and C v1 in `outlines/archive/` |
+| Graders' reviews, round 1 | Done. A 7.5, B 7, C 6.6 out of 10 | `judging/review-writer-a.md`; B and C v1 reviews in `judging/archive/` |
+| Writer A revision | In progress (adds `08-revision-log.md`) | `outlines/writer-a/` |
+| Writers B and C, round 2 | In progress. The owner chose to redo both under a banned list of the converged elements. B must use a dense non-European city (world first); C must be off-world or mobile (ending first) | `outlines/writer-b/`, `writer-c/` |
+| Graders for B and C v2, then their revisions | After round 2 | `judging/` |
 | Fable judge's comparison | Last | `judging/` |
 
 ## Repo conventions
 
-- Commit with `scripts/commit.sh "subject" path [path ...]`. It commits only the given paths, retries on the git index lock (safe for parallel subagents), and adds the attribution trailer. Then `git push origin main`.
+- Commit with `scripts/commit.sh "subject" path [path ...]`. It commits only the given paths, retries on the git index lock (safe for parallel subagents), and adds the attribution trailer. Then `git push origin main`. The owner said to always work on and push to the default branch (`main`).
 - A harmless `push negotiation failed` / `expected 'acknowledgments'` warning appears on push; the push still succeeds.
 - Research notes start with `topic:` / `tags:` / `works:` front matter. New notes get it from `scripts/add_front_matter.py`, whose `META` dict needs an entry per new file.
 - Each note's questions have `### Takeaway`, `### Cited Findings`, `### Inferences` and `### Gaps` subsections.
