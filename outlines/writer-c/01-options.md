@@ -19,7 +19,7 @@ Working title: **The Ouro's Hand**
 | relationship | neighbours sharing a wall |
 | ritual | the day of the dead |
 
-How the culture seed is used: Coptic Egypt of the 300s is a **naming and texture source** for a far-future human realm, not a historical setting. It supplies the realm's provinces (nomes), the royal title (*ouro*, Coptic for king), the calendar (Thout to Mesori plus the five "little days" of Nesi), the day of the dead (Nairouz, the Coptic new year kept for martyrs, here kept for the war dead), the banking orders (the Koinonia, after the Pachomian federation of monasteries, with *Apa* and *Amma* as titles), the habit of writing on broken pottery (ostraca, here porcelain sherds), the currency's name (*holok*, from *holokottinos*, the Coptic name for the gold solidus first struck in 309), the cell-dwelling of Kellia, and personal names (Tamoun, Pjol, Phib, Pamin, Talou, Tsenoute, Pshoi, Mena, Senetom, Apollo, Tsia). No real rite is staged as plot machinery.
+How the culture seed is used: Coptic Egypt of the 300s is a **naming and texture source** for a far-future human realm, not a historical setting. It supplies the realm's provinces (nomes), the royal title (*ouro*, Coptic for king), the calendar (Thout to Mesori plus the five "little days" of Nesi), the day of the dead (Nairouz, the Coptic new year kept for martyrs, here kept for the war dead), the banking orders (the Koinonia, after the Pachomian federation of monasteries, with *Apa* and *Amma* as titles), the habit of writing on broken pottery (ostraca, here porcelain sherds), the currency's name (*holok*, from *holokottinos*, the Coptic name for the gold solidus first struck in 309), the cell-dwelling of Kellia, and personal names (Tamoun, Pjol, Phib, Pamin, Talou, Tsenoute, Pshoi, Maro, Senetom, Apollo, Tsia). No real rite is staged as plot machinery.
 
 ---
 
@@ -150,7 +150,7 @@ Names come from Coptic personal names of the 300s to 400s, as they would have wo
 - King: **Ouro Pshoi III** / Ouro Antoni / Ouro Bêsa. Pshoi is a dynastic name repeated across three kings.
 - Signing queen: **Ouro Tsenoute** / Ouro Tachom / Ouro Sophia. The *-noute* echoes the word for god.
 - Treasurer: **Kyra Taësi** / Treasurer Hermione / Lady Tsia. Kyra is the Greek-Coptic lady-title worn down into a name.
-- Treasurer's second: **Mena** / Kyros / Little Kyra. A second takes a diminutive given by its original.
+- Treasurer's second: **Maro** / Kyrilla / Little Kyra. A second takes a short name its original gives it, never a surname.
 - Banker: **Amma Senetom** / Amma Maria / Amma Talia. Senetom means "sister of the lord".
 - Strategos: **Apollo** / Victor / Hor. Common soldier names of the era.
 - Teacher: **Amma Talou** / Amma Tsia / Amma Kyra.
