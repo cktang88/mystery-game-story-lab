@@ -1,3 +1,9 @@
+---
+topic: Step-by-step methods for growing a story from one sentence to a full outline
+tags: process, outlining, snowflake, logline, premise, beat-sheet, save-the-cat, story-circle, seven-point, truby, kishotenketsu, discovery-writing, backward-design, plot-grid, therefore-but
+works: Snowflake Method, Save the Cat, Dan Harmon, Dan Wells, John Truby, Lisa Cron, Brandon Sanderson, Stephen King, George R.R. Martin, Agatha Christie, Kotaro Uchikoshi, Edgar Allan Poe, J.K. Rowling
+---
+
 # Story Development Methods: From a Single Idea to a Full Outline
 
 Scope: step-by-step methods professionals use to grow a story from one idea into a full outline, with a focus on staged expansion. The notes are written to support planning an original, very complex mystery video game story (AGI, aliens, cloning, time travel, many interwoven character threads). All text is paraphrased. Direct quotes are under 15 words, one per source at most. Anything I could not source is listed under Gaps and marked as unverified.

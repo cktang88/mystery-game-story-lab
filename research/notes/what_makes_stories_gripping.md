@@ -1,3 +1,9 @@
+---
+topic: Psychology and craft research on curiosity, suspense, twists, characters, pacing and endings
+tags: curiosity, information-gap, suspense, surprise, transportation, cliffhangers, spoilers, twists, characters, pacing, endings, peak-end, player-guilt, games
+works: Loewenstein, Brewer and Lichtenstein, Green and Brock, Vera Tobin, McKee, Truby, Storr, Cron, Sanderson, Pixar, Parker and Stone, Aristotle, Spec Ops, Outer Wilds
+---
+
 # What Makes Stories Gripping and Memorable (craft theory + psychology), for a complex mystery game
 
 Source-quality note for the report writer: psychology items come from primary papers or university/academic summaries where possible. Several craft-book items (McKee, Truby, Storr, Cron, Aristotle) come from reputable secondary summaries or reader notes rather than the books themselves; these are flagged "(secondary)". All wording is paraphrase unless in quotation marks.

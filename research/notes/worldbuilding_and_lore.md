@@ -1,3 +1,9 @@
+---
+topic: Worldbuilding and iceberg lore, with Halo as the central case study
+tags: worldbuilding, lore, iceberg, deep-history, ancient-crime, founding-lie, factions, hard-magic, rules, environmental-storytelling, low-text, lore-dump, failures
+works: Halo, Forerunners, Flood, Covenant, Tolkien, Hemingway, M. John Harrison, Frank Herbert, Iain M. Banks, N.K. Jemisin, Le Guin, Sanderson, Dark Souls, Elden Ring, Bloodborne, Elder Scrolls, Mass Effect, Destiny
+---
+
 # Worldbuilding and "Iceberg" Lore (Halo as central case study)
 
 Notes on sourcing: every bullet under "Cited Findings" was read from the linked page during this research session. Anything drawn from general knowledge and not confirmed on a fetched page is placed under "Gaps" and labelled as unverified. Direct quotes are kept short and are marked with quotation marks.

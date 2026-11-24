@@ -1,3 +1,9 @@
+---
+topic: Steins;Gate as a case study in deep but understandable time-travel storytelling
+tags: time-travel, rules, teaching-rules, pacing, midpoint, wishes-and-costs, foreshadowing, ending, loophole, convergence, phone-trigger, blueprint
+works: Steins;Gate, Steins;Gate 0
+---
+
 # Steins;Gate as a Case Study in Layered but Understandable Time-Travel Storytelling
 
 Source key (used throughout):

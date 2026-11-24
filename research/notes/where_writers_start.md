@@ -1,3 +1,9 @@
+---
+topic: Where professional writers start a story (character, world, theme, premise, ending, image) and how it shapes the work
+tags: process, starting-point, character-first, world-first, theme-first, premise-first, ending-first, image-first, reveal-order
+works: Stephen King, Ray Bradbury, Lisa Cron, Pixar, Tolkien, Frank Herbert, N.K. Jemisin, Le Guin, Bungie, Ted Chiang, Yoko Taro, Kotaro Uchikoshi, Philip K. Dick, Poe, J.K. Rowling, Dark, Christopher Nolan, C.S. Lewis, Faulkner
+---
+
 # Where Professional Storytellers Start a Story, and How the Starting Point Shapes the Work
 
 Scope note: every claim below is tied to a fetched page. Several pages could not be reached (Paris Review interviews with Ishiguro, Bradbury and Le Guin were blocked by the fetch allowlist or failed; a Boing Boing Ted Chiang interview failed). Where a well-known claim could not be confirmed from a fetched source, it is listed under Gaps rather than stated as fact. Direct quotes are kept under 15 words and limited to one per source.

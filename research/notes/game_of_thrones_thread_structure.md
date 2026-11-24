@@ -1,3 +1,9 @@
+---
+topic: How A Song of Ice and Fire / Game of Thrones keeps many threads clear and makes shocks fair
+tags: multi-thread, pov, convergence, information-asymmetry, shocks, fair-surprise, thread-budget, map, meereenese-knot, season-8, failure
+works: A Song of Ice and Fire, Game of Thrones
+---
+
 # Game of Thrones / A Song of Ice and Fire: multi-thread structure
 
 Scope note: every cited finding below comes from a page that was actually fetched in this pass. Several intended sources could not be fetched (A Wiki of Ice and Fire POV pages, English Wikipedia's A Feast for Crows page, both Rolling Stone interviews, the PNAS copy on PubMed Central). Where that left a hole, it is listed under Gaps rather than filled from memory. Items under Inferences are my reasoning, not sourced fact.

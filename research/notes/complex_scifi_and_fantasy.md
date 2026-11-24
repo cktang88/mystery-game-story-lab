@@ -1,3 +1,9 @@
+---
+topic: Western sci-fi and fantasy reveal structure; AGI, aliens, cloning, time travel; mystery-box failure
+tags: scifi, fantasy, multi-thread, pov, time-travel-models, agi, aliens, cloning, identity, mystery-box, failure, season-8
+works: A Song of Ice and Fire, Game of Thrones, Hyperion, Three-Body Problem, Book of the New Sun, Malazan, Blindsight, Never Let Me Go, Story of Your Life, Arrival, Dark, Westworld, Primer, Lost, Battlestar Galactica, Severance, Outer Wilds, SOMA, BioShock, Disco Elysium
+---
+
 # Complex, gradually unveiled Western and international sci-fi and fantasy (multi-thread structure; AGI, aliens, cloning, time travel)
 
 Research note on method and limits: web search in this session returned link lists without snippets, and many pages (notably several Wikipedia articles and the ASOIAF wiki) could not be fetched. Everything under "Cited Findings" comes from a page that was actually read. Things I know from general background but could not verify against a fetched page in this session are listed under "Gaps" and marked "unverified recall"; the report writer should treat those as leads, not as sourced facts. Scope excludes anime and Japanese games by assignment.

@@ -1,3 +1,9 @@
+---
+topic: Fair-play mystery craft and deduction-by-mechanics game design
+tags: mystery, fair-play, clues, red-herrings, twists, whodunit, inverted, deduction, knowledge-gating, metroidbrainia, low-text, mechanics, batch-validation
+works: Knox, Van Dine, Agatha Christie, Roger Ackroyd, Devotion of Suspect X, Decagon House, Knives Out, Twin Peaks, True Detective, Return of the Obra Dinn, Outer Wilds, Case of the Golden Idol, Her Story, Unheard, Lacuna, Paradise Killer, Forgotten City, Deathloop, Sexy Brutale
+---
+
 # Mystery Stories and Mystery Games (craft of fair-play mysteries, and deduction-through-mechanics game design)
 
 Note on method: all "Cited Findings" were read from the linked pages in this session. Items resting only on the researcher's background knowledge are confined to "Inferences" or "Gaps" and are labelled as unverified. Spoilers are included deliberately.

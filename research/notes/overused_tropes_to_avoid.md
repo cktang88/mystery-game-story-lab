@@ -1,3 +1,9 @@
+---
+topic: Overused tropes and predictable twists in AGI, alien, clone, time-travel and mystery stories, with fresher directions
+tags: tropes, cliches, predictable-twists, subversion, agi, aliens, cloning, time-travel, mystery, jrpg, plagiarism, originality
+works: TV Tropes, Strange Horizons, Clarkesworld, Outer Wilds
+---
+
 # Overused Tropes to Avoid or Subvert: AGI, Aliens, Cloning, Time Travel and Mystery
 
 Reader notes on method and reliability:

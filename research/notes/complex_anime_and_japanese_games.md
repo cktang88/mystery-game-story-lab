@@ -1,3 +1,9 @@
+---
+topic: How complex anime and Japanese games structure and stage their reveals
+tags: anime, jrpg, reveal-ladder, twists, endings, routes, replay, foreshadowing, knowledge-locks, us-them-collapse, setting-as-lie, backward-design, failures
+works: Code Geass, NieR Replicant, NieR Automata, Steins;Gate, Evangelion, Attack on Titan, Monster, Madoka Magica, Legend of the Galactic Heroes, Fullmetal Alchemist Brotherhood, Death Note, Higurashi, Umineko, From the New World, 13 Sentinels, Zero Escape, Virtue's Last Reward, Xenogears, Xenoblade
+---
+
 # Complex, slow-reveal anime and Japanese game stories: how their plots are structured and unveiled
 
 Scope note: 17 works covered. Every bullet under "Cited Findings" is drawn from a page I actually fetched. Anything I know only from background knowledge (not confirmed in a fetched source) is placed under "Inferences" or "Gaps" and labelled as such. Source quality varies: Wikipedia, GDC Game Narrative Reviews (student-written, hosted by GDC Vault), Game Developer / Siliconera / Kotaku interviews are the strongest; CBR, GameRant, Twinfinite, EpicStream, FandomWire, Anime Corner are listicle or fan-press quality and are used mainly for uncontroversial plot-structure facts and for evidence of fan opinion.
