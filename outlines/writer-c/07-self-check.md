@@ -65,7 +65,7 @@ Status key: **Pass**, **Partial** (works but has a known weakness), **Fail**, **
 - One keeper and canon tiers: **Pass** (stated in `02`).
 
 **Threads and clarity**
-- Cold tester can say who is related to whom after the opening: **Partial.** Relationships are stated (grandmother, master, brothers), but Seydou's sister Fatoumata appears late with little setup. *Fix to make in revision:* show her as the vessel's spare left hand on D1.
+- Cold tester can say who is related to whom after the opening: **Pass** after a fix. Relationships are stated (grandmother, master, brothers, Seydou's sister). *Fix:* Fatoumata was first introduced late; she is now planted on D1 as the vessel's spare left hand.
 - Wants and current question always statable: **Pass** (chapter board; wants stated in first scenes).
 - No more than about six live locations or threads: **Pass** (three playable threads, two faction threads).
 - Every beat "therefore" or "but": **Pass**, checked act by act. The weakest link is D19 → D20: the arrest order is Seydou's reaction to Jūzaburō's sentence, which is plausible but thin.
@@ -116,7 +116,7 @@ Status key: **Pass**, **Partial** (works but has a known weakness), **Fail**, **
 
 **Ending and originality**
 - Payoff audit: **Pass** (scene 13 lists its payoffs).
-- No new power or character in the final act: **Partial.** Fatoumata is minor and late (see the fix above). No new powers.
+- No new power or character in the final act: **Pass** after the Fatoumata fix. No new powers.
 - Main antagonist relationship not removed at the midpoint without a personal replacement: **Pass.** Dōjima persists to D55, and Gonbei and the hard-line houses to D60.
 - Promised external question and thematic one both resolved, nothing left only for a sequel: **Pass.** The vista (the creditor's old receipt) is texture.
 - Theme carried by objects, no thesis speech: **Pass.** Dōjima's one line on D55 is a confession of error, not a thesis.
@@ -165,7 +165,7 @@ Status key: **Pass**, **Partial** (works but has a known weakness), **Fail**, **
 ## 7. What fails or is unfinished (honest list)
 
 1. **Steps 9 to 13 of the process are only summarised.** The thread grid and clue matrix are summary tables, not a scene spreadsheet; no reels or playtests exist.
-2. **Fatoumata Tenmaya** needs planting on D1.
+2. *(Fixed during the check: Fatoumata is now planted on D1.)*
 3. **The D19 arrest-order choice** reads as a false choice. Better: make it a non-choice (Seydou signs it in a cutscene the player watches) and move the choice to whether he tells Sayo.
 4. **The KSR resemblance** should go to the grader as an open question.
 5. **The Bakary-line coincidence** needs either a stated cause (for example, Bakary asked the creditor that his line keep the debt) or to be cut by making Sayo of an unrelated rear house.

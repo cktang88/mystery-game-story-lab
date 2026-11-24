@@ -69,6 +69,10 @@ Three playable threads (Sayo, Seydou, then Tōkichi) start together at the D1 ma
 - **Function:** keeper of the lost truth without knowing it. She owns the staff with Bakary's hobble, teaches hobble against tether on D1 (in a scene about saving a buffalo), and teaches the astrolabe on D4 ("so you can always find the column"). She says the herders' saying "bone lives while the Owner walks."
 - **Trap door:** if cut, the staff comes to Sayo through the Sidibé wagon chest.
 
+## Fatoumata Tenmaya, 39, Seydou's sister
+
+The vessel's spare left hand, sent away from the harness on D1 (planted). She becomes Tenmaya's head after D44 and lays the Mother's vessels down on D55: the house letting its dead go (the E3 ending image, kept as this thread's climax).
+
 ## Nana Kōriya, 40, the chanter
 
 - **Function:** the dead's voice. She chants what the abacus spells on its bead-board. She is a witness to the D-1 order and keeps silent, out of terror. In Branch A she is the one who cuts the Gully mark when Sayo will not, so in that branch the machine's confession passes through a human mouth and hand.
