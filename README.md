@@ -4,6 +4,8 @@ Research and story development for a mystery game that is **not** point-and-clic
 
 ## Layout
 
+- `HANDOFF.md` – status, next steps and subagent prompts (start here in a new session)
+- `CONVERSATION.md` – the full conversation that produced this repo
 - `BRIEF.md` – the owner's requirements for the story
 - `research/INDEX.md` – index of all research, with a grep cheatsheet
 - `research/notes/` – one note per topic, each with `topic:`, `tags:` and `works:` header lines
