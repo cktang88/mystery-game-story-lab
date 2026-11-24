@@ -21,6 +21,12 @@ Constraints from the project owner, in priority order.
 - Iceberg model, as in Halo: what the player explores is only the tip of a much larger, crazier lore, and sensing the rest beneath is what makes it fun to play.
 - The world should have deep history, factions and rules that exist beyond what the plot needs, revealed in glimpses.
 
+## Process
+
+- Develop the story the way professionals do, with no shortcuts.
+- Expand in stages, from a one-sentence premise to a paragraph, a page and a full outline, checking cause and effect at each stage.
+- Fix the ending and the true hidden history first, then plant forward.
+
 ## Original
 
 - Never plagiarize. Be inspired by the great stories, but copy no plots, characters, names, settings, signature twists or lines from them.
