@@ -26,7 +26,8 @@ The deliverable the owner asked for:
 | Round 3: three fresh writers | Done and revised. A "The Unsigned" (graded 7.3 before revision), B "The Light Weight" (6.0), C "The Ouro's Hand" (6.5; its ending copied Code Geass and was replaced) | `outlines/writer-a/`, `writer-b/`, `writer-c/` (each has `08-revision-log.md`) |
 | Round 3 graders | Done (reviews predate the revisions) | `judging/review-writer-*.md` |
 | Fable judge's comparison | Done. Winner: A "The Unsigned" (7.9) over C (7.5) and B (7.4), with five technique grafts from B and C and five open problems | `judging/verdict.md` |
-| Next | Apply the verdict: one writer folds the five grafts and fixes the open problems into A, then a fresh grader | `outlines/writer-a/` |
+| Merge pass on A | Done. Graded 8.0 (from 7.9): grafts G1, G4, G5 pass; G2, G3 and all five open problems partial; new contradictions in the sealed history | `outlines/writer-a/`, `judging/review-writer-a-merged.md` |
+| Next | Consistency pass on A from the merged review (coupon chain, ordeal law, urn, parley outcomes, ledger mechanics, thali), then a cold playtest of Acts 1-2 | `outlines/writer-a/` |
 
 ## Repo conventions
 
