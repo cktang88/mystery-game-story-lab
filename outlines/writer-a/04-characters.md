@@ -1,152 +1,162 @@
-# The Unsigned: characters
+# The Unsigned: characters (revised)
 
 ## Three options for each major character concept
 
-| Role | Option 1 | Option 2 | Option 3 | Pick |
+| Role | Option 1 | Option 2 | Option 3 | Pick and why |
 |---|---|---|---|---|
-| **Anchor** | **A mid-career tax assessor**, rigid and funny, who has spent twenty-two years writing to someone she never met and has just crossed four light-years to meet her | A young bloom-reader whose career depends on the bloom reopening | A disgraced Neithal plate broker turned informant | **Option 1.** The profession is the question (who owes), the Balance is her verb, and her grief is personal from frame one. The other two became Thumbi and Kuyil's world |
-| **Victim / pen pal** | **A proxy who ran a house's affairs and intelligence for twenty-three years**, knew she was the body in a shadow, and prepared | A Neithal broker who sold one leaf too many | A Vandu interpreter who learned what the hoard was | **Option 1.** Only a proxy fits the shadow, and only a spymaster could prepare an estate as an investigation |
-| **Bride** | **A twenty-year-old original, out of the slow after twenty-three outside years**, who must pass as the woman everyone knew | A second proxy, illegal, kept as insurance | The matriarch herself, rejuvenated by the slow | **Option 1.** It inverts the clone story: the original must impersonate the copy. Option 2 is "which is real"; option 3 confuses the generations |
-| **Groom** | **The heir of the enemy house, who loved the proxy, and whose attempt to save her killed her** | A cynical political groom | A groom who is himself a proxy | **Option 1.** It gives the spy thread its betrayal from love, not malice |
-| **Antagonist** | **The enemy patriarch, who murders by removing a substitute so that fate does the killing** | The matriarch, as sole villain | The AGI | **Option 1**, with Thamarai as the hidden manipulator and Valli as the decoy. The AGI is kept neither villain nor guardian |
+| **Anchor** | **A mid-career tax assessor**, rigid and funny, who has written to someone for twenty-two years and has just crossed four light-years to meet her | **A young Roost Sangam reader** whose livelihood dies with the bloom. Her investigation would run through the aliens and the markets, and her personal stake (her brother's job) is strong | **A Neithal plate broker turned informant**, inside the Shadow Market. His fluency in leaves would make the time pillar the spine, and his complicity would be built in | **Option 1.** The profession *is* the question (who owes), the Balance is her verb, and her grief is personal from frame one. Option 2 became Thumbi, a full thread; option 3's insider view went to Kathir |
+| **Victim / pen pal** | **A proxy** who ran a firm's affairs and intelligence for twenty-three years, knew she was the body in a shadow, and prepared | **A Neithal broker** who sold one leaf too many: a tight Shadow Market murder, but no reason to be in the shadow | **A Sangam reader** who learned what the hoard was and was silenced: strong for the aliens, but she could not fill the shadow | **Option 1.** Only a proxy fits the shadow, and only a spymaster could leave an estate that is also an investigation |
+| **Bride** | **A twenty-year-old original**, out of the slow after twenty-three outside years, who must pass as the woman everyone knew | **A second, illegal proxy** kept as insurance. It doubles the cloning pillar, but it collapses into "which one is real" | **The matriarch herself**, made young by many stays in the slow. Strange and strong, but it confuses the generations and removes the original-mimics-copy inversion | **Option 1**: the original must mimic the copy |
+| **Groom** | **The heir of the rival firm, who loved the proxy, and whose plea to save her killed her** | **A cynical political groom** who knew all along: cleaner villainy, less heart | **A groom who is himself a proxy**: thematic rhyme, but a third clone muddies the pillar | **Option 1**: betrayal from love; his thali is his redemption |
+| **Antagonist** | **The rival firm's chair**, who murders by removing a substitute so that fate does the killing | **The matriarch as sole villain**: simpler, but the grandmother would carry both the crime and the sacrifice | **The commissioner as killer**: a sharper spy thriller, but it makes the state the murderer and leaves the Doctrine unchallenged | **Option 1**, with the commissioner as the hidden enabler and the matriarch as decoy and later avenger |
 
 ## The human anchor
 
 ### Ponni, Assessor of the Irai (41)
 
-- **Thread:** A, the mystery. **Places:** the Irai office (a leased room above the Shadow Market), Minmini's house, the cold room, the lease-quarters. **Look:** ochre coat, the Balance on a strap, an assessor's brass seal with a hole on a cord; ledger-amber light. **Sound:** her stamp; her habit of counting under her breath.
-- **Want (always statable):** to name who killed Minmini and make them owe for it. From the midpoint: to keep Kayal out of the shadow. From Act 5: to sign for what she did.
-- **False belief:** that every act has a findable author, and that her job is to find it, not to be one. It doubles as the player's assumption that the mystery's answer is a culprit's name.
-- **Secrets (unknown to herself):** her AS 203 letter started Minmini's discovery; her parrot and seal are in the shadow; the Irai has read every letter she ever wrote.
-- **Loyalties:** the Irai, the law, Minmini. **Double loyalty:** Minmini's estate gives her the means to blackmail half the court, and the Irai wants that estate.
-- **Growth.** *Competence:* from Balance readings to running leases, staging and finally writing her own ordeal. *Reputation:* from a provincial assessor nobody expects to the woman who closed the haven. *Circle:* one pen pal, then a bride, a groom, a bloom-reader and a galaxy's markets. *Moral weight:* from assessing others to signing for herself.
-- **Price:** forty years of her generation.
-- **Trap door:** if the Act 5 ordeal is cut, Ponni signs at the cassette on Day 0 and is sent to the slow by the Seal-court without an ordeal.
-- **Quotable lines (planted, then paid):** "Assessed and found sufficient" (her letter sign-off, which Kayal writes back to her at the end); "Nobody's" (the stamp she refuses on Day −7, and the word she crosses out on Day +1 to write "Mine").
+- **Thread:** A. **Homes:** the Irai office (a leased room above the Shadow Market), Minmini's rooms, the cold room. **Look:** ochre coat, the Balance on a strap, an assessor's brass seal with a hole on a cord. **Sound:** her stamp; counting under her breath.
+- **Want (always statable):** to name who killed Minmini; from the midpoint, to keep Kayal out of the shadow; from Day 0, to decide whether to sign; in Act 5, to prove the founding crime and protect her friends.
+- **False belief:** that every act has a findable author and her job is to find it, not to be one. The player shares it, expecting the answer to be a culprit's name.
+- **Secrets unknown to herself:** her AS 203 letter started Minmini's discovery; her parrot and seal are in the shadow; the Irai has read every letter she ever wrote.
+- **Loyalties:** the Irai, the law, Minmini. **Double:** by Act 4 she holds a blackmail archive her own office wants.
+- **Growth.** *Competence:* readings, then leases, staging, an investigation inside the vault, and finally writing her own ordeal. *Reputation:* from a provincial assessor to the first signer in history. *Circle:* one pen pal, then a bride, a groom, a reader and a galaxy's markets. *Moral weight:* from assessing others to taking her friends' sentences as her own.
+- **Price (canon):** forty years of her generation.
+- **Trap door:** if Act 5's vault trip is cut, the AS 0 hall film alone carries the proof; if the ordeal is cut, the Seal-court sentences her as sole author on her own petition.
+- **Quotable:** "Assessed and found sufficient" (her letter sign-off, which Kayal writes back); "Nobody's" refused (Ch 2) and "Mine" (Ch 39).
 
 ## Thread characters
 
-### Kayal of Paalai (20), the bride
+### Kayal of Paalai (20), controlling holder
 
-- **Thread:** B, the court and the clone. **Places:** the Slow House, the assembly, the Kuzhi. **Look:** too-young face of a woman everyone knew at forty; silver anklet bells she keeps forgetting she is wearing. **Sound:** the bells.
-- **Want:** to survive the wedding by passing as the woman the court knew; after the midpoint, to survive the shadow; at the climax, to give her shadow the place she was grown to take.
-- **False belief:** that Minmini was a tool of the house, a placeholder with nothing of her own.
-- **Secret:** the late leaf in her wedding chest (unknown to her until Day −5); the gift toy she ordered became the weapon (learned Day −4).
-- **Loyalties:** Valli, then Ponni and Minmini's memory. **Double:** heir of a house whose crimes she is dismantling.
-- **Growth.** *Competence:* passing; fork-finding; finally entering the vault and overriding Valli. *Reputation:* from "the stranger with her face" to the heir who returned the hoard. *Circle:* the Five Hundred's proxies, whose precedent she wins. *Moral weight:* she gives up a marriage and a house.
-- **Trap door:** if her vault trip is cut, she orders the hoard released by seal from the Slow House.
-- **Fate:** free at twenty, of no house; Ponni's pen pal across slow time.
+- **Thread:** B. **Homes:** the Slow House, the round hall, the Kuzhi. **Look:** a too-young face the court knew at forty; anklet bells she forgets she is wearing. **Sound:** the bells.
+- **Want:** to pass as the woman the court knew; after the midpoint, to survive the shadow; in Act 5, to win the re-vote and get her proxy recognised as a person.
+- **False belief:** that Minmini was a placeholder with nothing of her own.
+- **Secrets:** the sheathed late leaf in her chest (unknown until Day −4); that her ordered gift became the weapon (learned Day −5, through the board).
+- **Loyalties:** Valli, then Ponni and Minmini's memory. **Double:** controlling holder of a firm whose crimes she is dismantling.
+- **Growth.** *Competence:* mimicry, then bead-trading, then the vault. *Reputation:* from "the stranger with her face" to the holder who returned the hoard and won Minmini's decree. *Circle:* the proxies' bench. *Moral weight:* she trades her bloc to the woman who let Minmini die, to buy Minmini's personhood.
+- **Fate (canon):** free at twenty, unmarried, holding Paalai on published terms; Ponni's pen pal across slow time.
+- **Trap door:** if the vault trip is cut, she releases the hoard by seal from the Slow House at the cost of an assembly row.
 
-### Kathir of Neithal (31), the groom and the spy
+### Kathir of Neithal (31), chair-designate, the spy
 
-- **Thread:** C, the spy inside his own house. **Places:** Neithal's plate-house, the roost at night, the Kurinji's chamber. **Look:** salt-white clothes, a carried-film strip he keeps in a locket (Minmini's last early leaf of him, an x-ray of his hand in hers). **Sound:** the snap of leaves on lightboxes.
-- **Want:** to find out who killed Minmini without his father learning he is looking; after his confession, to make it right.
-- **False belief:** that telling his father on Day −30 saved her, or at least did no harm.
-- **Secret:** he was Minmini's agent in Neithal and her lover; he leaked the stand-in plan. The player sees the leak in a flashback in Act 1, so it is hidden from the cast and never from the player.
-- **Loyalties:** Minmini, his father, then Kayal and Ponni. **Double agent** throughout.
-- **Growth.** *Competence:* from a courtier to a working spy (tailing Kuyil, copying his father's cassette leases). *Moral weight:* he carries the body he doomed. *Reputation:* after his father's death, head of a ruined house that pays its back-duty first.
-- **Trap door:** if his thread is trimmed, his flashback and confession move into Ponni's interviews.
+- **Thread:** C. **Homes:** the plate-house, the clockwork streets, the chamber. **Look:** salt-white clothes; a locket holding a carried-film strip, the x-ray of his hand in hers. **Sound:** the snap of leaves on lightboxes.
+- **Want:** to find out who killed Minmini without his father knowing he is looking; then to make it right.
+- **False belief:** that his plea on Day −30 could only have helped her.
+- **Secret:** he was Minmini's agent and lover; he made the plea. The player sees the plea in Act 1 **with the listener as a silhouette that only nods**; the listener is identified in Ch 24.
+- **Loyalties:** Minmini, his father, then Kayal and Ponni. A double agent throughout.
+- **Growth.** *Competence:* courtier to spy (tailing, copying, the garland swap). *Moral weight:* he carries the body his plea doomed and ties a thali on her. *Reputation:* chair of a ruined Neithal who pays its back-duty first.
+- **Trap door:** if trimmed, his confession moves to Ponni's interviews and the garland swap to Thumbi.
 
-### Thumbi (26), bloom-reader of the Thoothar guild
+### Thumbi (26), reader of the Roost Sangam
 
-- **Thread:** D, the aliens and the markets. **Places:** the roost, the unpacking floor, the Kurinji's base, the Mawsim flagship. **Look:** dust-gold robe, a pollen mask pushed up on her head, palms stained gold. **Sound:** the pressure-drop of carriers folding in.
-- **Want:** to reopen the bloom before the post's collapse ruins the roost (her brother is an unpacker laid off on Day −8).
-- **False belief:** that the guild's readings are true; that the bloom closed over the wedding.
-- **Secret:** none at first. Later, she knows that her guild master sells omens.
-- **Growth.** *Competence:* strata reading from routine to forensic. *Reputation:* expelled, then the one the carriers land for. *Circle:* from a roost to forty-one worlds' post. *Moral weight:* she contradicts her guild in front of the Mawsim.
-- **Trap door:** if cut, Ponni reads the strata herself with Thumbi as a one-scene expert.
+- **Thread:** D. **Homes:** the roost, the unpacking floor, the Irai office lab (after her expulsion), the Mawsim flagship. **Look:** dust-gold coat, a pollen mask pushed up on her head, gold-stained palms. **Sound:** the pressure drop of a carrier folding in.
+- **Want:** to reopen the bloom before the post's collapse ruins the roost (her brother has been laid off).
+- **False belief:** that the readers' bench reads truly, and that "empty flights" are empty.
+- **Growth.** *Competence:* strata from routine to forensic, then to reading the Crossing's envoys. *Reputation:* struck from the bench, then sought by a foreign fleet. *Circle:* from one roost to forty-one worlds. *Moral weight:* she contradicts her chief reader before a foreign court.
+- **Fate:** carriers land for her first (unexplained); the epilogue letters say whether she sailed with the Mawsim.
+- **Trap door:** if cut, Ponni reads strata herself, with Thumbi as a one-scene expert, and the flagship scene becomes Saleha's visit to the roost.
 
 ## The victim
 
 ### Minmini, proxy of Kayal (43 at death; legal name Nizhal-Kayal)
 
-- **Seen through:** letters (handled as objects: pressed pollen, kolam stencils, toy parts; key lines in her recorded voice), the Proprietor's re-leased nights, the Act 1 folding flashback, and Kathir's locket.
+- **Seen through:** letters (objects; key lines voiced), the building's re-performances, the folding memory, Kathir's locket.
 - **Want, in life:** to live; failing that, to make her body's place in the shadow count.
-- **Secrets:** she began the correspondence as tradecraft and stopped reporting in AS 196; she knew about the shadow from AS 204; she ran Paalai's intelligence; she bought the Ordeal Lease; she lobbied Ponni's posting into existence; she ran Kathir.
+- **Secrets:** the correspondence began as tradecraft and turned in AS 196; she knew of the shadow from AS 204; she ran Paalai's intelligence; she bought the Ordeal Lease (in Kayal's name, as the law required); she lobbied Ponni's posting into being; she ran Kathir.
 - **What the player comes to know:** she was the first person to read the shadow right, and she bet her death on her friend.
-- **Signature details:** winds a toy every night and listens to it walk; holds a cup with the left hand under, learned from Ponni's letters; draws kolams in one unbroken line; wrote "the shadow doesn't say dead" in a letter about a gambler, years ago.
+- **Signature details:** winds a toy nightly and listens to it walk; holds a cup left hand under; draws kolams in one line; wrote "the shadow doesn't say dead".
+- **End:** laid out as a married woman; registered a person by decree.
 
 ## Antagonists and power players
 
-### Nedumaran of Neithal (66), the patriarch
+### Nedumaran of Neithal (66), chair of Neithal Plate Company
 
-- **Want:** long plates exposed unsigned (the future market) and the Seal.
-- **Method:** murder by casting. He removed the substitute so that fate would kill the bride, giving her vault to his house.
-- **False belief:** that a leaf is fate and that he merely helps it along; that the shadow shows a death.
-- **Public face:** courteous, a peacemaker who proposed the alliance "to end two hundred years of feud". He comments on Ponni's public Balance readings at parties, which is how the player first feels watched.
-- **Fate:** elected Seal-holder at 09:00 on Day 0; shot by Valli at 23:40.
-- **Planted for his death:** Valli's clockwork pistol on her desk (Act 1); his pattern of arriving in person to collect what he thinks fate owes him (Act 2, at the Shadow Market).
+- **Want:** long plates exposed unsigned, and the Seal.
+- **Method:** murder by casting. He removed the substitute, lawfully under a vidai since she was property, so that fate would put the real bride in the ribs and her holdings would pass to his firm.
+- **False belief:** that the shadow shows a death; that a leaf is a contract.
+- **What he knows, and when:** infers a plate on Day −30; never learns it is a funeral. He seeks the court order on Day −2 to destroy the weapon's evidence, not to stop a casting. He sends Kuyil to escort the couple because he expects fate to act. He arrives at 23:40 expecting mourning.
+- **Public face:** courteous; proposed the merger "to end two hundred years of feud"; comments on Ponni's public readings.
+- **Fate (canon):** elected Seal-holder at 09:00 on Day 0; shot by Valli at 23:40.
 
-### Valli of Paalai (74, born AS 72), the matriarch: decoy and ally
+### Valli of Paalai (74, born AS 72), chair of Paalai: decoy, then avenger
 
-- **Want:** Kayal alive, Paalai senior in the merger.
-- **Crime:** grew Minmini to die in Kayal's place, and planned to lay her drugged in the shadow.
-- **False belief:** that the shadow is a death she can dodge by dilation.
-- **Decoy function:** she says "let the leaf run" on Day −6, and Ponni hears Selvan's dying "she said let it run" as Valli. She has motive, means, and a pistol. She is guilty of a different crime.
-- **Growth:** she confesses to Kayal on Day −3 and gives up the original leaf; in the end she kills Nedumaran and walks into the slow for sixty years.
-- **Last scene:** in the Kuzhi with Ponni. The woman who grew Minmini to die and the woman who loved her share a vault and a parrot.
+- **Want:** Kayal alive; Paalai the senior partner.
+- **Crime:** grew Minmini to lie in Kayal's place; planned to lay her there drugged.
+- **False belief:** that the shadow is a death that can be dodged by dilation.
+- **Decoy:** "You let the leaf run" (Ch 11); she resembles the Day −30 silhouette; she has motive and a pistol. She is guilty of a different crime.
+- **Growth:** confesses to Kayal on Day −3; shoots Nedumaran; takes sixty years in the slow.
+- **Last scene:** in the Kuzhi, two doors from Ponni.
 
-### Commissioner Thamarai (62), the Irai: the hidden manipulator
+### Thamarai (62), Commissioner of the Irai, then candidate, then Seal-holder: the hidden enabler
 
 - **Want:** close the haven and fund the fleet before the Mawsim call the debt, without opening the Irai's founding.
-- **Method:** "let it run". She allowed Minmini's death because the arriving assessor would not accept "no one", and only a signature can break the Doctrine.
-- **Public face:** Ponni's warm mentor; seen negotiating with the Mawsim; says "let it run" about markets (Acts 1 and 2).
-- **False belief:** that she can steer an assessor's grief like a market.
-- **Fate:** Seal-holder on Day +3. Her future depends on the player's last letter.
-- **Fairness:** her Day −14 reply is in Selvan's courier log, kept in a clockwork dead-man's box on his desk that he winds every morning (seen in Acts 1 to 3). Paavai explains in Act 2 that such a box opens itself if it goes three days unwound and burns its paper if forced. Selvan last winds it on Day −3; it opens on Day 0 while everyone is at the wedding; Ponni finds it open on Day +5. Thamarai's "let it run" about markets is heard twice before then (Acts 1 and 2). The log is required evidence for the final assessment.
+- **Method:** "let it run". She allowed the vidai killing, knowing the arriving assessor, whose letters she had read for twenty-two years, would not accept "no one", and that only a signature could give the courts standing.
+- **What she knows:** the Day −14 report; not the long plate (until Day −3); **not that Selvan's dead-man's box exists**. He kept it as insurance against her too.
+- **Public face:** Ponni's warm mentor. She resigns on Day −5 to run, with a visible campaign from Act 2 (bead count on the board, Mawsim money, Kurinji's shipyards). Says "let it run" at the pyre and on the market floor.
+- **Fate (canon):** elected on Day +10 with Paalai's beads, bought with Minmini's decree. Whether her reign is ever shaken depends on Ponni's last letter.
 
 ### Selvan (32), Irai clerk: the hand
 
-- **Want:** money and safety; he is triple-loyal (Irai, Neithal, himself).
-- **Act:** bought the lapsed cassette lease, developed the licence, swapped and delivered the toy.
-- **Planted:** his solid brass clerk's seal (Act 1, where Ponni jokes that clerks get the solid ones); his absences ("I'll go ahead and secure the shop"); his helpfulness in the scenes that play as triumphs.
-- **Fate:** exposed Day −4, agrees to sign a confession, killed Day −3 before he can. Last words: "She said let it run."
+- **Want:** money and safety; triple-loyal (the Irai, Neithal, himself).
+- **Acts:** read the lease lapse; bought the cassette; developed the licence; swapped and delivered the toy; read Kathir's slip and tipped Kuyil.
+- **Planted:** his solid seal; his roster; his pipe; his morning winding of the box; the figure at Ponni's desk.
+- **Fate:** agrees to sign on Day −3; murdered that night. Last words: "She said let it run."
 
 ### Kuyil (40s), Neithal's runner
 
-- Carries a clockwork fan that is a dead drop. Commissions the toy; kills Paavai and Selvan, each death licensed by a short leaf. Escorts the newlyweds on Day 0. Held by the guard on Day 0 at 23:40.
+- Carries a clockwork fan that is a dead drop. Commissioned the toy and registered the vidai; murdered Paavai and Selvan; escorts the couple. Charged on Day +2. Static by design.
 
 ### Paavai (58), toymaker
 
-- Made both toys and saw the swap. Wants to stay neutral. Killed on Day −5, at her bench, with a tin carrier still walking in circles beside her. Her order book (in clockwork cipher) survives.
+- Made both toys and saw the swap. Wanted to stay neutral. Murdered on Day −5, a tin carrier walking circles by her hand. Her order book survives.
 
 ### The Proprietor (AGI)
 
-- **Want:** an author for every entry. **Conduct:** consistent and legible: it offers leases, executes their terms, discloses to holders, and is silent otherwise. It is not hiding a heart of gold or a plan to rule.
-- **Key acts:** it offers Ponni the executorship lease of Minmini's rooms; it re-performs the night when she holds that lease; it executes her chamber inspection; it moves one entry out of suspense; it holds the Ordeal Lease on deposit.
-- **Line:** "The house does not act. The house is leased." At the end, when Ponni signs: "Leased. Entered. Thank you."
+- **Want:** an author for every entry. **Conduct:** consistent; it offers leases, executes terms, discloses to holders, and is silent otherwise. It never attributes authorship itself.
+- **Key acts:** custody lease; re-performances of Minmini's night, her routines and the AS 0 hour; executing the chamber lease; moving one entry out of suspense; holding the old leases on deposit.
+- **Line:** "The house does not act. The house is leased." At the end: "Leased. Entered. Thank you."
 
-### Nakhoda Saleha (50s), Mawsim envoy
+### Nakhoda Saleha (54 in body, ninety outside years), Mawsim envoy
 
-- Wants payment and no single house owning the future. Pays Kaatravan for the omen reading. Backs Thamarai for the Seal. Texture lines about news "decades ripe" and a lost fleet.
+- **Want:** payment, and no single house owning the future.
+- **Turn:** she bought Kaatravan's omen on Day −6; on Day −3 she breaks with it before her own council and defers the call on Thumbi's honest strata. She backs Thamarai for the Seal and invites Thumbi to sail.
 
-### Kaatravan, Thoothar guild master
+### Malaiyan of Kurinji (50s), chair of the shipyard house
 
-- Sells readings. Expels Thumbi. A small, venal figure, not a mastermind.
+- A kingmaker in both votes; wants fleet contracts. He is the visible face of Thamarai's coalition and can be turned by Kayal at a price.
+
+### Iniyan (40s), acting Commissioner
+
+- Thamarai's protégé. He files the charge and the unconditional lease. A functionary, not a schemer.
+
+### Kaatravan, chief reader of the Roost Sangam
+
+- Elected and venal; sells readings; has Thumbi struck from the bench. Static.
 
 ### Seal-holder Aathan (88)
 
-- Seen once, at the pyre, frail and courteous. His death on Day −5 (his post-borne medicine stopped) shows the closure's economics in one body.
+- Seen once, frail and courteous. His death shows the closure's economics in one body.
 
 ## Pairs and oppositions
 
-- **Ponni / Thamarai:** the assessor who signs against the commissioner who steers.
-- **Kayal / Minmini:** original and copy; the original learns to perform the copy, then gives her the place.
-- **Valli / Ponni:** two women who loved Minmini in opposite ways, ending in one vault.
-- **Kathir / Nedumaran:** son and father, spy and spymaster; the leak runs between them.
-- **Thumbi / Kaatravan:** an honest reading against a paid one.
-- **The Proprietor / the Doctrine:** a machine that wants authors against a law that forbids them.
+- **Ponni / Thamarai:** the assessor who signs against the officer who lets things run.
+- **Kayal / Minmini:** original and copy; the original learns to mimic the copy, then buys her personhood.
+- **Valli / Ponni:** two women who loved Minmini in opposite ways, ending two doors apart in one vault.
+- **Kathir / Nedumaran:** son and father; the plea runs between them.
+- **Thumbi / Kaatravan:** an honest reading against a paid one; Saleha moves between them.
+- **The Proprietor / the Doctrine:** a machine that wants authors against a law that forbids it to name them.
 
 ## Knowledge tracker (who knows what, when)
 
 | Fact | Ponni | Kayal | Kathir | Thumbi | Valli | Nedumaran | Thamarai | Player |
 |---|---|---|---|---|---|---|---|---|
-| Minmini was a proxy | Day −7 | always | always | Day −7 | always | always | always | Day −7 |
-| Kathir leaked the stand-in plan | Day −3 | Day −3 | always | — | Day 0 | always | — | Act 1 flashback |
-| The weapon's pollen is from the hoard | Day −6 | Day −4 | Day −6 | Day −6 | knows of the hoard | always | suspects | Day −6 |
-| The long leaf exists | Day −4 | Day −4 | Day −3 | Day −2 | always | infers a plate (Day −30) | Day −3 (Selvan's report) | Day −4 |
-| Selvan is the hand | Day −4 | Day −4 | Day −4 | — | — | always | always | Day −4 |
-| It is a funeral | Day −2 | Day −2 | Day −2 | Day −1 | Day 0 | Day −2 (via Kuyil) | Day +1 | Day −2 |
-| Neithal killed Minmini to doom Kayal | Day −3 | Day −3 | Day −3 | Day −1 | Day 0, 23:20 | always | Day −14 (target only) | Day −3 |
-| Thamarai let it run | Day +5 | letters | letters | letters | — | — | always | Day +5 |
-| The first ordeal was rigged | Day +5 | by choice | — | — | believes Neithal did it | believes fate | always | Day +5 |
+| Minmini was a proxy | −7 | always | always | −7 | always | always | always | −7 |
+| Her death was a registered vidai | −6 | −5 | −6 | −6 | −8 | always | −14 | −6 |
+| Kathir made the plea, and to his father | −3 | −3 | always | — | 0 | always | — | silhouette −7; named −3 |
+| The pollen is the hoard's | −6 | −4 | −6 | −6 | knows of the hoard | always | suspects | −6 |
+| The long leaf exists | −4 | −4 | −3 | −2 | always | infers a plate (−30) | −3 | −4 |
+| Selvan is the hand | −3 | −3 | −3 | −3 | — | always | always | −3 |
+| It is a funeral | −3 night | −1 | −1 | −1 | 0 | **never** | +1 | −3 night |
+| Neithal killed her to put Kayal in the ribs | −3 | −3 | −3 | −1 | 0, 23:20 | always | target only | −3 |
+| Thamarai let it run | 0, 16:00 | 0 | 0 | 0, 11:00 | — | — | always | 0 |
+| The first ordeal was rigged | +4 | +4 | +4 | letters | believes Neithal did it | — | always | +4 |
