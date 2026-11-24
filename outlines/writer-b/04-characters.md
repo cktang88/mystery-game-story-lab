@@ -85,7 +85,7 @@ The cast is built in oppositions: **three copies of one woman** (the forger, the
 
 ### Aytash, 26, heir of the Ordu (playable, Acts 1 to 4)
 
-- **Who.** Granddaughter of the convicted Ishbara's successor's line, in Marakand since she was nine as the treaty hostage. Marakandi in manner, Ordu by blood, fluent in the court's static. She reads sashes: she can tell from a crackle who is lying.
+- **Who.** Great-granddaughter of the convicted Yabghu Ishbara, in Marakand since she was nine as the treaty hostage. Marakandi in manner, Ordu by blood, fluent in the court's static. She reads sashes: she can tell from a crackle who is lying.
 - **Want.** *Not to be the reason her two peoples go to war.*
 - **False belief.** That she belongs to neither side, and so can broker between them by being nothing. She learns she has to choose a side to broker anything.
 - **Secret link.** In an unmade version of these days, she was executed on Day 34. She never learns the details.
