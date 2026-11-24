@@ -15,6 +15,12 @@ Constraints from the project owner, in priority order.
 - Layered like Game of Thrones: multiple character threads that run in parallel and converge.
 - Unveiled bit by bit over time.
 
+## Something new
+
+- It must add something genuinely new, not be yet another entry in the genre.
+- Aim for a premise as striking as Pacific Rim's or the first Avatar's, where the core idea itself generates new kinds of scenes and dilemmas.
+- Anti-model: the Avatar sequels, seen by the owner as rehashing and extending the first film without adding to the story. Spectacle, new locations and higher scale are not new ideas.
+
 ## Growing larger
 
 - The story and its characters should keep getting bigger, in the way The Expanse, Ted Lasso, The Martian, Interstellar, Gladiator and The Lord of the Rings do.
