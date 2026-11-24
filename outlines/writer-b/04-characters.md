@@ -1,147 +1,137 @@
-# Writer B: characters
+# Writer B: characters (revision 2)
 
-Each entry: role, want (what the player can always state), false belief (what the plot attacks), secret link to the hidden history, growth path (competence, reputation, circle, moral weight), and a trap-door resolution in case the thread is cut. Oppositions are noted where they matter. Ages are in 2163.
+Each entry gives: want (what the player can always state); false belief (what the plot attacks); secret link to the hidden history; growth (competence, reputation, circle, moral weight); and a trap door. Ages are in 2163.
 
 ---
 
 ## The human anchor: Hiwot (9)
 
-**Who.** Tigist's assigned younger copy, the child she is raising. Legally she is Lemlem Lemlem: the same person as Tigist, Almaz, the dead woman and the killer. She has no ticket, no vote and no name of her own, and at school that is the joke: "which one are you?"
-**Want.** Something that is hers alone. In Act I that is the fan she painted; by the end it is a name.
-**False belief.** That being given something makes you owe it ("If the Guest gave me this, do I belong to it?"). The exchange grammar teaches her that a gift and a return are a sentence two people make together, not a debt.
-**Secret link.** To the genome-blind Guest she *is* the one who promised. Its first gift to her is the figurine it uses as its name for the pledge. In the hall she is the only body who holds something out, so she is the one it reaches for, and the one who holds the glass.
-**Growth.** Competence: the first fluent speaker of exchange in the city. Reputation: from "which one are you?" to the child the Guest chose. Circle: from Tigist to the Guest to the successor. Moral weight: she offers the glass, and in Branch T she leads her mother home.
-**Every escalation tested against her:** the death (she is legally both victim and killer); the extra body (her receipt and her week are at risk in the glass room); Almaz's vision (she is in it); the hall (she holds the glass); the coda (she greets the successor).
-**Trap door.** None. Hiwot cannot be cut. Her playable segments can be cut to cutscenes without losing a revelation.
-
----
+**Who.** The younger copy Tigist is raising; legally Lemlem Lemlem, the same person as the dead woman and her killer. She has no ticket, no vote and no name of her own except her baptismal one, which the law ignores. At school: "which one are you?"
+**Want.** Something that is hers alone: first the fan she painted, in the end a name.
+**False belief.** That being given something makes you owe it. Exchange teaches her that a gift and its return are a sentence two people make.
+**Secret link.** To the Guest she is the one who promised. In the hall she is the only body holding something out, so it reaches for her, and she holds the glass.
+**Growth.** Competence: the first fluent speaker of exchange among the city's counted persons. Circle: Tigist, then the Guest, then the successor. Moral weight: she offers; in Branch T she leads her mother home.
+**Every escalation tested against her:** the death (she is legally victim and killer); the rehearsal (her nine days); the raid (on some routes she is taken as leverage); Almaz's fever (she is in it); the hall (the glass); the coda (the successor).
+**Trap door.** None. Her playable segments can become cutscenes.
 
 ## Protagonist: Tigist (34)
 
-**Who.** A Lemlem copy raised by Almaz, who left lineage service at 22 to become a trench bonesetter (*wogesha*). The Chilot calls her as its lineage-blind identifier when identical bodies must be told apart, because she reads bones, not faces. Hands always chalked with lime and, when she casts, clay to the wrist.
-**Want.** In Act I: to tell the court who the dead woman is, and to keep Hiwot out of the lineage's business. From the midpoint: to get Sitota into the hall alive. At the climax: to decide who pays.
-**False belief.** "A promise binds only the body that made it. I walked out; their debts are not mine." The plot first proves she is bound whether she likes it or not (by law, by the Guest's perception, by the vision that shows her voice in the hall), then lets her *choose* a debt that was never hers, or choose not to.
-**Secret link.** Her voice is in Almaz's vision; it is part of why Almaz killed. She was raised in the bonesetting style that killed Aster. In Branch T she is the hand the founder saw.
-**Growth.** Competence: from reading the dead to reading the living to testifying before the city. Reputation: from "the lineage's runaway" to the identifier whose word voids the founding law. Circle: one child, then a hostage, then 311 sisters, then 19 million. Moral weight: her first lie (certifying "Aster"), then her choice to pay or let pay, then the naming of the woman who raised her.
-**Opposition.** Almaz (same trade, same face, opposite reading of what a vision demands).
-**Trap door.** If the payment choice is cut, Sitota pays by default and Tigist's arc ends on the naming.
-
----
+**Who.** A Lemlem copy raised by Almaz; she left lineage service at 22 to be a trench bonesetter. She is the court's lineage-blind identifier, and in this case, as the clerk dryly notes, legally the owner of the body she identifies. Lime chalk and clay casts.
+**Want.** Act I: say who the dead woman is and keep Hiwot out of it. From the midpoint: keep Sitota alive and get her to the hall. At the end: decide who pays.
+**False belief.** "A promise binds only the body that made it. I walked out; their debts aren't mine." The plot proves she is bound regardless, then lets her choose a debt or refuse it.
+**Secret link.** Her voice ("Hiwot, stay by me") is in Almaz's fever.
+**Growth.** Competence: reading the dead, then the living, then testifying before the city. Reputation: the runaway, then the identifier whose word voids the founding law. Circle: one child, a hostage, 311 sisters, 19 million, the world beyond. Moral weight: the midpoint certificate, the photographs, who pays, the naming.
+**Trap door.** If the payment choice is cut, Sitota pays by default.
 
 ## Second lead: Jae-won Tesfaye (32)
 
-**Who.** A Tunneler (Korean given name from his mother's line, Ethiopian patronymic from his father Tesfaye), official stenographer of the Shimagile and freelance fever-stenographer: lineages hire him to take down what their bodies say in fever. Aster's friend and the keeper of her sworn deposition.
-**Want.** To keep his oath to Aster: deliver her deposition, unopened until the night, to the hall.
-**False belief.** "The record is enough. A stenographer takes down; he does not take part." The plot breaks his hand and then puts Aster's last tape in it.
-**Secret link.** His people's machine took down the founding crime. Aster kept the swap from him on purpose, so he honestly does not know who the dead woman is: he needs a bonesetter as badly as the player does.
-**Growth.** Competence: his capture quality shapes how much of each fever the player can reconstruct. Reputation: from the elders' clerk to the man who played the dead woman's voice to the city. Circle: from Aster to Sitota to the Chilot. Moral weight: he speaks.
-**Trap door.** If cut, Tigist finds the deposition cassettes in Aster's cell and the time-lock box in the gallery; his capture mechanic folds into Tigist's fever-reading.
-
----
+**Who.** A Tunneler: official stenographer of the elders, and freelance fever-stenographer for the foresight trade. He has taken down hundreds of sold children's fevers for the ferenj houses. He was Aster's friend and is keeper of her deposition. His great-grandmother was the sister of Oh Sang-hun, the Tunneler crew chief.
+**Want.** Keep his oath: deliver Aster's last tape, unopened, to the hall.
+**False belief.** "A stenographer takes down; he doesn't take part." The trade he serves, his broken hand and his own founder's voice in the first book all attack it.
+**Growth.** He speaks: he reads his people's part in the crime into the galleries. Circle: Aster, Sitota, the court, the Tunnelers.
+**Branch note.** His hand is broken on two routes; on the third (Tigist lied to Tsehay) it is whole and he takes down the hall himself.
+**Trap door.** If cut, Tigist finds the tapes in Aster's cell.
 
 ## The hostage: Sitota (73)
 
-**Who.** The first jar-born body in history (born 11 March 2090), handed to the Guest at three days old. Raised in its house and by the Arho, veiled by custom, never registered, never counted, never given a ticket. She carried salt for sixty years and carried Dahir as a baby. She named herself after the clay figurine the Guest gives her: **Sitota**, "gift". Fluent in exchange; reads no script.
-**Want.** To stand in the hall and have what was done to her read aloud to her face; to see the Guest enter its fig.
-**False belief.** "I am a thing that was given." She has accepted that she is the founder's object. The plot ends with her making a demand as a party: the first act of a person.
-**Secret.** She is passing as Aster from the first night of the game. She broke her own wrist to stay in the city and to hide the old break Aster had and she does not.
-**Growth.** Competence: from passing to public demand. Reputation: "the Shadow" to "the party". Circle: the Guest and the Arho to the whole hall. Moral weight: in Branch S she chooses to pay, and the gesture she makes when she takes the glass is the Guest's sign for *it was given to me*.
-**Playable** only from Act III (after the player has learned who she is), as the passing thread: the player never controls a character who hides what she knows from the player.
-**Trap door.** If her playable thread is cut, her Act III-IV movements become Tigist-observed scenes.
-
----
+**Who.** The first jar-born body (11 March 2090), given to the Guest at three days old, raised in its house and by the Arho, veiled, never registered. Carried salt for sixty years. Fluent in exchange; reads no script; learned Aster's voice from Jae-won's cassettes so she could pass.
+**Want.** To stand in the hall, have what was done to her read to her face, and see the Guest enter its fig.
+**False belief.** "I am a thing that was given." She ends by claiming party, a person's act.
+**Secret.** She has been passing as Aster since the first night; she broke her own wrist to stay.
+**Playable** only after the midpoint, on the lie route as the passing thread and on the truth route in the jar-house escape, so the player never controls a character who hides what she knows from them.
+**Trap door.** Her playable scenes can become Tigist-observed scenes.
 
 ## The killer: Almaz (52)
 
-**Who.** Azaj (steward and enforcer) of the Lemlem; Tigist's foster mother; trained in the lineage's old bonesetting style that chalks the hands with red ochre. Wears the office iron ring. Received a vision on 3 August; the player can see the new rust ring in her eye in the prologue.
-**Want.** (Before) To keep Tigist and Hiwot safe from what she saw. (After M3) To be told she did not kill her sister for nothing.
-**False belief.** "The seen can be refused: our mother saw her hand open the jar and never did." It is the belief that makes the murder rational, and the second book destroys it.
-**Secret.** She killed Aster at the Guest's door believing she was killing the Shadow, to make the vision impossible. From the morning after she knows whom she killed.
-**Motive the player can reconstruct:** in her vision a small Lemlem child (Hiwot) stands in the hall and the Guest reaches for her. Almaz read it as the Guest taking the child as a new pledge.
-**Growth.** Moral weight: from murder to confession to unlocking the glass room and walking Sitota to the hall. Reputation: from untouchable steward to (if named) the defendant in the first murder trial of a copy.
-**Opposition.** Tigist (both bonesetters; Tigist's trade line proves her guilt). Tsehay (both believed the same thing; Almaz broke, Tsehay acted).
-**Clues to her guilt (three or more, two areas):** the setter's hold reversed on the dead woman's neck; the ochre palm print on the saved veil, matched to her palm lines; the shard cut in her left palm, matched to the bagged jebena shard; the house gate tallies 01:30 out and 02:40 in; Mahlet's sighting of ochre on her sleeve; her fever leaf (motive).
-**Trap door.** If her confession scene is cut, the palm-print match is presented in the Chilot at the naming.
-
----
+**Who.** Steward of the Lemlem, Tigist's foster mother, a bonesetter of the house's old style (red-ochre chalk, the house's marking chalk). She wears the office ring. Received a fever on 3 August.
+**Want.** Before: keep Tigist and Hiwot from what she saw. After: know whether she killed her sister for nothing.
+**False belief.** "The seen can be refused; our mother proved it." She never woke the two-handed second book because Tsehay would not put her hand to it.
+**Secret.** She killed Aster believing her the Shadow. She has known whom she killed since the morning after.
+**Growth.** Moral weight: confession, then waking the second book with Tigist, then unlocking the glass room, then (her choice, the player's choice) taking off her ring and putting her hand in the clay to pay.
+**Clues.** The setter's hold (ambiguous with a Guard restraint hold until Act III); the ochre print on the veil, matched by palm lines; the shard cut; the house tallies; Mahlet's sworn statement; her fever leaf (motive). Her rust ring is not shown in close-up until the midpoint.
+**Trap door.** If her confession is cut, the palm match is presented at the naming.
 
 ## The fake ally: Tsehay (71)
 
-**Who.** Speaker of the Shimagile and the eldest registered Lemlem ("the first child of the jar"). Wears the office ring; carries a black-sand glass on a cord and touches it when anxious (planted from her first scene).
-**Want.** Keep the first book unread and the Shadow out of the hall, while keeping her hands clean.
-**False belief.** The same as Almaz's: the seen can be refused. And: the doctrine is what holds 19 million people together.
-**Secret.** She knows of the pledge. She knows, from Almaz's account of the "old, spotted, ringed" hand, that she is meant to be the sender of Almaz's vision, and she has sworn she never will.
-**Arc.** Comes to Tigist after the midpoint as the elder who wants the truth "handled properly", offers to put "Aster" at the head of the roll and asks where Sitota sleeps. The scene plays as a triumph. That night her guards take Sitota. In the hall, when the Guest reaches for the child, she sends by reflex, closes the loop she swore to refuse, and loses thirty-nine days.
-**Fair warnings for the alert:** the sender's hand in Almaz's vision is old, spotted, shaking and ringed, and she is the only ringed elder; she alone was told the hiding place; the glass-touching habit.
-**Trap door.** If cut, Almaz's vision is sent by another ringed elder officer (the lineage's treasurer), and the raid is ordered by the Shimagile.
+**Who.** Speaker of the elders; officially "the first child of the jar". Office ring; black-stone staff; a glass on a cord she touches when anxious. Tender with children: she gives Hiwot sugared roasted barley and tells her she was once the youngest of them all.
+**Want.** Keep the book unread and the Shadow out of the hall, with clean hands.
+**False belief.** The seen can be refused; the law holds the city together. She was not in the room in 2131 and refused to wake the second book.
+**Arc.** She offers help under the warka (6 Sep); orders Mahlet to the quarry; betrays Tigist with a raid or a moved hearing; holds a prisoner in the glass room. In the hall, when the Guest reaches for the child, she **decides** to warn Almaz sooner, over Almaz's protest, and sends. Then she stands without thirty-nine days.
+**Fair warnings:** the fever's sender looks down from the dais; the glass-touching habit; her tenderness toward Hiwot, which makes her the one who cannot bear the Guest's reach.
+**Trap door.** Another ringed officer on the dais (the lineage treasurer).
 
----
+## The honest red herring: Commander Dawit Asrat (55)
 
-## The honest red herring: Fitawrari Dawit Asrat (55)
+**Who.** Commander of the Fig Guard and the elders' candidate; natural-born. A student died in his cells in February.
+**Why he looks guilty:** his patrol at dawn; dragging the body; taking the shards; the restraint hold his guards use; his campaign to keep the fig shut.
+**False belief.** The brood will see the future and rule.
+**Reversal.** He hands over the shards; he hears the second book in the stacks; in the hall he orders his guards to stand aside. If Mahlet's photographs are published, he wins the election narrowly; if not, he loses it. Either way he dissolves the Fig Guard on day 100. He owns Yonatan's death in one line.
+**Trap door.** An unnamed captain stands aside.
 
-**Who.** Commander of the Fig Guard and the Shimagile's candidate in the Mircha. Natural-born. His guards killed a student in March. He campaigns openly to amend the clause and keep the fig shut forever.
-**Why he looks guilty:** his patrol was in the Spur at dawn; he dragged the body from the doorway; he took the jebena shards; he wants the fig shut; he wants the Guest expelled.
-**Want.** Keep the city from the brood; win.
-**False belief.** That the brood sees the future and will rule. He is wrong, and the hall shows it.
-**Reversal.** He keeps the Guard protocol even when it hurts him: he hands Tigist the shards when the Chilot asks (Act III); he hears the second book with her (Act IV); in the hall he orders his guards to stand aside because the Compact says no officer may refuse a party. His honesty costs him the Mircha he would have won under the old count. He owns Yonatan's death in one line and does not ask to be forgiven.
-**Growth.** Moral weight. **Trap door.** If cut, an unnamed Guard captain stands aside.
+## Judge Worknesh Gebre (61), the court
 
----
-
-## Dahir (58), master of the salt caravan
-
-**Who.** Arho caravan master whose father brought the Guest in 2089. Sitota carried him on her back when he was a baby. He found the body at dawn.
-**Want.** Find the Shadow. Later, walk the Guest to its fig.
-**False belief.** That the Guest wants to go home down the road. It wants to end here.
-**Growth.** Circle: from his caravan to the hall; he leads the Arho who walk the Guest in. In Branch S he holds Sitota's first ticket.
-**Trap door.** If cut, unnamed Arho walk the Guest in.
-
----
-
-## Mahlet (16), a Lemlem laundry girl
-
-**Who.** Works the Lemlem house laundry and kiln; awake on the murder night; saw "Aster" come in at 23:55 and the Azaj come in with ochre on her sleeve at 02:40. Received a vision on 25 August (the glass room, the veil) and saved the veil from the kiln.
-**Want.** To know whose hands those were.
-**Growth.** From a body that is spent (her one receipt used by someone else) to the witness who chose to keep the evidence. She chooses her own name in the coda.
-**Trap door.** If cut, the veil is found half-burned in the kiln basket and the gate tallies carry the sighting.
-
----
-
-## Etagegn (68), a glass-widow
-
-**Who.** Lemlem stone carver who in 2140 sent thirty years back and lost them. Keeper of the Lemlem glass room. Carves stone with hands that remember; does not remember whom she sent to, and will not ask the Tsehafi.
-**Role.** Plants the rule that the hands keep what the hands learned. A possible payer in the Act II rehearsal (the default if Tigist refuses); if she pays she forgets Hiwot, whom she has been teaching to carve.
-**Trap door.** If cut, the default payer in the rehearsal becomes Tigist (refusal is then not offered there), which weakens the rehearsal; keep her if at all possible.
-
----
-
-## Aster (66 at death), the dead woman
-
-**Who.** A Lemlem elder who attended the Guest monthly from 2148, came to love Sitota, learned what she was, and was dying of bone sickness. Swapped places with her on the night of 22 August so Sitota could reach the hall, and stayed behind in the veil to die near the Guest. Killed by mistake.
-**Presence.** Her voice on cassettes; her deposition; her medical leaves; her old wrist break on Tigist's radiographs; her last tape in the hall.
-**What she gives the theme:** she chose to take up a debt that was not hers. Her death is her own act of love that someone else turned into a murder.
-
----
+**Who.** Natural-born presiding judge. She sits on the raised bench in chapter 2.
+**Arc.** In chapter 2 she rules "nobody died" and says so like a woman reading out a sentence on herself: "The law says nobody. I say what the law says." In chapter 10 she orders the bone count, a small act of doubt. On the truth route she lists the Pagume petition for Mircha night "so that it is heard in public". In the hall she voids the law from the start as made in fraud.
+**Growth:** reputation and moral weight, in four scenes.
 
 ## Mekdes (38), candidate of the Hand
 
-A copy of the Mekdes lineage; legally Mekdes Mekdes. Seen at rallies, on fans and on the vote wall. Not a viewpoint. Her printed face is on the school fan Hiwot gives the Guest in Act I (Hiwot has painted the Guest over half of it). The Guest keeps both of Hiwot's fans and takes them into the fig. (*Working:* whether Mekdes gets one scene with Tigist.)
+**Who.** A copy of the Mekdes lineage, whose receipt was sold when she was six. She has a rust ring and no memory of what she saw, only the stenographer's transcript, which went abroad. She is the Hand's face on every fan.
+**Scene (ch.16, night).** Tigist brings her photographs showing the gas that killed Mahlet came from the Hand's barricade. Mekdes does not deny it. "If they learn our side killed a copy girl four days before the vote, the copies go on being nobody. Hold them until after." The player decides.
+**Growth.** She wins on a buried death or loses with clean hands. In the coda (held route) she is the one who, at last, reads Mahlet's name.
+
+## Dahir (58), master of the salt caravan
+
+**Who.** Afar caravan master whose father brought the Guest; the hostage carried him as a baby. He prays at every halt.
+**False belief.** The Guest wants to go home.
+**Reversal (ch.20).** At dawn on Mircha eve he leads the Guest out of the Narrow. At the plateau's edge it gives him back his salt bar: no. His people's seventy-year role as its keepers ends there.
+**Growth.** He walks it into the hall on the fig bell, and in the coda the Arho take up a new role: they will walk the successor south toward the other Guest in the trader's photograph.
+
+## Mahlet (16), laundry girl of the Gora house
+
+**Who.** Saw "Aster" come in at 23:55 and the steward come in at 02:40 with ochre on her sleeve. Her receipt had been sold for October; the veil fever spent it. She saved the veil.
+**Act of her own.** Ordered to the quarry, she slips her escort to swear a statement at the court.
+**Death (6 Sep).** Caught in a pit clash on the way back, she hides in a low cut cellar and dies in the pooled gas. The court rules that nobody died, and the Hand hides that the gas was theirs.
+**After.** Her sworn statement is read at the naming: her one act, heard in the hall.
+
+## Etagegn (68), a glass-widow
+
+Lemlem stone carver and keeper of the Gora glass room; lost 2110-40 in a send she cannot name. Her hands still carve. She plants the rule that skills survive. A possible payer in the rehearsal, and the default if Tigist refuses. One of the three elders with a healed left-wrist break (2129).
+
+## Zewditu (67), a Lemlem elder
+
+The third elder with a healed left-wrist break (2133). She is going blind and cannot read the duty board, a decoy for "Aster's" illiteracy. One line of grace in the bone count: "Mind the wrist, child, it never set straight."
+
+## Aster (66 at death)
+
+The elder who attended the Guest, loved Sitota, was dying of a bone sickness she kept out of the lineage's records, swapped places so Sitota could reach the hall, and was killed by mistake. Present as her radiographs, her old break, her voice on cassettes and her last tape.
 
 ---
 
-## The non-human characters
+## Telling eight identical faces apart: identity sheet
 
-**The Engida.** See `03-world-and-factions.md`. Character beats: the giveaway; the fan exchange with Hiwot; the shedding (one pleat per few days, a visible clock); its stillness in the empty house under Guard watch; the walk through the hall. Its want is never stated aloud; it is read from what it gives and keeps.
+All Lemlem principals share one face. They are told apart by silhouette, prop, gait, posture and costume colour, and the scenes avoid putting two similar elders in frame without a prop.
 
-**The Tsehafi.** Voice: clipped stenographer's cadence, older leaves in an older, simpler voice (2090's Sokgi-1 speaks Korean-accented Amharic). Character beats: "Outstanding: one" at the end of every leaf; answering only what it is asked; reading the first book to Sitota with no change of tone; "Outstanding: none".
+| Body | Age | Silhouette | Prop | Gait and posture | Colour |
+|---|---|---|---|---|---|
+| Hiwot | 9 | small, cropped hair | fan; figurine on a string | runs, crouches | school blue |
+| Mahlet | 16 | thin, sleeves rolled | laundry paddle | quick, head down | kiln-stained grey |
+| Tigist | 34 | lean, hair wrapped | splint bag; lime-white hands | brisk, leans in to look | indigo work cloth |
+| Almaz | 52 | upright, broad-shouldered | office ring; ochre on fingertips | still; stands in doorways | ochre and black |
+| Aster / "Aster" | 66 / 73 | robed, sashed | elder's sash and brooch | Aster: slow, careful. Sitota: carrier's forward lean (planted in the prologue) | white robe, green sash |
+| Etagegn | 68 | stooped over stone | carving chisel; stone dust | sits; hands always moving | dust-grey shawl |
+| Tsehay | 71 | tall, staff-straight | black-stone staff; glass on a cord | walks with the staff; touches the glass | white with a gold border |
+| Sitota (own clothes) | 73 | broad back | salt-stained caravan shift; figurine | forward lean; gives something back for everything | Arho indigo |
+
+**Voice.** One principal actor voices all adult Lemlem bodies, directed by age and upbringing: Sitota's Amharic carries the Arho's Afar cadence (except when she imitates Aster's voice from the cassettes); Almaz is clipped; Tsehay is formal. Hiwot and Mahlet are younger actors directed to the same timbre. A shared voice is the honest choice for copies; differences of register and accent keep it readable.
 
 ---
 
-## Oppositions and pairings
+## Oppositions
 
-- Tigist / Almaz: same trade, same face; one refuses a vision by killing, one chooses a cost by paying.
-- Sitota / Tsehay: the first copy, hidden; "the first child of the jar", honoured. Each has lived the other's official life.
-- Jae-won / Tsehafi: two stenographers, one of whom learns to speak.
-- Dawit / Tsehay: one obeys the law against his interest, one breaks her own oath by reflex.
-- Hiwot / the founder: the small one of her face in the vision, holding out the glass.
-- Decoy: Dawit (honest red herring). Second decoy for the alert: Almaz could be the sender of her own vision (a self-warning), until the sender's hand is read as old.
+- Tigist and Almaz: same trade and face; one refuses a vision by killing, one chooses a cost.
+- Sitota and Tsehay: the first copy, hidden, and "the first child of the jar", honoured.
+- Jae-won and the scribe: two stenographers, one of whom learns to speak.
+- Dawit and Mekdes: the regime's honest general and the opposition's buried death.
+- Dahir and the Guest: the keeper who wanted to take it home, and the guest who wanted to stay.
+- Decoys: Dawit (the restraint hold), and "Almaz sent her own fever" (a ringed hand) until the sender's view is read as coming from the dais.
