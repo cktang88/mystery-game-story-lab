@@ -60,7 +60,7 @@ Knutt teaches Moiken to read the Priel channels on a falling tide (lesson plante
 
 **Ch 5. Weegnacht (spring).** *Question: what does the ring actually do?* *New mechanic: sending.* **Act I climax.**
 From the dike, through Knutt's scope, Moiken watches the station walk a man in a drysuit into the ring at low water; a hum; a different person, a woman in 2028 clothes, stands up in his place and is led away. Knutt walks Moiken to the ring's edge with a bucket: a crab of one weight in, a crab of the same weight from 2028 out. He says the rule in three sentences: "Weight for a weight. Nineteen years. Once." Under his UV torch the new crab glows. "Write to the past," he says. "Whoever reads it already has." Moiken bands an oystercatcher with a message to her mother in 2028 (the player types it; the game keeps it) and sends it into the ring. At home, at 3 a.m., she shines the torch on her sleeping mother's hand: it glows.
-*Resolution by doing:* the player attributes the mother using three batches: the blue cup's print against Inken's 2027 ID biometrics (mismatch), the tattoo in a 2028 archive photo (wobbly, homemade) against the mother's (clean, professional), the glow. The board accepts: **"The woman who raised me is a copy of Inken Brarens and came through the Waag."** The mother wakes, sees the torch, and says only: "In September I'll tell you everything."
+*Resolution by doing:* the player attributes the mother using three batches: a print from the mother's white mug against Inken's 2027 ID biometrics (mismatch), the tattoo in a 2028 archive photo (wobbly, homemade) against the mother's (clean, professional), the glow. The board accepts: **"The woman who raised me is a copy of Inken Brarens and came through the Waag."** The mother wakes, sees the torch, and says only: "In September I'll tell you everything."
 *Answer opens:* where is the real Inken?
 
 ### ACT II: "Breeding Season" (April–June 2047)
@@ -193,7 +193,7 @@ Each required conclusion has at least three independent clues in at least two ar
 
 | Required conclusion | Clue 1 | Clue 2 | Clue 3 | Extra / red herring |
 |---|---|---|---|---|
-| Mama is a copy who crossed (Ch 5) | Blue-cup print vs Inken's 2027 ID (object, house + archive) | Clean tattoo vs wobbly 2028 tattoo (object, archive photo) | Glow under UV (mechanic, flats + house) | Keike's "which cup" (NPC); will names herself (object). Red herring: illness (clinic visits are to the notary) |
+| Mama is a copy who crossed (Ch 5) | White-mug print vs Inken's 2027 ID (object, house + archive); Inken's own blue cup is never used | Clean tattoo vs wobbly 2028 tattoo (object, archive photo) | Glow under UV (mechanic, flats + house) | Keike's "which cup" (NPC); will names herself (object). Red herring: illness (clinic visits are to the notary) |
 | Two crossed in the gap (Ch 8) | Marret's 2028 tape: two hums at 23:40 (audio, Kirchwarf) | Pitches match 56 and 68 on her chart (mechanic) | Henning: "a girl ran in after the boy" (NPC, mainland) | Station record shows only Tade vanished |
 | The band did not cause it (Ch 8) | Complaint dated 14 Feb (archive) | Hark's Feb answer "They are retained" (deposition) | Tade's recruitment in Feb (reconstruction) | — |
 | Someone hides at Süderwarf (Ch 9) | 56 kg in the guest room on nights away (load data) | Knutt buys food for two (shop record) | Empty grave, "light as a bird" (place + NPC) | Red herring: Knutt is keeping the real Inken prisoner |
