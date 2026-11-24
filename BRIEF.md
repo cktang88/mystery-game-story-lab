@@ -27,6 +27,13 @@ Constraints from the project owner, in priority order.
 - Expand in stages, from a one-sentence premise to a paragraph, a page and a full outline, checking cause and effect at each stage.
 - Fix the ending and the true hidden history first, then plant forward.
 
+## Fighting the average
+
+- LLM writing collapses to the mean: generic plots, settings, twists and names (the Elaras, Kaels, Nexus Corps and Project Genesis of the world).
+- For every important element (premise, hidden history, twists, characters, names, setting, ending), generate at least three genuinely different options.
+- A separate grader reviews and revises the options, then picks one, instead of the first idea standing by default.
+- Names in particular should come from a specific culture, era and logic in the world, never from the generic sci-fi name pool.
+
 ## Original
 
 - Never plagiarize. Be inspired by the great stories, but copy no plots, characters, names, settings, signature twists or lines from them.
