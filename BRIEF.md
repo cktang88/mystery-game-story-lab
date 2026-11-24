@@ -15,6 +15,12 @@ Constraints from the project owner, in priority order.
 - Layered like Game of Thrones: multiple character threads that run in parallel and converge.
 - Unveiled bit by bit over time.
 
+## Original
+
+- Never plagiarize. Be inspired by the great stories, but copy no plots, characters, names, settings, signature twists or lines from them.
+- Borrow techniques (how reveals are paced, how threads converge), not content.
+- Avoid the most common tropes (see TV Tropes). Where a trope is unavoidable, twist it or play against it.
+
 ## Unpredictable
 
 - Lots of moments the player does not see coming: deaths, betrayals, reversals, reveals.
