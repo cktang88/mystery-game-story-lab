@@ -12,8 +12,11 @@ Usage:
   python3 scripts/seeds.py --exclude "Song dynasty" "beekeeper"
 
 Rules for writers (also in BRIEF.md):
-  - Every seed must visibly shape the story. Culture/era and terrain shape the
-    setting and the naming logic; the profession seeds become main characters'
+  - Every seed must visibly shape the story. The galactic setting, intrigue,
+    economic-system and technology seeds set the scale and the plot engine (the brief
+    requires big futuristic sci-fi with spy/court intrigue, politics and economics).
+    Culture/era is a naming and texture source for a future culture, not a
+    historical setting; the profession seeds become main characters'
     jobs; the object, phenomenon and material seeds feed the pillars' mechanisms
     or the key recurring object; the relationship and ritual seeds feed a thread.
   - Record the seeds at the top of 01-options.md and, in 07-self-check.md, say
@@ -25,6 +28,50 @@ import argparse
 import secrets
 
 LISTS = {
+    "galactic_setting": [
+        "a Dyson swarm half-built around a red dwarf", "a capital world that is one continuous city",
+        "a neutral banking station at a wormhole junction", "a generation fleet that arrived to find colonists already there",
+        "a tidally locked world whose day side is owned and night side rented", "a ringworld fragment used as a prison",
+        "an embassy moon shared by five species", "a quarantined star system no ship may leave",
+        "a shipyard orbiting a gas giant", "a court that moves between three systems each year",
+        "a frontier mining belt in a gold-rush", "a dead alien homeworld turned into a museum and a tax haven",
+        "an orbital elevator city whose floors are social classes", "a library planet where the archive is the government",
+        "a war-front system under a fifty-year ceasefire", "a pleasure world run by an AGI landlord",
+        "a terraforming project three centuries behind schedule", "a black-hole observatory with time-dilated staff",
+        "a nomad fleet that is also a stock exchange", "a refugee world built inside a hollow asteroid",
+        "a ring of habitats that vote as one", "a homeworld abandoned by its rich",
+    ],
+    "intrigue": [
+        "a succession crisis with three claimants", "a double agent who no longer knows which side is real",
+        "a regent ruling for a child heir", "an assassination disguised as an accident",
+        "a spymaster who is also the court historian", "a defector who brings the wrong secret",
+        "a forged treaty", "a hostage prince raised by the enemy", "a mole in the intelligence service",
+        "a coup planned for coronation day", "a blackmail archive everyone pretends does not exist",
+        "a show trial", "an ambassador with diplomatic immunity and a body in the embassy",
+        "a sleeper cell activated by a phrase", "an election rigged by both sides",
+        "a marriage alliance between enemy houses", "an honest bureaucrat who controls the seals",
+        "a censor who rewrites the news", "a war-crimes tribunal", "a royal bastard with a valid claim",
+    ],
+    "economic_system": [
+        "a currency backed by stored computation", "debt that is inherited across clones",
+        "a monopoly on faster-than-light shipping lanes", "a futures market in predicted events",
+        "a guild that owns all water", "taxation paid in years of life", "a reputation score as money",
+        "sanctions that starve a world", "a speculative bubble in terraformed land",
+        "an insurance cartel that profits from wars", "a universal basic income paid by an AGI",
+        "a black market in memories", "a company town at planetary scale", "a tariff war between species",
+        "a sovereign default that topples a dynasty", "a labour market of rented bodies",
+        "a central bank run by an AI that cannot be audited", "trade in time-shifted information",
+        "a commodity that only one alien species can produce", "a debt jubilee everyone fears",
+    ],
+    "technology": [
+        "mind uploading with lossy copies", "tachyon messaging with a cost", "neural lace that can be subpoenaed",
+        "clone vats with a licensing system", "an AGI bound by a constitution", "wormhole gates that degrade",
+        "memory editing used by courts", "orbital weapons under treaty limits", "nanotech assemblers banned by law",
+        "body swapping between frames", "predictive policing that is right too often",
+        "suspended animation used to dodge debts", "a translation AI between species that edits as it goes",
+        "time-dilation used as banking", "synthetic biology that writes into living people",
+        "an AGI that is legally a citizen", "surveillance dust", "a causality detector", "a quantum vote",
+    ],
     "culture_era": [
         "Kanem-Bornu Empire, 14th century", "Mughal Lahore, 1600s", "Song dynasty Hangzhou",
         "Edo-period Osaka merchant quarter", "Joseon Korea, 18th century", "Khmer Angkor, 12th century",
@@ -138,8 +185,9 @@ LISTS = {
 
 # How many of each to draw per writer.
 DRAW = {
-    "culture_era": 2, "terrain": 1, "profession": 2, "object": 3, "phenomenon": 2,
-    "material": 1, "relationship": 1, "ritual": 1, "creature_or_plant": 1,
+    "galactic_setting": 1, "intrigue": 2, "economic_system": 1, "technology": 2,
+    "culture_era": 1, "profession": 1, "object": 2, "phenomenon": 1,
+    "relationship": 1, "ritual": 1,
 }
 
 

@@ -15,6 +15,14 @@ Constraints from the project owner, in priority order.
 - Layered like Game of Thrones: multiple character threads that run in parallel and converge.
 - Unveiled bit by bit over time.
 
+## Scope and genre
+
+- Big, futuristic science fiction, not folk or rustic fantasy. AGI, aliens and time travel are front and centre as advanced technology and civilisations, not as folklore, relics or a creature under a village.
+- Wide scale: interstellar or galactic reach, multiple worlds, polities and species in play.
+- Spy and court intrigue: agents, double agents, factions at court, succession and power struggles, in the Code Geass mode.
+- Politics and economic systems that drive the plot: who controls what resource, how markets, debt, trade and power work, and how the mystery moves them.
+- It can still start small and personal (see "Growing larger"), but the world it opens onto must be this big from the start, and the small hook should already sit inside it.
+
 ## Something new
 
 - It must add something genuinely new, not be yet another entry in the genre.
