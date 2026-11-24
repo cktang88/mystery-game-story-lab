@@ -225,7 +225,7 @@ Every chapter break also lists the **current question** for each thread.
 |---|---|---|---|
 | 1 | lease (the blank *purpose* field seen) | 13 | (blend reused: follow) |
 | 2 | proxy (fact) | 14 | trace |
-| 3 | weigh, with the double coin; publication | 15 | *breather: chase* |
+| 3 | weigh, with the double coin; publication | 15 | (beads reused in the hall; the chase in Ch 14 is a breather) |
 | 8 | trade beads (deck) | 16 | parley |
 | 9 | re-performance | 17 | the sealing custom (another couple's) |
 | 10 | the vidai | 18 | the Proof; purpose and standing named |
