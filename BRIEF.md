@@ -23,6 +23,12 @@ Constraints from the project owner, in priority order.
 - Politics and economic systems that drive the plot: who controls what resource, how markets, debt, trade and power work, and how the mystery moves them.
 - It can still start small and personal (see "Growing larger"), but the world it opens onto must be this big from the start, and the small hook should already sit inside it.
 
+## Tone: cool, not spooky
+
+- No spooky, horror, gothic, occult or morbid material: no ghosts or hauntings, no death omens or shadows of the dead, no funerals, pyres, corpse rites, crypts, graves or bodies as ritual objects, no ordeals or trials by superstition.
+- The tone is cool: sleek, thrilling and awe-inspiring. Think spy craft, heists, chases, high-tech investigation, court duels of wits, starships, megastructures, alien civilisations and big reveals.
+- Crime is fine (an assassination, sabotage, a heist, a disappearance), played as a thriller, not dwelt on morbidly.
+
 ## Something new
 
 - It must add something genuinely new, not be yet another entry in the genre.
