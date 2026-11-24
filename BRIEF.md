@@ -28,6 +28,7 @@ Constraints from the project owner, in priority order.
 - No spooky, horror, gothic, occult or morbid material: no ghosts or hauntings, no death omens or shadows of the dead, no funerals, pyres, corpse rites, crypts, graves or bodies as ritual objects, no ordeals or trials by superstition.
 - The tone is cool: sleek, thrilling and awe-inspiring. Think spy craft, heists, chases, high-tech investigation, court duels of wits, starships, megastructures, alien civilisations and big reveals.
 - Crime is fine (an assassination, sabotage, a heist, a disappearance), played as a thriller, not dwelt on morbidly.
+- Nothing horror or gross. No body horror: no mutation, flesh merging, grafting tissue, parasites, rot, decay, gore or creatures growing out of people. The owner found the film Annihilation too gross; that is the line. Biotech, clones and aliens should look clean, elegant and high-tech (sleek vats, not wet flesh), and alien life should inspire awe, not disgust.
 
 ## Something new
 
