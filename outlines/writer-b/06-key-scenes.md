@@ -1,155 +1,181 @@
-# The Light Weight: key scenes
+# The Light Weight: key scenes (revision 2)
 
-Each sketch gives what the player **does**, what they **see and hear**, what it **plants** or **pays off**, and how little needs to be read. Dialogue is voiced and short; text on screen is limited to plates of sixty glyphs or less.
+Each sketch says what the player **does**, what they **see and hear**, and what it **plants** or **pays off**. Dialogue is voiced and short. Text on screen is limited to plates of at most sixty glyphs and single ledger lines.
 
 ---
 
 ## 1. The Seven Cups (Day 1, opening)
 
-**Before it.** The game's first seconds: dawn in Miwnay's small Spark room, a tick of charge through her sash (felt through the controller) as the day's farn arrives. No text.
+**Before it.** Dawn in Miwnay's small Spark room. A tick of charge through her sash, felt through the controller: the day's farn. There is no text.
 
-**Does.** The player, as Miwnay, works down a tray of seven tasting bowls, one per party. For each: lift, smell, slurp (a held button; the louder the slurp the more of the profile is revealed), hold, spit into the white spittoon the clerk carries. Notes surface as a ring of flavour icons around the bowl (malt, smoke, iron, honey). In the second cup an extra note, a cold metallic edge, means a rider; the player flags it, the clerk produces Varkhuman's licence, the player clears it. A clerk sets the ceremonial weight on the tray in passing; the player must lift it aside, and the small leaf gauge at Miwnay's wrist twitches and settles a little short. Nothing comments on it. The seventh bowl is clean.
+**Does.** The player works down a tray of seven tasting bowls, one for each party: lift, smell, slurp (a held button; the longer the slurp, the more of the profile opens), hold, spit. The notes place themselves on Miwnay's palate wheel, which the player learns over the game and which is never labelled with words. In the second bowl a cold metallic edge means a write has been added. The player flags it, the clerk shows Ashtvan's licence for a descent tonic, and the player clears it. A clerk sets the ceremonial weight on her tray. When the player lifts it aside, the small leaf gauge at her wrist twitches and settles a little short. Nothing comments on it. The seventh bowl is clean.
 
-**Sees and hears.** Lapis murals of embassies arriving, a brass balance taller than a person, the founding plate under glass with a small brass notice forbidding Draxt approach, the Draxt seat's dust leaping into fern figures as the veiled interpreter reads them out. Farnxund, presiding, rubs her thumb round the rim of her cup before drinking. Pukar takes the stand, says four sentences in a dry voice, grips the brass rail. Blue-white flash; the hall's sparks all jump at once; he falls; his shirt is burned open across a branching red figure.
+**Sees and hears.** Lapis murals of embassies arriving; a brass balance taller than a man; the founding plate under glass, with a brass notice forbidding Draxt approach; the Draxt seat's dust leaping into fern figures as a veiled interpreter reads them aloud. Farnxund rubs her thumb round her rim before drinking. Pukar says four sentences, grips the rail, and dies in a blue-white flash, a branching burn across his back.
 
-**Plants.** The light weight; the thumb round the rim; Farnxund's voice; the Draxt ban; the chakars behind the bench by the robing-room door; the second cup's rider (Varkhuman's tonic).
-**Reading:** none.
+**After.** The relationship board: faces, floors, lines ("dhat of", "keeper of", "hostage of", "cousin of").
 
-## 2. Unnamed (Day 1 to Day 2)
+**Plants.** The light weight; the thumb; Farnxund's voice (the same actress as Miwnay); the Draxt ban; the chakars by the robing-room door.
 
-**Does.** The player walks Miwnay from the hall to custody. A door she opened this morning stays shut. The guard's waxed sash brushes its plate; it opens. Next dawn the player waits for the small tick in the sash, felt through the controller, that came at dawn in the game's first seconds. It does not come.
+## 2. Unnamed (Days 1 to 2)
 
-**Sees.** The guard touches the door handle before she does; a small spark jumps to his glove. "To take the shock for you." He says he is the Weigher's seventh. She calls him Avd. He smiles for the first time.
+**Does.** The player walks Miwnay out. A door she opened this morning stays shut. The guard's sash brushes its plate and it opens. At the next dawn the player waits for the tick in the sash. It does not come.
 
-**Plants.** Door-touching; beeswax; the nickname "Seven".
+**Sees.** The guard touches each handle before she does; a spark jumps to his glove. "To take the shock for you." He is the Weigher's seventh, so she calls him Avd, and he smiles for the first time.
 
 ## 3. The Hush (Day 4, shared landmark)
 
-**Does.** Nothing is required; the player is free to move. If the player looks at the custody room's grounding rail at 11:52, they see the whole thing.
+**Sees.** A rising hum, then sparks racing down the custody rail from ceiling to floor, all one way, like rain on a window. Hair lifts, then falls; the sash goes slack. For nine minutes even the faint crackle of the cursor stops. In the corridor people cover their mouths for the unmade days.
 
-**Sees and hears.** A rising hum. Sparks race down the rail from the ceiling to the floor, all in one direction, like rain on a window. Miwnay's hair lifts, then falls. The sash goes slack. Then nine minutes in which nothing sparks: the player's cursor, which crackles faintly in the Spark at all times, goes still. In the corridor people cover their mouths. Then the crackle returns.
+**Plants.** What a real arrival looks like, so that both forgeries can be known by what they lack.
 
-**Plants.** What a real arrival looks like, so that both faked ones can be recognised by what they lack.
+## 4. The Re-Spinning (Day 6, Takhsich)
 
-## 4. The Lift (Day 4, Takhsich)
+**Does.** At the Counterweight, at a quarter of a gravity, Takhsich waits at the docks for his handler. A circle of Draxt forms around one of their own. The player can watch or walk on.
 
-**Does.** At the Well, during those same nine minutes, the player has a window in which Dusters' hands do not spark and leave no static marks. The plate is being sealed. The player peels a strip of dust-lift tape across it and palms it before the crackle returns and the sealing officer's hands start leaving marks again. Afterwards, alone, the player decodes the lift glyph by glyph, dragging each figure onto a cribbed key.
+**Sees.** Dust is scattered over the kneeling Draxt. Figures pass from the others' branches onto its body, and its own figure slowly changes shape. The veiled interpreter beside him says only: "It misread a client's plate. It asked. We do not write without asking."
 
-**Sees.** *TARDU YABGHU, DAY 34: AYTASH WEIGHED AND KILLED. WAR BEGUN. PLATE OF NIGHT −13 FALSE. THE TASTER PROVED IT LATE.*
-**Reading:** one plate, sixty glyphs.
+**Plants.** The Draxt law of re-spinning by consent, thirty days before it matters.
 
-## 5. The Brick Crate (Day 13, collision)
+## 5. The Brick Crate (Day 13)
 
-**Does.** At the Brick Market, Miwnay tastes a corner from each stallholder's takings and follows the airy low-gravity bricks from hand to hand to a young Duster buying noodles. The player has played him. He runs; the guard does not; Miwnay simply waits by the noodle stall, and he comes back.
+**Does.** Miwnay tastes a corner of each stallholder's takings and follows the airy, low-gravity bricks from hand to hand to a young Duster buying noodles. The player has played him. He runs; the guard does not follow; Miwnay waits by the stall, and he comes back.
 
-**Sees.** Takhsich unrolls his second lift. The player sees the same plate they decoded on Day 4, now in Miwnay's hands. She reads the last line, sits down on a brick crate and laughs until she has to wipe her eyes. The guard stands between them and the crowd.
+**Sees.** He unrolls his lift. The player has already decoded it on Day 4; now it is in her hands. She reads the last line, *THE TASTER PROVED IT LATE*, sits down on a brick crate, and laughs until she has to wipe her eyes.
 
-**Pays off.** Day 4. **Opens.** The clock to Day 33, now personal.
+**Choice.** Publish it now or hold it. The guard says nothing either way.
 
-## 6. The Descent of Varkhuman (Day 14)
+## 6. "The Seventh" (Day 15, midpoint)
 
-**Does.** As Aytash, at dawn, the player is at a Spark window watching the climbers arrive. One is late. Then, as Miwnay at the Root that afternoon, the player tastes Varkhuman's flask: the familiar cold edge of the descent tonic is missing; instead, a soft green-iron bitterness the palate has not met before, sitting on a pale, floral tea the player has met once, in the Chief Weigher's bowl on Day 1.
+**Does.** The player rolls Rokhshan's half-burned ledger-sash along a lamp, reading its stitch bars. The last damaged bar resolves into a rank: seven. There is no prompt; the player can turn round.
 
-**Sees.** A climber car opened at the Spark platform; a big man slumped in a gravity chair, his face grey, his hand still round the flask.
+**Sees.** The guard is cleaning her spittoon by the door, as he does every evening. She holds up the sash and he puts the spittoon down. Three sentences, then a long silence: Farnxund's order; the robing room at dawn; "a shock to make him stammer." Then: "I did not kill the embroiderer. I was buying you this." He touches the tea-bowl device on her sash.
 
-**Plants.** The thinning write's taste, which returns on Day 29.
+**Pays off.** Every scene with him changes meaning, and none changes fact.
 
-## 7. "The Seventh" (Day 15, midpoint)
+## 7. Who May Ask (Day 16)
 
-**Does.** The player finishes decoding Rokhshan's ledger-sash, rolling it along a lamp to read the stitch bars. The last damaged bar resolves into a rank: seven. There is no prompt. The player can turn round.
+**Does.** At a Root ledger font, the Sartapao will not answer Miwnay, who is unnamed, or Takhsich, who is not named in the line. The player works out whose line it is (the officer of the watch) and who inherits a dead man's lines. In a crèche ward full of identical toddlers, Pukar's mother lays her hand on the font. The player builds the question with her from three fragments.
 
-**Sees.** The guard is cleaning her spittoon by the door, as he does every evening. Miwnay holds up the sash. He puts the spittoon down. His confession is three sentences and a long silence: Farnxund's order, the robing room at dawn, "a shock to make him stammer". Then: "I did not kill the embroiderer. I was buying you this." He touches the tea-bowl device on the sash she is wearing.
+**Sees.** One line in reply. She reads her son's question and its answer, and says, "He asked." That night the lights go down along the elevator for the Ikhshid, and the Dust comes for her.
 
-**Choice.** Keep him, or send him away. If sent away, the next door she reaches opens before she touches it, and he is on the far side of the corridor.
+## 8. The Bitter Cup (Day 20)
 
-**Pays off.** Day 1 (by the robing room), Day 2 (Seven), the door-touching (he was checking every rail for the charge he knew could kill), the beeswax, the gift sash. Every scene with him changes meaning; none changes fact.
+**Does.** Disguised as the guard's tea-bearer, the player serves the funeral tray and watches faces at the seventh bowl.
 
-## 8. Fourteen Rings (Day 19)
+**Sees.** Farnxund drinks, and her left eye closes for an instant: Miwnay's flinch. She thanks the tea-bearer in Miwnay's voice.
 
-**Does.** Makhdhat grips Miwnay's wrist in a Root alley and says her face ordered the grounding on Unburned night. Then the player climbs the Old Column's collar with the conduit boy, wiping soot with a sleeve, and counts the rings, which vary in spacing like tree rings. On the switch-house wall is the Register of Plates: sixteen dated arrivals. The player matches rings to dates by their spacing. Two dates have no ring.
+## 9. The Touch (Day 26, Takhsich)
 
-**Sees.** The oldest grounding column in Marakand, black and silver, rising into the haze; at the top, a fresh pale ring from Day 4.
+**Does.** With his Dust escort at his shoulder, Takhsich must rub his sleeve (a held motion that builds a visible shimmer on his hand) and touch the plate's corner three times while presenting it, keeping his body between the shimmer and the escort.
 
-**Reading.** A list of sixteen dates.
+**Sees.** The corner's dust jumps into a small figure. Every figure on the walls behind the envoy changes at once.
 
-## 9. The Bitter Cup (Day 20)
+## 10. The Fleet Court (Day 27, Aytash)
 
-**Does.** Disguised as the guard's tea-bearer, the player serves the court's funeral tray. The seventh bowl is the bitter one, by custom. The player watches faces as each mourner drinks: nothing, a frown, nothing. Farnxund drinks and her left eye closes for an instant. If the player has Miwnay taste the seventh bowl herself first (she tasted it in the tutorial), the same flinch plays on Miwnay's face. Farnxund thanks the tea-bearer. The voice is Miwnay's.
+**Does.** Aytash walks a hangar the size of a city square. Ships are lashed hull to hull, felt hangings soften the steel, and the captains stand by their ship-standards. The player reads them by their sparks (a crackle at a name, a dry stillness at a threat) and sorts them on a mental map of who is for war, who is for sale and who is afraid.
 
-**Pays off.** Day 1 (thumb, voice); the guard's uncanny habits.
-
-## 10. The Touch (Day 26, Takhsich)
-
-**Does.** At the Counterweight, at a quarter of a gravity, with a Dust escort at his shoulder, Takhsich hands the Draxt envoy a forged plate. The player must rub his sleeve against his coat (a held motion that builds a visible shimmer on his hand) and touch the plate's corner three times while presenting it, without the escort noticing the shimmer (keep his body between them, time it with the drifting dust).
-
-**Sees.** The dust on the plate's corner jumps into a small figure the escort ignores. The walls behind the envoy, covered in slowly moving fern figures, all change at once.
-
-**Pays off.** Day 11's "for emergencies".
+**Sees.** Her father, older than she remembers, and his cousin Temirkan at his shoulder, smiling. The Pench factor in banker's grey at the edge of the light.
 
 ## 11. Unburned Day (Day 28, Aytash)
 
-**Does.** Aytash walks through Ustrushana's capital during the festival in plain clothes. Paper effigies of a horned Ordu chieftain burn in every square. A child gives her a paper horn. She keeps it. At the Afshin's palace she chooses how to open: threaten with the fleet, plead, or offer freight. Any opening can work, but the freight offer gets the petition at once; the others cost an extra scene and a hostage.
+**Sees.** Effigies of her horned great-grandfather burning in every square of Usrushan. A child hands her a paper horn, and she keeps it.
 
-**Sees.** Fireworks; a crowd singing a song she has heard all her life from the other side.
-
-**Galactic rung.** A world of nine million learns, in a parley, that its founding feast may be a lie, and sells its vote for a share of the truth's profits.
+**Does.** Chooses how to open with the Afshin: threaten, plead, or offer freight.
 
 ## 12. Sixty Glyphs (Day 27)
 
-**Does.** Nanai-farn's rooms at the Root. She pours; Miwnay tastes, by habit; it is plain, good tea. Nanai-farn asks: "If you had been me at twenty-two, with the Root starving, would you have written sixty glyphs?" The player can answer yes, no, or not answer. She asks Miwnay to carry her bones.
+**Does.** Nanai-farn pours tea and Miwnay tastes it by habit: plain, good tea. Nanai-farn asks her question, and the player may answer yes, no, or nothing. Then she says: "While I live, it's mine to keep. When I'm bones, it's yours to weigh."
 
-**Sees.** A painted ossuary in the corner, its lid decorated with mourners and a scale. Dust on everything. Nanai-farn's hands, which are Miwnay's hands, fifty years older.
+**Sees.** A painted ossuary in the corner, its lid decorated with mourners and a scale. Hands that are Miwnay's hands, fifty years older.
 
-**Plants.** The ossuary. **Remembered.** The player's answer is spoken back once, by the guard, in the epilogue.
+## 13. The Impound (Day 30)
 
-## 13. The Bones (Day 31)
+**Sees.** The Second Weighing collapses, and Aytash's empty dock is declared free. Then Miwnay lifts the wrapper and the residue cup, and Farnxund, presiding, says the death of a Dust officer belongs to the Dust's inquiry, "which I now have the honour to lead." Clerks take the cup from her hands. The Draxt seat's dust rises into a figure and the interpreter says, "Recuse." One seat; the motion fails.
 
-**Does.** At the silent tower, the player gathers bones into the ossuary in a set order, which the guard teaches (a tactile, quiet sequence). The Long Chakar's attack interrupts; the guard fights; the player, as Miwnay, has to keep the ossuary from falling. Afterwards the lid, loosened, shows a hollow. Inside: a plate whose figure ends in a tight spiral, and a velvet roll of bronze weights with one slot empty. The player lifts the roll. The slot is the shape of the Scale's weight. The leaf gauge at her wrist twitches, as it did on Day 1.
+**Does.** Miwnay closes her hand on the retained-sample vial in her sleeve.
 
-**Pays off.** Day 1's weight. **Opens.** Is it hollow?
+## 14. The Bones and the Twin (Day 31)
 
-## 14. The Reading (Day 36)
+**Does.** At the silent tower the player gathers bones into the ossuary in the order the guard teaches. When the Long Chakar attacks, the player must keep the ossuary from falling while the guard fights. The loosened lid shows a hollow. Inside are a plate whose figure ends in a tight spiral, and a bronze weight identical to the Scale's. The player lifts it. The leaf gauge twitches the other way: heavier than the one on Day 1.
 
-**Does.** At the Counterweight, the player sets the YT 78 plate on a Draxt reading table and scatters dust. Wakhsh's hand-branches pass over it.
+**Then.** At a font, as heir, she asks what her original paid for in the month of Unburned. *Two weights of one hundred drachms; sealing fee.*
 
-**Sees.** The figure spreads across the table, and then across the walls as every Draxt in the station reads it at once: the whole room crawls with fern figures, then stills. The interpreter reads the plate aloud: *PATTERN WAKHSH TO ITSELF. DUST FALSE SINCE UNBURNED. SPIN THE ORDU THREAD.* Then Wakhsh, through the interpreter: its future self died to send this; it has waited 26 years to hear it.
+## 15. Sixty Glyphs, Again (Day 31, Aytash)
 
-**Reading:** one plate.
+**Does.** In a Pench banker's cabin, Aytash composes a standing send by laying glyph-tiles on a dusted slate. The interpreter warns that the first person to read it will be the Acting Master of Dust at Marqand's Well. The player drafts. A plain warning reads clearly on the slate and will read clearly to Farnxund. A line of deck-song reads like nonsense to anyone but a captain. A plea to the Draxt seat reads like begging.
 
-## 15. The Naming (Day 37)
+**Sees.** The finished slate is sealed and sent to the Counterweight.
 
-**Does.** In the Cup's hall, the guard sits. The licence lies on the tray. The player tastes his name-cup: one licensed name, no rider. The player chooses the name: Avd, Tishvandak or Pukar. Miwnay passes him the cup. He drinks.
+## 16. The Ripple (Day 32, Aytash)
 
-**Sees.** The next dawn, his sash ticks. He laughs out loud, a sound he has not made in the game. Then he touches the door handle before she does, out of habit, and it opens for him by name.
+**Sees.** From an observation blister on the flagship, at noon, a thin line of light runs down the distant cable from top to bottom in forty seconds. The captains on watch fall silent. Somewhere a future in which the fleet struck Marqand has just been unmade.
 
-## 16. The Light Weight (Day 38, climax)
+**Does.** In the council an hour later, Temirkan says she bought it. **Choice:** stand and name his plan now, or wait.
 
-**Does.** The Review. The player has heard Farnxund turn the gallery against "alien evidence". Wakhsh has been carried to the founding plate and read it: written from below. The gallery has jeered. Now the player, as Miwnay, walks to the balance with the Cup's master weight in her hand, past Shayn on the throne, who holds her eye. The player may stop and walk back. If she goes on, the player sets the hundred-drachm Scale weight on one pan and the Cup's hundred-drachm master on the other.
+## 17. The Coup (Day 33, Aytash)
 
-**Sees.** The Scale's pan rises. The hall goes so quiet the sparks are audible. On the Draxt seat's instruction the bailiff strikes the sacred weight; it splits along a seam; inside lies a small dark stamp. Dusted onto a blank plate before the whole hall, it prints the founding message, mirror-reversed. Nobody needs to read branch-script to see that it is the founding plate's figure turned round.
+**Does.** A night corridor between lashed hulls: the gravity changes at every hatch. Aytash runs, hides, and reads the sparks of the men at the next hatch to tell her father's loyalists from Temirkan's.
 
-**Then.** Wakhsh offers the re-spinning cup. Farnxund, asked first, refuses. The player tastes it in the same way as on Day 1, slurp, hold, ring of notes, but this time the notes fade from the ring one by one as the write takes, until only warmth is left. Drink or refuse.
+**Sees.** Her father in his hangar, dead. The ship-standards of loyal captains are raised in the dark around her.
 
-**Pays off.** Day 1's weight and tray; the Draxt ban; the ossuary slot; Makhdhat's rings; the guard's naming (he testified); Aytash's petition; Takhsich's touch.
+## 18. Chash (Day 35, Aytash)
 
-## 17. The Door (Day 38)
+**Sees.** A second elevator rises from a grey city: plain human cable, no Hush, ever. On a public screen the farn figure for next month is being argued over, and there are riots in the lower floors. The Tudun receives her in a room much like Shayn's.
 
-**Sees.** Farnxund, sentenced to unnaming, walks out of the hall. The door does not open for her. Her former seventh chakar steps forward and opens it. She looks at him. He holds it until she is through.
+**Does.** Lays a map of the Kish thread's freight lanes on his table.
 
-**Reading:** none.
+## 19. The Grove (Day 36)
 
-## 18. The Name (Day 46, epilogue)
+**Does.** Miwnay sets the YT 78 plate on a reading table before the Draxt court, on a moon where she weighs almost nothing, and scatters the dust.
 
-**Does.** Miwnay, with a new face and her old voice, sits for her naming. The guard tastes her name-cup slowly, the way she taught him, slurp and spit, and nods. The player chooses her name. If the player answered Nanai-farn on Day 27, the guard repeats the answer once, quietly, before she drinks.
+**Sees.** The figure spreads across the table, then across every wall, as the court reads it together. The interpreter speaks it: *PATTERN WAKHSH TO ITSELF. DUST FALSE SINCE UNBURNED. FARNXUND WEIGHED IT. SPIN THE ORDU THREAD.* Then the walls divide: one side's figures branch towards a long send that would unmake three hundred days, the other's towards keeping them. Miwnay may speak. Then Wakhsh kneels, as the Draxt at the docks did on Day 6, and asks to be re-spun. The walls still.
 
-**Sees.** Two cups on a tray, one tasted by each of them. The Cup's master weight beside them, the right weight. The next dawn the tick in the sash: weaker than it was before the Review, but there.
+**Reclassifies.** Farnxund. Makhdhat's "girl from the Scale". Nanai-farn's YT 78.
+
+## 20. The Naming (Day 37)
+
+**Does.** In the Cup's hall the guard sits. The licence lies on the tray. The player tastes his name-cup (one licensed name, nothing added) and chooses: Avd, Mahvandak or Pukar. He drinks.
+
+**Sees.** At the next dawn his sash ticks, and he laughs aloud, a sound the game has not given him before. Then he touches a door handle out of habit, and it opens for him by name.
+
+## 21. The Light Weight (Day 38, climax)
+
+**Sees.** Farnxund, out of her grounding, sparking at every denial while Aytash names each spark. Shayn reading her grandfather's seal. Wakhsh, re-spun and in pain, at the founding plate. The vote, two of three: not enough.
+
+**Does.** The player, as Miwnay, walks to the balance past Shayn, who holds her eye. The player may stop and walk back. If she goes on, the player sets the Scale's weight on one pan and its twin on the other.
+
+**Sees.** The Scale's pan rises. The hall goes so quiet the sparks are audible. The bailiff strikes the weight; it splits; inside lies a stamp. Dusted onto a blank plate, it prints the founding message mirror-reversed. Nobody needs to read the figures to see it is the founding plate turned round. Weigher A lifts her hand.
+
+## 22. The Door (Day 38)
+
+**Sees.** Farnxund, unnamed, walks to the door and it does not open. Her former seventh chakar steps forward and opens it for her, and holds it until she is through.
+
+## 23. The Hostage (Day 38)
+
+**Sees.** Aytash states the terms in the voice the hall knew as a prisoner's. Shayn names her son. The boy is twelve. Aytash was nine.
+
+**Does.** Miwnay stands, or does not.
+
+## 24. The Crash (Day 39)
+
+**Does.** The player walks the Root's crèche wards. Farn houses' agents come with surrender papers, and Pukar's mother turns them away until the Wards Decree is posted on every font. The player can find the conduit boy, named or not.
+
+**Sees.** The Bench board on a feed, falling through the floor; Chash burning on another.
+
+## 25. Two Cups (coda)
+
+**Does.** In a steel hangar among the Ordu, Aytash holds the hostage's naming. The guard tastes the cup slowly, the way she taught him, slurp and spit, and nods. The player chooses the name: Tuz, Ülüsh or Miwnay.
+
+**Sees.** Two cups on a felt tray, one tasted by each of them. The twin weight beside them: the right weight.
 
 ---
 
-## Options considered for the three anchor scenes
+## Options considered for the anchor scenes
 
-| Anchor | Option chosen | Alternatives considered |
+| Anchor | Chosen | Alternatives considered |
 |---|---|---|
-| Opening | The Seven Cups | The Hush as the first image (too big without people to care about; moved to Day 4); a child's naming (too gentle; moved to the end) |
-| Midpoint | "The Seventh" | Varkhuman's death (kept as the shock the day before); the mole unmasked (moved to Act 3) |
-| Climax | The Light Weight | The alien at the founding plate (kept as the beat before); the guard at the door (kept as the beat after) |
+| Opening | The Seven Cups | The Hush as the first image (too big without people to care about; moved to Day 4); a child's naming (too gentle) |
+| Midpoint | "The Seventh" | Ashtvan's death (kept, the day before); the mole unmasked (Act 3) |
+| Final-act reveal | "FARNXUND WEIGHED IT" at the Grove | The Ordu really had a burning ready in YT 41 (rejected: it muddies the wronged party, see `01`); Makhdhat as the unmade exposer (weaker: she has no arc to reclassify) |
+| Climax | The Light Weight | The alien at the founding plate (kept, before it); the door (kept, after it) |
+| Final image | Two cups in an Ordu hangar | The keeper at the Well (kept as a branch); the Spark stall (kept as a branch) |
