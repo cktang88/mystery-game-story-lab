@@ -10,7 +10,7 @@ shift
 msg="$subject
 
 Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
-Claude-Session: https://claude.ai/code/session_01BpmvtVi6x457t3fwB4XKw1"
+Claude-Session: https://claude.ai/code/session_01BpmvtUycaEsNxR45eZcGc3"
 
 for attempt in $(seq 1 20); do
   if git add -- "$@" 2>/dev/null && git commit -q -m "$msg" --only -- "$@" 2>/tmp/commit_err.$$; then
