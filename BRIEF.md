@@ -15,6 +15,11 @@ Constraints from the project owner, in priority order.
 - Layered like Game of Thrones: multiple character threads that run in parallel and converge.
 - Unveiled bit by bit over time.
 
+## Unpredictable
+
+- Lots of moments the player does not see coming: deaths, betrayals, reversals, reveals.
+- Each one must be fair in hindsight, set up by things the player already saw.
+
 ## Deep, not confusing
 
 - The model is Game of Thrones before season 8: many people follow it easily, yet it is deep because of the many character threads.
