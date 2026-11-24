@@ -177,3 +177,24 @@ Naming logic: Tamil or Tamil-derived names, often older Sangam forms revived by 
 - **Frame-break:** (a) **the blob and the hole** (picked); (b) the suspense ledger (texture); (c) the rigged first ordeal (kept as the second frame-break, now with its own Act 5 investigation).
 - **Climax:** (a) **the chamber: anklets, thali, parrot, unsheathe, the purpose field** (picked); (b) a rooftop chase (spectacle without the question); (c) the vote (now a parallel playable beat).
 - **Final image:** (a) **the parrot walking in the vault** (picked); (b) "Mine" (penultimate); (c) the bloom opening (too triumphant).
+
+---
+
+## Round 12: the Fable judge's pass (new important elements, three options each)
+
+The full three-option tables for the Thinnai viewpoint, the alien counterpart, the Crossing's factions, the rival nakhoda, the living proxy and the killer's confrontation are in `04-characters.md`, "Three options for each new or reworked important element". The remaining new elements are below.
+
+| Element | Option 1 | Option 2 | Option 3 | Pick and why |
+|---|---|---|---|---|
+| **Alien verb** | **Parley**: read an envoy's coats as statements, then lay out a reply on the roost floor from returned crossings, placed by route; the envoy carries it into the next round | **Offer**: give or withhold returned packets, and the bloom opens or closes. Simple, but it is a vending machine, not a conversation | **Route-bid**: bid route share against other blooms. Clear economics, but it makes the aliens merchants, which was rejected in round 5 | **Parley.** It folds strata reading into its reading half (no extra verb), lets an individual answer, and makes the three rounds a played negotiation |
+| **Teaching the shallowest-loop rule** | **The Irai's double coin**: a calibration token with a one-day loop and, behind it, a ten-year loop | Weighing a lovers' leaf in Minmini's drawer: personal, but its second loop would have to be invented | A tutorial voice: text, and it breaks the diegesis | **The double coin.** Twenty seconds, wholly in-world, and every assessor would carry one |
+| **Ending shape** | **A four-day final act**: Day +1 the killer and the antique lease; Day +2 the duel with Thamarai; Day +3 the ordeal; Day +4 partings | Hold the ordeal on the night of Day 0. Too crowded, and the founding crime would never get its own investigation | Move the founding crime before the climax. That overloads Act 3 and steals the duel's leverage | **Option 1.** The climax and the final act are now one to four days apart, not twelve, and each day has a played confrontation |
+| **Ponni's leverage over Thamarai** | **Silence traded for the proxies' decree** (canon bargain), or reveal | Blackmail for her own acquittal. Self-serving, and it cheapens the signature | Nothing; Thamarai simply wins. Bleak, and it is what the judge flagged | **Option 1.** The enabler rules, but on the anchor's terms, and every proxy gains standing |
+| **Originality pass: Dune** | **Recast enmity as commerce**: the firms are rivals because Neithal's plates front-run Paalai's berth auctions, and the AS 0 grievance is a lawsuit, not a blood feud. Foresight is taxed film | Drop the marriage. Impossible: it is a seed | Make foresight personal. That moves the story toward Dune, not away | **Option 1**, logged in `07` |
+| **Originality pass: Minority Report** | **Make the vidai an insurance-style claim on property**, filed on a leaf that shows presence, perfected on a certified loss, and void if the holder caused it. It is fraud law, not prevention | Remove licensed deaths. That loses the engine the grader praised | Make foreseen killings fully legal. That makes the world unlivable | **Option 1.** "A licence for a shadow" is about property law and proxies, not precrime |
+
+### Re-grades in earlier rounds
+
+- **Round 5, aliens:** the verb is now **parley**. Envoys have one recurring individual, Ottai. The Crossing has two factions, the Old Crossing and the Far Blooms, who disagree across the three rounds.
+- **Round 6, politics:** the Mawsim council has a faction fight of its own (Saleha against Jauhar) across three sessions, played with the trade-beads verb.
+- **Round 9, names:** added Aruvi ("waterfall"), Sevvanthi ("chrysanthemum"), Jauhar (Arabic and Malay, "jewel"), Ottai (Tamil, "holed" or "torn"), Thondi (an old Tamil port name, for the Far Blooms' leading world) and the kaasu ("coin"). Cut from player-facing text: *olai*, *nokkam*, *thulaakkol*, *Mudalali*, *Kaaval*, Irul, Iniyan, Malaiyan, Kaatravan, and the names Paavai and Aathan, though both remain in `02`.
