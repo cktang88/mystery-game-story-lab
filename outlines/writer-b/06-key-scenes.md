@@ -6,6 +6,8 @@ Each sketch gives what the player **does**, what they **see and hear**, what it 
 
 ## 1. The Seven Cups (Day 1, opening)
 
+**Before it.** The game's first seconds: dawn in Miwnay's small Spark room, a tick of charge through her sash (felt through the controller) as the day's farn arrives. No text.
+
 **Does.** The player, as Miwnay, works down a tray of seven tasting bowls, one per party. For each: lift, smell, slurp (a held button; the louder the slurp the more of the profile is revealed), hold, spit into the white spittoon the clerk carries. Notes surface as a ring of flavour icons around the bowl (malt, smoke, iron, honey). In the second cup an extra note, a cold metallic edge, means a rider; the player flags it, the clerk produces Varkhuman's licence, the player clears it. A clerk sets the ceremonial weight on the tray in passing; the player must lift it aside, and the small leaf gauge at Miwnay's wrist twitches and settles a little short. Nothing comments on it. The seventh bowl is clean.
 
 **Sees and hears.** Lapis murals of embassies arriving, a brass balance taller than a person, the founding plate under glass with a small brass notice forbidding Draxt approach, the Draxt seat's dust leaping into fern figures as the veiled interpreter reads them out. Farnxund, presiding, rubs her thumb round the rim of her cup before drinking. Pukar takes the stand, says four sentences in a dry voice, grips the brass rail. Blue-white flash; the hall's sparks all jump at once; he falls; his shirt is burned open across a branching red figure.
@@ -15,7 +17,7 @@ Each sketch gives what the player **does**, what they **see and hear**, what it 
 
 ## 2. Unnamed (Day 1 to Day 2)
 
-**Does.** The player walks Miwnay from the hall to custody. A door she opened this morning stays shut. The guard's waxed sash brushes its plate; it opens. Next dawn the player waits for the small tick in the sash, felt through the controller, that has come every morning of the tutorial. It does not come.
+**Does.** The player walks Miwnay from the hall to custody. A door she opened this morning stays shut. The guard's waxed sash brushes its plate; it opens. Next dawn the player waits for the small tick in the sash, felt through the controller, that came at dawn in the game's first seconds. It does not come.
 
 **Sees.** The guard touches the door handle before she does; a small spark jumps to his glove. "To take the shock for you." He says he is the Weigher's seventh. She calls him Avd. He smiles for the first time.
 
@@ -46,7 +48,7 @@ Each sketch gives what the player **does**, what they **see and hear**, what it 
 
 ## 6. The Descent of Varkhuman (Day 14)
 
-**Does.** As Aytash, at dawn, the player is at a Spark window watching the climbers arrive. One is late. Then, as Miwnay at the Root that afternoon, the player tastes Varkhuman's flask: the familiar cold edge of the descent tonic is missing; instead, a soft green-iron bitterness the palate has not met before, sitting on a pale, floral tea the player has met once, at the Weigher's table on Day 1.
+**Does.** As Aytash, at dawn, the player is at a Spark window watching the climbers arrive. One is late. Then, as Miwnay at the Root that afternoon, the player tastes Varkhuman's flask: the familiar cold edge of the descent tonic is missing; instead, a soft green-iron bitterness the palate has not met before, sitting on a pale, floral tea the player has met once, in the Chief Weigher's bowl on Day 1.
 
 **Sees.** A climber car opened at the Spark platform; a big man slumped in a gravity chair, his face grey, his hand still round the flask.
 
