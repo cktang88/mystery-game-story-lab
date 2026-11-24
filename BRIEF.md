@@ -19,7 +19,8 @@ Constraints from the project owner, in priority order.
 
 - Never plagiarize. Be inspired by the great stories, but copy no plots, characters, names, settings, signature twists or lines from them.
 - Borrow techniques (how reveals are paced, how threads converge), not content.
-- Avoid the most common tropes (see TV Tropes). Where a trope is unavoidable, twist it or play against it.
+- Tropes are a review prompt, not a ban. When a beat matches a common trope (see TV Tropes), stop and ask whether a better story opportunity exists there.
+- If the trope is still the best choice for the story, keep it. Never bend a good story backwards just to dodge a trope.
 
 ## Unpredictable
 
