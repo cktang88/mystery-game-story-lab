@@ -22,7 +22,7 @@ Each sketch says what the player **does**, **sees** and **hears**, which detail 
 ## 3. The looped parrot (Ch 3)
 
 **Sees.** Minmini's rooms, warm and full of toys. On a cushion, the tin parrot with its ugly solder blob.
-**Does.** Weighs the body in the cold room: looped, **two days**. Weighs the toy carrier: looped. Weighs the parrot: the lens doubles it into a faint offset ghost, and the depth needle swings past days, past years, to **twenty-three**. On the board outside, all three readings appear under her name within a minute.
+**Does.** Weighs the body in the cold room: looped, **two days**. Weighs the toy carrier: looped. Weighs the parrot: the lens doubles it into a faint offset ghost, and the depth needle swings past days, past years, to **twenty-four**. On the board outside, all three readings appear under her name within a minute.
 **Hears.** Ponni counting under her breath, losing count.
 **Plants:** the blob; a loop she cannot explain; the cost of being watched.
 
