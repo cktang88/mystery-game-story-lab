@@ -44,8 +44,8 @@ Three playable threads (Sayo, Seydou, then Tōkichi) start together at the D1 ma
 ## Gonbei Diarra, 35, leader of the Juruntan
 
 - **Want:** free the rear from receipts and hereditary debt by breaking the vault and the Owner.
-- **Misbelief:** "The Owner is a front machine." He has never traded with it, out of pride.
-- **Secret:** he killed Seydou in the dark. The player learns this on D56, through Tōkichi's ledger recall of Seydou's mask at the Jurutigi.
+- **Misbelief:** "The Owner is a front machine." He has never traded with it, out of pride, until the night of D45, when he secretly lays Seydou's bloodied clerk's mask at its feet (a confession he cannot make to people; it is returned wrapped, which means kept).
+- **Secret:** he killed Seydou in the dark. The player learns this on D56: Tōkichi gives the Jurutigi the bone necklace Gonbei left in his wagon, and ledger recall returns Gonbei's last gift, Seydou's mask.
 - **Role:** the visible antagonist faction who is also right about the debts. He wants the same thing as Sayo (the column free of the dead's books) by the opposite means.
 - **Growth:** *moral weight*. On D60 he comes to smash it, finds a dying being, and stays an hour.
 
