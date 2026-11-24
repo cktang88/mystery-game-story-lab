@@ -25,7 +25,8 @@ The deliverable the owner asked for:
 | Round 2 (A revised; B and C redone with seeds) | Done, archived. Diverse, but small and folk-scale; the owner then required big futuristic sci-fi with galactic reach, spy and court intrigue, politics and economics (`BRIEF.md`, "Scope and genre") | `outlines/archive/` (see its README), reviews in `judging/archive/` |
 | Round 3: three fresh writers | Done and revised. A "The Unsigned" (graded 7.3 before revision), B "The Light Weight" (6.0), C "The Ouro's Hand" (6.5; its ending copied Code Geass and was replaced) | `outlines/writer-a/`, `writer-b/`, `writer-c/` (each has `08-revision-log.md`) |
 | Round 3 graders | Done (reviews predate the revisions) | `judging/review-writer-*.md` |
-| Fable judge's comparison | Last | `judging/` |
+| Fable judge's comparison | Done. Winner: A "The Unsigned" (7.9) over C (7.5) and B (7.4), with five technique grafts from B and C and five open problems | `judging/verdict.md` |
+| Next | Apply the verdict: one writer folds the five grafts and fixes the open problems into A, then a fresh grader | `outlines/writer-a/` |
 
 ## Repo conventions
 
