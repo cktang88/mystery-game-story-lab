@@ -123,7 +123,7 @@ A guard room, one lamp, the parrot on the table. Nedumaran: "I licensed a loss."
 
 ## 20. The roost at night (Ch 35)
 
-Ponni and Minmini sit on the gantry edge as carriers fold in over the reopened bloom. It is their first conversation aloud. No one dies, and no one is mourned. It is two women who have only ever written to each other, laughing at how wrong they each got the other's voice.
+Ponni and Minmini sit on the gantry edge as carriers fold in over the reopened bloom. It is their first conversation aloud: two women who have only ever written to each other, laughing at how wrong they each got the other's voice.
 
 ## 21. The altered term (Ch 37)
 
