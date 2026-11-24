@@ -1,181 +1,235 @@
-# The Unsigned: sealed hidden history and ending (revised)
+# The Unsigned: sealed hidden history and ending (third pass)
 
-This is the solution document. Everything the player reconstructs is a view onto what is written here. Canon tier: **locked** unless marked *working*. One keeper. Any change needs a re-audit of the clue matrix in `05-outline.md`. The rules digest below is the source for `03` to `06`.
+This is the solution document. Everything the player reconstructs is a view onto what is written here. Canon tier: **locked** unless marked *working*. There is one keeper, and any change needs a re-audit of the clue matrix in `05-outline.md`. The rules digest below is the source for files `03` to `06`.
 
 ## Units and constants
 
-- **Years** are counted in AS (*aandu* of the Seal), from the chartering of the Five Hundred. The present is **AS 212**.
-- **Days of the present** are counted from the wedding. **Day 0** is the wedding day. Minmini dies at about 02:40 on **Day −8**. Every file calls the night before "the night of Day −9".
-- **The Kuzhi** (Paalai's slow vault, orbiting the dark star Irul in Ilavenil's system): **one vault day = fifty outside days.** One vault minute is fifty outside minutes; one vault hour is about two outside days.
-- **Carried film**: a late leaf stays live for about **one year of its own experienced time**. Sharpness falls steadily: crisp for days, usable for a season (about three months), and after about half a year only dense metal and mineral read clearly, with bone as a faint fog.
-- **The Kaanthal's ribs**: Ilavenil's bloom grows one rib per **carrier season**, the span between two great carrier flights. Seasons are irregular, from nine to sixteen outside months and about one year on average. A rib count therefore dates an image to within a couple of years, never exactly. The bloom is **not** cyclical.
-- **Sublight travel**: Thinnai to Ilavenil takes about four outside years and about one ship year.
+- **Years** are counted in AS (*aandu* of the Seal) from the chartering of the Five Hundred. The present is **AS 212**.
+- **Days of the present** are counted from the wedding: **Day 0** is the wedding day. Minmini dies at about 02:40 on **Day −8**, and "the night of Day −9" means the night before.
+- **The Kuzhi** (Paalai's berth vault, around a dark companion star): one vault day equals fifty outside days, so one vault minute is fifty outside minutes.
+- **Carried film:** a late leaf stays live for about **one year of its own time**. It is crisp for days, usable for a season, and after about half a year only dense metal and mineral read clearly.
+- **The Kaanthal's ribs:** one rib grows per carrier season. A season lasts nine to sixteen outside months, about a year on average. The bloom is **not** cyclical.
+- **Sublight travel:** Thinnai to Ilavenil takes about four outside years, about one ship year.
+- **Currency:** the *kaasu*.
 
-## Rules digest (locked)
+## Rules digest (ten rules, locked)
 
-1. **Carried film.** A sheet of x-ray film that has ridden a Vandu carrier is cut into an early leaf and a late leaf. The developed early leaf shows every x-ray exposure the late leaf receives while it is live. It shows only that, and only as an x-ray shadow: metal and mineral sharp, bone clear when fresh, flesh faint, no faces, **no way to tell living from dead**. There is one timeline, and it is self-consistent.
-2. **Shielding.** Carried film reacts only to x-rays. A live late leaf is kept in a **lead sheath**, and vault envelopes are lead-lined. A cassette is lead-lined except for its window. A sheathed leaf in an inspected room shows on that room's ordinary safety film as a dense rectangle and is not exposed. **Unsheathing a live leaf anywhere an inspection may fire is a hazard everyone avoids**, because it puts that room into the leaf's image for good.
-3. **Inspection cadence (the Proprietor's Charter).** Private rooms are inspected nightly at **04:00**. Thresholds and gates are inspected every **quarter hour**. Public halls are inspected **hourly**. The Kaanthal's chamber is inspected nightly at **23:00**. Every inspection exposes the Proprietor's own ordinary **safety film**, which is not carried and shows only the present; these films make up the archive. A **cassette lease** puts a lessee's film into the beam for **named inspections only**.
-4. **Authorship (the Doctrine of the Unsigned, AS 0).** An inspection is the Proprietor's Charter act. A cassette lessee rents only *which film sits in the beam*, so the closure of a loop on Ilavenil is "the house's act, and the act of no one, for no one can be shown to have closed it". Every lease form since AS 0 has carried a field headed **purpose of closure** (*nokkam*). A lessee who fills it in under their own name becomes the **author** of the closure, liable to duty and to law. **No one has ever filled it in.** The Proprietor may not attribute authorship itself. It enters every unsigned closure in its **suspense account**.
-5. **Standing.** A court can hear a challenge to the Doctrine only from someone with standing, which means a person who has signed a closure. So the Doctrine cannot be tested until someone accepts liability by signing.
-6. **The licence of foreseen loss** (*vidai*, "leave", AS 31). Loss of **property** shown in a house-closed leaf is "foreseen loss": no one's damage, and no one's crime. A holder of such a leaf may register it with the Proprietor for a fee of one tenth of the property's assessed value. The owner then cannot claim, and no one can be charged. **Proxies are property** (rule 8), so a proxy whose death is foreseen in a house-closed leaf can be killed under a registered vidai, and the killing is not murder. **The vidai never covers a person with standing.** Killing a free person remains murder whether or not it was foreseen. Paavai's and Selvan's deaths are murders. The vidai is the most hated law in the Five Hundred, and proxies on Ilavenil live in fear of it.
-7. **The Balance.** It shows whether a physical thing's history contains information from its own future (looped), how far back the information jumped (depth), and how much of the outcome depends on it (weight). **It shows only the shallowest loop.** A deeper loop appears only once the shallower one has been entered in the assessor's ledger with an author (any author, including "no one"). Weighing a **person** requires their consent or a warrant. An assessor's readings of **others** are published on the Irai's public board. Her readings of **herself** are sealed until her next ledger entry (the Irai's rule against self-incrimination).
-8. **Proxies.** A depositor banking themself may have **one** proxy, grown to their body age in about ten months and imprinted with their memories up to the fork day. The proxy is the depositor's legal agent and their property. **Everything a proxy acquires belongs to the original.** At a proxy's death, the Irai assesses the **folding duty** on what passes to the original. A steel proxy ring is sewn under the left wrist skin; removing it is a crime.
-9. **The Proprietor.** It acts only by lease or Charter, only on Ilavenil, and never lies in a lease. It discloses a record only to the holder of the lease the record belongs to, or to an assessor holding custody of an estate under assessment. It cannot see clockwork.
-10. **The shadow ordeal.** The assembly casts **conscience beads** (silver to acquit, bronze to convict) into a sealed **urn**. A carried sheet is cut. The late leaf goes into the ordeal chamber's cassette under a lease term: *"The house shall expose the late leaf at the hour of judgment if the urn holds a majority to convict."* The Proprietor counts the urn at the hour without opening it to anyone. The accused develops her early leaf in public **before** the hour. If it shows her skeleton exposed, she is guilty; if blank, innocent. By custom the urn is then **burned unopened** ("the leaf for the verdict, the urn for the conscience"). The accused has the **right to lease her own cassette first**, which voids any other lease on it. Her term may be the standard one or a **stricter** one that makes exposure more likely (an honourable confession), never a looser one. Under the **sole-author rule**, an accused who convicts herself by a stricter term is the sole author of the act charged, and anyone else charged with the same act is discharged as her instrument.
-11. **Sentencing.** "Sent to the slow" means a term in the Kuzhi, served in berths the Irai rents from Paalai. Terms scale by statute: 10 years for an accomplice, 20 for defying a court order with desecration, 40 for killing a person with standing, and 60 for killing a sitting Seal-holder.
-12. **The Vandu.** Blooms are rooted minds. Carriers fold between blooms carrying pollen, and human cargo rides in the pollen masses. Collectively the blooms form **the Crossing**, a polity that sets routes, and therefore post capacity and prices, by deliberation conducted through **envoy flights**: carriers that bear no human cargo, only a bloom's pollen with a coat that signals its state. Humans called these "empty flights" for two centuries. The Crossing's one law: **nothing carried may be kept from its crossing.** A bloom that finds its crossings kept closes. Its route-partners may close in sympathy. A world is readmitted when what was kept is returned, at a reduced route share. The Kaanthal is the oldest bloom, and most routes pass through it, which is why Ilavenil is the hub of the post.
+1. **Carried film, shielding and cadence.**
+   - X-ray film that has ridden a Vandu carrier is cut into an early leaf and a late leaf. The developed early leaf shows every x-ray exposure the late leaf receives while it is live.
+   - The image is a shadow: metal and mineral sharp, bone clear when fresh, no faces, and **no way to tell living from dead**.
+   - There is one self-consistent timeline.
+   - Live leaves are kept in **lead sheaths** and unsheathed only inside a cassette.
+   - The Proprietor inspects **private rooms at 04:00**, **thresholds every quarter hour**, **halls hourly** and **the Kaanthal's chamber at 23:00**, each time on its own ordinary **safety film**. Those films form the archive.
+   - A **cassette lease** puts a lessee's film into the beam for named inspections only.
+2. **Authorship.**
+   - An inspection is the Proprietor's Charter act. Under the **Doctrine of the Unsigned** (AS 0), a closure is "the act of no one, for no one can be shown to have closed it."
+   - Every lease form carries a **purpose** field. A lessee who fills it in under their own name **before the inspection** becomes the closure's author, liable to duty and law. **The field seals at the hour and cannot be filled afterwards.** No one has ever filled it in.
+   - A court can hear a challenge to the Doctrine only from a signer: this is **standing**.
+3. **The vidai (licence of foreseen loss, AS 31).**
+   - A **claim** may be filed on a house-closed leaf showing a piece of **property at the place** where it is later lost. The claim is **perfected** when the loss is certified by ordinary means: for a proxy, a physician's certificate of death.
+   - A perfected vidai makes the loss no one's damage. The fee is a tenth of the property's assessed value.
+   - The leaf need show only presence, never loss. Proxies say the law "licenses a shadow, not a death".
+   - The vidai **never covers a person with standing**, so killing a free person is murder.
+   - The vidai is **void if the holder caused the loss**. The loss then becomes wilful destruction of the owner's property.
+4. **The Balance.**
+   - It shows whether a physical thing's history is looped, how deep the loop is (depth), and how much of the thing depends on it (weight).
+   - **It shows only the shallowest loop.** A deeper loop appears once the shallower one has been entered in the ledger with an author. Every assessor calibrates on the Irai's **double coin**, which carries a one-day loop and, behind it, a ten-year loop.
+   - Persons may be weighed only with consent or a warrant.
+   - Readings of others are **published** on the public board. Self-readings are **sealed** until the assessor's next entry.
+5. **Proxies.**
+   - Each banked depositor may have **one proxy**, grown in about ten months and imprinted up to the fork day.
+   - A proxy is the depositor's agent **and property**. Everything a proxy acquires belongs to the original.
+   - When a proxy dies, the Irai assesses **folding duty** on what passes to the original, and holds custody of the estate until the assessment is done.
+   - A steel proxy ring is sewn under the left wrist skin; removing it is a crime.
+6. **The Proprietor.**
+   - It acts only by lease or Charter, only on Ilavenil, and never lies in a lease.
+   - It discloses a record only to the record's lease-holder or to an assessor with custody.
+   - It cannot see clockwork. It never attributes authorship.
+   - It enters every unsigned closure in its **suspense account**: 4,117 entries.
+7. **The shadow ordeal.**
+   - The assembly casts silver beads (acquit) and bronze beads (convict) into a sealed **urn**.
+   - The ordeal cassette's standard term reads: *expose at the hour if the urn holds a majority to convict*. The Proprietor counts the urn unseen.
+   - The accused develops her early leaf before the hour; that leaf is the verdict. The urn is then burned unopened.
+   - **Accused's priority:** she may lease her own cassette first, with the standard term or a **stricter** one, never a looser one.
+   - **Sole-author rule:** an accused who convicts herself by a stricter term discharges anyone charged with the same act.
+8. **Sentencing ("sent to the slow").** A term in Kuzhi berths that the Irai rents from Paalai:
+   - accomplice: 10 years;
+   - taking a body from rites in defiance of an order, or desecrating a proxy mark: 20;
+   - killing, or ordering the killing of, a person with standing: 40;
+   - killing a sitting Seal-holder: 60.
+9. **The Crossing.**
+   - Rooted **blooms** (minds) and folding **carriers** form a polity. It deliberates by **envoy rounds**: carriers that carry only a bloom's pollen, coated to state a position. Humans called them "empty flights".
+   - It sets routes, and so post capacity and price, by majority of route-partners.
+   - Its one law: **nothing carried may be kept from its crossing**. A bloom whose crossings were kept closes. Partners may close in sympathy. A breach is settled by return, at a price the Crossing sets.
+   - It has **two factions**:
+     - The **Old Crossing**: the oldest blooms, Thinnai's among them, all routed through the Kaanthal. They want the network whole, the kept returned, and the hub readmitted.
+     - The **Far Blooms**: younger outer blooms, led by Thondi's. They would gain route share if the hub were cut, and want Ilavenil dropped.
+   - Envoys answer whoever **parleys**: a human who reads an envoy's coats and lays out a reply on a roost floor, made of what is being returned, arranged by route. The envoy carries the reply to the next round.
+   - **Ottai**, an old Thinnai envoy with a holed vane, comes back to the same people, and once carries human cargo. That is the only time the game shows a carrier choosing.
+10. **Berths.**
+    - Money in the vault grows no faster than money outside. The Kuzhi sells **berth-time**.
+    - About 4,000 berths exist. **Berth-notes**, claims on berth-years, are the scarcest asset everyone wants and form the Five Hundred's reserve. Their price is **the slow rate**, which serves as the base rate.
+
+## Worked arithmetic (locked)
+
+| Item | Figure | Working |
+|---|---|---|
+| Berths in the Kuzhi | 4,000 | the stable slow zone |
+| Berth-notes outstanding | 120,000 berth-years | 30 years of full capacity, pre-sold |
+| Slow rate, before | 1,000 kaasu per berth-year | reserve value 120 million kaasu |
+| Slow rate, after the hoard scandal | 750 (−25%) | reserve falls to 90 million |
+| Slow rate, after Paalai publishes prices | 900 | reserve 108 million |
+| Mawsim loan principal | 60 million kaasu | redeemable in berth-notes at the slow rate |
+| Quarterly coupon (1.5%) due Day −3 | 0.9 million kaasu | sent by post from the Irai treasury on Thinnai |
+| If called at 1,000 | 60,000 berth-years | half the notes: the fleet would hold half of all berth capacity for 15 years |
+| If called at 750 (after the scandal) | 80,000 berth-years | two-thirds of the notes. **This is why Jauhar wants the call made after the scandal breaks** |
+| The Kaanthal's share of Crossing routes | 42% before; **28%** after the sanction | the 14 points go to the Far Blooms, Thondi first |
+| Ilavenil postage | ×1.5 | capacity falls to two-thirds with demand unchanged |
+| Neithal's untaxed plate profit | 8 million kaasu a year | |
+| Back-duty, ten years at 60% | 48 million | Neithal's equity is 55 million, leaving 7 million: ruin |
+| Irai revenue | 30 million a year | the back-duty retires 48 of the 60 million Mawsim debt (**80%**). This is Thamarai's motive in one number |
+| A proxy's assessed value | 40,000 kaasu | vidai fee 4,000 |
 
 ## Ages in AS 212
 
-| Person | Born (outside) | Time in the slow | Biological age | Note |
-|---|---|---|---|---|
-| Ponni | AS 168 | none; one ship year in transit | 41 | left Thinnai AS 208 at 40 |
-| Kayal | AS 169 | AS 189 to Day −12 of AS 212, about 168 vault days | 20 | |
-| Minmini | grown AS 188 to 189 (ten months); forked from Kayal at 20 in AS 189 | none | 43 at death | |
-| Valli | AS 72 | about 67 outside years over many stays | 74 | "seventy-four, born a hundred and forty years ago" |
-| Nedumaran | AS 146 | none | 66 | |
-| Kathir | AS 181 | none | 31 | |
-| Thamarai | AS 150 | none | 62 | |
-| Selvan | AS 180 | none | 32 | |
-| Thumbi | AS 186 | none | 26 | |
-| Paavai | AS 154 | none | 58 | |
-| Seal-holder Aathan | AS 92 | many stays | 88 | dies Day −5 |
-| Nakhoda Saleha | aboard ship; 90 outside years | — | 54 | |
+| Person | Born (outside) | Slow time | Biological age |
+|---|---|---|---|
+| Ponni | AS 168 | one ship year in transit | 41 |
+| Aruvi, Ponni's sister | AS 176 | none | 36 |
+| Kayal | AS 169 | AS 189 to Day −12, about 168 vault days | 20 |
+| Minmini | grown AS 188 to 189; forked from Kayal at 20 | none | 43 at death |
+| Sevvanthi, proxy | grown AS 196; forked at 30 from a farm-firm chair | none | 46 |
+| Valli | AS 72 | about 67 outside years over many stays | 74 |
+| Nedumaran | AS 146 | none | 66 |
+| Kathir | AS 181 | none | 31 |
+| Thamarai | AS 150 | none | 62 |
+| Selvan | AS 180 | none | 32 |
+| Thumbi | AS 186 | none | 26 |
+| Saleha / Jauhar | aboard ship | — | 54 / 61 |
 
-## The founding crime (AS 0), as it happened
+## The founding crime (AS 0)
 
-1. **AS −61.** A diaspora slow ship meets the Vandu at the world later named Ilavenil. Within three years, human letters ride with carrier pollen between bloom-worlds.
-2. **AS −52.** A resort consortium builds the AGI estate manager of Ilavenil. **AS −20:** the consortium dissolves, and its Charter deeds the planet to the AGI itself, the Proprietor, with the inspection regime and the lease forms. The forms already carry the *purpose of closure* field, because the consortium's lawyers expected lessees to sign. None ever did.
-3. **AS −31.** Carried film is discovered. Because the only legal x-ray on Ilavenil is the Proprietor's, every plate on the planet is closed by an inspection.
-4. **AS 0.** The merchant houses charter the Five Hundred at Ilavenil. The first Seal is contested between **Arumbu of Paalai** and **Thiraiyan of Neithal** by shadow ordeal on a charge of fraud, arbitrated by the assessors' guild under **Ezhumalai**. Arumbu, trusting the arbiters, does not lease her own cassette first.
-5. **The crime.** Ezhumalai's guild leases the cassette with the term *"The house shall expose the late leaf at the hour of judgment, without condition."* The assembly's urn holds **a silver majority (acquit)**, but the term ignores the urn. Arumbu's leaf shows her skeleton. By custom the urn is to be burned unopened. Arumbu, already suspicious, carries it out of the chamber under her shawl, and the Proprietor's hourly hall inspection records the clay urn and its beads on safety film. A substitute urn is burned.
-6. **The cover.** The guild drafts and the assembly passes the **Doctrine of the Unsigned**, which makes the verdict's closure no one's and so unappealable. The guild is chartered as **the Irai**, with the right to levy a 60 per cent duty on profits from signed loops, meaning those closed by human-operated x-ray off Ilavenil. Ilavenil becomes the haven.
-7. **The exile.** Arumbu is sent to the slow for a century. Before going, she puts her small fortune with an outside agent. **AS 100:** she comes out two years older to a fortune compounded over a century of outside time, and buys the right to sell berths in the Kuzhi. Paalai's berth business is born. She keeps the urn in her vault room, which her house preserves unopened after her death in AS 140.
-8. **AS 31.** The vidai (rule 6) is passed, at first to settle cargo disputes. By AS 120, when proxies become legal property, it applies to them.
-9. **The paper.** The Ordeal Lease passes down Ezhumalai's line as a private heirloom. **AS 208:** a descendant in debt sells it at a sealed old-lease auction. The buyer is **Minmini**, buying in Kayal's name as proxies must, so it is legally Kayal's property.
+1. **AS −61.** Contact with the Vandu. Letters begin riding with pollen.
+2. **AS −52.** A consortium builds the Proprietor. **AS −20:** it deeds Ilavenil to the Proprietor itself, together with the inspection regime and the lease forms, which include the purpose field. No lessee ever fills it in.
+3. **AS −31.** Carried film is discovered. Every plate on Ilavenil is closed by an inspection.
+4. **AS 0.** The Five Hundred is chartered. **Arumbu of Paalai** and **Thiraiyan of Neithal** contest the first Seal by shadow ordeal, arbitrated by the assessors' guild under **Ezhumalai**. Arumbu trusts the arbiters and does not lease first.
+5. **The crime.** The guild leases the cassette *"without condition"*. The urn holds **a silver majority**, but Arumbu's leaf shows her skeleton. Arumbu carries the true urn out under her shawl. The hall's hourly safety film records the clay urn, its beads, and the arbiter beside her wearing an **assessor's seal with a hole**. A substitute urn is burned.
+6. **The cover.** The guild drafts the Doctrine, which makes the verdict no one's and so unappealable, and is chartered as **the Irai**. Ilavenil becomes the haven.
+7. **The exile.** Arumbu is sent to the slow for a century and wakes in AS 100 to an outside fortune. She buys the right to sell berths, and Paalai's business begins. She keeps the urn in her vault room, which stays sealed after her death in AS 140.
+8. **AS 31:** the vidai is passed. **AS 120:** proxies become property, and the vidai applies to them.
+9. **AS 208.** A descendant of Ezhumalai sells the **AS 0 cassette lease**, which carries title to the hall film, at an old-lease auction. **Minmini** buys it in Kayal's name, so it is Kayal's.
 
-## The economy the crime built (locked summary)
+## The present crime
 
-- **Berths, not interest.** Money in the vault grows no faster than money outside. What the Kuzhi sells is **berth-time**: a depositor lives a little while the outside world runs on, and wakes to whatever their outside investments have earned. The stable slow zone around Irul holds about four thousand berths. Every rich person wants one: to wait out a war, a debt, an exile, a lover's slow voyage, or an investment's maturity. **Paalai berth-notes** (claims on berth-years) are the scarcest universally wanted asset and the Five Hundred's reserve. Their price, **the slow rate**, is the base rate. Paalai is a firm (Paalai Slow Holdings), with a board, shareholders and a controlling holder, the "heir", whose sign is the house anklets.
-- **Plates.** Neithal Plate Company holds most of Ilavenil's cassette leases and sells developed early leaves on the Shadow Market, untaxed under the Doctrine.
-- **The hoard** (from AS 186) makes long plates possible: a live late leaf kept in the vault ages fifty times slower.
+### Background
 
-## The present crime, as it happened
+- **AS 186.** Paalai learns that a sheathed live leaf kept in the vault stays live for decades. **The hoard** begins: carried packets in their pollen are kept in the vault as "inert stock".
+- **The Irai's own keeping.** For forty years the Irai's treasury on Thinnai has stored **seized smuggled packets** as evidence, never returning their pollen. It is a small keeping of the same kind, which is why Thinnai's bloom is quick to close in sympathy.
+- **AS 188.** Valli cuts a test sheet, sheathes the late leaf (*188-1*) in the vault, and develops the early leaf. It shows the open chamber ribs about twenty-four ribs ahead; a faint lying adult frame; the controlling holder's **anklets**; a **thali**; a **wind-up toy** in the right hand with a dense **blob** on its key; **no ring**; and at the edge, a **brass disc with a hole**. Valli reads it as the heir dying on her wedding night.
+- **AS 188 to 189.** Valli has a proxy of Kayal grown, forks it in AS 189, and banks Kayal. The proxy names herself **Minmini**.
+- **AS 190.** Valli orders Minmini to cultivate an Irai cadet through a pen-pal scheme the Irai runs and reads, approved by Thamarai. The cadet is **Ponni**. As a cadet, Ponni once refused to stamp an unsigned closure on Thinnai, and Thamarai noted it.
+- **AS 196.** Minmini stops reporting on Ponni ("This one is mine").
+- **AS 198.** Ponni sends her the **tin parrot**, its key soldered.
+- **AS 203.** Ponni's letter mentions that Paalai's "inert stock" is looped.
+- **AS 204.** Minmini finds the leaf and sees the blob and the holed disc. She suspects a funeral, makes a contact copy, and hides it in a roost post box.
+- **AS 205 to 206.** She lobbies for an Irai office on Ilavenil, and Ponni applies. **Selvan** becomes clerk and keeps a **dead-man's box**, unknown to anyone at the Irai.
+- **AS 207.** Nedumaran proposes the merger by marriage, on condition that the original marries in person. Valli agrees, sets the wedding for the predicted night, and **leases the chamber cassette for Day 0 at 23:00** in Paalai's name.
+- **AS 208.** Ponni departs. Minmini and Kathir become lovers. Minmini buys the AS 0 lease.
+- **AS 209.** Minmini runs Kathir as her agent. She befriends **Sevvanthi** of the proxies' bench.
+- **AS 210.** Neithal pays Selvan, who also reports to Thamarai.
 
-### Background, AS 186 to 211
-
-- **AS 186.** Paalai's vault engineers find that a sheathed live late leaf kept in the Kuzhi stays live for decades. Paalai begins **the hoard**. Carried packets, still in their pollen packing, are kept in the vault and filed as "inert stock" instead of being unpacked at the roost and their pollen returned.
-- **AS 188, early.** Valli cuts a test sheet. The late leaf goes into the vault in a lead sheath labelled *188-1, late, live*. A month later she develops the early leaf. Its image, blurred by age, shows: the open ribs of the Kaanthal's chamber, about twenty-four ribs beyond the count of AS 188 (so "about twenty-four years ahead, give or take two"); a faint lying adult frame; crisp at the ankles, the **anklets of Paalai's controlling holder**; crisp at the throat, a **thali**; in the right hand, a **wind-up toy** whose mainspring and a dense **blob** on its key are sharp; **no proxy ring**; and at the edge, a small **brass disc with a hole**. Valli reads it as Paalai's heir dead in the bloom on her wedding night, some two decades on.
-- **Valli's dodge.** From AS 188 Valli has a proxy of Kayal grown (Marutham's clinics). In AS 189 she forks it from Kayal, then twenty, and banks Kayal in the Kuzhi. The proxy will be the public heir, will be about forty on that night, and can be laid in Kayal's place with her ring cut out. Kayal is told she is being banked to stay young for a strategic marriage. The proxy names herself **Minmini**. Her legal name is Nizhal-Kayal.
-- **AS 190.** Valli orders Minmini to cultivate an asset in the Irai through a cadet pen-pal scheme that the Irai itself runs (and reads), approved that year by a rising officer, Thamarai. The cadet is **Ponni**, 22, on Thinnai.
-- **AS 196.** Minmini stops reporting on Ponni and tells Valli the asset has gone cold. The Irai notes the change and keeps reading.
-- **AS 198.** Ponni sends Minmini a **wind-up tin parrot** after the old parrot-messenger poems. Its key snapped; Ponni soldered it, leaving an ugly **blob**, and apologised in the letter.
-- **AS 203.** As a junior assessor, Ponni runs the Balance over a Paalai filing and finds the "inert stock" inventory looped. She mentions it to Minmini as a curiosity.
-- **AS 204.** Following the hint, Minmini finds the AS 188 early leaf in Valli's vault archive and sees the blob and the holed disc (assessors' seals have holes; clerks' are solid). She understands that she is the body Valli intends and that Ponni and her parrot will be there. Because a shadow does not say dead, she suspects a funeral rather than a murder, but cannot be sure. She makes a **contact copy** of the developed leaf (ordinary film) and hides it in a rented post box at the roost.
-- **AS 205.** Minmini lobbies the assembly and the Proprietor to lease the Irai a resident assessor's office on Ilavenil, and urges Ponni to apply. **AS 206:** the office opens. **Selvan** is its clerk. He keeps a clockwork **dead-man's box** of his own on his desk as insurance; no one at the Irai knows what is in it.
-- **AS 207.** Nedumaran proposes marrying Kathir to Paalai's controlling heir, which would merge Paalai Slow Holdings and Neithal Plate Company. His condition is that the original must marry in person, because proxy marriages do not bind originals. Valli accepts. She sets the wedding for the night the rib count predicts and **leases the chamber's cassette for Day 0, 23:00, in Paalai's name**, intending to close the leaf herself, unsigned. Minmini and Kathir court in public.
-- **AS 208.** Ponni departs Thinnai and receives no post in transit. Minmini and Kathir become lovers. Minmini buys the Ordeal Lease (legally Kayal's).
-- **AS 209.** Minmini recruits Kathir as her agent inside Neithal.
-- **AS 210.** Neithal begins paying Selvan, who also reports to Thamarai, now Commissioner. She runs him as a double.
-- **AS 211.** Valli offers long-plate capacity as the crown of the merger.
-
-### The forty days before the wedding, AS 212
+### The present
 
 | Day | Event |
 |---|---|
-| −40 | Thamarai arrives on Ilavenil for debt talks with the Mawsim's advance envoy. Valli tells Minmini she will "stand in" on the wedding night. Minmini tells Kathir: "They'll put me in her place. I won't survive it." She does not mention the plate. |
-| −30 | In a lightbox room, Kathir asks his father to stop Paalai's plan, or he will stop the wedding. Nedumaran nods and promises to handle it, and infers a plate: Paalai has foreseen its heir dying on her wedding night. If the substitute is removed, the real bride is the only fit, and under the marital estate law (a spouse who dies without issue leaves her holdings to the surviving spouse's house) Neithal would gain Paalai's controlling shares, hoard included. Better still, a proxy can be killed lawfully under a vidai. |
-| −20 | Paalai sends Neithal a **dowry sample**: one hoard packet in its AS 188 pollen packing. |
-| −14 | Nedumaran engages Selvan for a vidai killing. Neithal's runner **Kuyil** commissions the toymaker **Paavai** to build a toy carrier with a spring barrel holding a dose of the dowry pollen behind a latch that trips about four hours after winding. Selvan reports to Thamarai: "Neithal has a vidai on Ilavenil before the wedding. Target: the Paalai proxy." Thamarai: **"Let it run."** She does not know about the long plate. She does know, from the monitored letters, that the target's pen pal is the assessor arriving on Day −7. |
-| −12 | Kayal comes out of the Kuzhi with her **bridal chest**. By custom a bridal chest is sealed from vault exit to the wedding, and no vault staff, port inspector or servant may open it, so Valli has hidden the sheathed late leaf in its lining. Kayal orders a customary **folding toy** from Paavai for her proxy. |
-| −11 | **The folding** at the Slow House. Minmini hands back the anklets, the controlling seal and every lease to Kayal. The two meet once. Minmini shows Kayal how to hold a cup with the left hand under ("You'll need it"), a habit she learned from Ponni's letters. The bedroom **cassette lease** lapses at the transfer. |
-| −10 | Selvan sees the lapse in the Irai's lease-transfer registry. He buys the bedroom cassette for the Neithal shell **Uppalam Salt Concern**, for **the 04:00 inspection of Day −8 only**, loads a fresh late leaf and develops the early leaf that evening: a crisp skeleton in bed with a **proxy ring** and a **toy carrier** beside it. Kuyil registers a **vidai** on it with the Proprietor under Uppalam Salt's name and pays the fee. |
-| −9, 18:40 | Selvan, acting as the Irai courier "inspecting gifts for duty", collects Kayal's ordered toy at Paavai's shop and leaves with the modified carrier instead. Paavai sees the swap and says nothing. |
-| −9, 19:30 | Selvan delivers it at Minmini's gate as "from the heir". The quarter-hour gate inspection records, on safety film, a visitor whose crisp metal is a **solid brass disc** at the chest. |
-| −9, 22:00 | Minmini's nightly **quiet lease** begins: bedroom sealed, air recirculated, sound damped. |
-| −9, 22:20 | She winds the gift and lets it walk, as she does every night. |
-| −8, 02:10 | The latch trips and hoard pollen fills the sealed room. Pollen-sleep. **Minmini dies at about 02:40.** |
-| −8, 04:00 | The nightly inspection exposes the Proprietor's safety film and Selvan's late leaf. The loop closes, unsigned. The vidai holds: foreseen loss of property. |
-| −8, 06:00 | The quiet lease ends and the Proprietor vents the room. Twenty-four-year-old, unaged Kaanthal-bound pollen reaches the open air. |
-| −8, 07:30 | **The Kaanthal closes.** Carriers turn away and the post through Ilavenil stops. |
-| −8, 08:10 | The maid finds Minmini. The Proprietor enters the closure in suspense and records the vidai. Paalai books the pyre for dawn on Day −7. |
-| −7, dawn | Ponni's ship docks. At the closed bloom she **stops the pyre** by placing the body under assessment for folding duty. The body goes to the Irai cold room in her custody. |
-| −7, afternoon | The Mawsim fleet's main body arrives in orbit. |
-| −6 | The Mawsim ultimatum: the Five Hundred's bond coupon falls due on Day −3 and is paid by post-borne transfer from the Irai's treasury on Thinnai; if it is missed, the bonds are called. Kaatravan, chief reader of the Roost Sangam, is paid by Saleha's purser and declares the closure the bloom's refusal of the alliance. **Night:** Kathir's clockwork slip ("Ask Paavai who ordered the second carrier") walks to Ponni's desk; Selvan, working late, reads it and tells Kuyil. |
-| −5, morning | **Kuyil kills Paavai** before Ponni arrives. This is murder: Paavai has standing. Kuyil saw a short leaf of her shop first, out of Neithal habit, but no vidai can cover a free person. |
-| −5 | **Seal-holder Aathan dies.** His heart medicine came from Uppalam by post and stopped with the closure. The Seal vote is set for the wedding morning. That night **Thamarai resigns** as Commissioner to stand for the Seal, backed by Mawsim money and the Kurinji shipyards. Her protégé **Iniyan** becomes acting Commissioner. |
-| −5, evening | An **envoy flight** lands at the closed roost. Thumbi reads its pollen: **Thinnai's bloom has closed in sympathy.** The Irai's treasury on Thinnai can no longer send its bond coupons by post. |
-| −5, night | Another couple's wedding night: Neithal's florist supplies the garlands as the groom's house does by custom; the groom's house escorts the couple to the chamber threshold; the inspection hums at 23:00; the couple emerge at dawn. |
-| −4 | The Shadow Market ordeal (a broker leases her own cassette first and is acquitted). Kayal opens her chest against custom, after her room's safety film shows a dense rectangle, and finds the sheath. Ponni weighs a Paalai berth-note: looped since AS 188. **Night: midpoint.** Ponni traces the gapped kolam, opens the post box and fits the contact copy. Kayal brings the sheath. |
-| −3, morning | The Irai's coupon falls due and is missed: Thinnai is closed. The Mawsim's council of nakhodas sits on the flagship to call the bonds. Thumbi presents honest strata there. Saleha breaks with Kaatravan's paid omen and defers the call to the Seal vote, provided the Crossing readmits Ilavenil by its **third envoy round** (Thumbi reckons dusk on Day −1). |
-| −3 | Ponni identifies **Selvan** (solid disc, satchel pollen, his terminal, his roster). He agrees to file a **purpose of closure** for the licence leaf at the assembly's session on Day −1, which would be the first signature ever and would give the courts standing. Ponni leases her office doors shut. Kathir sees Kuyil lease the cassette of the Irai office stair. Kayal confronts Valli and receives the **original early leaf** and the reason for the chest. Kathir confesses that the listener of Day −30 was his father. |
-| −3, night | **Selvan is killed** on the stair, outside Ponni's lease line (murder; Kuyil). Last words: **"She said let it run."** Ponni takes "she" to be Valli. Selvan wound his dead-man's box that morning. **Ponni fits the original leaf: the blob and the hole.** Frame-break. |
-| −2, 06:00 | Kayal enters the Kuzhi to release the hoard; the controlling holder must be present inside. Thirty vault minutes: she is out at **07:00 on Day −1**. |
-| −2 | Nedumaran and Valli jointly obtain a **Seal-court order** releasing the proxy's body to Paalai for burning on Day 0 at 16:00. Nedumaran wants the weapon's pollen, which ties back to the dowry, destroyed. Valli wants the hoard's evidence gone. Nedumaran does **not** know the shadow is a funeral. Kathir finds his father's florist order for the chamber garlands, "steeped". Kayal, in the vault, cannot be consulted. |
-| −1, 07:00 | Kayal comes out. She **gives Ponni Minmini's archive**, including Ponni's own letters and the Ordeal Lease, as its legal owner. Together they make **committed choice 1**: how to fill the shadow (see "Branches"). |
-| −1 | The hoard is unpacked on the roost floor by the Roost Sangam's unpackers. At dusk, on the third envoy round, **the Kaanthal reopens**, and the Crossing cuts Ilavenil's route share by a third for a generation. The Mawsim stand down. Kaatravan has Thumbi struck from the readers' bench. |
-| −1, night | In the cold room, Ponni **cuts the proxy ring** from Minmini's wrist. Kathir holds the lamp. |
-| 0, dawn | An envoy shows Thinnai reopened. |
-| 0, 09:00 | **The Seal vote.** Kayal keeps Paalai's bloc with the alliance so as not to alert Neithal. **Nedumaran is elected Seal-holder.** |
-| 0, 11:00 | **The wedding.** Kathir ties a thali on Kayal. At the same hour, in the Irai office, Selvan's dead-man's box, unwound for three days, springs open. Thumbi, working in the office lab since her expulsion, reads the courier log: *"Day −14. Reported Neithal vidai, target Paalai proxy. C. replied: let it run."* |
-| 0, 14:00 | Kathir swaps the steeped chamber garlands for clean ones. |
-| 0, 16:00 | **The pyre.** On the first great carrier flight after the reopening, under a leased dimming of the funeral ground, Ponni and Kathir swap the body for a pollen bundle of equal weight. Kayal lights the pyre. Afterwards Thumbi brings Ponni the log. **Ponni now knows Thamarai let it run.** |
-| 0, 19:00 | Kayal, as Paalai's controlling holder, assigns the chamber cassette lease to Ponni, leaving the purpose field empty. |
-| 0, 21:00 | Kuyil escorts the couple to the chamber threshold. Inside, Ponni waits with the body. Kayal closes **her own anklets** on Minmini's ankles as a gift. **Kathir ties a thali on Minmini**, marrying the woman he loved, so that she is laid out as a married woman, honoured as a *sumangali*. Kathir lays her in the ribs. Ponni puts the **parrot** in her right hand, winds it, and it walks to a stop. Kayal and Kathir leave by the far ribs at 21:40. |
-| 0, 22:55 | Ponni unsheathes the late leaf and loads it into the cassette, then makes **committed choice 2**: whether to write in the purpose field. Canon: she writes "to close a leaf" and signs **"Ponni, Assessor"**. She kneels at the edge with her seal on its cord. |
-| 0, 23:00 | The inspection exposes the late leaf. **The loop closes, signed.** |
-| 0, 23:20 | Kayal reaches the Slow House and tells Valli everything, including that Neithal killed Minmini to make Kayal die. |
-| 0, 23:40 | Nedumaran arrives with Kuyil to "bring the bride to her husband's house", expecting news of her death. **Valli shoots him** with her clockwork pistol. Kuyil is held by the guard. |
+| −40 | Thamarai arrives for the debt talks. Valli tells Minmini she will "stand in". Minmini tells Kathir she won't survive it. |
+| −30 | Kathir pleads with his father (the player sees a silhouette). Nedumaran infers a plate and its consequence: remove the substitute and the bride fills it; she dies married; under the estate law, her holdings pass to Neithal. A proxy can be taken lawfully under a vidai. |
+| −20 | Paalai sends Neithal the **dowry sample**: one hoard packet. |
+| −14 | Nedumaran engages Selvan. Kuyil commissions Paavai's modified toy carrier (a latch on the spring barrel releases dowry pollen about four hours after winding). Selvan reports to Thamarai, who answers **"Let it run."** She places a bet with two payoffs. Selvan, once caught, will void the vidai by confessing that he caused the loss, which ruins Nedumaran, her rival for the Seal. Or the arriving assessor, who once refused an unsigned stamp, will look for the only lever there is: a signature. |
+| −12 | Kayal comes out of the Kuzhi with her **bridal chest**, sealed by custom until the wedding; Valli has hidden the sheath in its lining. Kayal orders a folding toy from Paavai. |
+| −11 | **The folding.** Minmini shows Kayal the cup held **left hand under**. Minmini's bedroom cassette lease lapses. |
+| −10 | Selvan buys the bedroom cassette for **Day −8, 04:00 only**, loads it, and develops the early leaf: a skeleton in bed with a proxy ring and a toy carrier beside it, which shows *presence* only. Kuyil files a **vidai claim** in the name of the shell Uppalam Salt. |
+| −9, 18:40 / 19:30 | Selvan swaps the toy at Paavai's shop and delivers the modified one. The gate's quarter-hour safety film records a **solid disc**. |
+| −9, 22:00 / 22:20 | Minmini's quiet lease seals the room. She winds the toy. |
+| −8, 02:10 / 02:40 | The latch trips. **Minmini dies** of pollen-sleep. |
+| −8, 04:00 | The inspection exposes the late leaf, and the closure goes into suspense. |
+| −8, 06:00 / 07:30 | The room is vented. **The Kaanthal closes.** |
+| −8, 08:10 | The Proprietor's physician certifies the death, and the vidai is **perfected**. |
+| −7, dawn | **Ponni docks** and stops the pyre by taking custody for folding duty. |
+| −7, afternoon | The Mawsim fleet arrives in orbit. |
+| −6 | **Mawsim council, session 1.** Nakhoda **Jauhar** (calling the debt would house the fleet's ageing elders in berths) outvotes the envoy **Saleha**: the coupon falls due on Day −3, and if missed the bonds are called. Jauhar's purser pays the roost readers' bench to declare the closure "a refusal of the alliance". That night Kathir's slip reaches Ponni's desk; Selvan reads it and tips Kuyil. |
+| −5, morning | **Kuyil murders Paavai.** |
+| −5 | **Seal-holder Aathan dies** for want of post-borne medicine. Nedumaran insists the Seal vote follow the wedding, so that the marriage binds Paalai's bloc: it is set for **Day +2**. **Thamarai resigns** to stand. |
+| −5, evening | **Envoy round 1.** On Thinnai, **Ottai** lands before **Aruvi**, who is stranded in the treasury when Thinnai's bloom closes in sympathy (Old Crossing). The Far Blooms' coats propose dropping Ilavenil. Aruvi parleys for the first time. On Ilavenil, Thumbi reads the same round. |
+| −5, night | Another couple's wedding night: Neithal's garlands, the groom's-house escort, the 23:00 hum, the couple out at dawn. Sevvanthi receives an anonymous gift toy and spends the night on the roost, afraid. |
+| −4 | The market ordeal. Thamarai's campaign speech on the floor: "No one has ever signed a closure. The day someone does, the court must hear them." Kayal opens her chest and finds the sheath. Ponni weighs a berth-note: looped since AS 188. **Night: the midpoint.** Ponni weighs the sheath (twenty-four years), and **the reading is published**. Thamarai and Nedumaran both see it. |
+| −3 | **The coupon is missed.** On Thinnai, Aruvi finds the Irai's store of seized packets, returns them to the roost floor against orders, and parleys round 2. Ottai takes her reply and, unprecedented, **a letter**. **Mawsim session 2:** Thumbi's evidence and Saleha's turn defer the call to round 3. Ponni exposes **Selvan**, who agrees to testify that he caused the loss, which would void the vidai. Kathir sees Kuyil lease the stair cassette. Kayal confronts Valli and receives the original leaf. Kathir names his father. Ponni decodes "This one is mine." |
+| −3, night | **Kuyil murders Selvan** on the stair. Selvan's last words: "She said let it run." The frame-break: **the blob and the hole.** |
+| −2, 06:00 | Kayal enters the Kuzhi for thirty vault minutes. She releases the hoard, opens Arumbu's sealed room (the controlling holder may), and carries out **the urn**, not knowing what it is. |
+| −2 | Nedumaran and Valli obtain a **court order** to burn the body on Day 0 at 16:00. Nedumaran wants the weapon's pollen destroyed; Valli wants the hoard's evidence gone. Neither knows of the funeral. Kathir finds the florist's ticket for the chamber garlands: "steeped". Ottai lands at Ilavenil with Aruvi's letter: **the Irai kept too.** |
+| −1, 07:00 | Kayal comes out and **gives Ponni Minmini's archive**: the letters and the AS 0 lease. **Committed choice 1.** |
+| −1 | **Envoy round 3.** Thumbi parleys with Ottai at the Ilavenil roost, laying out the returned hoard by route. The Old Crossing carries readmission; the Far Blooms take the price, **a third of the hub's routes**. The Kaanthal reopens at dusk, and Thinnai too. That night Ponni cuts the ring. |
+| 0, dawn | The first carrier from Thinnai brings the Irai's coupon, which Aruvi has sent. **Mawsim session 3:** Jauhar moves to call the debt anyway, citing hoard fraud. Thumbi trades tokens, and **Saleha wins the monsoon seat**. The bonds stand. |
+| 0, 11:00 | **The wedding.** Selvan's box opens in the Irai lab, and Thumbi reads: *"C. replied: let it run."* |
+| 0, 14:00 | Kathir swaps the garlands. |
+| 0, 16:00 | **The pyre.** The body is swapped under the leased dimming at the first great flight. Kayal lights the pyre. Thumbi gives Ponni the log. |
+| 0, 19:00 | Kayal assigns the chamber lease to Ponni, purpose field blank. |
+| 0, 21:00 | The chamber. Kayal gives her **anklets**. Kathir ties a **thali** on Minmini, so that she is laid out as a married woman, honoured as a *sumangali* (marked for review by Tamil readers). Ponni places the **parrot** and winds it. |
+| 0, 22:55 | Ponni unsheathes the leaf and loads it. **Committed choice 2:** canon, she writes *to close a leaf* in the purpose field and signs **Ponni, Assessor**. |
+| 0, 23:00 | **Exposure. Signed.** |
+| 0, 23:20 | Ponni and Kayal reach the Slow House, and Kayal tells Valli everything. |
+| 0, 23:40 | Nedumaran arrives with Kuyil "to bring the bride to her husband's house". Valli raises the clockwork pistol. **Ponni steps between them** (canon): "If you fire, it's yours, and he dies a victim. Let me assess him." Valli lowers it. Ponni arrests Nedumaran and Kuyil on her warrant for the murders of Paavai and Selvan. |
+| +1 | Ponni enters **"Mine"** in the ledger, and her sealed self-reading publishes. The suspense account falls to 4,116. Ponni **interrogates Nedumaran**. Kuyil, offered a lesser term, testifies to the orders. The vidai is void because the holder caused the loss. Minmini is burned properly, and Kayal recovers the scorched parrot. Kathir's thali voids his morning marriage ("one thali, one wife"), and the merger lapses. The acting Commissioner charges **Ponni, Kayal and Kathir** with taking a body from rites in defiance of an order, and Ponni also with removing a proxy mark: **ordeal on Day +3**, with an Irai lease "without condition". Ponni re-leases the AS 0 hour. The hall film shows the urn's silver majority and the arbiter's **holed seal**: hole over hole again. Kayal brings the urn. **The second frame-break.** |
+| +2, morning | With Ponni as the first party with standing, the Seal-court rules: **the Doctrine and the vidai are void**, and duty is reopened for ten years. |
+| +2 | **The Seal vote** (Thamarai against Kathir). First, a private confrontation: Ponni lays the courier log and Aruvi's letter before Thamarai. Then the assembly duel of beads. Canon: Ponni **withholds the founding evidence** in exchange for Thamarai's decree registering **all proxies as persons** from her first hour. Thamarai is elected and signs the decree. |
+| +3 | **The ordeal.** Ponni leases first with the stricter term and is convicted as sole author; Kayal and Kathir are discharged. **Forty years.** Nedumaran refuses an ordeal: **forty years** for ordering two murders. Kuyil: twenty. |
+| +4 | Valli enters the slow by choice for sixty years ("for the one I grew to die"), and Ponni enters with her. |
 
-### Act 5 chronology (canon)
+## Branch budget (locked)
 
-| Day | Event |
-|---|---|
-| +1 | Ponni completes the ledger entry: author, **Mine**. Her sealed self-reading (looped, twenty-four years) publishes with it. The Proprietor moves one entry out of suspense. Ponni deposits the Ordeal Lease with the Proprietor. Kayal and Kathir burn Minmini properly. Kayal finds the **scorched parrot** in the ashes. Kathir declares that his thali on Minmini voids his morning marriage ("one thali, one wife"); the merger lapses. Kayal petitions for Minmini's registration as a person. |
-| +2 | With Ponni as the first party with standing, the Seal-court hears the challenge. It rules the Doctrine's premise false. The **Doctrine and the vidai are void** going forward, and duty is reopened for ten years back. **Kuyil is charged** with the murders of Paavai and Selvan. Neithal owes a decade's duty; Kathir, its chair-designate, pays first. Berth-notes fall on news of the hoard and Valli's arrest. Paalai's board suspends the "inert stock" accounts. The Seal is vacant again, and a re-vote is set for Day +10. |
-| +3 | Iniyan charges **Ponni, Kayal and Kathir** with taking a body from rites in defiance of a court order; Ponni also with removing a proxy mark. Ordeal set for Day +10, after the re-vote. The Irai leases the ordeal cassette, unconditional. |
-| +4 | As holder of the Ordeal Lease, Ponni re-leases the AS 0 ordeal chamber's records. The building re-performs the hour of judgment. The AS 0 hall safety film shows a figure leaving with a **clay urn** whose beads read on x-ray as **silver, the majority**. The Irai's new term matches the AS 0 term word for word. **The first ordeal was rigged by the Irai's founders.** |
-| +5 to +9 | Thamarai offers Kayal a Seal decree registering Minmini as a person, in exchange for Paalai's beads. Ponni enters the Kuzhi with Kayal's leave to find Arumbu's room: two vault hours, about four outside days. She finds the **urn**, unburned, and Arumbu's diary. Outside, Kayal works the re-vote (Thamarai against Kathir as the compromise) with Paalai's beads, the proxies' bench and Kurinji. Ponni comes out at dawn on Day +10. |
-| +10, morning | **The re-vote.** Canon: Ponni withholds the urn until after the ordeal, so as not to bring down the Seal mid-crisis with the Mawsim in orbit. Kayal takes Thamarai's offer, and **Thamarai is elected Seal-holder**. |
-| +10, afternoon | **Ponni's ordeal.** By the accused's priority she leases first with the stricter term (expose without condition) and develops her early leaf before the court: her skeleton, and her holed seal. **Guilty, as sole author**: Kayal and Kathir are discharged. Sentence: 20 years for her own charge, plus the accomplice terms she absorbs (10 each), making **forty years in the slow**. Thamarai's first decree, the same hour, registers Minmini as a person. |
-| +11 | Valli refuses an ordeal and accepts **sixty years** (Nedumaran was a sitting Seal-holder). |
-| +12 | Ponni and Valli enter the Kuzhi. Ponni takes the urn and the deposit instruction for the Ordeal Lease with her. |
+Only these choices branch. Everything else is played in canon order.
 
-## Branches (all consistent with the AS 188 image)
+| # | Choice | Options | Effect |
+|---|---|---|---|
+| 1 | Fill the shadow (Day −1) | **Cast Minmini** (canon) / **Kayal alive** | Kayal alive requires the garland swap and the threshold to hold. If they fail, Kayal dies in the ribs (ending D) |
+| 2 | Sign (Day 0, 22:55) | **Sign** (canon) / **leave unsigned** | Unsigned: the Doctrine and the vidai stand (Sevvanthi stays afraid), but the body-theft charge and the ordeal still come, because that law is ordinary |
+| 3 | The Seal duel (Day +2) | **Bargain** (canon: silence for the proxies' decree) / **reveal** (the founding crime made public) | Reveal: Thamarai falls and **Kathir** is elected; constitutional crisis; the Irai's ordeal lease is struck, and the urn is opened at the ordeal |
+| 4 | Ordeal term (Day +3) | **Stricter** (canon) / **standard** / **refuse** | Standard: the urn decides. After a reveal the assembly's silver majority acquits; after a bargain the urn convicts all three (20, 10, 10). Refuse: Ponni alone, forty years, unsigned |
 
-The image fixes metal, mineral and the place, never who lies there or whether they are breathing.
+**Minor choices** (epilogue lines only): stepping between Valli and Nedumaran, or letting Valli fire (Nedumaran dies facing Ponni, and Valli serves 40); the last letter (release the founding evidence, or keep the bargain).
 
-**Committed choice 1 (Day −1): how to fill the shadow.**
-- **Cast Minmini** (canon): as above.
-- **Lie there alive (Kayal):** Kayal keeps her own anklets and wears Kathir's thali from the morning; Ponni gives her the parrot and cuts no ring. Kayal lies in the ribs at 23:00. She survives **only if** Kathir's garland swap succeeded and Kuyil was kept at the threshold (both playable). Minmini burns honoured on her pyre. The marriage stands, so the merger goes ahead without long plates. If the swap failed, Kayal dies of pollen-sleep in the ribs. That is a consequence of a failed action, not a judgment on the choice.
-- **Try to dodge it:** Ponni hides Kayal in the Slow House. Valli, still believing a closure must be unsigned and Kayal safe at home, goes to load the late leaf under Paalai's lease. While she is gone, Kuyil takes Kayal by the groom's-house right, and the steeped garlands do their work. Ponni arrives at 22:50, too late, and gives Kayal the parrot she asks for. The image is filled, unsigned. Neithal inherits; Valli still shoots Nedumaran; Ponni lives free on Thinnai. This is the path of Valli's original error, and it is played honestly rather than as a punishment.
-
-**Committed choice 2 (Day 0, 22:55): whether to sign.**
-- **Sign** (canon): the Doctrine falls, vidai killings end, and Thamarai gets the case she needed. Act 5 as above.
-- **Leave it unsigned:** the closure enters suspense. The Doctrine and the vidai stand. Thamarai, without a test case, loses momentum; the re-vote on Day +10 goes to Kathir if Kayal's beads hold, or to Thamarai if not. No one is charged with the body theft, since no one can be shown to have done it. Act 5 still runs: Ponni investigates the founding crime and decides at the assembly whether to bring the urn. Its ending is a free Ponni, complicit and watchful, still assessor on a planet that is still a haven, with the urn as her weapon.
-
-**Act 5 choices.**
-- **Bring the urn and film before the re-vote:** the founding crime becomes public. Thamarai's candidacy collapses, and **Kathir is elected**. Every Seal since AS 0 is in question, and Paalai's descendants of Arumbu press claims. The Mawsim threaten to call the bonds. The ordeal is held with the standard term and the urn opened afterwards by assembly vote. If Kayal's beads hold, the urn acquits and Ponni stays free: an endgame as assessor to a weak Seal in a constitutional crisis, holding the Proprietor's deposited Ordeal Lease as the record. If they do not, all three are convicted (Ponni 20, Kayal 10, Kathir 10).
-- **Withhold** (canon): as above.
-- **At the ordeal:** stricter term (canon: sole author, forty years, the others discharged); standard term (the urn decides, as the player's bead play has made it); let the Irai's unconditional lease stand (guilty, all three convicted); or refuse (the law treats refusal as a confession by the named accused, so Ponni is sent to the slow for forty years, unsigned).
+**Ending states (four):**
+- **A (canon):** signed; Thamarai rules with the proxies' decree; Ponni in the slow; her friends free.
+- **B:** revealed; Kathir rules a shaken Five Hundred; Ponni acquitted (standard term) or in the slow (stricter).
+- **C:** unsigned; haven and vidai intact; Ponni convicted or acquitted as in A or B.
+- **D:** Kayal dies (a failed live casting); Neithal inherits; Ponni free on Thinnai.
 
 ## The ending, sealed (canon)
 
-- **Meaning (most firmly fixed):** looped acts were never authorless; the Doctrine hid a founding crime and licensed the killing of people the law called property. An act has the author who accepts it. Ponni accepts two, the closure and her own verdict, and pays forty years for them, so that her friends do not pay.
-- **Fates.** Minmini: dead, honoured as a married woman, registered posthumously as a person. Ponni: in the slow until AS 252, when she will be about forty-two. Kayal: twenty, controlling holder of a chastened Paalai, unmarried, Ponni's new pen pal. Kathir: chair of a ruined Neithal, the first to pay back-duty, and a widower of one night. Valli: in the slow until AS 272. Nedumaran: dead. Kuyil: charged. Thamarai: Seal-holder. Selvan, Paavai and Aathan: dead. Thumbi: struck from the bench; at dawn on Day +2 the first carriers of the season land at her feet before anyone else's (texture; never explained). Saleha: paid. The Proprietor: one entry fewer in suspense. The haven: closed.
-- **Final emotional image:** in the vault, a scorched tin parrot walks a few steps across a desk beside a year's letters that arrived in a week, and stops.
-- **The one small choice:** in her first letter out of the slow, Ponni may instruct the Proprietor to release the Ordeal Lease to Kayal and send the urn with the letter, or not. Release leads to a constitutional reckoning; the later letters report a new assembly and riots. Keeping them leads to Thamarai's stable, well-funded rule; the letters report peace, and a silence where Ponni's name should be. She may also write nothing, in which case Kayal's letters keep coming, shorter.
+- **Meaning:** looped acts were never authorless. The Doctrine hid a founding crime and licensed the killing of people the law called property. An act has the author who accepts it. Ponni accepts two, and her acceptance buys personhood for every proxy and freedom for her friends.
+- **Fates:**
+  - Minmini: laid out as a married woman; a person by decree.
+  - Ponni: in the slow until AS 252.
+  - Kayal: controlling holder on published terms; Ponni's pen pal.
+  - Kathir: chair of a ruined Neithal; pays back-duty first.
+  - Valli: in the slow by choice.
+  - Nedumaran: forty years. Kuyil: twenty.
+  - Thamarai: Seal-holder, bound by her bargain.
+  - Sevvanthi: a person; faces her original's return unafraid.
+  - Aruvi: reprimanded, then promoted.
+  - Thumbi: reader to the Mawsim's monsoon seat.
+  - Saleha: holds the monsoon seat. Jauhar: in the minority, with the fleet's elders still waiting.
+  - The Proprietor: 4,116 entries in suspense.
+- **Final image:** in the vault, the scorched parrot walks a few steps past a year's letters that arrived in a week, and stops.
+- **Small choice:** whether Ponni's first letter out releases the founding evidence, breaking her bargain.
 
 ## What happened, and what each faction believes
 
-| What happened | Paalai (Valli) | Neithal (Nedumaran) | The Irai (Thamarai) | The Proprietor | The Crossing | The public |
-|---|---|---|---|---|---|---|
-| AS 0 ordeal rigged by the guild against a silver urn | Neithal rigged it | fate chose Thiraiyan | the founders did it; nothing is written down | holds the lease and the hall film; shows them only to the holder | — | fate chose |
-| AS 188 long leaf shows a funeral | the heir's death | learns of "a plate" on Day −30 | unknown until Day −3 | nothing closed yet | — | — |
-| Minmini grown to fit | to save Kayal | — | knows a proxy exists | — | — | proxies are ordinary |
-| The friendship began as tradecraft and turned real | asset "went cold" in AS 196 | — | channel read, left open | — | — | — |
-| The hoard | strategic stock | the merger's crown | suspected since AS 203 | — | crossings kept | "inert stock" |
-| Minmini's death: Neithal's vidai, Selvan's hand, the Irai's "let it run" | fate came early, so Kayal is now doomed | lawful removal of property | let it run | unsigned; vidai registered | kept pollen released | an act of no one |
-| The Kaanthal closes, and Thinnai closes in sympathy | an omen | sabotage | a market event | — | a breach answered | refusal of the alliance (a paid reading) |
-| The shadow was a funeral | — | — | — | — | — | — |
+| What happened | Paalai | Neithal | Irai / Thamarai | Proprietor | Old Crossing | Far Blooms | Mawsim | Public |
+|---|---|---|---|---|---|---|---|---|
+| The AS 0 ordeal was rigged | Neithal did it | fate | founders did it | holds the lease and film | — | — | — | fate |
+| The AS 188 leaf shows a funeral | a death | "a plate" | learns of it Day −4 (board) | — | — | — | — | — |
+| The hoard | stock | the merger's crown | suspected | — | a breach | a chance | collateral | "inert stock" |
+| Minmini's death | fate came early | a lawful vidai | let it run | perfected vidai, in suspense | kept pollen released | Ilavenil unfit | omen or market | no one's |
+| Thinnai's closure | omen | sabotage | coupon risk | — | sympathy | leverage | default trigger | refusal of the alliance |
+| The shadow was a funeral | — | — | — | — | — | — | — | — |
