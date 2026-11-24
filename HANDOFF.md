@@ -55,6 +55,8 @@ Each writer follows the 13-step "Development process for the writers" in `resear
 
 Commit and push after each stage. Then give the owner a short summary of the verdict and the outlines.
 
+**Seeds (added after round 1 converged).** Before launching writers, run `python3 scripts/seeds.py --writers <names>` and save the output under `outlines/seeds/`. Paste each writer's set into its prompt with the rules from the script's docstring. Round-2 seeds are in `outlines/seeds/round-2.md`.
+
 ### Writer prompt template
 
 Fill in `{X}` (a, b or c) and `{STARTING POINT}`:

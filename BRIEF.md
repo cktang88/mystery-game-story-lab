@@ -46,6 +46,7 @@ Constraints from the project owner, in priority order.
 - For every important element (premise, hidden history, twists, characters, names, setting, ending), generate at least three genuinely different options.
 - A separate grader reviews and revises the options, then picks one, instead of the first idea standing by default.
 - Names in particular should come from a specific culture, era and logic in the world, never from the generic sci-fi name pool.
+- Random seeds are mandatory. Before writing, every writer draws a seed set with `python3 scripts/seeds.py` (culture/era, terrain, professions, objects, phenomena, material, relationship, ritual, creature or plant), with no seed shared between writers in a round. Every seed must visibly shape the story and may be reinterpreted but never silently dropped. Round 1 showed why: three writers with different starting points still converged on the same northern-sea template, because instructions to avoid the average make every copy of the model pick the same "non-obvious" choice.
 
 ## Original
 
