@@ -23,8 +23,8 @@ The deliverable the owner asked for:
 | Research index and grep cheatsheet | Done | `research/INDEX.md` |
 | Round 1 (A, B, C) | Done, archived. All three converged on one northern-sea template | `outlines/archive/writer-*-v1/` |
 | Round 2 (A revised; B and C redone with seeds) | Done, archived. Diverse, but small and folk-scale; the owner then required big futuristic sci-fi with galactic reach, spy and court intrigue, politics and economics (`BRIEF.md`, "Scope and genre") | `outlines/archive/` (see its README), reviews in `judging/archive/` |
-| Round 3: three fresh writers | **In progress.** Shared instructions in `outlines/ROUND-3.md`, seeds in `outlines/seeds/round-3.md`. A question first, B world first, C ending first | `outlines/writer-a/`, `writer-b/`, `writer-c/` |
-| Round 3 graders, then writer revisions | After round 3 outlines | `judging/review-writer-*.md` |
+| Round 3: three fresh writers | Done and revised. A "The Unsigned" (graded 7.3 before revision), B "The Light Weight" (6.0), C "The Ouro's Hand" (6.5; its ending copied Code Geass and was replaced) | `outlines/writer-a/`, `writer-b/`, `writer-c/` (each has `08-revision-log.md`) |
+| Round 3 graders | Done (reviews predate the revisions) | `judging/review-writer-*.md` |
 | Fable judge's comparison | Last | `judging/` |
 
 ## Repo conventions
