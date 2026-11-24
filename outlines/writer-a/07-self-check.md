@@ -1,136 +1,112 @@
-# The Unsigned: self-check (third pass, after the Fable verdict)
+# The Unsigned: self-check (fourth pass: tone and consistency)
 
-Marks:
+**How to read this.** "Pass" means met on paper after a fresh re-audit. "Partial" means part of the item is met and the gap is named. "Not yet" means it needs production or testing.
 
-- **Pass:** met on paper after re-audit.
-- **Partial:** met in part; the gap is named.
-- **Not yet:** needs production or testing.
-- **N/A:** not applicable.
+The previous self-check marked the rules audit, the logic gaps and the ending as Pass when they were not. The merged review was right about that. Everything below has been re-checked against the files as they now stand.
 
-## Load: did this pass add more than it cut?
+## Tone (BRIEF.md: "Tone: cool, not spooky")
 
-| Measure | Second pass | Third pass | Change |
-|---|---|---|---|
-| Core verbs | 8 | 8 | parley replaced read strata; nothing added |
-| Rules in the digest | about 12 | 10 | proxy and inspection rules merged; the hub reason folded into rule 9 |
-| Player-facing terms | about 20 | 12, each pinned to an object on the board | 8 cut |
-| Named power players | 16 | 14 | four cut (two by unnaming); four added (Aruvi, Sevvanthi, Jauhar, Ottai) |
-| Threads | 4 | 4 | Kathir folded into Kayal's thread B as a couple; Aruvi is thread D |
-| Branching choices | 7 (two choices, two votes, the urn, four terms, the letter) | 4, plus 2 minor choices that change only the epilogue | budget published in `02` and `05` |
-| Ending states | about 10 | 4 | |
-| Days from climax to end | 12 | 4 | |
-
-**Verdict:** rule, term and branch load are lower. Verb and cast load are unchanged. This meets the brief ("lower, not higher") on three of the five measures, and it does not get worse on the other two.
-
-## Scope requirements
-
-| Requirement | Mark | Where |
+| Check | Mark | Evidence |
 |---|---|---|
-| Big futuristic science fiction (AGI, aliens, cloning, time) | **Pass** | |
-| Galactic reach **on screen** | **Pass** | Thinnai is a second world with its own playable thread (Ch 6, 15, 21, 40) and an individual alien to deal with (Ottai). The Mawsim flagship holds a foreign court across three sessions. Off-Ilavenil play is about a quarter of the game. Four polities make plot-moving decisions on screen: the Five Hundred, the Mawsim council, the Crossing and the Proprietor |
-| Spy and court intrigue, playable | **Pass** | Trade beads in two courts (the hall and the deck); tailing; interrogations (Selvan, Nedumaran); double agents; the duel with Thamarai |
-| Politics and economics drive the plot | **Pass** | The worked arithmetic table in `02`: berth-notes, the coupon, the call at 1,000 versus 750, the route-share cut from 42% to 28%, a back-duty of 48 million against Neithal's 55 million in equity, the Irai retiring 80% of the Mawsim debt |
-| Start small and personal | **Pass** | |
+| No death omen or foreseen death | **Pass** | The foreseen moment is a **sealing**, a signature that binds a firm (`02`, rule 2) |
+| No funerals, pyres, corpse rites, crypts, graves or mourning | **Pass** | A grep of `02` to `06` turns these words up only in the tone statements that ban them |
+| No ordeals or trials by superstition | **Pass** | The ordeal is replaced by **the Proof**, a contest of exhibits with a bead count |
+| No shadows of the dead or ghostly imagery | **Pass** | "Shadow" became **scan**, **leaf** and **lightbox**; the "Shadow Market" became the **Lightbox Exchange**; the vault "the pit" became **the Mella** ("slowly") |
+| Crime played as thriller, not dwelt on | **Pass** | Two time-nappings, a shooting the victim survives, and a fraud. **No one dies on screen or off.** Set pieces: a rooftop chase, a gantry chase, a vault extraction, a swap under guard |
+| The sentence is not a living-death image | **Pass** | "Sent ahead": a bright garden berth with letters arriving. The epilogue is warm |
+| The thali scene | **Pass** | The scene on a dead body is **removed**. The thali appears only at a living, joyful wedding (Ch 31). The marriage later ends by civil dissolution with both parties consenting (Ch 35) |
+| The tone pushes cool | **Pass** | A slow ship docking under a kilometre-high bloom; a kolam-lit city; a starship court; an alien envoy waiting for an answer; a vault heist against two clocks; a forty-one-world polity reopening a hub |
+
+## Nothing horror or gross (the owner's Annihilation line)
+
+| Check | Mark | Evidence |
+|---|---|---|
+| No body horror, mutation, flesh merging, grafting, parasites, rot, gore or growths | **Pass** | None in `02` to `06` |
+| Clones look clean and high-tech | **Pass** | Grown in **glass cradles** at clinics. The proxy mark is a **locked steel bracelet**, opened with a key; the earlier steel ring sewn under the skin, and the scene of cutting it out, are gone |
+| Blooms and alien life inspire awe | **Pass** | Kilometre-high lilies of **mineral silk**, luminous seed-head carriers, envoys that land and wait. Their speech is coats of colour |
+| Pollen imagery is clean | **Pass** | Gold light in the air; a euphoric; a knockout dose in a sealed room. Nothing wet or crawling |
+
+## Load (must be at or below the previous pass)
+
+| Measure | Third pass | Fourth pass |
+|---|---|---|
+| Verbs | 8 | **7** (tail and mimic merged into **blend**) |
+| Rules | 10 | 10 |
+| Glossary terms | 12 | 12 |
+| Named power players | 14 | 14 (Minmini is now active; Neithal's runner and the toymaker are unnamed) |
+| Branching choices | 4 | 4 |
+| Ending states | 4 | 5 (A′, the amnesty variant, was added inside choice 3) |
+| Days from climax to end | 4 | 5, spread so that no day carries more than two major beats |
+
+**Verdict:** load is lower or equal on every measure except ending states, which rose by one variant. Act 2 still teaches one item per chapter, with breathers between them (the chase in Ch 14, the hall in Ch 15).
+
+## The merged review's required revisions
+
+| # | Revision | Mark | Fix and where |
+|---|---|---|---|
+| 1 | Coupon chain | **Pass** | Thinnai's remittance pays the coupon. Thinnai is in breach and so **has no vote**, which means the hub cannot be readmitted on Thinnai's voice, and the money cannot leave Thinnai's closed roost. Aruvi's return of the packets restores the vote. Round 3 opens both blooms, and the coupon is paid at dawn on Day 0 (`02`; `03` steps 1 to 4; `05` Ch 6, 16, 22, 28, 30) |
+| 2 | Sentencing law agrees across files | **Pass** | One sentence table (`02` rule 9, `03`). Ponni gets 20 + 20 = 40 as sole author, and her co-accused are discharged. In a contest after a bargain she gets 40, and Kayal and Kathir get 20 each as principals. Declining convicts her own counts only. The bracelet count survives the personhood decree because the decree is not retroactive and contains no amnesty, unless the player takes the amnesty bargain |
+| 3 | The urn coincidence and a deducible second frame-break | **Pass** | The jar is listed in the Mella registry Ponni searches (Ch 27); Arumbu took it into her berth as a personal effect. The standard count term is taught in Ch 18 and the altered term appears in Ch 37, so the player can suspect the rigging before the film confirms it. Act 5 now spans Days +1 to +5 |
+| 4 | Parley has an answer space, failure and a varying outcome; the Far Blooms appear on screen | **Pass** | Six bundles across five lanes in an order, with three rules (`03`). Outcomes are 28%, 32% or 35%, or a failed round: readmission slips, the bonds are called at 750, and the fleet takes two-thirds of the notes. A rust envoy from Thondi lands in round 3 |
+| 5 | Ledger mechanics | **Pass** | "Mine" adds *Signed: 1*; the suspense count stays at 4,117. The unexplained "shallow loops" self-reading is cut. "Blind to clockwork" now means it cannot track or attribute (`02` rule 7), though it still images. Kayal and Kathir leave the frame before 23:00, and Ponni appears in it as the legal witness |
+| 6 | The Minority Report echo | **Pass, logged** | See the influence table below |
+| 7 | The thali | **Pass** | Removed from any dead body |
+| 8 | Arithmetic | **Pass** | 60,000 berth-years is all berths for 15 years; 80,000 is two-thirds of the notes; 900 is placed on Day +5; 200 statutory berths are reserved for sentences |
+| 9 | Plants | **Pass** | Thamarai's second payoff: the merger needs an Irai witness, who can only be Ponni (stated as a long shot). Kathir's candidacy: "the son, if the father stumbles" (Ch 15). The purser scene is gone. "Let it run" appears at Ch 2 and Ch 18 |
+| 10 | Prove clarity | **Not yet** | Verbs are merged, breathers added, and each chapter break shows a current question. No cold read or playtest has been run |
+| 11 | A Thinnai authority makes a played decision | **Pass** | The Treasury Bench, decided with the trade-beads verb (Ch 22) |
+| 12 | Honest `07` and `08` | **Pass** | This file. `08` marks the superseded entries |
+
+## Scope
+
+**Pass.** Four polities decide on screen:
+- the Five Hundred (the Seal vote);
+- the Mawsim council (call or defer);
+- the Crossing (three rounds, two factions);
+- Thinnai's Treasury Bench.
+
+Two worlds and a foreign starship are played, and about a third of play happens away from Ilavenil's surface. The forty-one systems remain texture, which is right for the iceberg.
 
 ## Banned lists
 
-| Item | Mark | Note |
-|---|---|---|
-| Founding debt or promise to a bound alien | **Pass** | The founding crime is human. The Crossing is a free polity with factions that sanctions Ilavenil and sets a price; one faction profits |
-| Village or island world | **Pass** | |
-| Drowning | **Pass** | |
-| Sound-only alien | **Pass** | Coats, closing and landing; Ottai's address is silent |
-| Fixed-interval time travel | **Pass** | |
-| Generic Empire or Federation | **Pass** | |
-| Atreides-like dynasties | **Partial** | The houses are firms, and their enmity is now commercial (front-running berth auctions) rather than a blood feud. The marriage remains, because it is a seed |
-| Spice-like commodity | **Pass** | |
-| Spacing Guild | **Pass** | Routes are set by an alien polity in open, factional rounds. The roost is a cooperative |
-| Precursor gates; AI uprising, god or saviour | **Pass** | |
-| Lookalikes | **Partial** | Dune: marriage plus foresight economy (partial, as logged). Minority Report: the vidai is now an insurance-style property claim, void if the holder caused the loss, which is closer to fraud law than to precrime. Logged below |
+- **Round 1 and 2 averages:** all Pass.
+- **Dune: Partial.** A marriage between rival firms (it is a seed) plus a foresight economy. The enmity is commercial.
+- **Minority Report: Pass, logged.**
+- **Spice, Spacing Guild, AI uprising, god or saviour: Pass.**
 
 ## Seeds
 
-All thirteen are still in play. The pass changes three:
+All thirteen seeds are kept. Three are reinterpreted under the tone rule:
 
-- **Pollination** now drives an active verb (parley) and a faction politics.
-- **Trial by ordeal** now feeds the duel's leverage.
-- **Time-dilation banking** now has worked numbers.
+| Seed | How it is now used |
+|---|---|
+| **Trial by ordeal** | Becomes **the Proof**: a public test the accused must face. Its founding (AS 0) was a rigged count |
+| **X-ray film** | Kept as **scans** on carried film, bright metal on lightboxes |
+| **Pen pals who never met** | Ponni and Minmini never meet for twenty-two years and almost the whole game. They meet once, in the vault on Day 0, and go back to letters |
 
-The full table from the second pass still holds; see `08` for what changed.
-
-## The judge's four contradictions, plus two items
-
-| Problem | Fix | Mark |
-|---|---|---|
-| What a vidai leaf must show | Rule 3: a claim on a leaf that shows **presence at the place**, perfected by a **certified loss**, and **void if the holder caused it** ("a licence for a shadow") | **Pass** |
-| No charge for the body theft on the unsigned branch | Taking a body against a court order is **ordinary law**, untouched by the Doctrine. The charge and the ordeal follow in both branches | **Pass** |
-| Purpose filed after the fact | The field **seals at the hour**. Selvan's landmark is now **testimony that he caused the loss**, which voids the vidai, not a late signature | **Pass** |
-| Thamarai's causal link | A bet with two payoffs (rule 3 and the published readings). She **seeds** the signature payoff in her Day −4 campaign speech, and knew of Ponni's earlier refusal of an unsigned stamp | **Pass** |
-| How Thamarai learns of the long leaf | Ponni's **published** reading of the sheath on the night of Day −4 | **Pass** |
-| Teaching the shallowest-loop rule on screen | The **double coin** (Ch 3) | **Pass** |
-
-## The judge's five open problems
-
-| Problem | What changed | Mark |
-|---|---|---|
-| 1. The galaxy is described, not shown | Thinnai thread; Ottai; the council over three sessions; Crossing factions over three rounds; four polities deciding on screen | **Pass** |
-| 2. Rule, verb and branch load | See the load table. A cold playtest of Acts 1 and 2 is still required before anything is added | **Partial** (playtest **Not yet**) |
-| 3. Five logic gaps | All fixed, as above | **Pass** |
-| 4. Ending shape | Act 5 now runs Days +1 to +4. The killer faces Ponni in a played interrogation, and only because she stopped Valli's shot. The confrontation with Thamarai is played twice, in private and as a duel of beads. The second frame-break repeats the first frame-break's gesture: hole over hole, on the founding film | **Pass** |
-| 5. Thin alien pillar; originality | Parley, with Ottai as the counterpart. Dune and Minority Report pass (above) | **Pass / Partial** (Dune) |
+The wind-up toy is now a dead drop holding the deed. Pollination now drives the knockout dose, the closures and parley. Time-dilation banking now drives the time-napping and the heist.
 
 ## Rules audit (no scene violates a limit)
 
-**Mark: Pass.** Re-audited after this pass.
+**Pass**, rechecked.
 
-- **Ottai's letter** does not break rule 9. Envoys carry no human cargo by custom, not by law. That one envoy carries one letter is shown as its choice and left unexplained.
-- **Thinnai's reopening** in round 3 is consistent with the rule that a breach is settled by return. Aruvi's packets settle Thinnai's own keeping; Ilavenil's hoard settles the hub's.
-- **The coupon** travels on the first carrier after the reopenings, between the dusk of Day −1 and the dawn of Day 0.
-- **The Seal vote** moved to Day +2, so there is no vote on Day 0. Nedumaran is never Seal-holder, and Valli's possible sentence, if the player lets her fire, is 40 years, not 60.
-- **The sentence arithmetic** holds: Ponni's own 20, plus 10 and 10 absorbed for Kayal and Kathir, makes 40. Kuyil gets 20 after his testimony. Nedumaran gets 40 for ordering two killings.
-- **The berth-call arithmetic** holds: 60 million ÷ 1,000 = 60,000 berth-years; 60 million ÷ 750 = 80,000 berth-years, two-thirds of 120,000.
+- Minmini's time in the berth: Day −8 04:00 to Day 0 13:00 is 8.4 outside days, about 4 berth-hours.
+- The extraction: 6 berth-minutes is 5 outside hours, from 14:00 to 19:00.
+- Round timing: Day −5, −3 and −1, two days apart.
+- The coupon falls due on Day −3; payment arrives at dawn on Day 0, after Saleha's deferral.
+- The sealing record shows metal only. The bracelet is opened before 23:00. Only the sealer and the witness are in the hall at 23:00.
+- The purpose field is signed at 22:55, before the hour. The berth registry is visible under Kayal's controlling access, but a depositor's berth stays inviolable, so opening it is a charged crime.
 
-## Checklist summary
+## Influence log (additions)
 
-The second-pass marks stand, except for the changes below.
-
-| Item | Mark |
-|---|---|
-| Each mechanism has a limit and no scene violates it | **Pass** (re-audited) |
-| Alien and machine wants stated in one sentence | **Pass**, with faction wants added |
-| Faction belief, want, loss, look and sound | **Pass** (factions table in `03`) |
-| Three or more clues per revelation | **Pass** (R1 to R11) |
-| Refusal respected at committed choices | **Pass** (four branching choices, each played) |
-| No new power or character in the final act | **Pass**: Aruvi from Ch 6, Ottai from Ch 15, the urn from Ch 26, the retention orders from Ch 21 |
-| Theme carried by objects | **Pass** |
-| A cold tester can say who is related to whom | **Not yet** |
-| Difficulty calibrated | **Not yet** |
-| Lore keeper and canon tiers | **Partial** |
-| Every character grows | **Partial**: Kuyil and the acting Commissioner are static by design. Jauhar does not change his mind; he loses |
-
-## Trope log additions
-
-| Beat | Trope | Decision |
+| Element | Nearest work | Difference |
 |---|---|---|
-| The hero stops a vengeance killing | mercy at gunpoint | **Kept.** It is the anchor's thesis carried by an action (law over "nobody's"), and it is what makes the killer face her |
-| An alien that "chooses" to help | the friendly alien | **Bounded.** One letter, no explanation, no speech. The faction politics stay alien |
-| The enabler wins power | the villain ascends | **Kept, conditioned.** She rules bound by a decree the anchor extracted. The last letter can undo the bargain |
-| A sister on another planet | the long-distance family thread | **Kept**, and it rhymes with the pen-pal premise: one more relationship conducted only by post |
-
-## Influence log additions
-
-| Element | Technique borrowed | From | Difference |
-|---|---|---|---|
-| A second court over several chapters | a recurring council with its own faction fight | Writer B (technique only) | Mawsim captains, astrolabe tokens, a debt-call-versus-lifeboat fight |
-| A thread stranded on another world | courier lag made political | Writer B (technique only) | A sister cut off by a bloom closing; she deals with the aliens herself |
-| A worked economic table | legible arithmetic | Writer B (technique only) | Berth-years, a coupon, a share of routes, back-duty |
-| Factions inside the alien polity | rival groves | Writer C (technique only) | An old network against far blooms, split by route share and argued across envoy rounds |
-| A living copy with a face; an object glossary | a copy with her own arc; terms tagged to objects | Writer C (technique only) | Sevvanthi, the gift-fearing proxy; twelve terms pinned to handled objects |
-| Licensed deaths | — | Minority Report (nearest) | Property-insurance law that voids itself on causation, not prevention |
+| The investigator appears in the foreseen image, and her agency's head exploits the system | **Minority Report** | Ponni is in the scan as the **lawful witness** to a signing, not as a suspect, and no one hunts her for it. Thamarai never uses foresight. Her "let it run" is **fiscal**: she lets a market and a disappearance run to force a test case for the tax haven. There are no precogs, no prevention, and no killing |
+| A fleet captains' council with a rival senior captain | Writer B's fleet council (technique only) | A creditor court with a lifeboat motive (berths for the fleet's elders) and astrolabe tokens |
+| A heist into time-dilated storage | Interstellar (time cost), heist films (structure) | Every minute inside costs fifty outside. The rescued woman has lived four hours |
 
 ## Known risks
 
-1. **Clarity is still the weakest score.** It needs a cold playtest of Acts 1 and 2.
-2. **The thali tied on Minmini's body and the *sumangali* honour must be reviewed by Tamil readers before they are locked.**
-3. **Production cost:** four ending states and two playable courts.
-4. **Ottai's letter is the one unexplained alien act.** It must stay single.
+1. Clarity has never been tested with a cold player.
+2. Minmini's survival removes the grief engine of earlier drafts. The stakes now come from the race against the sealing and from the threat of losing forty years.
+3. Five ending states still need a production budget.
