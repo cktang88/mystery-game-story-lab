@@ -132,7 +132,7 @@ The worked arithmetic table is in `02`. Its headline numbers appear on the ledge
 | Faction | Belief | Want | Would lose if the truth came out | Look and sound |
 |---|---|---|---|---|
 | **The Five Hundred** (assembly and Seal) | The Seal was first given by fate | Stability | Every Seal since AS 0 | Round hall; beads dropping in brass |
-| **Paalai** (berths) | Neithal rigged the first ordeal | To be senior in the merger; Kayal alive | The hoard; confidence in the slow rate | Black stone, white lamps, anklet bells. No desert imagery |
+| **Paalai** (berths) | Neithal rigged the first ordeal, and its plates front-run Paalai's berth auctions (a commercial rivalry, not a blood feud) | To be senior in the merger; Kayal alive | The hoard; confidence in the slow rate | Black stone, white lamps, anklet bells. No desert imagery |
 | **Neithal** (plates) | A leaf is a contract | Long plates, unsigned; the Seal | Everything, if the haven closes | Salt-white walls of lightboxes |
 | **The Irai** (revenue and intelligence) | The Doctrine is old law it regrets | Close the haven and fund the fleet without opening its own founding | Its charter; its moral standing. Its own seized-packet store on Thinnai | Ochre coats; seals on cords (an assessor's has a hole, a clerk's is solid) |
 | **The Proprietor** | The Charter is its self | An author for every entry | Nothing | Kolam lines of light; the inspection hum |
