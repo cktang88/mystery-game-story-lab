@@ -264,3 +264,64 @@ Source: `judging/verdict.md`. I changed the source first: the rules digest, chro
 - The rigged first ordeal under every faction.
 - The two refusable committed choices.
 - The causal political economy.
+
+---
+
+# Fourth pass: tone ("cool, not spooky"; nothing gross) and the merged review
+
+**Superseded.** The following entries in the earlier passes above no longer describe the story. They are kept only as a record:
+
+- foreseen death, pyre, funeral, ordeal;
+- the ring sewn under the skin and cut out;
+- the thali tied on Minmini's body;
+- the Kuzhi;
+- Selvan's "planned signature";
+- Selvan's death, and the toymaker's and the old Seal-holder's deaths;
+- the Day 0 Seal vote;
+- "four ending states".
+
+## Job 1: tone
+
+| Change | What it is now | Files | Why |
+|---|---|---|---|
+| **The foreseen moment** | A **sealing** in the Sealing Hall on the wedding night. The record identifies the sealer by metal (rule 2). The scan shows the anklets, the seal, the bird with the bright bar of the deed's clasp inside it, and the assessor-witness's holed seal. It cannot show **who** is sealing or **what** | `02` (rules 1–2, AS 188, AS 211), `05`, `06` | It keeps the core mechanic: a faceless scan you can cast someone into, and the question of who signs. It drops the death. Three options are in `01`, round 13 |
+| **The crime** | **Time-napping.** Minmini is drugged and banked forward in a nominee berth, then extracted alive on Day 0, four hours older. The toymaker is time-napped too, and freed. Selvan is shot and survives. Nobody dies | all | Crime is played as thriller. It also creates a vault heist and lets the pen pals meet |
+| **The ordeal** | **The Proof**: a contest of exhibits in three rounds, with beads after each and the urn counted under a count lease. The AS 0 rigging is an altered count term | `02` rules 8–9, `03`, `05` Ch 18, 37, 39 | No superstition. It is a court duel of wits |
+| **The sentence** | **"Sent ahead"** into bright garden berths | `02`, `03`, `05` | Time-exile rather than a living-death image |
+| **Images and names** | Shadow → scan, leaf, lightbox. The Shadow Market → the **Lightbox Exchange**. The Kuzhi → **the Mella** | all | Nothing ghostly |
+| **The thali** | The scene on a dead body is removed. The thali appears only at the living wedding (Ch 31). The marriage ends by civil dissolution with both parties consenting | `02`, `04`, `05`, `06` | Owner's rule, and the grader's cultural objections |
+| **Nothing gross** | Proxies grown in glass cradles; a locked bracelet replaces the sewn ring and its cutting; blooms of mineral silk; luminous carriers; pollen as gold light | `02` (tone block), `03`, `06`, `07` | The owner's Annihilation line |
+| **Push the cool** | A rooftop chase (Ch 14); a gantry chase (Ch 26); the vault extraction against two clocks (Ch 32); the swap under guard (Ch 33); the wedding as a celebration (Ch 31); the fleet's arrival (Ch 5) | `05`, `06` | Brief: spy craft, heists, chases, starships, awe |
+
+## Job 2: the merged review's required revisions
+
+1. **Coupon chain.** Thinnai's remittance pays the coupon. Thinnai is in breach and so has no vote. The remittance cannot leave a closed roost, and the hub cannot be readmitted while the Old Crossing lacks Thinnai's vote. Aruvi's return of the packets cures the breach. Files: `02`, `03` (steps 1–4), `04`, `05` (Ch 6, 16, 22, 28, 30).
+2. **Sentencing.** One table, in `02` rule 9 and in `03`. All branch totals are stated in `02` and `05`. The bracelet count survives the decree unless the player bargains for amnesty, which is a new option in choice 3.
+3. **The urn, and the second frame-break.**
+   - The jar is listed in the registry Ponni searches (Ch 27). Arumbu kept it as a personal effect in her berth.
+   - The standard count term is taught in Ch 18 and the altered term appears in Ch 37, so the player can deduce the rigging before the film confirms it.
+   - Act 5 is spread over Days +1 to +5, with at most two major beats a day.
+4. **Parley.**
+   - An answer space of six bundles, five lanes and an order, governed by three rules.
+   - Varying outcomes: the hub's route share ends at 28%, 32% or 35%.
+   - A failure state: readmission slips a round, and the bonds are called at 750.
+   - A rust envoy from Thondi appears in round 3.
+   - Files: `02` rule 10, `03`, `05` Ch 16, 28, `06`.
+5. **Ledger mechanics.**
+   - "Mine" now produces *Signed: 1*. The suspense count is unchanged.
+   - The self-reading clause is cut.
+   - Clockwork blindness is defined as untrackable and unattributable, but still imaged.
+   - The 23:00 frame is fixed: the sealer and the witness only.
+6. **Minority Report.** The investigator-in-the-image and agency-head constellation is logged and pulled apart: Ponni is a lawful witness, and Thamarai's act is fiscal. B's fleet council is logged as the nearest work for the creditors' court (`07`).
+7. **Thali.** Removed, as above.
+8. **Arithmetic.** The capacity line is corrected; "notes" replaces "all berth-years"; the 900 slow rate is placed on Day +5; 200 statutory berths are added (`02`).
+9. **Plants.**
+   - Thamarai's second payoff is the witness requirement.
+   - Kathir's candidacy is planted in Ch 15.
+   - The purser at the dawn pyre is gone, along with the pyre.
+   - "Let it run" now appears in both Ch 2 and Ch 18.
+10. **Clarity.** Tail and mimic merge into **blend**, bringing the verbs to 7. Breathers are added (Ch 14's chase, Ch 15's hall). A cold read is still **not done**, and `07` says so.
+11. **Thinnai's court.** The **Treasury Bench**: three treasurers, decided with trade beads (Ch 22).
+12. **Honest `07` and `08`.** `07` is re-marked, and this section lists what has been superseded.
+
+**Load:** 7 verbs (down from 8), 10 rules, 12 terms and 14 named players, the same as before. Ending states are up by one variant (A′, amnesty).
