@@ -2,6 +2,8 @@
 
 Working title: **The Unsigned**
 
+> **Read round 13 first.** Under the owner's tone rule (cool, not spooky; nothing gross), round 13 supersedes every earlier round that involves a death, a funeral, an ordeal, a corpse or a thali rite. Those rounds are kept below only as a record of the process.
+
 Starting point: **question first.** I fixed a central question before anything else, then let AGI, aliens, cloning, time travel and the political economy each test it, and only then sealed the hidden history and ending.
 
 **Note on sources.** Per the coordinator's instruction, nothing here is drawn from `outlines/archive/` or `judging/archive/`. Before that instruction arrived I had skimmed the archive README and the opening of one archived review. I took no mechanic, setting, name or plot from them. One item touched my seeds: that review mentions x-ray photography of bones as an investigative verb. So in this story x-ray film is the **medium of the future** and of the blackmail archive, and it is never used for identification by skeleton.
