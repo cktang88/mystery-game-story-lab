@@ -88,7 +88,7 @@ Grader's notes: H2 is an AGI-built-from-a-victim reveal (adjacent to the "human 
 
 ## Step 2c. Ending (three options)
 
-**E1. Who pays.** The sealed chamber is opened on election night and the city's founding lie becomes public; that much is fixed, because three people have already received visions of it. What is not fixed is who pays for it. Someone in the hall must send the founder the vision she received in 2090, and the price of sending a message that far back is every memory you have lived since. The protagonist can pay it herself (losing her whole remembered life, including the child she is raising) or let the hostage pay it (who would lose the only life she ever had). Separately she decides whether to name the killer, who is the woman who raised her. The alien enters its chamber and dies seeding; a hundred days later its successor's first sight is a small copy of the protagonist holding out a campaign fan.
+**E1. Who pays.** The sealed chamber is opened on election night and the city's founding lie becomes public; that much is fixed, because two people (the founder in 2090 and the steward Almaz thirty-nine days before the election) have already received visions of it. What is not fixed is who pays for it. Someone in the hall must send the founder the vision she received in 2090, and the price of sending a message that far back is every memory you have lived since. The protagonist can pay it herself (losing her whole remembered life, including the child she is raising) or let the hostage pay it (who would lose the only life she ever had). Separately she decides whether to name the killer, who is the woman who raised her. The alien enters its chamber and dies seeding; a hundred days later its successor's first sight is a small copy of the protagonist holding out a campaign fan.
 
 **E2. The new founder.** The protagonist keeps the lie, opens the chamber secretly, and becomes the lineage's new enforcer, carrying the crime forward to protect the child: the dark-crown ending.
 
@@ -236,3 +236,17 @@ Grader: all three are needed. M1 is the most playable and the purest "read the b
 Grader: C2 is information, not image; C3 is interior. C1 holds the ritual, the alien's want, the lineage and the founding crime in one frame. **Pick C1**, with C3 as the beat that follows it.
 
 **Final image (three).** (a) Hiwot, a hundred days later, holding a campaign fan out to the newborn offspring as it opens; (b) the Tsehafi printing Sitota's first lottery ticket; (c) Tigist's hands finding the old break in Hiwot's arm that her memory has lost. All three are kept: (b) and (c) are the codas of their branches, (a) is the shared last image in every branch.
+
+---
+
+## Revisions by the second Writer B (while sealing the hidden history)
+
+The picks above stand. Sealing the chronology in `02-hidden-history.md` exposed seven gaps, fixed here so that this file and the solution document agree.
+
+1. **Two receivers of the hall, not three.** E1 said three people had received visions of the opening. Only two receipts have a story job: the founder's (2090, the debt) and Almaz's (2163, the murder's cause). A third would need a third sender in the hall and a loop that does nothing, so the count is corrected above.
+2. **Reach limit added to T1.** A message cannot land before the sender's genome was first sealed in a jar (for the Lemlem, 1 December 2089). Without it, a copy could message its template's childhood and the founding crime could be rewritten by anyone. This also makes the founder's 2090 fever the first vision in history, which is lore the game can use.
+3. **Failed sends.** A send addressed to a body that never received simply fails: the glass runs, nothing goes and the sender loses nothing. This is how the city knows history is fixed, and it is taught in play before the climax depends on it. The Tsehafi keeps a public register of **open receipts** (fevers whose senders have not yet sent): the city's ledger of debts owed to the past.
+4. **What the cost takes.** The sender loses lived (episodic) memory between the target moment and the send. Language and skills stay: "the hands keep what the hands learned." The final image (c) needs this, so it is planted early (the glass-widow Etagegn).
+5. **Election date.** The Mircha is held on Pagume 5, 2155 in the city's Ethiopian calendar, which is **11 September 2163**. All sealed dates are given in the Gregorian calendar so they can be checked.
+6. **Opening image clarified.** The veiled dead woman at the Guest's door is *taken* for the Shadow by everyone, the player included. She is Aster, who had swapped places with the hostage hours earlier. This is what M1 already implied; it is now explicit.
+7. **A low-stakes rehearsal of "who pays".** The checklist requires the player to operate sending before the climax relies on it. Act II now contains a small fixed receipt (a teenage copy's vision of a glass room) that someone must send, at the cost of nine days of memory, with three possible payers and refusal respected. It is the ending in miniature, and it delivers a key clue.
