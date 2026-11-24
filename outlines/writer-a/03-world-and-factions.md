@@ -29,12 +29,12 @@ Off-Ilavenil play comes to roughly a quarter of the game. Four polities make plo
 | Verb | Owner | What the player does | First taught |
 |---|---|---|---|
 | **Weigh** | the Balance | read a thing's loop, depth and weight; enter the shallowest loop in the ledger to reveal the next | Ch 3, on the double coin |
-| **Lease** | the AGI | rent a space, hour or service; as a holder, have the building **re-perform** a past night | Ch 1; re-performance in Ch 8 |
-| **Fit** | time | lay a leaf over a live view and align metal to metal; plan backwards from it | Ch 10 |
-| **Mimic** | cloning | watch a habit, then perform it under watching eyes | Ch 11 |
-| **Tail** | spycraft | follow someone through clockwork streets the Proprietor cannot see | Ch 12 |
+| **Lease** | the AGI | rent a space, hour or service; as a holder, have the building **re-perform** a past night | Ch 1; re-performance in Ch 9 |
+| **Fit** | time | lay a leaf over a live view and align metal to metal; plan backwards from it | Ch 11 |
+| **Mimic** | cloning | watch a habit, then perform it under watching eyes | Ch 12a |
+| **Tail** | spycraft | follow someone through clockwork streets the Proprietor cannot see | Ch 12b |
 | **Trace** | culture | follow a single line through dots (kolam) or a gear train (a cipher) | Ch 13 |
-| **Trade beads** | courts | win votes by meeting the wants each delegate shows as objects. It works on beads in the round hall and on astrolabe tokens on the flagship | Ch 14 (hall), Ch 16 (deck) |
+| **Trade beads** | courts | win votes by meeting the wants each delegate shows as objects. It works on beads in the round hall and on astrolabe tokens on the flagship | Ch 8 (deck), reused in Ch 14 (hall) |
 | **Parley** | aliens | read an envoy's coats as statements, then lay out a reply on a roost floor, choosing which returned crossings to place and where, by route; the envoy carries it to the next round | Ch 15 (Aruvi) |
 
 "Read strata" is no longer a separate verb: it is the reading half of parley. The ledger is the answer channel, not a verb.
@@ -152,18 +152,18 @@ The **glossary strip** tags each term with the object the player handled when it
 
 | Term | Object pinned to it |
 |---|---|
-| Leaf | the alley broker's strip (Ch 10) |
+| Leaf | the alley broker's strip (Ch 11) |
 | Sheath | the lead envelope from the chest (Ch 18) |
 | Lease | the first threshold kolam (Ch 1) |
 | Purpose | a blank lease form (Ch 17) |
 | Balance | the double coin (Ch 3) |
 | Proxy | the steel ring (Ch 2) |
-| Vidai | Uppalam Salt's claim slip (Ch 9) |
+| Vidai | Uppalam Salt's claim slip (Ch 10) |
 | Berth-note | the Paalai note (Ch 19) |
 | Envoy / Crossing | a fragment of Ottai's holed vane (Ch 15) |
 | Ordeal / urn | a silver bead (Ch 17) |
-| Slow | a vault berth key (Ch 27) |
-| Coupon | the Irai transfer order (Ch 15) |
+| Slow | a vault berth key (Ch 26) |
+| Coupon | the Irai transfer order in Aruvi's post-crate (Ch 6) |
 
 That is twelve terms, down from about twenty. Dropped from player-facing text: *olai*, *nokkam*, *thulaakkol*, *Mudalali*, *nizhal*, *Kaaval*, the dark star's name, the house names of the other three great houses, and the acting Commissioner's name.
 
@@ -186,18 +186,19 @@ That is twelve terms, down from about twenty. Dropped from player-facing text: *
 
 | Ch | New item |
 |---|---|
-| 1 | lease |
-| 2 | proxy (fact only) |
+| 1 | lease (the blank *purpose* field is seen, not explained) |
+| 2 | proxy (fact) |
 | 3 | weigh, with the double coin and the shallowest-loop rule; publication |
-| 8 | re-performance |
-| 9 | the vidai |
-| 10 | fit; "it only says *there*" |
-| 11 | mimic |
-| 12 | tail |
+| 8 | trade beads, with astrolabe tokens |
+| 9 | re-performance |
+| 10 | the vidai |
+| 11 | fit; "it only says *there*" |
+| 12a | mimic |
+| 12b | tail |
 | 13 | trace |
-| 14 | trade beads (hall) |
-| 15 | parley (Thinnai) |
-| 16 | tokens on the deck (trade beads, second court) |
-| 17 | the ordeal; the purpose field and standing |
+| 14 | (trade beads reused in the hall) |
+| 15 | parley |
+| 16 | the wedding procession |
+| 17 | the ordeal (Thamarai's speech names the purpose field and standing) |
 | 18 | shielding |
 | 19 | berths and the slow rate |
