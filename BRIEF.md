@@ -15,6 +15,13 @@ Constraints from the project owner, in priority order.
 - Layered like Game of Thrones: multiple character threads that run in parallel and converge.
 - Unveiled bit by bit over time.
 
+## Growing larger
+
+- The story and its characters should keep getting bigger, in the way The Expanse, Ted Lasso, The Martian, Interstellar, Gladiator and The Lord of the Rings do.
+- Start small and personal, then widen to a world-scale stake, with every jump earned and a small human anchor kept throughout.
+- Side characters grow into full arcs.
+- Build in moments worth remembering and quoting, set up by small details planted early.
+
 ## Worldbuilding and lore
 
 - A good story rests on good worldbuilding.
