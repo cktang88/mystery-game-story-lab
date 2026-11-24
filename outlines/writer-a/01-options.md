@@ -198,3 +198,19 @@ The full three-option tables for the Thinnai viewpoint, the alien counterpart, t
 - **Round 5, aliens:** the verb is now **parley**. Envoys have one recurring individual, Ottai. The Crossing has two factions, the Old Crossing and the Far Blooms, who disagree across the three rounds.
 - **Round 6, politics:** the Mawsim council has a faction fight of its own (Saleha against Jauhar) across three sessions, played with the trade-beads verb.
 - **Round 9, names:** added Aruvi ("waterfall"), Sevvanthi ("chrysanthemum"), Jauhar (Arabic and Malay, "jewel"), Ottai (Tamil, "holed" or "torn"), Thondi (an old Tamil port name, for the Far Blooms' leading world) and the kaasu ("coin"). Cut from player-facing text: *olai*, *nokkam*, *thulaakkol*, *Mudalali*, *Kaaval*, Irul, Iniyan, Malaiyan, Kaatravan, and the names Paavai and Aathan, though both remain in `02`.
+
+---
+
+## Round 13: the tone pass ("cool, not spooky"; nothing gross)
+
+| Element | Option 1 | Option 2 | Option 3 | Pick and why |
+|---|---|---|---|---|
+| **The foreseen moment** | **A sealing.** On a wedding night, whoever wears a firm's controlling anklets seals a document that binds the firm, and the record identifies the sealer by metal alone | **A launch.** A figure at the helm of a ship leaving the roost. Spectacular, but nothing would hang on who it is | **A seizure.** A figure lifting the Seal from its vault, which is a heist. Strong, but it duplicates the extraction and the founding crime | **The sealing.** The scan cannot show who signs or what is signed, so both can be chosen. Valli's casting, Nedumaran's coercion and Minmini's deed all come straight out of the rule |
+| **The crime** | **Time-napping**: a victim drugged and banked forward in a vault berth under a false name | An assassination. Allowed, but it brings back the death image | Exile on a slow ship. Unrecoverable | **Time-napping.** Only this world allows it, it builds to a heist, and the victim can be rescued |
+| **What replaces the ordeal** | **The Proof**: a contest of exhibits in three rounds, with beads after each round, counted by the house under a count lease | **A public audit**: the accused's ledger read aloud. Dry | **A duel of advocates**: Code Geass-flavoured, but it needs new characters | **The Proof.** It keeps the seed's sense of a public test, the urn and the founding crime (a rigged count). There is nothing superstitious in it |
+| **The sentence** | **"Sent ahead"**: a term spent living in a bright garden berth while the world moves on. It is cool time-exile, not living death | Loss of her seal and banishment from Ilavenil | Twenty years' service to the Proprietor as its author of record | **Sent ahead.** It keeps the epilogue's letters arriving a year a week. The berths are bright gardens, never cells or crypts |
+| **The vault's name** | **The Mella** (*mella*, "slowly") | The Kuzhi ("the pit"). Reads grim | Aazham ("depth") | **The Mella** |
+| **Image words** | **Scan / leaf / lightbox** | Shadow / plate. Ghostly | Ghost-film. Banned | **Scan, leaf, lightbox.** The **Lightbox Exchange** replaces the "Shadow Market" |
+| **Alien and clone look** | **Clean and awe-filled**: kilometre lilies of mineral silk, luminous seed-head carriers, pollen as gold light, clones grown in glass cradles, a locked bracelet | Organic and wet | Insect-like | **Clean and awe-filled**, per the owner's line on gross imagery |
+
+The thali-on-the-dead scene is **removed entirely**. The thali now appears only at a living, celebratory wedding (Ch 31), and the merger ends through the deed, not through any rite.
