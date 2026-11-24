@@ -166,7 +166,7 @@ In the circle, a girl in a yellow oilskin and a boy in a canvas jacket get up ou
 
 **Does.** One goal at a time, each with its own small space and timer (the tide):
 1. Swantje steps between two soldiers and her brother. Tade does not know the 45-year-old woman until she says a childhood nickname. (Player as Swantje: hold position; the soldiers' radios argue.)
-2. Inken takes the player's place for a minute: she leads the tracked excavator's crew off the hard sand onto a patch she knows will swallow it. (Player as Inken: a tide-walking run where she knows the ground better than the player does; the game shows her footholds only when she looks at them.)
+2. Inken takes the player's place for a minute: she leads the tracked excavator's crew off the hard sand onto mud she can see will swallow it, reading its colour and ripple the way Knutt taught Moiken in Ch 4. (Player as Inken: a tide-walking run where she reads the ground better than the player does; the game shows her footholds only when she looks at them.)
 3. Moiken carries Marret's hydrophone, its old cable paying out behind her, through the spore mist into the centre of the ring, past cutters biting into a core that turns to powder under them.
 
 The sound design narrows to the hydrophone. One last sound: a chord, many pitches at once, every weight the Waag ever carried. On the dike Marret takes off her headphones: "There. The bell." Silence.
