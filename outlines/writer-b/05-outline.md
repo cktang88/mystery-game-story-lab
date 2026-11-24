@@ -1,4 +1,4 @@
-# The Light Weight: outline
+# The Light Weight: outline (revision 2)
 
 ## One sentence
 
@@ -6,260 +6,391 @@ A nameless clone must prove the future that pays her city was forged by her orig
 
 ## One paragraph
 
-Marakand is a city strung up a space elevator, its floors its classes, its people paid a daily share by the elevator's AI, and its alien-spun cable the only place in known space where messages from the future arrive. On the first day of a war-crimes trial against the Ordu fleets' hostage heir, convicted in advance on such a message, the tea taster Miwnay passes a witness's cup clean and watches him die at the rail; under her guild's law the cup is answerable, so she is stripped of her name, made invisible to the AI, and handed to a nameless guard. **First disaster:** a genuine message arrives from a future that has just been unmade, saying the trial's evidence was forged and that "the taster proved it late". Proving it brings her to the city's poor, its shadow tea-money, a murdered embroiderer and a mole in the intelligence service. **Second disaster, caused by her own success:** the closer she gets, the faster the conspirators kill each other; the war party's prince dies of gravity, her guard confesses that he swapped the witness's sash, and the Chief Weigher who ordered it turns out to be her own clone-sister with a rewritten face. **Third disaster, again her own doing:** the proof she brings frees the hostage and collapses the trial, and her original, the spymaster, is murdered the night before she could confess; in the spymaster's ossuary Miwnay finds the evidence that the city's founding verdict, and the income that rests on it, was forged by the same woman at 22, and that the aliens' own future tried to say so 26 years ago and was silenced. **Ending:** at the Review of the founding verdict, with alien evidence dismissed as alien propaganda, Miwnay sets the tribunal's sacred weight on its balance against a tea taster's true one; it rises, light and hollow, and holds the forger's stamp. Under alien law someone of the forger's pattern must consent to be rewritten, and only she will; she tastes the cup and drinks it. Farn falls by nearly half, forty thousand clones are freed of their debts by a market crash, the aliens spin the Ordu their own thread, and the nameless guard she named the night before tastes her new name-cup and says it is clean.
+Marqand is a city strung up a space elevator, its floors its classes. An AI pays its people a daily share, but it answers only those named in its ledger. Its alien-spun cable is the only place in known space where messages from the future arrive, and every arrival unmakes the days between. On the first day of a war-crimes trial against the Ordu fleets' hostage heir, convicted in advance on such a message, the tea taster Miwnay passes a witness's cup clean and watches him die at the rail. The cup is answerable, so she loses her name and is handed to a nameless guard.
+
+**First disaster:** a genuine message arrives from a future just unmade: the trial's evidence was forged, and "the taster proved it late". The proof leads her through the city's poor, its tea money, a murdered embroiderer and a mole in the intelligence service run by a faction of the alien court.
+
+**Second disaster, caused by her success:** the conspirators begin killing each other. The war party's prince dies of gravity. Her guard confesses he placed the murder sash. The Chief Weigher who ordered it is her own clone-sister with a rewritten face. Meanwhile the hostage escapes to her father's fleet, where a cousin is plotting a coup.
+
+**Third disaster, again her own doing:** her proof frees the hostage and collapses the trial, and her original, the spymaster, is murdered the night before she could confess. The spymaster's ossuary holds what the ledger never could: a twin weight and a suppressed alien plate. They show that the founding verdict, and the income built on it, was forged by the same woman at 22. They also show that, in a future that was unmade, the Chief Weigher herself was the one who exposed it.
+
+**Ending:** at the Review, three courts and two fleets hang on a vote two-thirds must carry. The hostage, now ruler of the Ordu, has bought one seat's abstention, and the aliens have settled their own schism. Miwnay sets the tribunal's sacred weight against its twin; it rises, hollow, and holds the forger's stamp. The Ordu ask a hostage "of the blood of the wrong", and Miwnay goes in the queen's son's place. Farn falls by 45%, a market crash frees a million and a half crèche children from a debt on their futures, and in a steel hangar among the Ordu, the guard she named tastes her new name-cup.
 
 ## Structure at a glance
 
 | Act | Days | Title | Opening hook (small) | Closing question |
 |---|---|---|---|---|
-| 1 | 1 to 6 | The Seventh Cup | A witness dies after drinking the cup she passed | Night −13's plate was false: can anyone prove it before Day 33? |
-| 2 | 7 to 17 | Brick and Thread | Waking without the farn spark; descending to the Root to find a sash maker | Her guard killed the witness for the Chief Weigher: why would a judge protect a spymaster? |
-| 3 | 18 to 30 | Patterns | An old woman at the Root says Miwnay's face ordered the grounding 63 years ago | The trial is dead and the hostage free; what did the dead spymaster leave her? |
-| 4 | 31 to 38 | The Light Weight | Carrying her original's bones | Will she weigh the weight? |
-| Epilogue | 39 to 46 | The Name | A weaker spark at dawn | What will she be called? |
+| 1 | 1 to 6 | The Seventh Cup | A witness dies after the cup she passed | Night −13's plate was false: can it be proved before Day 33? |
+| 2 | 7 to 17 | Brick and Thread | Waking without the farn spark | Her guard placed the sash for the Chief Weigher. Why would a judge protect a spymaster? |
+| 3 | 18 to 30 | Patterns | An old woman says Miwnay's face ordered a grounding 63 years ago | The trial is dead and the hostage is free. What did the dead spymaster leave? |
+| 4 | 31 to 38 | The Light Weight | Gathering her original's bones; composing a message to the future | Will two-thirds of the Scale overturn its founding? |
+| Epilogue | 39 to 40, and a coda | The Name | A weaker spark at dawn | Who goes as hostage, and what will the Ordu call her? |
 
 **Three plot lines:**
-1. **The Cup** (Miwnay and the guard): the murder, the forgeries, the founding.
-2. **The Dust** (Takhsich, Nanai-farn, the Draxt): the mole, the canary trap, the suppressed future.
-3. **The Scale and the throne** (Aytash, Shayn, Varkhuman, Farnxund, the Ordu, Ustrushana): the trial, the succession, the war.
 
-**Active threads at any one time: four to six.** Act 1: Miwnay, Takhsich, Aytash, the court (four). Act 2: adds the guard as his own thread after the midpoint (five). Act 3: Miwnay, Takhsich, Aytash, Shayn's court, Farnxund (five; Varkhuman gone). Act 4: Miwnay and the guard, Takhsich (merged into Miwnay's thread at the Counterweight), Aytash, the Review (four).
+1. **The Cup** (Miwnay and the guard).
+2. **The Dust and the Grove** (Takhsich, Nanai-farn, the Draxt factions).
+3. **The Scale, the throne and the fleet** (Aytash, Shayn, Farnxund, Temirkan, the Ordu, Usrushan, Chash, Pench).
 
-**Locations live at once:** never more than four of Root, Spark, Height, Counterweight, the Ordu fleet, Ustrushana.
+**Active threads at any time: four or five.** **Live locations: never more than four.** **Off the elevator:** about 35 to 40% of play (Aytash from Day 26; the Grove in Acts 3 and 4).
 
-**The board.** At each chapter boundary a vertical map of the elevator shows where each thread is, with the Bench board's licence price ticking at the Height and the day count to the verdict (Day 33) at the Spark. When a thread goes dark, the Hush of Day 4 and the funeral of Day 17 are shared landmarks every thread experiences, so the player can line up what happened at the same moment.
+**The board.** At each chapter boundary a map shows the elevator and the region's worlds, the day count to the verdict, the Bench board's price, and where each thread stands. The Hush of Day 4, the Ikhshid's funeral (Day 17) and the Hush of Day 32 (seen from the fleet as a ripple down the cable) are shared landmarks felt in every thread.
 
-**The player's case board.** Conclusions are entered as statements built from witnessed facts, people and objects (for example "[the sash] was [insulated] by [Rokhshan] for [the Weigher's house]"). The game confirms them only in batches at three points (end of Act 1, the midpoint, end of Act 3), never one by one, and keeps a log of what was witnessed, never of what it meant.
+**The case board.** The player enters conclusions as statements built from witnessed people, objects and properties. The game confirms them only in batches (end of Act 1, the midpoint, end of Act 3) and logs what was witnessed, never what it means.
 
 ---
 
 ## Act 1: The Seventh Cup (Days 1 to 6)
 
-**Narrative question:** How did Pukar die, if not by her cup?
-**New mechanic:** tasting.
+**Question:** how did Pukar die, if not by her cup? **New mechanic:** tasting.
 
 ### Miwnay
 
-1. **Day 1. The seven cups (start together).** The Weighing floor of the Scale: lapis murals of embassies, a great brass balance, the founding plate under glass, the Draxt seat (a dusted plate on which the alien envoy's words rise as figures that a veiled interpreter reads aloud), the hundred-drachm weight on its cushion, a brass witness rail. Present: Chief Weigher Farnxund presiding; Aytash in the dock with her keeper Dewasht; Varkhuman, patron of the prosecution, in a gravity chair; Shayn in the gallery; Nanai-farn as custodian of the plate; Takhsich carrying its case; the Ordu legate Qutlugh; Ustrushana's delegate; the defence witness Pukar; and behind the bench, the Weigher's chakars. Relationships are said plainly as the clerk calls the roll: "Taster Miwnay, dhat of the Master of Dust". The player tastes seven cups. Varkhuman's carries a licensed descent tonic: flag it, check the licence, pass it (teaching that riders exist and can be legal). A clerk sets the ceremonial weight down on her tray; when the player lifts it aside, the taster's weight sense (a small gauge she uses for leaf) twitches and settles at "light", and the scene moves on. Pukar's cup, the seventh, is clean. He testifies four sentences, grips the rail and dies in a blue flash; a branching burn crosses his back.
-2. **Day 1, after.** The Cup's rule: the cup that preceded a death is answerable. The player watches her name voided: the sash goes dead, a door that opened for her this morning does not. Farnxund assigns her own seventh chakar as Miwnay's guard.
-3. **Day 2.** Dawn without the farn spark (the player felt it at dawn on Day 1, in the game's first seconds). Miwnay names him Avd. He touches the door handles first "to take the shock". He smells of beeswax ("chakars wax their sashes so the grid can't read us").
-4. **Day 3. Re-tasting.** Tasters keep a retained sample of every cup. The player re-tastes the seventh: clean. Nanai-farn visits the custody room, gentle and unhurried: she can restore the name if Miwnay joins the Dust. Refused. On the way out Nanai-farn tells the guard to "keep her from the Root".
-5. **Day 4. The Hush (shared landmark).** At 11:52 every floor sees it. The player, in Miwnay's thread, watches sparks race *down* the custody room's rail and out through the floor, hair rising then falling, the sash going slack, nine minutes of utter stillness, then the crackle returning. A future has been unmade. People in the corridor cover their mouths, the Marakandi gesture of mourning for unmade days.
-6. **Day 5. The sash.** Unnamed, she cannot open the evidence room; the guard's sash device can. The guard tries to steer her away ("the Weigher sealed it"); she insists. Pukar's witness sash: beeswaxed silk where the conductive thread should be, and a plate blank sewn into the lining. The player dusts the burn photograph with the Cup's tea powder and sees the fern figure end at a small glyph. *Batch 1 conclusion:* the sash, not the cup, killed him, and the glyph belongs to the House of Dust.
+1. **Day 1, dawn.** A tick of charge through her sash: the farn spark.
+2. **Day 1, the seven cups (everyone together).**
+   - The Weighing floor: lapis murals, a brass balance, the founding plate under glass with a notice forbidding Draxt approach, the Draxt seat's dust rising into figures, the 100-drachm weight on its cushion, the grounded witness rail.
+   - The roll call states the relationships plainly, and the board appears at the scene's end.
+   - The player tastes seven cups. Ashtvan's carries a licensed descent tonic: flag it, check the licence, pass it.
+   - A clerk sets the ceremonial weight on her tray; when the player lifts it aside, her leaf gauge twitches and settles slightly short. Nothing comments on it.
+   - Farnxund rubs her thumb round her rim.
+   - Pukar's cup, the seventh, is clean. He grips the rail and dies in a blue flash; a branching burn crosses his back.
+3. **Day 1, after.** The cup is answerable, so her name is voided. A door that opened this morning does not. Farnxund assigns her own seventh chakar as Miwnay's guard.
+4. **Day 2.** No spark at dawn. She calls him Avd. He touches door handles first and smells of beeswax.
+5. **Day 3.**
+   - She re-tastes her retained sample: clean.
+   - Nanai-farn visits and offers her name back if she joins the Dust. **Choice:** refusing continues the game; accepting leads to the short Apprentice ending.
+   - On leaving, Nanai-farn tells the guard to "keep her from the Root".
+6. **Day 4, the Hush.** Sparks race down the custody rail, all one way. Hair lifts and falls, the sash goes slack, then nine minutes in which even the cursor's faint crackle stops. People in the corridor cover their mouths for the unmade days.
+7. **Day 5, the sash.** The guard's sash device opens the evidence room; he tries to steer her away; she insists. Pukar's sash is beeswaxed silk with a plate blank sewn in. She dusts the burn photograph: the figure ends in a small glyph. *Batch 1:* the sash killed him, and the glyph is the Dust's.
 
 ### Takhsich
 
-1. **Day 1.** He carries the plate case into the hall and watches his friend die. The player knows from his first scene that he is the leak who told the "Ordu" about Pukar's doubts.
-2. **Days 2 to 3. The Well.** The House of Dust at the Root: dusting plates, filing copies, the grounding column where real arrivals throw sparks down to earth. Nanai-farn announces that Pukar was the Ordu mole. Takhsich's guilt sharpens into purpose.
-3. **Day 4. The arrival.** He is on watch when the Descent comes down the column. The plate: *TARDU YABGHU, DAY 34: AYTASH WEIGHED AND KILLED. WAR BEGUN. PLATE OF NIGHT −13 FALSE. THE TASTER PROVED IT LATE.* Nanai-farn seals it "for the Ikhshid". The player has one chance, during the nine minutes when the Dusters' hands do not spark, to take a dust-lift with tape without leaving a static mark (a stealth timing sequence).
-4. **Days 5 to 6.** Courier rota up the elevator. At the Height docks he passes the lift to his handler, Varzakk, a pilot with Ordu tattoos who pays him in tea bricks. The player reads the full plate for the first time, glyph by glyph.
+1. **Day 1.** He carries the plate case in and watches his friend die. The player knows he is the leak.
+2. **Days 2 to 3.** The Well: dusting, filing, the grounding column. Nanai-farn names Pukar as the Ordu mole.
+3. **Day 4, the lift.** He is on watch when the Hush comes down the column. In the nine minutes when hands leave no static marks, the player lifts the sealed plate with tape. Decoded glyph by glyph: *TOLUN YABGHU, DAY 34: AYTASH WEIGHED AND KILLED. WAR BEGUN. PLATE OF NIGHT −13 FALSE. THE TASTER PROVED IT LATE.*
+4. **Days 5 to 6, the courier run.**
+   - At the Counterweight docks he passes the lift to Kanak, a pilot with Ordu tattoos, who pays in tea bricks.
+   - He watches a Draxt being re-spun at the station: it misrelayed a client's plate and consents, the dust on its body shifting as its pattern is rewritten.
+   - The interpreter's single line: "It asked. We do not write without asking."
 
 ### Aytash
 
-1. **Day 1.** In the dock. Reading the court by its sparks (her verb): Varkhuman's sash crackles when he looks at Nanai-farn; Farnxund's never sparks at all.
-2. **Day 3.** Shayn visits her custody suite at the Spark's ambassadors' floor and offers friendship against Varkhuman.
-3. **Day 4.** She feels the Hush in her cell and asks Dewasht what future just died. He does not know.
-4. **Day 5.** Varkhuman offers her exile if she confesses; the tribute would double. She refuses.
-5. **Day 6.** Her custody tea starts to taste faintly of iron. (She is not a taster; the player may not notice.)
+1. **Day 1.** In the dock, reading the court's sparks. Ashtvan crackles when he looks at Nanai-farn; Farnxund never sparks.
+2. **Day 3.** Shayn offers friendship against Ashtvan.
+3. **Day 4.** She feels the Hush and asks Dewasht what future just died.
+4. **Day 5.** Ashtvan offers her exile for a confession. She refuses.
+5. **Day 6.** Her custody tea begins to taste faintly of iron.
 
-**Act 1 ends** on Takhsich watching Varzakk's ship pull away with the lift, and the line the player has just read: *THE TASTER PROVED IT LATE.* **Current question:** was the night −13 plate false, and can it be proved before the verdict on Day 33?
+**Act 1 ends** on the plate's last line. **Current question:** was night −13 false, and can it be proved before Day 33?
 
 ---
 
 ## Act 2: Brick and Thread (Days 7 to 17)
 
-**Narrative question:** Who made the sash, and who paid for it?
-**New mechanic:** moving unnamed through the Root; reading stitches and bricks.
+**Question:** who made the sash, and who paid? **New mechanics:** moving unnamed; reading stitches and bricks; the ledger's rule of who may ask.
 
 ### Miwnay and the guard
 
-1. **Day 7. Descent to the Root.** Full gravity. The unnamed crowds; tea bricks as money; the vats humming. Being unnamed now helps: the Sartapao's security cannot see her. It also hurts: no door opens without the guard. (Stealth play: crowds, the vat yards, the switch-houses.)
-2. **Day 8. Streaks.** An unnamed conduit boy, paid in a brick-corner, shows her how real arrivals leave thin downward scorch streaks on every conduit. Day 4 is there. Night −13 is not. Miwnay realises before anyone tells her that the trial's plate may never have come down the thread.
-3. **Day 9. Rokhshan.** The sash's stitch style leads to an embroiderer's workshop. Rokhshan is dead on her floor, neck broken. The guard was gone for an hour (red herring). In a burning heap of sashes, the player saves half of Rokhshan's **ledger-sash**, a long sash on which she stitched her orders in code.
-4. **Day 10. The gift.** Farn riots in the Spark (seen on a feed in a Root tea-house: crowds chanting against the Ordu). The guard gives her a new sash, embroidered with a tea-bowl device, bought during his missing hour. The ledger begins to decode: *witness sash, insulated, Weigher's house, collected by the [damaged].*
-5. **Day 11. The Brick Market.** Tasting bricks to follow the money (her economic verb): the payment to Rokhshan was Dust ration stock. A second flow of strange, airy, low-gravity bricks is being spent by a Duster.
-6. **Day 12. Aytash.** Miwnay slips into the ambassadors' floor as the guard's tea-bearer and tastes Aytash's custody tea: a docility rider. The two women recognise each other as people the court has decided to use. Aytash stops drinking the tea. (Threads touch.)
-7. **Day 13. Takhsich (collision).** At the Brick Market she follows the airy bricks to the Duster spending them. The scene the player played from his side on Day 4 is now played from hers: he shows her his second lift. *THE TASTER PROVED IT LATE.* She sits down on a brick crate and laughs. They ally.
-8. **Day 14. Varkhuman.** At dawn the Lord of the Height dies in his climber halfway down to the Spark, his heart failing under ordinary weight. Shayn's people bring the flask to the one taster no faction owns. The player tastes a **thinning write** in a base of Height white leaf from the Weigher's estate.
-9. **Day 15. The midpoint: "the seventh".** The last damaged stitch decodes. *Collected by the seventh.* The player has called him Seven for two weeks. Miwnay asks him. He tells her: Farnxund's order, the robing room at dawn, "a shock to make him stammer". He did not kill Rokhshan; he was buying a sash. **Choice (minor):** keep him or send him away. If sent away, he follows at a distance and still opens the doors; the story continues either way, with different scenes. *Batch 2 conclusion:* the Chief Weigher's house ordered and placed the sash.
-10. **Day 16.** Takhsich, who still has a name, asks the Sartapao the question the player composes: *Who requested a grounding of all floors on the night of Day −13?* "The Master of Dust. Reason: plate safety. Nine minutes." He takes a lift of the night −13 plate itself and sends it up to the Draxt.
-11. **Day 17. The Ikhshid dies (shared landmark).** The whole elevator dims its lights. Every thread sees it.
+1. **Day 7. The Root.** Full gravity, unnamed crowds, tea money, the hum of the vat-crèches. Being unnamed is cover (the city's security cannot see her) and a cage (no door opens without the guard).
+2. **Day 8. Streaks.** The conduit boy shows her Day 4's streaks and none for night −13. She pays him with a promise: the Cup's next charity licence.
+3. **Day 9. Rokhshan.** The embroiderer is dead. The guard was gone for an hour (a red herring). The player saves half of her ledger-sash from a fire.
+4. **Day 10.** Farn riots on a tea-house feed. The guard gives her a new sash, embroidered with a tea-bowl device.
+5. **Day 11. The Brick Market.** By tasting bricks, she traces the sash payment to Dust ration stock. A second flow of airy low-gravity bricks is being spent by a Duster.
+6. **Day 12. Aytash.** As the guard's tea-bearer, she tastes Aytash's custody tea and finds the docility write. Two women the court has decided to use.
+7. **Day 13. Takhsich.** At the Brick Market she follows the airy bricks to him and sees the Day 4 plate. She sits on a brick crate and laughs.
+   - **Choice: publish the plate now, or hold it.**
+   - *Hold* (canonical): the verdict stays on Day 33 and they build proof.
+   - *Publish:* the Dust calls it unconfirmable Ordu propaganda, the Spark is split, Farnxund moves the verdict to Day 30, and Takhsich is arrested on Day 17.
+   - Both paths meet at the Day 30 session.
+8. **Day 14. Ashtvan.** The Lord of the Height dies in his climber on the way down. Shayn's people bring the flask. The player tastes a thinning write in Height white leaf, the same pale tea as the Chief Weigher's bowl on Day 1. The Bench board's price falls.
+9. **Day 15. Midpoint: "the seventh".** The last damaged stitch decodes: *collected by the seventh*.
+   - The guard, cleaning her spittoon, confesses in three sentences: Farnxund's order, the robing room, "a shock to make him stammer". He did not kill Rokhshan; he was buying her sash.
+   - **Choice:** keep him or send him away. If sent away, he stays at a distance and still opens the doors.
+   - *Batch 2:* the Chief Weigher's house placed the sash.
+10. **Day 16. Who may ask.** The ledger will not answer Takhsich or Miwnay about night −13. Its line names only the officer of the watch: Pukar.
+    - Miwnay finds Pukar's mother in a crèche ward and helps her frame the question.
+    - The Sartapao gives her Pukar's own exchange from Day −12: *fault grounding 02:09:40, nine minutes; plate logged 02:10:05; preceding wave: none recorded.*
+    - She weeps that he asked. Miwnay keeps a copy.
+11. **Day 17.** The Ikhshid dies, and the lights dim the length of the elevator. That night the Dust detains Pukar's mother: Nanai-farn's audit showed her the question.
 
 ### Takhsich
 
-1. **Day 8. The canary trap.** Nanai-farn gives three suspects three slightly different memos. Takhsich has not seen the trap yet.
-2. **Day 9.** He sends his variant up in a sash consignment from Rokhshan's workshop. (The player can notice afterwards that the memo had an odd word in it; there is no undoing it.)
-3. **Day 11. The handler.** Varzakk comes down to the Spark to meet him, and teaches him a trick "for emergencies": rub a sleeve, touch a plate's corner three times, and "our friends" will read it. Takhsich notices the bricks are airy (pressed in low gravity) and the handler's notes carry a faint charge that makes the dust on his fingers jump into a fern. The player can state: *My handler is not Ordu.*
+1. **Day 8.** Nanai-farn's canary trap: three variant memos.
+2. **Day 9.** He sends his variant up in a sash consignment before he sees the trap.
+3. **Day 11.** Kanak, in the Spark, teaches him the touch-mark "for emergencies". Takhsich notices the airy bricks and the charge on the notes. The player can state: *my handler is not Ordu.*
 4. **Day 13.** Collision with Miwnay.
-5. **Day 16.** The ledger question and the night −13 lift.
 
-### Aytash and the court
+### Aytash and the courts
 
-1. **Days 8 to 11.** Court intrigue at the ambassadors' floor: Aytash reads Varkhuman and Farnxund through their sashes in a garden audience; she sees that they meet and that Farnxund leads.
-2. **Day 10.** Farn rioters chant beneath her floor.
-3. **Day 12.** Miwnay finds the docility rider.
-4. **Day 14.** Varkhuman's death. Shayn comes to her the same afternoon and proposes an alliance: Shayn will end the Weighing if Aytash backs her accession to the Ordu.
-5. **Day 17.** The Ikhshid's death. The Bench board's licence price, which fell when Varkhuman died, steadies on the rumour of Shayn.
+1. **Days 8 to 11.** At a garden audience she reads Ashtvan and Farnxund by their sparks and sees that Farnxund leads.
+2. **Day 12.** The docility write is found.
+3. **Day 14.** Shayn proposes an alliance: she will end the Weighing if the Ordu recognise her accession.
+4. **Day 17.** The funeral lights.
 
-**Act 2 ends** with the guard sitting outside her door in the Root, lordless in all but name, and the dimmed lights of mourning. **Current question:** why would the Chief Weigher kill to protect the Master of Dust?
+**Act 2 ends** with the guard outside her door at the Root, and Pukar's mother taken. **Current question:** why would the Chief Weigher kill to protect the Master of Dust?
 
 ---
 
 ## Act 3: Patterns (Days 18 to 30)
 
-**Narrative question:** Who is Farnxund, and what has the House of Dust been hiding since before any of them were born?
-**New mechanic:** the seven-cups test on people; counting rings.
+**Question:** who is Farnxund, and what has the Dust hidden since before any of them were born? **New mechanics:** the seven-cups test on people; counting rings; the fleet court.
 
 ### Miwnay and the guard
 
-1. **Day 18. Coronation (seen through Aytash).** Shayn is crowned on the Weighing floor before the Scale, as every Ikhshid has been since Tarkhun I, and spends an hour alone with Nanai-farn. She comes out with her sash sparking. Aytash sees it.
-2. **Day 19. Makhdhat and the Old Column.** At the Root an old woman grips Miwnay's arm: "Your face ordered the grounding. Unburned night. There were no sparks first." Makhdhat is 79; she was 16 at the switches. With the conduit boy, the player climbs the Old Column's collar and counts its soot rings against the Register of Plates on a wall nearby: sixteen arrivals listed, fourteen rings. The rings for the two forged nights are missing: night −13 and Unburned YT 41. (The player has to work out which two by matching ring spacing to the Register's dates.)
-3. **Day 20. The funeral tea.** Disguised as the guard's tea-bearer, Miwnay serves the court the formal seven-cup tray. The seventh cup is the bitter one. The player watches faces: Farnxund flinches at the seventh exactly as Miwnay does, the same small closing of the left eye. She speaks a line, and the player, if listening, hears Miwnay's own voice in it. That night Shayn, now Ikhshid and wanting leverage over the Chief Weigher, lets Miwnay into the Vat Bench's Spark registry: Nanai-farn licensed two seconds, in YT 52 and YT 70; the first changed name and face in YT 70. *Farnxund is her sister.* The guard, told, says only that he always knew how Miwnay liked her bread.
-4. **Day 21.** Takhsich is arrested. Miwnay loses her named proxy to the Sartapao.
-5. **Day 22. The oath.** Farnxund summons her seventh chakar. He refuses, which under the chakar oath makes him lordless and hunted. That night in Makhdhat's room he tells Miwnay the name his mother gave him: Tishvandak.
-6. **Day 24.** Varzakk finds them at the Root with a Draxt affidavit on the night −13 plate: its figure branches upward, written from below.
-7. **Day 27. The last conversation.** Nanai-farn sends for Miwnay. Her rooms at the Root are dust and ochre and a painted ossuary already waiting in the corner. She asks her question: "If you had been me at twenty-two, with the Root starving, would you have written sixty glyphs?" (The player answers or stays silent; the answer is remembered in the epilogue.) She says she will testify on Day 30. She asks Miwnay to carry her bones, the duty of pattern-kin.
-8. **Day 28.** Shayn restores Miwnay's name.
-9. **Day 29.** The farn spark at dawn. Then the news: Nanai-farn dead in her chair, a cup beside her. The Scale calls it suicide. As pattern-kin Miwnay claims the body and tastes the cup's residue: the same thinning write as Varkhuman's flask. The guard turns the gift wrapper over: the Weigher's household device.
-10. **Day 30. The Second Weighing collapses.** Named again, Miwnay presents to the Scale: the Sartapao, asked in open court, repeats its answer about the grounding; the Draxt affidavit; the conduit streaks; the Old Column. The Weighers confer. Aytash is acquitted in absentia. Farnxund, presiding, thanks the taster and declares that the late Master of Dust deceived the Scale. (Miwnay holds back the murders: her only witness to the sash is still unnamed, and the woman presiding is the killer.) *Batch 3 conclusions:* night −13 was forged by the Master of Dust; Farnxund killed Varkhuman and Nanai-farn.
+1. **Day 18. Coronation** (seen through Aytash). Shayn comes out of an hour alone with Nanai-farn with her sash sparking.
+2. **Day 19. Makhdhat and the Old Column.**
+   - Makhdhat grips Miwnay's wrist: "Your face ordered the grounding." She also remembers a girl from the Scale who came asking in YT 77 and never came back.
+   - The player counts rings above the YT 60 restoration line against the Register on the switch-house wall: seven entries, six rings. Night −13 has none. Below the line the collar is scrubbed.
+3. **Day 20. The bitter cup.** At the funeral tea, Farnxund flinches at the seventh bowl exactly as Miwnay does, and speaks in Miwnay's voice. That night Shayn, wanting leverage, opens the Vat Bench's Spark registry: two seconds. *Farnxund is her sister.*
+4. **Day 21.** Takhsich is arrested.
+5. **Day 22. The oath.**
+   - The guard refuses Farnxund's summons; his sash device dies at the next door.
+   - Makhdhat's old crew keys and the conduit boy's crawlways take over.
+   - That night he tells her his mother's name for him: Mahvandak.
+6. **Day 24.** Kanak brings a Draxt affidavit: night −13 was written from below.
+7. **Day 27. Sixty glyphs.**
+   - Nanai-farn's rooms: dust and ochre, and a painted ossuary in the corner. She asks her question; the player may answer or not.
+   - She says: "While I live, it's mine to keep. When I'm bones, it's yours to weigh."
+   - She asks Miwnay to carry her bones and names her sole heir to her ledger lines.
+8. **Day 28.** Shayn restores Miwnay's name, to drop the collapse on the Dust and not on the throne.
+9. **Day 29.**
+   - The spark returns at dawn.
+   - Then the news: Nanai-farn is dead, and the Scale calls it suicide.
+   - As pattern-kin Miwnay tastes the residue (the same write as Ashtvan's) and keeps a retained sample. The guard knows the household device on the wrapper.
+   - Shayn makes Farnxund Acting Master of Dust.
+10. **Day 30. The session (Farnxund presiding).**
+    - Miwnay presents Pukar's exchange, the affidavit, the streaks and the ring count.
+    - The Weighers confer, and the Second Weighing collapses: Aytash is acquitted in absentia.
+    - Farnxund blames the late Master of Dust.
+    - Miwnay offers the murder evidence. Farnxund rules that a Dust officer's death belongs to the Dust's inquiry, which she now heads, and impounds it on screen.
+    - The Draxt seat's dust spells a motion to recuse her; it fails for want of a second seat, because Usrushan's courier is a day out.
+    - Miwnay still has her retained sample, and Pukar's mother is released.
+    - *Batch 3:* night −13 was forged by the Master of Dust; Farnxund killed Ashtvan and Nanai-farn.
 
-### Takhsich
+### Takhsich, and the Grove
 
-1. **Day 21. Caught.** His Day 9 variant was intercepted on the Pilot's channel. Interrogation in the Well: Nanai-farn across a dusted table. The player chooses what to give up; whatever he gives, she deduces from Varzakk's identity that his handler is Draxt, and the player sees her afraid for the first time.
-2. **Day 22. Turned.** She threatens to have his mother and sister unnamed. His task: carry to the Draxt a "faithful original" of the YT 78 relay that she forges in front of him, to explain the missing flourish. It slips in her instructions that the relay was altered, so the player now knows the Dust has lied to the Draxt for 26 years.
-3. **Days 23 to 26.** Escorted up the elevator and out by Dust ship. At the Counterweight, in thin air and floating dust, he hands Wakhsh the forged plate. **The double-cross:** rub a sleeve, touch the corner three times (the Day 11 trick). The player must do it under the escort's eyes. The dust on the plate jumps into a figure the escort cannot read and Wakhsh can. The Draxt keep him.
+1. **Day 21.** Interrogation across a dusted table. Nanai-farn deduces from Kanak's identity that the handler is Draxt, and is afraid for the first time.
+2. **Day 22.** Under threat of having his mother and sister unnamed, he must carry a forged "faithful original" of the YT 78 relay, which she makes in front of him. She lets slip that the relay was altered.
+3. **Day 26. The touch.**
+   - At the Counterweight, under escort, he hands Wakhsh the forgery and makes the touch-mark: rub the sleeve, three touches, hide the shimmer.
+   - The corner's dust jumps into a figure. Every figure on the walls changes at once.
+   - Wakhsh takes him to the Grove.
+4. **Days 27 to 30. The Grove.**
+   - A Draxt court on a low-gravity moon, its speech visible on every wall. Takhsich, with an interpreter, learns its two factions:
+     - **the Keepers**, who voted the YT 79 refusal and would rather correct quietly;
+     - **the Spinners**, who ran him and want the relay moved.
+   - He sees what the falsified "future" did: 26 years of Draxt policy, including denying the Ordu a thread.
+   - He is the only human in the room, holding the forgery as evidence for the Spinners.
 
-### Aytash, the court and the galaxy
+### Aytash: the fleet court and Usrushan
 
-1. **Day 24. The sale.** Shayn and Farnxund strike a pact (seen in part by Aytash through a garden screen): Shayn hides the clone, Farnxund hides the shadow quota, and Aytash goes to Root custody for a verdict on Day 33.
-2. **Day 25.** Dewasht hears of the transfer.
-3. **Day 26. Escape.** Through the Spark's shuttle ring to an Ordu boat. Dewasht dies covering her in a spoke corridor. (Action sequence; the player as Aytash.)
-4. **Day 27. The fleet.** Ships lashed into a moving camp; felt hangings in steel hangars. Her father is ready for war.
-5. **Day 28. Unburned Day at Ustrushana.** Paper effigies of her great-grandfather burn in the squares; children wear horns. She lands for a parley with the Afshin and, instead of threatening, offers a share of a future Ordu thread's freight if Ustrushana petitions for a Review of the First Weighing. The Afshin agrees. (Galactic rung.)
-6. **Day 30.** News of the acquittal reaches the fleet.
+1. **Day 24.** Through a garden screen she sees Shayn and Farnxund make a pact, and her own name in it.
+2. **Day 26. Escape** through the Spark's shuttle ring. Dewasht dies covering her in a spoke corridor.
+3. **Day 27. The fleet.**
+   - Ships lashed into a moving camp; felt hangings in steel hangars.
+   - Her father, Yabghu Tolun, is torn. His cousin Temirkan leads the war party and has the captains' ears, and the Pench factor holds their debts.
+   - The player moves through the hangar council reading captains' sparks: who is for war, who can be bought, who is afraid.
+4. **Day 28. Unburned Day at Usrushan.**
+   - Effigies of her horned great-grandfather burn in every square, and a child gives her a paper horn.
+   - At the Afshin's palace the player chooses how to open: threaten, plead or offer freight. The freight offer works at once; the others cost a scene.
+   - The Afshin agrees to petition for a Review once his council ratifies.
+5. **Days 29 to 30.** Back in the fleet, Temirkan's captains whisper that she is a Marqandi creature. News of her acquittal reaches the fleet on Day 30 and strengthens her, and frightens Temirkan.
 
-**Act 3 ends** with the bone-gathering set for Day 31 and Farnxund in sole command of the Scale and, with Nanai-farn dead, the Dust. **Current question:** what did the dead spymaster leave her pattern-kin?
+**Act 3 ends** with the bone-gathering set for Day 31, Farnxund holding both the Scale and the Dust, and Temirkan counting captains. **Current question:** what did the dead spymaster leave her pattern-kin?
 
 ---
 
 ## Act 4: The Light Weight (Days 31 to 38)
 
-**Narrative question:** Was the founding verdict forged, and what will it cost to say so?
-**New mechanic:** none; all verbs converge.
+**Question:** was the founding forged, can it be proved to people who distrust alien evidence, and what will it cost? Each thread carries its own share of the act, so no single day carries all of it.
 
-1. **Day 31. The bones.** The silent tower at the Root, where enzymes clean the dead overnight. Miwnay gathers her original's bones into the painted ossuary (a quiet, tactile scene). The Long Chakar attacks; the guard kills him. In the ossuary lid: a plate whose figure ends in a tight spiral flourish unlike any plate the player has dusted so far; and Nanai-farn's set of bronze weights, one slot empty, the shape of the Scale's hundred-drachm weight. The player remembers the Day 1 twitch. Named now, Miwnay asks the Sartapao who requested a grounding on Unburned night, YT 41. "Duster Nanai-farn, night watch. Reason: plate safety. Nine minutes." They leave for the top of the elevator.
-2. **Day 33. The bargain.** At the Height, Shayn offers the guard's name licence in exchange for Miwnay's promise to keep the founding secret at any review. The guard says not to. Miwnay promises.
-3. **Days 35 to 36. The Counterweight.** Thin air, a quarter weight, fern figures on every wall. Takhsich is there. Wakhsh reads the YT 78 plate: its own future, dead in the sending, silenced for 26 years. The walls around them fill with figures as the station's Draxt read it too (a silent, visual crowd). Wakhsh states the law: the forger's pattern must be re-spun; it cannot be forced; one consenting instance closes it for all; otherwise Marakand is a false party. With Ustrushana's petition, the Draxt convoke the Review for Day 38. Wakhsh also says what the Draxt considered and refused: a long send that would unmake most of a year. "Unmaking is what liars do."
-4. **Day 37. The naming.** Draxt ship to the Spark, Wakhsh in a support frame. Aytash and the Afshin arrive under Draxt safe-conduct. In the Cup's hall Miwnay certifies the guard's name-cup. **Choice:** Avd, Tishvandak or Pukar. He drinks.
-5. **Day 38, dawn.** His first farn spark. He laughs out loud.
-6. **Day 38. The Review.** The same hall as Day 1, every surviving thread present. The named guard testifies against his lord. Miwnay presents the writes. Farnxund turns the room: the YT 78 plate is alien work, branch-script only aliens can read, a Draxt forgery to break Marakand's monopoly. The gallery roars. Wakhsh is carried to the founding plate under its glass, which no Draxt has approached since YT 41, and reads it at a glance: written from below, and with no death flourish, though a send that long would have killed its sender. The gallery dismisses that too: alien word against alien word.
-7. **The choice.** Miwnay walks to the balance with the Cup's master weight in her hand. **Weigh, or do not.** If she weighs, the sacred weight rises against the tea taster's; the bailiff breaks it open on the Draxt seat's instruction; inside is a stamp; dusted onto a blank plate, it prints the founding message in mirror image. Wakhsh offers the re-spinning cup. Farnxund refuses it. Miwnay tastes it, the last fine tasting of her life, a sequence played like the Day 1 tasting in reverse, the notes falling away one by one, and then **drink, or refuse**.
-8. **Verdicts.** Farnxund is convicted and unnamed. She walks to the door; it does not open for her; the guard opens it.
+### Miwnay
 
-## Epilogue: The Name (Days 39 to 46)
+1. **Day 31. The bones.**
+   - At the silent tower the player gathers bones into the ossuary in the order the guard teaches.
+   - The Long Chakar attacks, and the guard kills him.
+   - In the loosened lid: a plate ending in a tight spiral unlike any the player has dusted, and a bronze 100-drachm weight, the twin of the Scale's. In her hand it is heavier than the one she lifted on Day 1, and the leaf gauge twitches.
+   - As heir she asks the Sartapao what Nanai-farn paid for in the month of Unburned, YT 41: *two weights of one hundred drachms; sealing fee.*
+2. **Day 33. The Height.** Shayn offers the guard's licence for Miwnay's promise to keep the founding secret at any review. The guard says not to. **Choice:** promise, or refuse.
+   - If she refuses, the only route to his name is the Cup's charity licence, which she promised the conduit boy (resolved on Day 37).
+   - They leave on Kanak's ship.
+3. **Days 35 to 36. The Grove.**
+   - Takhsich is there. Wakhsh reads the YT 78 plate before the court: *PATTERN WAKHSH TO ITSELF. DUST FALSE SINCE UNBURNED. FARNXUND WEIGHED IT. SPIN THE ORDU THREAD.*
+   - The walls fill with figures as the court reads it with him.
+   - **The reclassification:** in a future that was unmade, the Chief Weigher was the one who found the hollow weight. The girl from the Scale whom Makhdhat remembered was Farnxund at 25, and Nanai-farn's corruption of her dates from that week.
+   - The Spinners move a long send to their past selves, which would unmake about three hundred days, this whole story included. The Keepers resist.
+   - Miwnay can speak through the interpreter. Her words do not decide it, but they are heard: she can argue for the living (the unmade days hold Pukar's mother's release and the guard's oath-breaking) or simply give testimony.
+   - **Wakhsh consents to be re-spun**, closing the YT 79 decision for its pattern, and the Spinners withdraw the long send.
+   - The compromise: the Marqand relay continues under audit; a second Well and thread will be spun at Kish; and the Draxt will demand that the Scale renounce convictions on messages from the future.
+4. **Day 37. The naming.**
+   - With Shayn's licence: in the Cup's hall Miwnay certifies the guard's name-cup and the player chooses the name: **Avd**, **Mahvandak** or **Pukar**. The conduit boy gets the charity licence the same evening.
+   - Without it: the player chooses between naming the guard with the charity licence (the boy waits a year) and keeping the promise to the boy (the guard stays unnamed and cannot testify).
+   - At dawn on Day 38 the named guard feels his first spark and laughs out loud.
 
-- **Day 39, dawn.** Every named sash in Marakand gets a weaker spark: the Sartapao reversed the entry at midnight. The Bench board crashes. Height houses begin releasing their clones' vat debts.
-- **Days 40 to 45.** Fever. The guard keeps watch and practises tasting with her spittoon, badly.
-- **Day 46. Her naming.** Her face is changed, her voice is not. The rewrite has erased her name-mark. The guard tastes her name-cup, slowly, the way she taught him, and nods. **Choice:** her name (Miwnay; Farn, after the share; or the name the guard offers, which is whatever the player called him). The next dawn, the spark.
-- **Coda (months later, as short silent images).** The first strand of a thread spun at Kesh; Aytash on a fleet deck; Takhsich at the Well with a Draxt audit plate humming beside him; Makhdhat at a real Hush, holding up her hand for the sparks coming down first; the hollow weight's two halves under the hall's glass beside the founding plate.
+### Aytash
 
-**Alternative outcomes** (from `02-hidden-history.md`): *weigh and refuse the cup* (the Draxt withdraw; the last image is Miwnay at a Spark stall, strangers staring at her original's face); *do not weigh* (the keeper: Miwnay alone at the Well wearing her original's sash, the weight back under glass). Each gets its own epilogue and coda.
+1. **Day 31. Composing a send.** The captains' council will vote on Day 32. Temirkan means to strike the Height docks on Day 36, which would sink the Review.
+   - With a Pench loan, Aytash commissions a standing send from the Draxt: *if the fleet strikes Marqand before the Review, send this text to noon of Day 32.*
+   - The player composes the sixty glyphs, knowing the plate will be read first at Marqand's Well by the Acting Master of Dust, Farnxund. The three drafting stances:
+     - a plain warning naming Temirkan, which Farnxund can use as proof of Ordu aggression;
+     - a line from an Ordu deck-song only captains know (canonical), which Farnxund cannot read but cannot use either;
+     - an appeal addressed to the Draxt seat, which arms the Draxt and angers the captains.
+2. **Day 32, noon. Act or wait.**
+   - The captains on watch see the ripple of light run down the cable: a Hush. The condition came true in a future now unmade.
+   - Temirkan says she bought a Hush to frighten them, and no one can confirm it.
+   - **Choice:** act (name Temirkan's plan to the council now, unprovably) or wait (let the vote run and try to stop the strike later).
+   - Either way Temirkan moves first.
+   - At Marqand the same day, Farnxund reads the plate and moves to reject Usrushan's petition as an Ordu threat. The Draxt seat and Usrushan admit it, and the Review is set for Day 38.
+3. **Day 33. The coup.** Temirkan's men kill Yabghu Tolun in his hangar. Aytash survives (action sequence) and is acclaimed Yabghu-elect by the ships loyal to her father.
+4. **Day 34. The captains' council.**
+   - By reading sparks, she finds the captains who are afraid rather than angry.
+   - The Pench factor calls in Temirkan's ship debts at her signal.
+   - If she acted on Day 32, the captains who heard her then come over; if she waited, she must win them now with the deck-song.
+   - Temirkan is exiled.
+5. **Day 35. Chash.** A second elevator city: plain human cable, a copied farn system, and riots already starting over the rumour of the Review. The Tudun's seat will vote to uphold, because his farn rests 30% on the tribute. Aytash offers the freight hub of the Kish thread, and he agrees to abstain.
+6. **Day 36. Kish.** With Spinner envoys she sites the second thread on a bare Ordu-held world, the first strand's anchor point marked in the dust.
+7. **Day 37.** She arrives at the Spark with the Afshin and Chash's delegate under Draxt safe-conduct.
+
+### Day 38: the Review
+
+- **Procedure.** Shayn presides, without a vote. Farnxund is recused, as she is named in the petition. Voting seats: Weigher A, Weigher B, the Draxt, Usrushan and Chash (abstaining). Overturning needs two-thirds of the seats voting. The Ordu sit as the wronged party, with Aytash questioning.
+
+1. **The murders.**
+   - The named guard testifies against his lord, and Miwnay presents her retained sample.
+   - Aytash invokes the witness-sash rule: Farnxund, ungrounded at last, sparks at her denials, and Aytash reads them aloud like a ledger.
+   - Takhsich produces the forged YT 78 "original".
+2. **The founding.**
+   - At the Draxt demand, Shayn reads the YT 41 line under her seal: *Council seal of Tishdhat.* The gallery takes it for a founder's safety order.
+   - Wakhsh, re-spun and in pain in its frame, is carried to the founding plate and reads it: written from below, with no death mark where a 228-day send must have one.
+   - Farnxund, from the dock: alien word, alien interest, against a human founder's seal. The vote stands at two of three voting: not enough.
+3. **The weight. Choice: walk to the balance, or not.**
+   - Miwnay sets the Scale's weight against its twin from the ossuary. The Scale's pan rises.
+   - The bailiff strikes it open: a stamp. Dusted onto a blank plate, it prints the founding message in mirror image.
+   - Weigher A votes: three of four. The First Weighing falls.
+   - If she promised Shayn, she has just broken her word in front of her.
+4. **Farnxund.** Shown the YT 78 text, the woman who, in an unmade future, weighed it first asks for the broken halves; the bailiff refuses. She is convicted and unnamed. The door does not open for her; her former chakar opens it.
+5. **The terms.** Aytash states them: the tribute ends; restitution of 10% of the pool for 40 years; rights at Kish; and, by Ordu custom, a hostage "of the blood of the wrong" for four years. Shayn names her son, aged twelve. **Choice:** Miwnay goes in his place, or does not.
+
+## Epilogue: The Name (Days 39 to 40, and a coda)
+
+1. **Day 39, dawn.** A weaker spark across the whole city (−45%).
+2. **Day 39, the crash (played).**
+   - Miwnay walks the Root's crèche wards as farn houses' agents arrive to surrender licences and the Bench board's price falls through the floor.
+   - Pukar's mother is on shift.
+   - The player watches Shayn's Wards Decree posted: the 1.5 million children become wards, owe no labour tithe, and are paid their own farn.
+   - The conduit boy has a name, if it was given.
+   - On a Height feed, Chash's riots.
+3. **Day 40, departures.**
+   - *If she goes:* Miwnay and the guard (who chooses to come) board an Ordu shuttle at the Spark ring. Makhdhat is on the platform.
+   - *If she stays:* a twelve-year-old boy boards, and she watches from a Spark stall, strangers staring at her original's face.
+4. **Coda (months later, silent).**
+   - In a steel hangar, Aytash holds a hostage's naming in the Ordu manner, and the guard tastes the cup. **Choice:** the Ordu name, **Tuz** ("salt"), **Ülüsh** ("a share"), or keep **Miwnay**.
+   - Then: a strand of thread at Kish; Takhsich at the Well beside a Draxt audit plate; Makhdhat at a real Hush, holding up her hand for the sparks coming down first; Farnxund, nameless, at a Root tea stall, flinching at a seventh cup.
+
+**Branches** (from `02`): the **Apprentice** (Day 3); **refusing Shayn** (Day 33), with its choice between the guard and the boy; **staying** (Day 38); and the **Keeper**: if she does not weigh, the founding stands, the Draxt move to Kish, the Ordu stop paying, and the last image is Miwnay alone at the Well in her original's sash.
 
 ---
 
-## Reveal order and the question each answer opens
+## Reveal order and the question each opens
 
-| # | Day | Answer the player reaches | Question it opens |
+| # | Day | Answer | Question it opens |
 |---|---|---|---|
-| 1 | 5 | The sash killed Pukar, not the cup | Who in the Dust would kill a Duster? |
-| 2 | 6 | A future was unmade to say night −13's plate was false; "the taster proved it late" | Can she prove it in time? |
-| 3 | 8 | No streaks for night −13 | If it never came down the thread, how was it made? |
-| 4 | 11 | Takhsich's handler is not Ordu | Who is running the mole, and why? |
-| 5 | 11 | The sash was paid in Dust ration bricks | Is the Master of Dust the killer? (partly true; the honest red herring) |
-| 6 | 14 | Varkhuman, the war's champion, was murdered | Who is above the war party? |
-| 7 | 15 | The guard placed the sash on the Chief Weigher's order | Why would the Scale protect the Dust? |
-| 8 | 16 | The Sartapao logged a grounding by the Master of Dust | How many times has she done this? |
-| 9 | 19 | No ring for Unburned YT 41 either | Was the founding a forgery? |
-| 10 | 20 | Farnxund is her clone-sister | What else did Nanai-farn plan for her patterns? |
-| 11 | 22 | The Dust altered a Draxt plate in YT 78 | What did the Draxt's future really say? |
-| 12 | 26 | The Draxt run the mole, and now know the relay was falsified | What will the Draxt do? |
-| 13 | 29 | Farnxund murdered Nanai-farn | Can she be brought to account while she presides? |
-| 14 | 30 | The Second Weighing collapses | What did Nanai-farn leave her? |
-| 15 | 31 | The YT 78 plate and the empty weight slot | Is the weight hollow? |
-| 16 | 36 | YT 78: "Dust false since Unburned. Spin the Ordu thread." | Can it be proved to humans? |
-| 17 | 38 | The weight is light; the stamp prints the founding message | What will it cost? |
+| 1 | 5 | The sash killed Pukar | Who in the Dust kills a Duster? |
+| 2 | 6 | An unmade future says night −13 was false and "the taster proved it late" | In time? |
+| 3 | 6 | The Draxt re-spin only with consent (planted law) | (Pays off at the Grove) |
+| 4 | 8 | No streaks for night −13 | How was it made? |
+| 5 | 11 | Takhsich's handler is not Ordu | Who runs the mole? |
+| 6 | 11 | The sash was paid in Dust bricks | Is the Master of Dust the killer? (the honest red herring) |
+| 7 | 14 | Ashtvan was murdered | Who stands above the war party? |
+| 8 | 15 | The guard placed the sash on the Chief Weigher's order | Why would the Scale protect the Dust? |
+| 9 | 16 | Pukar's own ledger exchange: a fault, no wave | Who staged the fault? |
+| 10 | 19 | Ring count; Makhdhat; the collar scrubbed below YT 60 | Was the founding forged too, and why was the evidence scrubbed? |
+| 11 | 20 | Farnxund is her clone-sister | What did Nanai-farn plan for her patterns? |
+| 12 | 22 | The Dust altered a Draxt plate | What did the Draxt's future really say? |
+| 13 | 27 to 30 | The Grove's factions; the Ordu court's war party | Can either be turned? |
+| 14 | 29 | Farnxund killed Nanai-farn | Can she be tried while she presides? |
+| 15 | 30 | The Second Weighing collapses; evidence impounded | What did Nanai-farn leave? |
+| 16 | 31 | The twin weight; "two weights; sealing fee" | Is the Scale's hollow? |
+| 17 | 32 | A Hush from Aytash's standing send: the strike happened in an unmade future | Act or wait? |
+| 18 | 36 | **YT 78: "FARNXUND WEIGHED IT."** The killer was the truth-teller | What is she guilty of? |
+| 19 | 38 | The weight rises; the stamp | What will it cost, and who pays? |
 
-The final act holds two frame-breaking reveals (16 and 17). The second engine running alongside the answers is pursuit and danger: the Day 33 verdict clock through Act 3, Farnxund's chakars hunting a lordless guard, and Aytash's escape.
+The final act holds one frame-breaking reveal (18), which reclassifies a character the player has hunted for twenty days, and one decisive proof (19). A second engine runs alongside them: the coup and the fleet's war clock in Aytash's thread.
 
 ## Thread grid summary
 
-| Days | True time (hidden) | Miwnay | Takhsich | Aytash and the court | Pillar thread | Planted | Paid off |
+| Days | Hidden events | Miwnay | Takhsich | Aytash and the courts | Pillar | Planted | Paid off |
 |---|---|---|---|---|---|---|---|
-| 1 | Sash swapped at dawn | Seven cups; Pukar dies; unnamed | Carries the plate | In the dock | Cloning: riders | Light weight; thumb round the rim; Farnxund's voice; guard near the robing room | |
-| 2 to 3 | Nanai-farn smears Pukar | Re-tastes; names the guard | The Well | Shayn's offer | AGI: unnamed | Beeswax; door-touching; "keep her from the Root" | |
-| 4 | Yabghu's plate arrives | Feels the Hush | Lifts the sealed plate | Feels the Hush | Time: Descent | What a real Hush looks like | |
-| 5 to 6 | Docility dosing begins | The sash | Passes the lift | Refuses Varkhuman | Aliens: dust | | Batch 1 |
-| 7 to 11 | Rokhshan killed (9); canary trap (8) | Root, streaks, ledger, bricks | Variant sent; handler's bricks | Riots; garden audience | Time: streaks; economy: bricks | Touch-mark trick; airy bricks | Reveal 3, 5 |
-| 12 to 13 | | Aytash; Takhsich | Collision | Docility found | | | Reveal 4 (for Miwnay) |
-| 14 to 15 | Varkhuman killed | Flask; "the seventh" | | Shayn's alliance | Cloning: thinning | Height white leaf | Reveal 6, 7; Batch 2 |
-| 16 to 17 | Ikhshid dies | Grounding answer | Night −13 lift sent | Funeral | AGI: question | | Reveal 8 |
-| 18 to 20 | Shayn told the secret | Makhdhat; rings; funeral tea | | Coronation | Time: rings; cloning: seven cups | | Reveal 9, 10 |
-| 21 to 26 | Pact; transfer | Oath broken; affidavit | Caught; turned; double-cross | Sale; escape; Dewasht dies | Aliens: touch-mark | | Reveal 11, 12 |
-| 27 to 30 | Nanai-farn killed (29) | Last talk; name back; residue; Scale | (with the Draxt) | Fleet; Ustrushana | | Ossuary | Reveal 13, 14; Batch 3 |
-| 31 to 36 | | Bones; bargain; Counterweight | Joins her | Fleet council holds | Aliens: law | | Reveal 15, 16 |
-| 37 to 38 | | Naming; Review | Testifies | Returns | All four | | Reveal 17; Day 1 weight |
+| 1 | Swap at dawn | Seven cups; unnamed | Plate case | In the dock | Cloning | Light weight; thumb; voice; Draxt ban | |
+| 2 to 3 | Pukar smeared | Re-tasting; Avd | The Well | Shayn | AGI | Beeswax; door-touching | |
+| 4 | Tolun's plate | The Hush | The lift | The Hush | Time | Real Hush | |
+| 5 to 6 | Docility begins | The sash | Counterweight; re-spinning seen | Refuses Ashtvan | Aliens | Consent law; airy bricks | Batch 1 |
+| 7 to 13 | Rokhshan killed; canary trap | Root; streaks; ledger; bricks; Aytash; Takhsich | Variant; touch-mark | Garden audience | Time, economy | Charity-licence promise | Reveals 4 to 6 |
+| 14 to 17 | Ashtvan killed; Ikhshid dies | Flask; "seventh"; Pukar's mother | | Shayn's alliance | AGI (who may ask) | | Reveals 7 to 9; Batch 2 |
+| 18 to 24 | Pact; Takhsich turned | Rings; bitter cup; oath; affidavit | Arrested; turned | Coronation; pact seen | Cloning, time | | Reveals 10 to 12 |
+| 25 to 30 | Nanai-farn killed | Sixty glyphs; name back; session | Touch; the Grove | Escape; fleet court; Usrushan | Aliens | Ossuary | Reveals 13 to 15; Batch 3 |
+| 31 to 34 | Tolun killed | Bones; Shayn's bargain | The Grove | Composing the send; act or wait; coup; council | Time (active) | | Reveals 16 and 17 |
+| 35 to 37 | | The Grove; naming | The Grove | Chash; Kish; arrival | Aliens, politics | | Reveal 18 |
+| 38 to 40 | | Review; crash; departure | Testifies | Questions; terms | All | | Reveal 19; Day 1 weight |
 
-## Clue matrix: required revelations (three clues, two areas minimum)
+## Clue matrix: required revelations (at least three clues, from at least two areas)
 
-| Required revelation | Clues (area) |
+| Revelation | Clues (area) |
 |---|---|
-| The sash killed Pukar | Clean retained sample (Spark); beeswaxed silk and plate blank in the sash (Spark evidence room); the Dust glyph at the root of the burn figure (photograph, dusted); Rokhshan's ledger (Root) |
-| Night −13 was forged | No conduit streaks (Root); the Sartapao's grounding log (any terminal); the Draxt affidavit on the upward figure (Counterweight, via Varzakk); the missing Old Column ring (Root); the Day 4 plate's own words (Well) |
-| The guard placed the sash | "Collected by the seventh" (ledger, Root); his rank, which gave him his nickname (Spark, Day 2); his presence by the robing room (Day 1 hall); his door-touching habit (everywhere) |
-| Farnxund ordered it | The ledger's "Weigher's house" (Root); the guard's confession (Root); Farnxund's never-sparking sash and her lead in the garden audience (Aytash's thread, Spark) |
-| Farnxund is Nanai-farn's clone | The seven-cups flinch (Spark funeral tea); the same voice (every scene with both); the thumb round the rim (Day 1); the guard's uncanny knowledge of Miwnay's habits (Root); the Vat Bench register (Spark registry) |
-| Farnxund killed Varkhuman and Nanai-farn | The thinning write in both (taste, Spark and Root); the Height white leaf of her estate (taste); the gift wrapper's household device (Root); Varkhuman's intention to withdraw (Aytash overhears, Spark) |
-| The Draxt run Takhsich | Airy low-gravity bricks (Spark and Root); charge on the handler's notes (Spark); the touch-mark trick (Spark); Wakhsh's patience with the mole (Counterweight) |
-| The founding was forged | Makhdhat's memory (Root); the missing ring for Unburned (Root); the YT 41 grounding log (terminal); the YT 78 plate (ossuary, then Counterweight); the empty slot in the weight set (ossuary); the light weight on Day 1 (Spark); the Draxt ban near the founding plate (Spark hall, Day 1) |
-| The Dust altered a Draxt plate | Nanai-farn's slip (Well); the YT 78 plate's flourish against the Draxt copy's lack of one (Counterweight); the Draxt wall figures recording 26 years of debate (Counterweight) |
+| The sash killed Pukar | Clean retained sample (Spark); beeswaxed sash with plate blank (Spark); Dust glyph at the burn's root (photo); Rokhshan's ledger (Root) |
+| Night −13 forged | No streaks (Root); no ring above the restoration line (Root); Pukar's ledger exchange, through his mother (Root); the Draxt affidavit (Counterweight); the Day 4 plate (Well) |
+| The guard placed the sash | "Collected by the seventh" (Root); his rank and nickname (Spark); by the robing room on Day 1 (hall); door-touching (everywhere) |
+| Farnxund ordered it | "Weigher's house" (Root); the confession (Root); her lead at the garden audience (Aytash, Spark) |
+| Farnxund is Nanai-farn's clone | The bitter-cup flinch (Spark); the same voice; the thumb; the guard's uncanny habits; the registry (Spark) |
+| Farnxund killed Ashtvan and Nanai-farn | The thinning write in both (taste); Height white leaf from her estate (taste); the wrapper's device (Root); Nanai-farn's filing to testify (Scale clerk, seen on Day 30) |
+| The Draxt run Takhsich | Airy bricks (Spark, Root); charged notes; the touch-mark; the Grove |
+| The founding forged | Makhdhat (Root); scrubbed collar ordered by the Dust (Root); YT 78 plate (ossuary, Grove); the payment line (ledger, heir's right); the twin weight (ossuary); the light weight on Day 1 (Spark); the Draxt ban (hall); the missing death mark (Review) |
+| Farnxund was the truth-teller once | "A girl from the Scale" (Makhdhat, Root); her unfinished study in the Scale library (optional, Spark); the YT 78 text (Grove) |
 
-**The honest red herring:** the Dust glyph on Pukar's back and the Dust bricks point at Nanai-farn as the killer. She did order the sash in spirit ("make him stammer") but not the death; the guard's confession and the thinning-write evidence refute it.
-
-**Decorative detail that cannot be mistaken for a clue:** the lapis murals, the Spark's ambient sparks, tea-house chatter and Root crowd figures are visual noise in a consistent style. Clue objects are interactable and are logged automatically when examined.
+**The honest red herring:** the Dust glyph and the Dust bricks point at Nanai-farn as Pukar's killer. The confession and the writes refute it.
 
 ## How gameplay delivers each revelation
 
-| Verb | Pillar | Used for |
+| Verb | Pillar or seed | Used for |
 |---|---|---|
-| **Tasting** (identify writes, riders, estate, press, by flavour profile against a learned palate; spit, compare, rank) | Cloning | Clean cup (Day 3); docility rider (12); thinning write (14, 29); bricks (11, 13); funeral seven cups (20); the Draxt cup (38) |
-| **Dusting** (scatter powder; read branch-script figures; read direction and flourish) | Aliens | Pukar's burn (5); plates (4, 16); the YT 78 plate (31, 36); the stamp (38) |
-| **Reading streaks and rings** (follow conduits; count rings against the Register) | Time | Night −13 (8); Unburned (19) |
-| **Feeling a Hush** (an experienced event the player can compare) | Time | Day 4, set against both faked ones |
-| **Moving unnamed** (stealth through crowds and the AI's blind spot; dependence on the guard's sash for doors) | AGI | Acts 1 to 3 |
-| **Framing a ledger question** (build an exact question; the Sartapao answers only that) | AGI | Day 16, 30, 31 |
-| **Reading stitches** (decode a ledger-sash; identify a workshop by stitch) | Seed object | Rokhshan's ledger (9 to 15) |
-| **Following tea money** (brick assay at the market) | Economy | Days 11, 13 |
-| **Spycraft** (dust-lifts during a Hush, dead drops in sash consignments, spotting a canary variant, the touch-mark) | Intrigue | Takhsich's thread |
-| **Reading sparks** (social stealth; lie-telling by sash crackle) | Static | Aytash's thread |
-| **Weighing** (the taster's hand sense, then the balance) | Seed object | Day 1 and Day 38 |
+| Tasting (slurp, hold, spit; place the notes on a learned palate; compare against retained samples) | Cloning | Days 1, 3, 12, 14, 20, 29, 37 |
+| Dusting (read glyphs, gradient, death marks) | Aliens | Days 4, 5, 31, 36, 38 |
+| Composing a standing send (condition, target, sixty glyphs, for two readers) | **Time (active)** | Day 31 |
+| Act or wait on a plate | **Time (active)** | Days 13 and 32 |
+| Feeling a Hush; reading streaks and rings | Time | Days 4, 8, 19, 32 |
+| Moving unnamed; finding the one person entitled to ask the ledger; inheriting lines | AGI | Days 7 to 28, 16, 31 |
+| Reading stitches | Sash | Days 9 to 15 |
+| Following tea money | Economy | Days 11, 13 |
+| Spycraft (lift in a Hush, dead drops, canary trap, touch-mark) | Intrigue | Takhsich |
+| Reading sparks (court, council, dock) | Static | Aytash, Days 1 to 38 |
+| Weighing | Scale weight | Days 1, 31, 38 |
 
-**Text budget.** Plates are sixty glyphs. Rokhshan's ledger decodes to one line. Optional lore (the Register, the primer, deck-songs, the weight-book, the wall figures) is never required.
+**Required reading:** four plates of at most sixty glyphs, one ledger line, and a Register of seven dates.
 
 ## Escalation ladder (each rung costs a named person)
 
 | Rung | Scale | Cost |
 |---|---|---|
-| A cup | One witness | Pukar's life; Miwnay's name |
-| A sash | A guild and a Root workshop | Rokhshan's life |
-| A plate | The city's war | Varkhuman's life; the guard's oath |
-| A family | Three copies of one woman | Nanai-farn's life; Miwnay's illusion that she is unlike her |
-| A fleet and a colony | The region | Dewasht's life; Aytash's home |
-| The founding | The whole order and an alien civilisation's 26 years | Miwnay's face and palate; half of every named person's farn |
+| A cup | One witness | Pukar; Miwnay's name |
+| A sash | A guild, a workshop | Rokhshan |
+| A plate | A city's war | Ashtvan; the guard's oath; Pukar's mother's freedom |
+| A family | Three copies of one woman | Nanai-farn; Miwnay's belief that she is unlike her |
+| A fleet and two colonies | The Ordu and their neighbours | Dewasht; Tolun |
+| An alien court | The Draxt's 26 years | Wakhsh's pattern, re-spun |
+| The founding | Three cities' incomes, 1.5 million children's futures | Farnxund's name; 45% of everyone's farn; Miwnay's home for four years |
 
-## Intensity and down beats
+## Cause and effect (every link a "therefore" or a "but")
 
-Deliberate quiet scenes: the re-tasting (Day 3); the gift sash (Day 10); sitting on the brick crate (Day 13); the name Tishvandak (Day 22); the last conversation (Day 27); the bone-gathering (Day 31); the naming (Day 37); the fever and the bad tasting (Days 40 to 45). Peaks: Days 1, 4, 14, 15, 26, 30, 38.
-
-## Cause-and-effect check (beats in order, linked by "therefore" or "but")
-
-Pukar doubts the plate, **therefore** Takhsich leaks, **therefore** Pukar is called, **therefore** Farnxund kills him, **but** Miwnay's cup is blamed, **therefore** she is unnamed and guarded by the killer. A future is unmade, **therefore** the Dust seals the plate, **but** Takhsich copies it. Miwnay finds the sash, **therefore** goes to the Root, **therefore** finds streaks and the ledger, **but** Rokhshan is already dead. The bricks lead to Takhsich, **therefore** they ally, **therefore** Varkhuman, told of the sealed plate, prepares to withdraw, **therefore** Farnxund kills him, **therefore** Shayn brings the flask to Miwnay, **therefore** the ledger and the flask break the guard's silence. The Ikhshid dies, **therefore** Shayn learns the secret, **therefore** she uses the clone register as leverage and sells Aytash, **therefore** Aytash escapes, **therefore** Dewasht dies and Ustrushana is won. Takhsich's variant is caught, **therefore** he is turned, **but** he marks the plate, **therefore** the Draxt know. Nanai-farn decides to confess, **therefore** Farnxund kills her, **but** she has left the truth in her ossuary, **therefore** Miwnay finds it, **therefore** climbs to the Draxt, **therefore** the Review is convoked, **but** Farnxund turns the room against alien evidence, **therefore** only a human-checkable object will settle it, **therefore** the weight, **therefore** the cup.
+1. Pukar asks the ledger, **therefore** the Dust sees him, **and** he tells Takhsich, **therefore** the defence calls him, **therefore** Farnxund kills him.
+2. **But** Miwnay's cup is blamed, **therefore** she is unnamed and guarded by the killer.
+3. A future is unmade, **therefore** the Dust seals the plate, **but** Takhsich lifts it.
+4. The sash leads to the Root, **therefore** to the streaks and the ledger-sash, **but** Rokhshan is already dead.
+5. The bricks lead to Takhsich, **therefore** they ally, **therefore** Ashtvan, told of the plate, moves to withdraw, **therefore** Farnxund kills him, **therefore** Shayn brings the flask, **therefore** the guard breaks.
+6. The ledger will answer only Pukar's heir, **therefore** his mother asks, **therefore** the Dust detains her.
+7. The Ikhshid dies, **therefore** Shayn learns the secret, uses the registry as leverage and sells Aytash, **therefore** Aytash escapes and Dewasht dies.
+8. Takhsich's variant is caught, **therefore** he is turned, **but** he marks the plate, **therefore** the Spinners hold proof.
+9. Nanai-farn files to testify, **therefore** Farnxund kills her, **but** she has left the twin weight and the plate to her heir, **therefore** Miwnay climbs to the Grove.
+10. Temirkan plans a strike, **therefore** Aytash sends to the future, **therefore** a Hush, **therefore** Farnxund tries to use it, **but** the petition is admitted.
+11. Temirkan kills Tolun, **therefore** Aytash must win the council, **therefore** she buys Chash.
+12. The Spinners threaten to unmake the year, **therefore** Wakhsh consents to be re-spun.
+13. At the Review, alien evidence is not enough, **therefore** the weight, **therefore** the Ordu terms, **therefore** the hostage.
