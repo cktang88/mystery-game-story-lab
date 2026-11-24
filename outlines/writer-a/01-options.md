@@ -57,7 +57,7 @@ If the future is known, who has property in it: the one who sees it, the one who
 
 ## Round 3: hidden history (three options)
 
-**H1. The fitted death.** Twenty-three years ago a house matriarch saw a "long" plate: an x-ray shadow of her heir lying in the great bloom's chamber on her wedding night. Because shadows show no faces, she grew a clone to fit it and banked the real heir in the slow vault. The clone lived the heir's life, and was murdered two days before the wedding by a rival who wanted the real heir to fill the shadow instead (her death would pass the vault to his house). The truth no one guessed: the shadow was never a death. It was the clone's *funeral*, laid out by the friend she wrote to for twenty-two years.
+**H1. The fitted death.** Twenty-three years ago a house matriarch saw a "long" plate: an x-ray shadow of her heir lying in the great bloom's chamber on her wedding night. Because shadows show no faces, she grew a clone to fit it and banked the real heir in the slow vault. The clone lived the heir's life, and was murdered nine days before the wedding by a rival who wanted the real heir to fill the shadow instead (her death would pass the vault to his house). The truth no one guessed: the shadow was never a death. It was the clone's *funeral*, laid out by the friend she wrote to for twenty-two years.
 
 **H2. The authorless assassin.** For two centuries an untraceable killer has struck at Ilavenil's court, each death looped and so legally no one's. It is the AGI's inspection regime itself, exploited by a lineage of assessors who sell "licensed deaths". The mystery is a serial-killer hunt that ends in the tax office.
 
