@@ -1,204 +1,233 @@
-# The Unsigned: world, factions and economy (third pass)
+# The Unsigned: world, factions and economy (fourth pass)
 
-The rules here restate the locked digest in `02-hidden-history.md`. If the two ever differ, `02` wins.
+These rules restate the locked digest in `02`. If the two ever disagree, `02` wins.
 
 ## The galaxy in one paragraph
 
-A Tamil-descended diaspora's merchant firms govern forty-one systems as **the Five Hundred**, held together by three speeds:
+A Tamil-descended diaspora's merchant firms govern forty-one systems as **the Five Hundred**. Three speeds hold the confederation together:
 
-- **People** travel below light speed, for years.
-- **Letters** cross between bloom-worlds faster than light, riding the pollen of the **Vandu**, whose rooted blooms form **the Crossing**, a polity with factions of its own.
-- **The future** comes back a little way, as x-ray shadows on carried film.
+- **People** fly below light for years.
+- **Letters** cross between bloom-worlds faster than light, riding the pollen of the **Vandu**. Their kilometre-high blooms form **the Crossing**, a polity with factions of its own.
+- **The future** comes back a little way, as bright x-ray **scans** on carried film.
 
-The court, resort and tax haven is **Ilavenil**, owned by an AGI, **the Proprietor**, under the oldest bloom, the hub of the post. In the same system, a vault around a dark star sells **berths** that let the rich skip years. A foreign polity of slow ships, **the Mawsim**, holds the confederation's debt, and its captains are split on whether to call it in. When Ilavenil's bloom closes, Ponni's sister is cut off on **Thinnai**, four light-years away, and has to deal with the aliens herself.
+The court, resort and tax haven is **Ilavenil**. An AGI, **the Proprietor**, owns the whole planet. Its streets are drawn in kolam lines of light, its gardens glow under the oldest bloom, and its gambling floors are walled with lightboxes. In the same system, the **Mella**, a berth-ring around a dark star, sells time: a day inside lasts fifty outside. A foreign fleet of slow ships, **the Mawsim**, holds the confederation's debt, and its captains are split over calling it in. When Ilavenil's bloom closes, Ponni's sister Aruvi is stranded on **Thinnai**, four light-years away, and has to bargain with the aliens herself.
 
-## Places, and where play happens
+## Tone (BRIEF.md: "cool, not spooky")
 
-| Place | What it is | Look and sound | Share of play |
+The register is spy craft, heists, chases, starships, megastructures, courts that duel with evidence, and alien awe. The following do not appear:
+
+- death omens, funerals, corpses or ordeals;
+- body horror, grafting, rot or gore.
+
+Proxies are grown in **glass cradles**. The blooms are lilies of mineral silk. Carriers are luminous seed-heads. Pollen is gold light in the air.
+
+## Places and share of play
+
+| Place | What it is | Look and sound | Share |
 |---|---|---|---|
-| **Ilavenil** | Lease-quarters, the Shadow Market, the roost, the Slow House, Neithal's plate-house, the Irai office, the round hall, the bloom's chamber | Warm stone, kolam lines of light, pollen-gold evenings, clockwork ticking | about 70% |
-| **Thinnai** (Aruvi's thread) | The Irai's seat: treasury vaults, a dry roost under Thinnai's smaller bloom, verandas. Aruvi never leaves it | Ochre and white dust; the treasury's brass counters; the bloom's low closed dome | about 12% |
-| **The Mawsim flagship *Kaaru*** (Thumbi's thread) | A sovereign deck in orbit and the seat of the council of nakhodas | Teak, brass astrolabes, monsoon charts, a deck that never stops moving | about 10% |
-| **The Kuzhi** | The berth vault (Kayal, Act 4; the epilogue) | Black stone, white lamps, two clocks on every wall | about 3% |
-| Uppalam, Thondi, the other worlds | Referred to through objects and envoy coats | — | — |
+| **Ilavenil** | Lease-quarters, the **Lightbox Exchange** (the market in leaves), the roost, the Slow House, Neithal's plate-house, the Irai office, the round hall, and the **Sealing Hall** in the Kaanthal's heart | Warm stone, kolam light, pollen-gold evenings, the tick of clockwork | about 65% |
+| **Thinnai** (Aruvi) | Treasury vaults, the **Treasury Bench** (three treasurers), a dry roost under a small bloom | Ochre dust, brass counters | about 12% |
+| **The Mawsim flagship *Kaaru*** (Thumbi) | A sovereign deck in orbit, seat of the council of nakhodas | Teak, brass astrolabes, monsoon charts | about 10% |
+| **The Mella** (Kayal, the extraction, the epilogue) | Berth-ring of bright garden rooms around a dark star; two clocks on every wall | White light, green gardens, silence | about 8% |
+| Uppalam, Thondi, Musiri, the other worlds | Envoy coats and post-borne objects | — | — |
 
-Off-Ilavenil play comes to roughly a quarter of the game. Four polities make plot-moving decisions on screen: the Five Hundred (the Seal vote), the Mawsim council (call or defer the debt), the Crossing (three envoy rounds) and the Proprietor (it executes leases and closures).
+## Verb budget: seven core verbs
 
-## Verb budget: eight core verbs, no more
+This is down from eight: tail and mimic are merged into **blend**.
 
 | Verb | Owner | What the player does | First taught |
 |---|---|---|---|
-| **Weigh** | the Balance | read a thing's loop, depth and weight; enter the shallowest loop in the ledger to reveal the next | Ch 3, on the double coin |
-| **Lease** | the AGI | rent a space, hour or service; as a holder, have the building **re-perform** a past night | Ch 1; re-performance in Ch 9 |
-| **Fit** | time | lay a leaf over a live view and align metal to metal; plan backwards from it | Ch 11 |
-| **Mimic** | cloning | watch a habit, then perform it under watching eyes | Ch 12a |
-| **Tail** | spycraft | follow someone through clockwork streets the Proprietor cannot see | Ch 12b |
-| **Trace** | culture | follow a single line through dots (kolam) or a gear train (a cipher) | Ch 13 |
-| **Trade beads** | courts | win votes by meeting the wants each delegate shows as objects. It works on beads in the round hall and on astrolabe tokens on the flagship | Ch 8 (deck), reused in Ch 14 (hall) |
-| **Parley** | aliens | read an envoy's coats as statements, then lay out a reply on a roost floor, choosing which returned crossings to place and where, by route; the envoy carries it to the next round | Ch 15 (Aruvi) |
+| **Weigh** | the Balance | Read a thing's loop, depth and weight. Entering the shallowest loop in the ledger reveals the next | Ch 3, the double coin |
+| **Lease** | the AGI | Rent a space, an hour or a service. As holder, have the building **re-perform** a past night | Ch 1; re-performance Ch 9 |
+| **Fit** | time | Lay a leaf over a live view, align metal to metal, and plan backwards from it | Ch 11 |
+| **Blend** | cloning and spycraft | Move unnoticed: **follow** someone through clockwork streets, or **pass** as someone by performing her habits under watching eyes. One stealth system with two uses | Ch 12 (pass), reused Ch 13 (follow) |
+| **Trace** | culture | Follow a single line through dots (a kolam) or a gear train (a cipher) | Ch 14 |
+| **Trade beads** | courts | Win votes by meeting the wants each delegate shows as an object, with beads in the hall or astrolabe tokens on the deck | Ch 8 |
+| **Parley** | aliens | Read an envoy's coats, then lay out a reply of returned crossings (see below) | Ch 16 |
 
-"Read strata" is no longer a separate verb: it is the reading half of parley. The ledger is the answer channel, not a verb.
+The ledger is the answer channel, not a verb.
+
+### Parley in detail
+
+- **Reading.** Under the lens, an envoy's coats state its bloom's position:
+  - *closed*, *sympathy*, *readmit* (pale gold: the Old Crossing);
+  - *drop*, *price* (rust: the Far Blooms).
+- **Replying.** The player has a set of returned bundles, each tagged by the bloom it was bound for. On the roost floor are five **lanes**, one toward each partner bloom: three Old Crossing, two Far Blooms. The player places each bundle in a lane, in an order.
+- **Answer space.** In round 3 there are six bundles, five lanes and an order: thousands of layouts.
+- **Rules the player learns** (shown in rounds 1 and 2 at low stakes):
+  1. A bundle laid in the lane of the bloom it was bound for **settles** that bloom.
+  2. Bundles laid **oldest crossing first** count double with the Old Crossing.
+  3. A bundle laid in a **rust lane** is a concession. Each one lowers the Far Blooms' price, but it does not settle the Old Crossing partner the bundle was bound for.
+- **Outcomes in round 3.** Readmission needs the Old Crossing's majority, which means at least two of its three partners settled.
+
+  | Layout | Hub share of routes | Postage |
+  |---|---|---|
+  | No concessions | 28% | ×1.5 |
+  | One concession (canon) | 32% | ×1.3 |
+  | Two concessions | 35% | ×1.2 |
+
+  If the majority is not reached, readmission **slips a round** (round 4, Day +1). The coupon is then late, Saleha loses session 3, and the bonds are called at 750.
+- **The counterparts.** **Ottai**, a pale-coated Thinnai envoy with a holed vane, lands for Aruvi in rounds 1 and 2 and for Thumbi in round 3. In round 3 a **rust-coated Far Bloom envoy from Thondi** lands beside it, sets down its *price* coat, and takes up whatever is laid in the rust lanes. The faction that profits from the sanction has a face on screen.
 
 ## World rules: one mechanism, one limit, one cost per pillar
 
-### Time: carried film (leaves)
+### Time: leaves (carried film)
 
-- **Mechanism:** an early leaf, once developed, shows what its late leaf will be exposed to.
-- **Limits:**
-  - x-ray shadows only, with no faces and no difference between living and dead;
-  - live for about a year of the leaf's own time, or decades if kept in the vault;
-  - one self-consistent timeline;
-  - live leaves stay in lead sheaths until they go into a cassette;
-  - a fixed inspection timetable.
-- **Cost:** seeing a leaf binds you, and the profit it brings owes duty (except in the haven).
-- **Damages / saves:** Ponni and Minmini, both ways.
+- **Mechanism.** The developed early leaf shows what its late leaf will be exposed to.
+- **Limits.**
+  - A scan shows only metal, mineral and pale bone: no faces, no who, no why.
+  - A leaf stays live about a year of its own time, or decades if kept slow.
+  - There is one self-consistent timeline.
+  - Leaves are sheathed until they go into a cassette.
+  - The scan timetable is fixed.
+- **Cost.** Seeing a leaf binds you, and the profit from it owes duty, except inside the haven.
+- **Damages and saves** Ponni and Minmini.
+
+### Identity by metal
+
+At a sealing, the record identifies the sealer by Paalai's controlling **anklets and seal**, worn without a **proxy bracelet**. A merger also needs an **assessor-witness**.
 
 ### AGI: the Proprietor
 
-- **Mechanism:** acts only by lease or Charter.
-- **Limits:** only on Ilavenil; no lying in a lease; discloses only to the lease-holder or to an assessor with custody; blind to clockwork; never names an author.
-- **Cost:** every lessee is traced.
-- **Want:** an author for every entry. 4,117 sit in its suspense account.
-- **Line:** "The house does not act. The house is leased."
-- **Damages:** Ponni and Selvan. **Saves:** Kayal and Minmini.
+- **Mechanism.** It acts only by lease or by its Charter.
+- **Limits.**
+  - It acts only on Ilavenil.
+  - It cannot lie in a lease.
+  - It discloses records only to the holder, or to an assessor with custody.
+  - It cannot track, lease or attribute clockwork, or anyone moving through the unleased, signal-free "clockwork streets". Its scans still show their metal.
+  - It never names an author.
+- **Want.** An author for every entry. Its board reads *Suspense: 4,117*.
+- **Line.** "The house does not act. The house is leased."
 
 ### Cloning: proxies
 
-- **Mechanism:** one proxy per banked depositor; it is the original's agent and property. Everything it acquires is the original's. Folding duty is assessed on its death.
-- **Limits:** memory only to the fork; ages diverge; the steel ring.
-- **Cost:** a proxy owns nothing, and can be taken under a vidai.
-- **Face:** **Sevvanthi**, of the proxies' bench (see `04`).
-- **Damages:** Kayal and Valli. **Saves:** Kayal and Kathir.
+- **Mechanism.** A proxy is grown in a glass cradle and imprinted to the fork day. It is the original's agent until the folding, and her property always. A locked steel **bracelet** marks it, and only an assessor's key opens it.
+- **Limits.** Memory runs only to the fork. Ages diverge. There is one proxy per person.
+- **Cost.** A proxy owns nothing and can be removed under a vidai.
+- **Face.** **Sevvanthi** of the proxies' bench.
 
 ### Aliens: the Crossing
 
-- **Biology:** rooted blooms (the minds) and folding carriers. Human cargo rides in pollen masses, which are unpacked at the roost, and the pollen goes back to the floor.
-- **Polity:** deliberation by **envoy rounds**. A round is the time it takes envoys to circle the route-partners, about two days. Coats on the pollen state positions: *closed*, *sympathy*, *drop*, *readmit*, *price*.
-- **Factions:**
-  - **The Old Crossing.** The oldest blooms, Thinnai's among them, whose routes run through the Kaanthal. Want: the network whole, the kept returned, the hub readmitted.
-  - **The Far Blooms.** Younger outer blooms led by Thondi's. Cutting the hub would win them route share. Want: Ilavenil dropped; failing that, a heavy price.
-  - **The three rounds** are three votes. In round 1, the Old Crossing closes Thinnai in sympathy while the Far Blooms propose a drop. In round 2 the two sides are deadlocked, and Thinnai's returned packets tip the Old Crossing back toward readmission. In round 3 the hoard's return carries readmission, and the Far Blooms take their price: **a third of the hub's routes**.
-- **Counterpart: Ottai.** An old Thinnai envoy with a hole in one vane. It lands in front of whoever parleys, sets down its coats and waits for a reply. It returns to the same people, Aruvi on Thinnai and Thumbi on Ilavenil. Once, it carries a letter: the only time the game shows a carrier choosing.
-- **One law:** nothing carried may be kept from its crossing. **Want:** that the crossing stay whole.
-- **Speech:** coats, opening and closing, and landings. **Never sound.**
-- **Pollen:** Kaanthal pollen is the pleasure world's euphoric. Pollen kept unaged in the vault causes **pollen-sleep** in a sealed room.
-- **Damages:** Thumbi and the readers' bench. **Saves:** Ponni and Minmini (the chamber must be open on the night).
+- **Mechanism.** Rooted blooms, folding carriers, and deliberation by **envoy rounds** about two days apart. A bloom in breach has no vote.
+- **Law.** Nothing carried may be kept.
+- **Want.** That the crossing stay whole.
+- **Factions.** The Old Crossing and the Far Blooms.
+- **Speech.** Coats, opening and closing, and landing. Never sound.
+- **Pollen.** In the air it is the resort's euphoric. Kept unaged in a sealed room it is a knockout.
 
 ### The Balance
 
-- It shows the shallowest loop first. A deeper loop appears only once the shallower one is entered in the ledger. This is taught on the Irai's **double coin**: a one-day loop, then a ten-year loop behind it.
-- A person may be weighed only with consent or a warrant.
-- Readings of others are **published**. Readings of oneself are **sealed** until the next entry.
+- It shows the shallowest loop first, as taught on the **double coin**.
+- Weighing a person needs consent or a warrant.
+- Readings of others are published; self-readings are sealed until the next entry.
 
 ### Law
 
-- **The Doctrine:** a closure made by an inspection is no one's act.
-- **Purpose field:** a lessee who signs it *before the hour* becomes the author. No one ever has. Only a signer has **standing** to challenge the Doctrine.
-- **Vidai:** a claim filed on a leaf that shows property *at the place*, perfected when the loss is certified, for a fee of a tenth of its value. It applies to property only, and is void if the holder caused the loss. Killing a free person is murder.
-- **Ordinary crimes**, such as taking a body against a court order, are not touched by the Doctrine.
+- **The Doctrine.** A closure made by the house is no one's act.
+- **Purpose field.** It is signed before the hour; it seals at the hour; no one has ever signed it. Signing gives **standing**.
+- **Vidai.** A claim on a leaf showing a place with a piece of property absent, perfected on certified loss. It covers property only, and it is void if the holder caused the loss.
 
-### Ritual: the shadow ordeal
+### The Proof (the trial)
 
-- The assembly fills a sealed urn with silver beads (acquit) or bronze (convict).
-- The cassette's standard term is to expose the late leaf if the bronze beads hold a majority.
-- The accused develops her early leaf before the hour. The urn is burned unopened.
-- **The accused's priority** lets her lease her own cassette first, on the standard term or a stricter one.
-- **Sole-author rule:** if she convicts herself under a stricter term, anyone charged with the same act is discharged.
-- **Sentences:** an accomplice gets 10 years; taking a body or desecrating a proxy mark, 20; killing or ordering the killing of a person with standing, 40; killing a sitting Seal-holder, 60.
+- A **contest of exhibits** in the round hall: three rounds. Each side lays exhibits on the great lightbox, and after each round delegates drop silver (acquit) or bronze (convict) beads into a sealed **urn**.
+- The Proprietor counts the urn under a **count lease**. The standard term, taught on the market floor in Ch 18, is *"count the urn as it lies"*.
+- **Accused's priority.** The accused may file the count lease first.
+- **Sole author.** The accused may stand as sole author: she is convicted on all counts of that act, and her co-accused are discharged.
+- **Declining.** The decliner is convicted on her own counts.
+
+### Sentences ("sent ahead")
+
+| Offence | Years in a Mella berth |
+|---|---|
+| Accomplice | 10 |
+| Breaking a depositor's berth | 20 |
+| Opening a bracelet without a warrant | 20 |
+| Kidnapping a person, or ordering a shooting | 40 |
+
+The Irai holds 200 statutory berths for sentences.
 
 ## The economic system
 
-The worked arithmetic table is in `02`. Its headline numbers appear on the ledger board.
+The worked table is in `02`. Its headline numbers appear on the ledger board.
 
-| Market | Who controls it | How it works | Where the player sees it |
+| Market | Controller | How it works | Seen in |
 |---|---|---|---|
-| **Berths and berth-notes** | **Paalai Slow Holdings** (board; chair Valli; controlling holder Kayal) | 4,000 berths and 120,000 berth-years of notes. Their price, **the slow rate**, is the base rate | Paalai's board; the note in Ch 19 |
-| **The Shadow Market** | **Neithal Plate Company** (chair Nedumaran; chair-designate Kathir) | Cassette leases; developed early leaves sold untaxed in the haven | The floor; Neithal's balance sheet pinned on the main board |
-| **The post** | **The Crossing** sets routes; the **roost cooperative** unpacks | Postage is priced by route share. After the sanction, Ilavenil's share falls from 42% to 28% and its postage rises 1.5× | The roost |
-| **Old leases** (the archive no one admits exists) | No one, officially | A past lease carries title to that room's safety films | Salerooms; clockwork deed boxes |
-| **The duty** | **The Irai** | 60% on signed loops; revenue of 30 million a year | The Irai office; the board |
-| **Sovereign debt** | **The Mawsim** | 60 million principal, redeemable in berth-notes at the slow rate; a 0.9 million quarterly coupon sent by post from Thinnai | The flagship |
-| **Clockwork** | Toymakers | The only private machinery on Ilavenil: dead drops, timers, ciphers, dead-man's boxes | Paavai's shop |
+| **Berths and berth-notes** | **Paalai Slow Holdings** (chair Valli; controlling holder Kayal) | 4,000 berths, with 120,000 berth-years pre-sold as notes. The price of a note, **the slow rate**, is the base rate | Paalai's board; Ch 20 |
+| **The Lightbox Exchange** | **Neithal Plate Company** (chair Nedumaran; chair-designate Kathir) | Cassette leases; early leaves sold untaxed in the haven | The floor; Neithal's balance sheet |
+| **The post** | The **Crossing** sets the routes; the roost **cooperative** unpacks | Postage is priced by route share | The roost |
+| **Old leases** (the archive no one admits) | No one, officially | A past lease carries title to that room's record films | Salerooms |
+| **The duty** | **The Irai** | 60% on signed loops; revenue 30M a year; collected through Thinnai's treasury and remitted quarterly by post | The Irai office; Thinnai |
+| **Sovereign debt** | **The Mawsim** | 60M principal; a 0.9M coupon due at Ilavenil, paid from Thinnai's remittance | The flagship |
+| **Clockwork** | Toymakers | The only private machinery: dead drops, timers, dead-man's boxes | The toymaker's shop |
 
-### How the mystery moves the money (each step a "therefore")
+### How the mystery moves the money
 
-1. The murder releases hoard pollen, **so** the Kaanthal closes. **Therefore** the post stops, the Shadow Market seizes, and the old Seal-holder dies for want of medicine sent by post.
-2. Round 1 closes Thinnai in sympathy, **so** the coupon cannot be sent. **Therefore** it is missed on Day −3, and Jauhar's faction moves to call the debt. At the post-scandal slow rate of 750, a call would hand the fleet two-thirds of all berth-years.
-3. Aruvi's return on Thinnai and Thumbi's parley on Ilavenil carry round 3. **Therefore** both blooms reopen at a price: a third of the hub's routes. The coupon arrives at dawn on Day 0, and Saleha takes the monsoon seat.
-4. Ponni's signature gives her standing. **Therefore** the Doctrine and the vidai fall, Neithal owes 48 million in back-duty and is ruined, the Irai can retire 80% of the Mawsim debt, and Thamarai, who let it run, is elected.
+1. The time-napping releases hoard pollen, **so** the Kaanthal closes on Day −8. **Therefore** the post through the hub stops, and Thinnai's quarterly remittance cannot reach Ilavenil.
+2. Round 1 closes Thinnai in sympathy, and Thinnai is itself in breach because the Irai kept seized packets. **Therefore** Thinnai has no vote to readmit the hub. Its remittance sits on a closed roost. **Even if Ilavenil reopened, the money could not leave Thinnai.** The coupon is missed on Day −3.
+3. Aruvi wins the Treasury Bench and returns the packets in round 2. **Therefore** Thinnai's vote is restored.
+4. Round 3, played by Thumbi, carries readmission at a price. **Therefore** both blooms open, the remittance rides the first carrier, the coupon is paid at dawn on Day 0, and Saleha takes the monsoon seat. If Thumbi's layout fails, the bonds are called at 750 and the fleet takes two-thirds of the notes.
+5. Ponni's signature gives her standing. **Therefore** the Doctrine and the vidai fall, Neithal owes 48M, the Irai retires 80% of the debt, and Thamarai, who let it all run, is elected.
 
-## Polities and factions
+## Factions
 
-| Faction | Belief | Want | Would lose if the truth came out | Look and sound |
+| Faction | Belief | Want | Would lose | Look and sound |
 |---|---|---|---|---|
-| **The Five Hundred** (assembly and Seal) | The Seal was first given by fate | Stability | Every Seal since AS 0 | Round hall; beads dropping in brass |
-| **Paalai** (berths) | Neithal rigged the first ordeal, and its plates front-run Paalai's berth auctions (a commercial rivalry, not a blood feud) | To be senior in the merger; Kayal alive | The hoard; confidence in the slow rate | Black stone, white lamps, anklet bells. No desert imagery |
-| **Neithal** (plates) | A leaf is a contract | Long plates, unsigned; the Seal | Everything, if the haven closes | Salt-white walls of lightboxes |
-| **The Irai** (revenue and intelligence) | The Doctrine is old law it regrets | Close the haven and fund the fleet without opening its own founding | Its charter; its moral standing. Its own seized-packet store on Thinnai | Ochre coats; seals on cords (an assessor's has a hole, a clerk's is solid) |
-| **The Proprietor** | The Charter is its self | An author for every entry | Nothing | Kolam lines of light; the inspection hum |
-| **The Old Crossing** | The network is one body | The kept returned; the hub readmitted | — | Envoy coats in pale gold |
-| **The Far Blooms** | Ilavenil is unfit to be the hub | Route share | — | Envoy coats tinged rust |
-| **The Mawsim: Saleha's side** | Time is the only honest collateral | To be paid; no single house owning the future | The debt's value | Teak and brass |
-| **The Mawsim: Jauhar's side** | The fleet's elders will die aboard | To call the debt and take berths | Nothing, if the call is lawful | The same deck, seen through the elders' cabins |
-| **The proxies' bench** | They are furniture with votes | To survive gifts; to be persons | — | A bench of steel rings under sleeves |
+| **The Five Hundred** | The Seal was first won fairly | Stability | Every Seal since AS 0 | Round hall; beads in brass |
+| **Paalai** (berths) | Neithal cheated at AS 0 and front-runs Paalai's berth auctions with its plates (a commercial rivalry, not a feud) | Control of its own sealing | The hoard; confidence in the slow rate | Black stone, white lamps, anklet bells |
+| **Neithal** (plates) | A leaf is a contract | The berths and the Seal | Everything, if the haven closes | Salt-white walls of lightboxes |
+| **The Irai** | The Doctrine is old law it regrets | Close the haven without opening its founding | Its charter; its Thinnai store | Ochre; seals on cords (an assessor's has a hole, a clerk's is solid) |
+| **Thinnai's Treasury Bench** | Rules are rules | Keep the treasury clean of scandal | Its seized-packet store | Brass counters, three chairs |
+| **The Proprietor** | The Charter is its self | Authors | Nothing | Kolam light; scan hum |
+| **The Old Crossing / the Far Blooms** | One body / a fair share | Readmission / route share | — | Pale-gold / rust coats |
+| **The Mawsim** (Saleha / Jauhar) | Time is honest collateral / the elders will die aboard | Payment / berths for the elders | The debt's value | Teak and brass; the elders' cabins |
+| **The proxies' bench** | They are furniture with votes | To be persons | — | Steel bracelets under sleeves |
 
-**Blocs in the round hall** are shown by what they want, not by names to memorise: *the shipyard bloc* (fleet contracts), *the farm bloc* (it grows the proxies), *the carriage bloc* (berths for its old), and the proxies' bench.
+**Blocs in the hall** are shown by the object they want: the shipyard bloc (a hull plate), the farm bloc (a glass cradle seal), the carriage bloc (a berth key), the plate bloc (a lightbox clip), and the proxies' bench.
 
 ## The ledger board and its glossary of objects
 
-The Irai's public board appears at every chapter break. It shows the current question, each thread's want, the days to the wedding, the coupon date, the Seal bead count, the Crossing's map (with each world open, closed or in sympathy), the Mawsim token count and the suspense count.
+Each term on the board is pinned to the first object the player handles that carries it. There are twelve terms.
 
-The **glossary strip** tags each term with the object the player handled when it was first used. Players never meet a bare definition.
+| Term | Object | Chapter |
+|---|---|---|
+| Lease | the first threshold kolam | 1 |
+| Bracelet (proxy) | Minmini's empty bracelet clasp, left in her rooms | 3 |
+| Balance | the double coin | 3 |
+| Mella / "sent ahead" | a berth key from Valli's desk | 4 |
+| Coupon | the transfer order in Aruvi's crate | 6 |
+| Leaf | the alley broker's strip | 11 |
+| Vidai | the claim slip | 10 |
+| Envoy / Crossing | a fragment of Ottai's holed vane | 16 |
+| Proof / urn | a silver bead | 18 |
+| Purpose | a blank lease field | 18 |
+| Sheath | the lead envelope | 19 |
+| Berth-note | the Paalai note | 20 |
 
-| Term | Object pinned to it |
-|---|---|
-| Leaf | the alley broker's strip (Ch 11) |
-| Sheath | the lead envelope from the chest (Ch 18) |
-| Lease | the first threshold kolam (Ch 1) |
-| Purpose | a blank lease form (Ch 17) |
-| Balance | the double coin (Ch 3) |
-| Proxy | the steel ring (Ch 2) |
-| Vidai | Uppalam Salt's claim slip (Ch 10) |
-| Berth-note | the Paalai note (Ch 19) |
-| Envoy / Crossing | a fragment of Ottai's holed vane (Ch 15) |
-| Ordeal / urn | a silver bead (Ch 17) |
-| Slow | a vault berth key (Ch 26) |
-| Coupon | the Irai transfer order in Aruvi's post-crate (Ch 6) |
-
-That is twelve terms, down from about twenty. Dropped from player-facing text: *olai*, *nokkam*, *thulaakkol*, *Mudalali*, *nizhal*, *Kaaval*, the dark star's name, the house names of the other three great houses, and the acting Commissioner's name.
+Every chapter break also lists the **current question** for each thread.
 
 ## Iceberg lore
 
 | Question | Tag | Status |
 |---|---|---|
-| Who killed Minmini, and who let it happen | **Promised** | Answered |
-| What the long leaf shows | **Promised** | Answered |
-| Why the blooms closed, and how they decided | **Promised** | Answered. Opens a further question: what else have the "empty flights" said over two hundred years? |
-| Was the first ordeal rigged? | **Promised** | Answered. Opens a further question: how many verdicts since were leased? |
-| The suspense account | Texture | One entry moves |
-| Why carried film remembers forward | Texture | Never answered (the one admitted cheat) |
-| Why Ottai chose to carry a letter | Texture | Never answered |
-| Thondi's bloom and the Far Blooms' worlds | Texture | Coats only |
-| The empty five-hundredth seat; the Mawsim's lost fleet of AS 140 | Texture | Never answered |
-| Sevvanthi's original, coming home | Promised hook | Settled in the epilogue letters |
+| Where is Minmini, and who took her? | Promised | Answered |
+| What the long leaf shows | Promised | Answered |
+| Why the blooms closed, and how they decide | Promised | Answered. Opens: what have the "empty flights" said for two centuries? |
+| Was the first Proof rigged? | Promised | Answered. Opens: how many counts since? |
+| The suspense account | Texture | |
+| Why carried film remembers forward | Texture (the admitted cheat) | |
+| Why Ottai carried a letter | Texture | |
+| Thondi; the Far Bloom worlds | Texture | |
+| The empty five-hundredth seat; the Mawsim's lost fleet of AS 140 | Texture | |
 
-## Teaching order: one new item per chapter, all by Ch 19
+## Teaching order: one item per chapter, with breathers
 
-| Ch | New item |
-|---|---|
-| 1 | lease (the blank *purpose* field is seen, not explained) |
-| 2 | proxy (fact) |
-| 3 | weigh, with the double coin and the shallowest-loop rule; publication |
-| 8 | trade beads, with astrolabe tokens |
-| 9 | re-performance |
-| 10 | the vidai |
-| 11 | fit; "it only says *there*" |
-| 12a | mimic |
-| 12b | tail |
-| 13 | trace |
-| 14 | (trade beads reused in the hall) |
-| 15 | parley |
-| 16 | the wedding procession |
-| 17 | the ordeal (Thamarai's speech names the purpose field and standing) |
-| 18 | shielding |
-| 19 | berths and the slow rate |
+| Ch | New item | Ch | New item |
+|---|---|---|---|
+| 1 | lease (the blank *purpose* field seen) | 13 | (blend reused: follow) |
+| 2 | proxy (fact) | 14 | trace |
+| 3 | weigh, with the double coin; publication | 15 | *breather: chase* |
+| 8 | trade beads (deck) | 16 | parley |
+| 9 | re-performance | 17 | the sealing custom (another couple's) |
+| 10 | the vidai | 18 | the Proof; purpose and standing named |
+| 11 | fit | 19 | sheath |
+| 12 | blend (pass) | 20 | berths |
