@@ -140,3 +140,127 @@ Response to `judging/review-writer-a.md` (7.3/10; Scope and genre 6). Fixes were
 ## Kept, per the review's strengths
 
 The fitted shadow; "it only says *there*"; the anchor's "Nobody's" and "Mine"; the parrot's blob, hole over hole, and the left-hand-under cup hold; the ring cut in silence; the building re-performing the night; "This one is mine" with its flat reading; the causal political economy; the *thinai*-to-business mapping and kolam as both lease line and cipher; the Proprietor as an AGI that wants to be audited.
+
+---
+
+# Third pass: folding in the Fable verdict
+
+Source: `judging/verdict.md`. I changed the source first: the rules digest, chronology, arithmetic and branch budget in `02`. I then carried the changes through `03` to `06`, appended round 12 to `01`, and reran `07`. I read `outlines/writer-b` and `outlines/writer-c` only to see how they staged a recurring court, an off-world thread, an economic table, alien factions and an object glossary. I took no content, names or plot from them. I imported no second time model, no hostage ending and no Hearing.
+
+## The five grafts
+
+### (a) A creditors' court over several chapters, with its own faction fight
+
+- **What changed.** The Mawsim council of nakhodas now meets in three sessions:
+  - Day −6: Jauhar wins.
+  - Day −3: Saleha turns, and the call is deferred to round 3.
+  - Day 0, dawn: the coupon arrives, and Saleha wins the monsoon seat.
+  The fight is **Saleha** (contract and patience) against **Jauhar**, who would call the debt to house the fleet's ageing elders in berths. Thumbi plays it with the existing **trade beads** verb, using astrolabe tokens. The verb is taught on the deck first (Ch 8) and reused in the hall.
+- **Where.** `02` (Days −6, −3, 0), `03` (factions), `04` (Saleha and Jauhar), `05` (Ch 8, 22, 31), `06` (scene 7).
+- **Why.** It gives the brief's scope a second court played over time. The council's decisions depend on the Crossing's rounds, which keeps the threads colliding.
+
+### (b) A thread stranded on Thinnai, which never travels
+
+- **What changed.** A new thread D: **Aruvi**, Ponni's younger sister and a treasury clerk on Thinnai.
+  - She is cut off when Thinnai's bloom closes in sympathy, with the coupon stuck in its post-crate.
+  - She meets the envoy **Ottai** and learns parley.
+  - She finds forty years of seized packets kept by the Irai, under retention orders signed by Thamarai, and returns them against orders.
+  - She sends her sister a letter on the envoy.
+  - She later posts the retention orders that Ponni uses in the duel.
+  - She never leaves Thinnai.
+- **Where.** `02`, `03` (places, play share), `04`, `05` (Ch 6, 15, 21, 29, 40), `06` (scenes 8, 9, 13).
+- **Why.** It puts a playable scene on a second world, with an individual to deal with. It turns "Thinnai closed in sympathy" from a pollen reading into play, and it obeys the sublight rule.
+
+### (c) A worked arithmetic table
+
+- **What changed.** A locked table in `02` gives:
+  - 4,000 berths and 120,000 berth-years of notes;
+  - the slow rate at 1,000, falling to 750, then recovering to 900;
+  - 60 million of principal, so a call takes 60,000 berth-years at 1,000 or 80,000 at 750, which explains why Jauhar wants to call after the scandal;
+  - a coupon of 0.9 million;
+  - the hub's share of routes falling from 42% to 28%, so postage rises 1.5×;
+  - back-duty of 48 million against Neithal's 55 million in equity;
+  - the Irai able to retire 80% of the debt, which is Thamarai's motive in one number;
+  - a vidai fee of 4,000.
+- **Where.** `02`, `03`, `05` (Ch 19, 29, 31), `07` (audit).
+
+### (d) Rival factions inside the alien polity
+
+- **What changed.** The Crossing has two factions:
+  - **the Old Crossing**: the oldest blooms, Thinnai's included, which want the network whole and the hub readmitted;
+  - **the Far Blooms**: led by Thondi's bloom, which would gain route share if the hub were cut.
+  They disagree across the three envoy rounds:
+  - round 1: sympathy closure against a proposal to drop the hub;
+  - round 2: split;
+  - round 3: readmission, with the Far Blooms taking a third of the hub's routes as their price.
+  Envoy coats show the positions in two colours, pale and rust.
+- **Where.** `02` (rule 9), `03`, `04`, `05` (Ch 15, 16, 21, 29), `06`.
+- **Why.** It explains why there are three rounds and why there is a price. It also removes the line "would lose nothing by the truth": one faction profits.
+
+### (e) A living proxy with a face, and an object glossary
+
+- **What changed.**
+  - **Sevvanthi**, a proxy on the proxies' bench who loved Minmini, coaches Kayal's mimicry. She fears gifts: on the night of Day −5 she sleeps on the open roost after a gift toy arrives, which turns out to be Kayal's honest thank-you. She is the bench's swing vote, makes the proxies' decree its price, and in the epilogue meets her original "as a person".
+  - The ledger board now has a **glossary strip** of twelve terms, each pinned to an object the player has handled.
+- **Where.** `02`, `03` (glossary), `04`, `05` (Ch 12a, 14, 16, 41, epilogue), `06`.
+- **Why.** The vidai and choice 2 now have a living stake. The glossary replaces definitions with objects.
+
+## The five open problems
+
+### 1. The galaxy was mostly described
+
+- **Fixed by** grafts (a), (b) and (d). Thinnai is played. Ottai is an individual who addresses the player. Four polities make decisions on screen. Off-Ilavenil play is about a quarter of the game.
+
+### 2. Rule, verb and branch load
+
+- **Rules:** 10, down from about 12.
+- **Terms:** 12, down from about 20.
+- **Verbs:** 8 (parley replaced read strata).
+- **Named power players:** 14. Iniyan, Malaiyan and Kaatravan are cut; the toymaker and the old Seal-holder are unnamed in play.
+- **Threads:** 4. Kathir is folded into thread B as one half of a couple.
+- **Branch budget:** 4 branching choices and 2 minor choices that change the epilogue only. Endings fall from about 10 to 4. The Day 0 vote is removed by moving the Seal vote to Day +2, after the wedding, because the marriage binds Paalai's bloc. Dodging the shadow and letting the Irai's lease stand are no longer branches.
+- **Chapter fix:** Ch 12 is split into 12a and 12b so that no chapter teaches two items.
+- **Where:** `02` and `05` (branch budget); `03` (load, glossary, teaching order); `07` (load table).
+
+### 3. The four contradictions, plus two items
+
+1. **Vidai.** A claim is filed on a leaf showing presence at the place, perfected on a certified loss, and void if the holder caused the loss.
+2. **Unsigned branch.** The body theft falls under ordinary law, so the charge and the ordeal follow in both branches.
+3. **Purpose field.** It seals at the hour. Selvan's landmark is now his testimony that he caused the loss, which voids the vidai.
+4. **Thamarai's link.** A two-payoff bet, plus her Day −4 campaign speech seeding the idea of a signature, plus her note of Ponni's cadet refusal.
+5. **Thamarai learns of the long leaf** from Ponni's published reading of the sheath on the night of Day −4.
+6. **The shallowest-loop rule** is taught on screen with the Irai's double coin (Ch 3).
+
+- **Where:** `02` (rules 2 to 4, chronology), `04`, `05` (Ch 3, 10, 17, 20, 23), `06` (scene 3).
+
+### 4. The shape of the ending
+
+- **What changed.**
+  - Act 5 now runs from Day +1 to Day +4, not +1 to +12. Ponni's four-day vault trip is cut: Kayal finds the urn in Arumbu's room during her own vault trip on Day −2.
+  - **The killer faces Ponni.** At 23:40 on Day 0 she steps between Valli's pistol and Nedumaran ("Let me assess him") and arrests him. On Day +1 she interrogates him in a played scene where the player chooses the order of the evidence.
+  - **Thamarai is confronted in play twice:** privately, object against object, and then as a bead duel in the hall.
+  - **The second frame-break** repeats the gesture of the first: hole over hole, on the AS 0 film, where the arbiter wore the same seal as Ponni.
+  - **Canon now gives the anchor a win inside the cost.** Her silence buys a decree making every proxy a person, and the stricter ordeal term frees her friends.
+- **Where:** `02`, `04`, `05` (Ch 37 to 43), `06` (scenes 18 to 22).
+
+### 5. The alien pillar, and originality
+
+- **What changed.**
+  - A new active verb, **parley**: read an envoy's coats, then lay out a reply made of returned crossings, placed by route.
+  - A counterpart, **Ottai**, who lands, sets down its coats, waits facing the player, and once carries a letter.
+  - **Dune:** the enmity is now commercial (Neithal's plates front-run Paalai's berth auctions), and foresight stays taxed film.
+  - **Minority Report:** the vidai is rewritten as an insurance-style property claim that voids itself on causation.
+  - The thali scene is kept, and marked for review by Tamil readers in `02`, `04`, `05`, `06` and `07`.
+- **Where:** `01` (round 12), `02`, `03`, `05`, `06`, `07`.
+
+## Strengths kept
+
+- The fitted shadow, and "it only says *there*".
+- "Nobody's" refused at the pyre; "Mine" stamped at the end.
+- Blob over blob; hole over hole; the cup held left hand under; the ring cut in silence; the parrot stopping in a dead palm.
+- The building re-performing the night.
+- "This one is mine", with its flat reading.
+- The Proprietor that wants to be audited.
+- The rigged first ordeal under every faction.
+- The two refusable committed choices.
+- The causal political economy.
