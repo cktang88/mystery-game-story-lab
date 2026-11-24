@@ -1,145 +1,165 @@
-# The Unsigned: key scenes
+# The Unsigned: key scenes (revised)
 
-Each sketch says what the player **does**, **sees** and **hears**, which detail it pays off or plants, and how little text it needs. Three options for each anchor scene, with the reasons for each pick, are in `01-options.md`, round 11.
+Each sketch says what the player **does**, **sees** and **hears**, which detail it pays off or plants, and how little text it needs. The anchor scenes' three options and grades are in `01-options.md`, round 11. Chapter numbers refer to `05-outline.md`.
 
 ---
 
-## 1. Opening: the city in x-ray (prologue, the night of Day −9)
+## 1. Opening: the city at 04:00 (prologue)
 
-**Sees.** Black screen, then a pale field of bone and metal: the Proprietor's inspection sweep over Ilavenil at night. Dancers are spines and anklet bells. Lovers are two thalis touching. A gambler is a fan of coins. Far off, a flower's ribs, each a kilometre tall.
-**Does.** Pans the beam with the stick. Lingering on a silhouette brings up a soft chime of its metal: bells, coins, a key. There is nothing to click and no prompt.
-**The settle.** The beam drifts into a bedroom: a woman's skeleton sitting up in bed, a steel ring sewn at her wrist, winding a toy carrier. The player can follow the toy's mainspring as it walks across the coverlet and stops.
-**Hears.** The tick of the toy, then nothing. Then the 04:00 inspection hum, and in a cassette a strip of film darkening.
-**Text.** The title only.
-**Plants.** the proxy ring; the toy carrier; that the future is x-ray; the nightly winding.
+**Sees.** Black, then a pale field of bone and metal: the Proprietor's 04:00 inspection of private rooms, shown on its safety film. Sleepers with anklet bells. Two thalis touching on one pillow. A gambler asleep on his coins. Far off, a flower's mineral ribs, closed like a fist.
+**Does.** Pans the beam. Lingering on a silhouette brings up the faint chime of its metal. There are no prompts.
+**The settle.** A bedroom. A woman lying still, a steel ring under her wrist skin, a toy carrier stopped beside her hand. The player waits, and nothing moves. **Asleep or dead: the image cannot say.**
+**Then.** In the wall, a cassette window glows and a strip darkens. Title.
+**Plants:** the ring; the toy; the future as x-ray; "the shadow doesn't say dead", taught before it is spoken.
 
-## 2. The interrupted pyre (Day −7, morning): everyone in one place
+## 2. The interrupted pyre (Ch 2): everyone in one place
 
-**Sees.** Ponni, sea-legged and carrying a bale of letters, comes down the terraces toward smoke. At the foot of the shut Kurinji, a bier, Paalai's mourners in white, and every faction in the frame. The officiant calls the roll aloud, so the relationships are stated. Overhead the bloom is closed like a fist.
-**Does.** Walks through the crowd (faces turn: who is this?) to the bier. Lifts the shroud's edge: the lens shows the **ring** under the wrist skin. The Proprietor's voice from a brass grille: "Act of no one. Entered in suspense." The officiant lowers the torch. The player raises Ponni's **stamp**: a single input, held. The shroud takes the ink: *UNDER ASSESSMENT*. Valli: "That is estate of the house." Ponni: "Then it's mine to assess."
-**Hears.** Bells on Kayal's ankles as she steps back from a stranger who knows her face.
-**Text.** None required.
-**Plants.** custody of the body; "Nobody's" refused; Thamarai's arm squeeze ("I approved your cadet letters myself"); Aathan's medicine.
-**Memorable because** the assessor's first act in the game is to stop a funeral with paperwork.
+**Sees.** Ponni, carrying her bale of letters, comes down the terraces toward smoke. At the foot of the shut Kaanthal stand a bier and every faction in frame. The officiant's roll states each relationship aloud.
+**Does.** Walks through turning faces to the bier and lifts the shroud's edge; the lens finds the **ring**. The Proprietor: "Act of no one. Entered in suspense." Valli: "Property of the house." The player raises Ponni's stamp, one held input. The shroud takes the ink: *UNDER ASSESSMENT*. "Then it passes to an original, and the Irai assesses what passes. Nothing under assessment burns."
+**Hears.** Kayal's bells as she steps back from a stranger who knows her face. As the crowd breaks up, Thamarai to a Mawsim purser: "Let it run."
+**Plants:** custody of the body; "Nobody's" refused; the cadet-scheme remark; Aathan's medicine; the phrase.
 
-## 3. The looped parrot (Day −7, the estate)
+## 3. The looped parrot (Ch 3)
 
-**Sees.** Minmini's rooms, warm and full of toys. On a cushion is the tin parrot Ponni sent, with its key fat with ugly solder.
-**Does.** Raises the **Balance** over it. In the lens the parrot doubles: a faint ghost of itself, offset, and a depth needle that swings past days, past years, and settles on **twenty-three**. Ponni says nothing. On the ledger board outside, the reading appears under her name within a minute.
+**Sees.** Minmini's rooms, warm and full of toys. On a cushion, the tin parrot with its ugly solder blob.
+**Does.** Weighs the body in the cold room: looped, **two days**. Weighs the toy carrier: looped. Weighs the parrot: the lens doubles it into a faint offset ghost, and the depth needle swings past days, past years, to **twenty-three**. On the board outside, all three readings appear under her name within a minute.
 **Hears.** Ponni counting under her breath, losing count.
-**Plants.** the blob; the twenty-three-year loop on her own gift (the question held until scene 11).
+**Plants:** the blob; a loop she cannot explain; the cost of being watched.
 
-## 4. The building re-performs the night (Day −6)
+## 4. The building re-performs the night (Ch 9)
 
-**Sees.** Ponni stands in Minmini's bedroom holding the executor's lease. She asks the house to re-perform the night of Day −9. Kolam lines brighten. The building begins: at 19:30 the gate chime rings far below; at 22:00 the bedroom doors lock themselves around her, the air goes still and sound deadens (the player feels the room close); a fast-forward clock on the wall; at 04:00 a hum from a cassette slot in the wall that the lens marks as **not hers**; at 06:00 the vents roar and the curtains lift.
-**Does.** Walks the room while it replays. She may stand anywhere, open the wardrobe, kneel at the bed, and put her ear to the vent. Placing timeline markers on the ledger is optional.
-**Text.** None. The building is the witness.
-**Pays off / plants.** the quiet lease; the third-party cassette; venting at 06:00 against the bloom closing at 07:30.
+**Sees.** Ponni in the bedroom with her custody lease. She asks the house to re-perform the night of Day −9. Kolam lines brighten. At 19:30 the gate chime sounds far below. At 22:00 the doors lock around her, the air stops, and sound dies, so the player feels the room seal. A wall clock runs fast. At 04:00 a hum comes from a cassette slot the lens marks **not hers**. At 06:00 the vents roar and the curtains lift.
+**Does.** Walks the room while it replays: kneels at the bed, listens at the vent, sets markers on the ledger's timeline.
+**Then.** At the Irai desk she compels Uppalam Salt's books, and two documents are slid across: a cassette lease (*Day −8, 04:00 only*) and a **vidai**: *foreseen loss of property: one proxy. Fee paid.* There is no text beyond those lines.
+**Pays off / plants:** the quiet lease; the third-party cassette; the statute that makes her friend's death lawful.
 
-## 5. "The shadow doesn't say dead" (Day −6, the Shadow Market)
+## 5. "It only says *there*" (Ch 10)
 
-**Sees.** A trading floor walled with lightboxes and a market in panic. A broker waves a leaf at Ponni: a man prone in an alley, crisp coins at his hip. "He's dead tomorrow, and that's my debtor."
-**Does.** Weighs the leaf; walks to the alley, a short stealth-free stroll with a timer to the hour; arrives as the inspection hums; finds the debtor asleep in a puddle of bloom-wine, snoring.
-**Hears.** Minmini's recorded voice from the old letter, over the snoring: "The shadow doesn't say dead, Ponni. It only says *there*."
-**Then.** Across the floor, an ordeal: an accused broker, a rival who has bought her cassette, her advocate calling "the accused's priority", a lease rewritten, and a leaf developed in a tray in front of a crowd. It comes up blank and the floor erupts.
-**Plants.** the rule that wins the climax, and the rule Ponni uses on herself in scene 18. Thamarai, watching bond screens: "Let it run."
+**Sees.** A broker waving a leaf: a man prone in an alley, coins at his hip.
+**Does.** **Fit**: lays the leaf over a live view of the alley and walks until coin meets coin and drainpipe meets drainpipe. Waits for the hour. A snore: the debtor, asleep in spilled bloom-wine.
+**Hears.** Minmini's recorded voice: "The shadow doesn't say dead, Ponni. It only says *there*."
+**Plants:** the rule that wins the climax.
 
-## 6. The toymaker's bench (Day −5)
+## 6. The toymaker's bench (Ch 13)
 
-**Sees.** A narrow shop of brass and springs. Paavai slumped at her bench, and beside her hand a **tin carrier walking in circles**, slowing.
-**Does.** Nothing at first. The game holds still until the toy stops. Then the Balance (looped), then the order book: a gear-train cipher, solved by turning wheels to align teeth marked with Tamil numerals until two entries surface: **two carriers ordered, one delivered.** On the bench is a half-built box tagged *opens if unwound three days; burns if forced.*
-**Hears.** The toy's tick running down. Selvan in the doorway: "I found her like this."
-**Plants.** the dead-man's box (pays off in scene 17).
+**Sees.** A narrow shop of brass and springs. Paavai slumped at her bench; beside her hand, a **tin carrier walking in circles**, slowing.
+**Does.** Nothing, at first: the game holds still until the toy stops. Then the Balance (looped). The ledger accepts the act only as *murder*, because she was free. Then the order book's gear train, **traced** wheel by wheel until two entries surface: two carriers ordered, one delivered by "the Irai courier". A half-built box on the bench is tagged *opens if unwound three days; burns if forced.*
+**Plants:** the dead-man's box (pays off in scene 15).
 
-## 7. Midpoint: the long leaf (Day −4)
+## 7. The empty flight (Ch 15)
 
-**Sees.** A leased lightbox room. Ponni lays a soft contact copy on the glass: ribs, open; a faint lying figure; crisp bells at the ankles, a thali, a toy in the hand, no ring, a small disc at the edge.
-**Does.** *Fits* it: the lens overlays the leaf on a live view of the Kurinji's chamber, leased for an hour, and the player walks until rib lines up with rib, so the body's place becomes a real place on a real floor. The door opens: Kayal, holding an envelope marked "188". She lays its late leaf on the glass. Ponni weighs it: looped, twenty-three years.
-**The beat.** Neither says it. Kayal picks up a cup of water from the side table **left hand under**, and Ponni turns away. The player has seen that hold three times (the folding flashback, scene 4's re-performed routines, and a line in an old letter of Ponni's teaching it).
-**Text.** None needed. The player enters the midpoint in the ledger: *Act: Minmini's growing. Author: Valli. Owed: —*, and *Act: the wedding night. Body: Kayal.*
+**Sees.** Dusk at the closed roost. A carrier, one of the "empty flights" the unpackers have shrugged at all their lives, folds in, settles on the bare gantry for the first time anyone can remember, and sheds a little pollen.
+**Does.** Thumbi reads **strata**: Thinnai's bloom, with a coat she has never seen, closed. Then she reads the carrier's own coat: it has visited five blooms in three days. She lays the five on the board's map, and the Crossing panel lights two worlds dark.
+**Hears.** The pressure drop in the ears as it folds away. No voice.
+**What the player understands:** the blooms are talking to each other, and have been for two centuries.
 
-## 8. The stair (the night of Day −3)
+## 8. The bead (Ch 14, and again at Ch 32 and 44)
 
-**Sees.** The Irai office at night. The kolam line of Ponni's lease glows across the threshold and **stops at the door**. Selvan has gone out to the stair for his pipe. A thump.
-**Does.** Runs. The lens shows the boundary she leased, and how small it was. At the foot of the stair, Selvan, alive for a few seconds.
-**Hears.** "She said let it run." Ponni: "Valli?" He does not answer.
-**Plants.** the decoy; the guilt of a lease drawn too small.
+**Sees.** The round hall: five hundred brass cups, the great houses' delegates at their lightboxes, the bead count glowing on the board.
+**Does.** **Trade beads** as Kayal. Each delegate shows one want as an object on the desk in front of them: Mullai's delegate, a berth-note with her mother's name; Marutham's, a proxy ring in a dish; Malaiyan of Kurinji, a hull plate. Kayal offers from her holdings (a berth, a route vote, an old lease she would rather not use). Beads move one by one. Mimic still matters: a wrong habit lowers trust.
+**Text.** The wants are objects; one line of dialogue per delegate.
 
-## 9. "This one is mine" (Day −3)
+## 9. The council of nakhodas (Ch 21)
 
-**Sees.** Ponni at her desk with twenty-two years of letters spread out by year. The AS 190 to 195 letters are dense with questions about the Irai. The AS 196 letter is ordinary, about weather and a toy, with a kolam she never decoded because it looked like decoration.
-**Does.** Traces it. The single line runs dot to dot and the shape resolves into five words: **"I have stopped writing to you for them. This one is mine."** She weighs the letter: **not looped.** It is the only flat reading in the scene.
-**Text.** Five words, and the player traced them.
+**Sees.** The flagship *Kaaru*: a teak deck that never stops moving, monsoon charts on brass, captains voting with astrolabe tokens. It is a foreign court in a foreign rhythm.
+**Does.** Thumbi lays her strata on the chart table: unaged pollen, the Thinnai coat, the envoy's five blooms. Kaatravan's omen is read out against her. The player chooses which reading to set down beside which chart.
+**The turn.** Saleha, who paid for the omen, rises and moves her token to defer. "A wrong reading costs us the debt." Four tokens carry it.
+**Plants:** the third envoy round as a deadline.
 
-## 10. The Kuzhi (Day −2, Kayal)
+## 10. Midpoint: the long leaf (Ch 20)
 
-**Sees.** Black stone corridors and white lamps. On the wall, two clocks: the vault's, crawling, and the outside world's, spinning. Every step costs outside time.
-**Does.** Chooses a route. The hoard vault is direct. Arumbu's kept room (a desk, a century's dust in two years, a child's drawing of a flower) costs six outside hours. The slow counting house costs ten. Signing the release is a seal pressed with the heir's ring. Whatever she looks at, the world outside moves on without her.
-**Text.** None. The cost is shown on the outside clock.
+**Sees.** A leased lightbox room and a soft contact copy: open ribs; a faint figure; crisp bells, a thali, a toy in the hand, no ring, a disc at the edge.
+**Does.** **Fit**: the lens overlays the copy on a live view of the chamber, and the player walks until rib meets rib. The door opens: Kayal, with a lead sheath. Ponni weighs it **without opening it**: twenty-four years.
+**The beat.** Kayal lifts a cup of water **left hand under**. Ponni turns away. The player has seen that hold in the folding memory, in the re-performed routines, and in an old letter of Ponni's teaching it.
+**Text.** None needed; the player enters the midpoint in the ledger.
 
-## 11. Frame-break: the blob and the hole (Day −2, night)
+## 11. The stair (Ch 25)
 
-**Sees.** The original early leaf, sharper than the copy. In the hand of the lying figure, the toy's mainspring, and on its key a **lumpy dense blob**.
-**Does.** Lays the real parrot on the glass, key over key. The blob fits the blob. Then she lifts her seal from her chest on its cord and lays it on the disc at the image's edge: **hole over hole.** Then, slowly, raises the Balance and turns it on her own hand: **looped, twenty-three years.**
-**Hears.** Minmini's voice, from the last letter: "Bring the bird. Wind it for me." Then, from the old gambler letter: "It only says *there*."
-**What the player understands without being told:** the shadow is a funeral, Minmini read it right in AS 204, and Ponni is the mourner who lays her out. The player enters it: *Body: Minmini. Placed by: Ponni.* Only then does Ponni say aloud: "It was always her."
-**Then the commitment.** A lease form glows on the floor of the chamber, empty: *lessee*, *hour*, *purpose*. The player can walk away. Or Ponni writes her own name, 23:00, and "to close a leaf".
+**Sees.** The office at night. The kolam line of Ponni's lease glows across the threshold and **stops at the door**. Selvan has gone out for his pipe. A thump.
+**Does.** Runs. At the foot of the stair, Selvan, alive for seconds.
+**Hears.** "She said let it run." Ponni: "Valli?" No answer.
+**Plants:** the decoy; the guilt of a lease drawn too small.
 
-## 12. The bloom reopens (Day −1, Thumbi)
+## 12. "This one is mine" (Ch 24)
 
-**Sees.** The roost floor at dusk, strewn with opened packets and gold dust, the unpackers' faces gold to the eyebrows. Overhead the shut Kurinji creaks, one rib, then the next, and pollen-light rolls down the terraces into the lease-quarters. People come out onto balconies.
-**Does.** Thumbi keeps unpacking, in a rhythm the player sets, packet after packet, until the last one is open. Kaatravan's hand on her shoulder: "You're done here." She keeps going.
-**Hears.** No music, then the pressure-drop felt in the ears as the first carrier folds in overhead.
+**Sees.** Twenty-two years of letters spread out by year. AS 190 to 195 are dense with questions about the Irai. AS 196 is about weather and a toy, with a kolam that looks like decoration.
+**Does.** **Traces** it: "I have stopped writing to you for them. This one is mine." Weighs the letter: **not looped.** It is the only flat reading in the scene.
 
-## 13. The ring (the night of Day −1)
+## 13. The Kuzhi (Ch 27)
+
+**Sees.** Black stone and white lamps, and two clocks on every wall: the vault's crawling, the outside's spinning.
+**Does.** Chooses a route. The release vault is direct. Arumbu's sealed door costs six outside hours just to stand before. Signing is the controlling seal pressed into wax. Whatever Kayal lingers over, the world outside moves on without her.
+
+## 14. Frame-break: the blob and the hole (Ch 26)
+
+**Sees.** The original early leaf, sharp. In the lying figure's hand, a toy's mainspring, and on its key a **lumpy dense blob**.
+**Does.** Lays the real parrot on the glass, key over key: the blob fits. Lifts her seal on its cord and lays it on the disc at the edge: **hole over hole.** Turns the Balance on her own hand: twenty-four years (sealed).
+**Hears.** "Bring the bird. Wind it for me." Then: "It only says *there*."
+**The player enters it first:** *Body: Minmini. Laid out by: Ponni.* Then Ponni says, "It was always her."
+
+## 15. The box opens (Ch 33)
+
+**Sees.** The Irai lab at eleven on Day 0, empty except for Thumbi at the strata lens. Far off, wedding drums. On Selvan's old desk, the clockwork box he wound every morning gives a click, and its lid lifts.
+**Does.** Thumbi takes out a courier log and turns to Day −14: *C. replied: let it run.* The player matches the phrase to the voice heard at the pyre and on the market floor. Thumbi runs for the funeral ground.
+
+## 16. The bloom reopens (Ch 30)
+
+**Sees.** The roost at dusk, strewn with opened packets, the unpackers gold to the eyebrows. The third envoy round folds in, and their coats turn from closed to readmitting. Rib by rib, the Kaanthal creaks open, and pollen-light rolls down the terraces. On the board, the Crossing's sanction: the hub's route share cut by a third.
+**Does.** Thumbi keeps unpacking at a rhythm the player sets until the last bale is open. Kaatravan: "You're off the bench." She keeps going. Later, a Mawsim runner brings a brass astrolabe token from Saleha.
+
+## 17. The ring (Ch 31)
 
 **Sees.** The cold room, a steel table, Minmini's left wrist. Kathir holds the lamp.
-**Does.** Cuts. The input is slow and careful, and the game does not hurry. The ring comes out, small and dull. She washes the wrist. Then she winds the parrot and lets it walk across the steel to test the key. It walks.
+**Does.** Cuts, slowly; the input does not hurry. The ring comes out small and dull. Ponni washes the wrist, then winds the parrot and lets it walk across the steel. It walks.
 **Hears.** Only the parrot.
-**Text.** None. Players will remember this one.
 
-## 14. The pyre heist (Day 0, 16:00)
+## 18. The pyre swap (Ch 35)
 
-**Sees.** The same bier and the same terraces as scene 2, now under an open bloom, the whole court present for the burning of a proxy by court order. Kuyil watches the bier.
-**Does.** Stealth timed to spectacle: the leased funeral-ground light will dim when the first great carrier flight crosses the sky. The player positions Kathir and Ponni, watches Kuyil's eyeline, and on the flight (every face turned up into pollen-light) swaps the body for a pollen-packed bundle of the same weight. Kayal, at the bier, receives the torch. She knows. She lights it.
-**Pays off:** scene 2 inverted; Ponni's custody; the lease verb; the bloom's reopening.
+**Sees.** The scene of chapter 2 under an open bloom, the court gathered to watch a proxy burned by order. Kuyil watches the bier.
+**Does.** Stealth timed to spectacle. The leased dimming will fall on the first great carrier flight. The player positions Ponni and Kathir, reads Kuyil's eyeline, and on the flight, with every face turned up into pollen-light, swaps the body for a bundle of the same weight. Kayal takes the torch and lights it.
+**Then.** In the dispersing crowd, Thumbi presses the courier log into Ponni's hand. Ponni reads one line and looks across the ground at Thamarai, who is watching the flight.
 
-## 15. Climax: the chamber (Day 0, 21:00 to 23:00)
+## 19. Climax: the chamber (Ch 37)
 
-**Sees.** The Kurinji's heart: ribs rising in green-gold gloom, the cassette rig in the wall humming at idle. Kuyil at the threshold, back turned, as custom demands. Inside, among the ribs, Ponni with the body.
-**Does (as Kayal).** Kneels. Unclasps the anklets, bells muffled in her palm, and closes them on Minmini's ankles. Lifts the thali from her own neck. The player chooses her own or the duplicate in her sleeve. She lays it on Minmini's throat.
-**Does (as Kathir).** Lifts Minmini and lays her in the ribs where the fitting lens shows the outline.
-**Does (as Ponni).** Puts the parrot in the right hand. Winds it. It walks two steps across the dead palm and stops against the thumb. Loads the late leaf into the cassette. Kneels at the edge, her seal on its cord.
-**Sees, in the fitting lens:** the old shadow and the living room line up exactly, metal to metal, bell to bell, blob to blob, hole to hole.
-**Hears.** At 23:00, the inspection hum swells and fades.
-**Text.** None.
-**Theme carried by:** a ring removed, a thali given, a toy wound, a name on a lease. No one explains.
+**Sees.** The Kaanthal's heart: ribs rising in green-gold gloom, the cassette rig idling in the wall, Kuyil's back at the threshold.
+**As Kayal.** Kneels and closes **her own anklets** on Minmini's ankles, bells muffled in her palm.
+**As Kathir.** Ties a **thali** on the woman he loved, so that she is laid out a married woman, a sumangali, and lays her where the fitting lens shows her outline.
+**As Ponni.** Puts the parrot in the right hand and winds it. It walks two steps across the dead palm and stops against the thumb. At 22:55, alone, she **unsheathes the live leaf** in the dark corner the lens marks safe and slides it into the cassette. Her hands must stay out of the beam's path; the hum is warming. Then the lease form glows on the floor: *purpose of closure*, empty. The player may walk away from it. Canon: she writes *to close a leaf* and signs her name. She kneels at the edge with her seal on its cord.
+**Sees, in the fitting lens:** bell to bell, blob to blob, hole to hole.
+**Hears.** At 23:00, the hum swells and fades.
+**Theme carried by:** a ring removed, anklets given, a thali tied, a toy wound, a name in a field. No one explains.
 
-## 16. Valli's pistol (Day 0, 23:40)
+## 20. Valli's pistol (Ch 38)
 
-**Sees.** The Slow House study, its clocks running slow on purpose. Kayal, still in her wedding silk without bells, has just told Valli everything. The door: Nedumaran, Seal-holder for fourteen hours, with Kuyil. "I've come to take the bride to her husband's house."
-**Does.** The player, as Kayal, can only watch. Valli lifts the clockwork pistol from the desk where it has sat since Act 1. She winds it, which takes long enough for everyone in the room to understand, and fires.
-**Hears.** The wind-up ratchet, then the shot.
+**Sees.** The Slow House study, its clocks running slow on purpose. Kayal, in wedding silk, has just told Valli everything. The door: Nedumaran, Seal-holder for fourteen hours, with Kuyil. "I've come to bring the bride to her husband's house." He is looking past her for the mourners.
+**Does.** As Kayal, the player can only watch. Valli lifts the clockwork pistol from the desk where it has sat since Act 1 and winds it, long enough for everyone in the room to understand. She fires.
 
-## 17. "Mine" and the open box (Days +1 and +5)
+## 21. "Mine" (Ch 39)
 
-**Day +1.** The ledger entry under Ponni's hand: *Author:* with the printed **no one** crossed out and **Mine** stamped beside it. The Proprietor: "Leased. Entered. Thank you." On the board outside, the suspense count drops by one, from 4,117 to 4,116.
-**Day +5.** Ponni, charged, comes back to her sealed office. On Selvan's old desk the dead-man's box stands **open**, its spring long run down. Inside, the courier log, in his hand. *Day −14: reported Neithal licence, target Paalai proxy. C. replied: let it run.* The player matches "let it run" to the voice from scene 5, and the decoy falls.
-**Then** the re-lease of her ordeal cassette's history: the Irai's term overlaid on the AS 0 Ordeal Lease from Minmini's estate, word for word. The second frame-break is delivered by overlay, not speech.
+**Sees.** The ledger under Ponni's hand. *Author:* the printed **no one** crossed out, **Mine** stamped beside it. The Proprietor: "Leased. Entered. Thank you." The board's suspense count: 4,117 becomes 4,116.
 
-## 18. The ordeal (Day +6)
+## 22. The hour of AS 0 (Ch 42)
 
-**Sees.** The assembly's ordeal chamber, every house present, Thamarai in the Seal-holder's chair. A tray, a developer bath, a strip of film.
-**Does.** Chooses the lease: her own, stricter (expose without condition); her own, standard; the Irai's; or refuse. In the main path she writes it in front of the court, then develops her early leaf by her own hand. The image rises in the tray: her skeleton, crisp, and at her chest, on its cord, **a seal with a hole**.
-**Hears.** The beads of the assembly. Thamarai says nothing.
-**Text.** The verdict is one word, stamped by Ponni herself.
+**Sees.** The assembly's ordeal chamber, empty, at night. Ponni holds the antique lease. She asks the house to re-perform the hour of judgment of AS 0. The building complies: the hum at the hour; a door opened and shut; then nothing.
+**Does.** Pulls the hall safety film of that hour, which belongs to the same lease, and lays it on a lightbox: a woman leaving with a clay jar under her shawl, its beads crisp on x-ray. She counts silver and bronze, bead by bead. **Silver has the majority.** Then she lays the Irai's new ordeal term over the AS 0 term: the same words.
+**Text.** Two lease terms, a handful of words each, overlaid.
 
-## 19. Final image: the slow (epilogue)
+## 23. Arumbu's room (Ch 43)
 
-**Sees.** A small vault room, white lamp, a desk. Bales of letters arrive weekly; each is a year of Kayal's life. One week, a small box: the scorched parrot, its solder blob intact.
-**Does.** Writes her first letter out. The one small choice is whether to enclose the instruction that releases the Ordeal Lease. Then she winds the parrot.
-**Sees.** It walks a few steps across the desk, past a stack of a year's letters that arrived in a week, and stops.
-**Text.** On the top letter, in Kayal's hand: *assessed and found sufficient.*
+**Sees.** The vault's two clocks. A sealed door. Inside: a desk, a century's dust in two years of the occupant's life, a child's drawing of a flower, and on the shelf, the **urn**.
+**Does.** Every object Ponni lifts costs outside hours, so she must choose what to read in Arumbu's diary and what to leave. She takes the urn.
+
+## 24. The ordeal (Ch 46)
+
+**Sees.** The round hall, every house present, Thamarai in the Seal-holder's chair. A sealed urn, a developer tray, a strip of film.
+**Does.** Chooses the term under the accused's priority. In canon she writes the stricter term in front of the court, as sole author, so that Kayal and Kathir walk. She develops her early leaf by her own hand. The image rises in the tray: her skeleton, crisp, and on its cord, a seal with a hole.
+**Hears.** The urn being carried to the fire, unopened. Thamarai's pen on her first decree: *Minmini, once Nizhal-Kayal, a person.*
+
+## 25. Final image: the slow (epilogue)
+
+**Sees.** A white-lamped vault room and a desk. Weekly bales of letters, each a year of Kayal's life, with x-ray portraits of three worlds enclosed. One week, a small box: the scorched parrot.
+**Does.** Writes her first letter out. The small choice is whether to enclose the release and send the urn. Then she winds the parrot.
+**Sees.** It walks a few steps past a year's letters that arrived in a week, and stops. On the top letter, in Kayal's hand: *assessed and found sufficient.*
 
 ---
 
@@ -147,11 +167,12 @@ Each sketch says what the player **does**, **sees** and **hears**, which detail 
 
 | Moment | Planted |
 |---|---|
-| "The shadow doesn't say dead. It only says *there*." | an old letter (Act 1), the alley (Act 2) |
+| "It only says *there*." | the prologue's unreadable sleeper; an old letter; the alley |
 | "Bring the bird. Wind it for me." | the last letter (Act 1) |
 | "This one is mine." | the AS 196 letter, in the bale from scene 2 |
-| "The house does not act. The house is leased." / "Leased. Entered. Thank you." | the Proprietor's every refusal from Act 1 |
-| "Nobody's" refused at the pyre, and "Mine" at the ledger | scene 2, then scene 17 |
-| Assessed and found sufficient | Ponni's sign-off, seen on her letters in Minmini's estate |
+| "The house does not act. The house is leased." / "Leased. Entered. Thank you." | the Proprietor's refusals from Act 1 |
+| "Let it run." | the pyre; the market; the log |
+| "Nobody's" and "Mine" | scene 2, then scene 21 |
 | Hole over hole | Ponni's joke about clerks' solid seals (Act 1) |
-| A toy walking in circles beside a dead hand | the prologue's toy (Act 1) |
+| A toy walking circles by a still hand | the prologue's stopped toy |
+| The urn under a shawl | AS 0 film, then Ponni at the re-vote |
