@@ -8,7 +8,7 @@ Shared instructions for the three round-3 writers. Each writer's prompt adds its
 - **Round 2:** random seeds broke that convergence, but the stories came out small and folk-scale: an island, a single city, a buffalo-drawn caravan.
 - **Owner's clarification:** the story must be big, futuristic science fiction, with galactic reach, spy and court intrigue, politics and economic systems. This is now in `BRIEF.md`, "Scope and genre".
 
-Rounds 1 and 2 are in `outlines/archive/` with their reviews in `judging/archive/`. You may read them for mechanics worth adapting (for example sound-only time messages, frozen yearly versions of an AGI, receipts that show the future, clone legal personhood). Do not reuse their settings, cultures, characters, names or plots.
+Rounds 1 and 2 are in `outlines/archive/` with their reviews in `judging/archive/`. The owner wants totally new stories: do not open or draw on anything in the archive, including mechanics.
 
 ## Read first, in full
 
