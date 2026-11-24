@@ -1,168 +1,160 @@
-# Key scenes
+# Key scenes (revision 2)
 
-Each sketch states what the player **does**, what they **see and hear**, what it **plants or pays off**, and how much text appears (almost none). Dialogue is short and voiced; nothing on the critical path is read.
+Each sketch states what the player **does**, **sees and hears**, and what it **plants or pays off**. Dialogue is short and voiced; nothing on the critical path is read.
 
 ---
 
 ## 1. Opening: "This year the Mother rides" (D1, market day)
 
-**Does.** The game starts with the player hooded, crouched under a puppet harness in the dark of the Tenmaya wagon, their hands on two wooden foot-stirrups. Before the player can try them, the master's geta clack on the boards and his hand taps the hood twice: *not today*. The stirrups go slack. The player climbs out into light.
+**Does.** The player begins hooded, crouched under a puppet harness in the dark of the Tenmaya wagon, with both hands in the foot-stirrups of a vessel. A short rhythm tutorial: press in time with the chanter's beat to set the feet; when the left foot's second toe catches, a small rocking motion straightens it. Then the master's geta clack on the boards, and his hand taps the hood twice: *not today*. The stirrups go slack. The player climbs out into the light.
 
-**Sees and hears.** The walking market. Four thousand wagons are lashed into lanes, every stall moving at a buffalo's pace, and people step on and off counters as they pass. Indigo shop curtains with white house marks swing. A clerk splits a newborn's receipt at a stall; the halves shine, and the clerk's face changes when he sees the shadow marks end near the head. Children run to a slow, house-sized walker of pale bone plates and lay toys at its feet; the toys come back wrapped in pale fibre and the children shriek. A wagon breaks an axle: everyone flows around it, strips it on the move and leaves it. No one looks back.
+**Sees and hears.** The hub market: four thousand wagons in a forty-kilometre crescent, the hub lashed into lanes, stalls moving at a buffalo's pace. Indigo noren with white house marks. At one stall an old man (Salif Kagaya) holds a baby while a clerk splits her receipt; the clerk's face falls at how short the shadows are. A bolt of cloth with a foreign emblem (Kitasugu's) is unrolled for a buyer. Children lay toys at the feet of a slow, house-sized walker of pale bone plates and get them back wrapped. The reshuffle drums roll and whole wagons slide outward toward the horns, families clinging to their counters. A wagon breaks an axle; the crescent flows around it.
 
-Then the procession of the dead. The Mother does not walk this year. She rides seated on a litter, masked, her chanter singing beside her. The player can walk alongside. If they get close, the camera lingers on the Mother's hands on the litter rail: thin, spotted, old. It is the only close-up in the scene, and the player who knows those feet will wonder about those hands.
+Then the procession of the dead. The Mother rides seated on a litter, masked, her chanter singing beside her, with a woman (Fatoumata) walking at her left hand. If the player gets close, the camera holds on the Mother's hands: thin, spotted, old.
 
-**Plants:** never stop; short receipts; the wrapped gifts; the old hands (Vessel 12); the Mother's voice (the dead speak through a living woman).
+**Plants:** never stop; short receipts; Kitasugu's emblem; the reshuffle; the wrapped toys; the old hands; the stirrup-straightening motion (paid on D5 and D52).
 
-**Text:** none. Shop marks are pictograms.
+**Text:** none.
 
 ---
 
-## 2. The hobble (D1, afternoon)
+## 2. The hobble and the glyph (D1, afternoon)
 
-**Does.** At the rear Ume calls; old Mochi the buffalo is lame and will be left at the next camp. Ume hands the player two ropes. Tie the **tether** to his foreleg and a stake, and Mochi bellows and stops dead as the column moves off. Tie the **hobble** loosely between his forelegs, and he can graze and shuffle after them, slow but coming. The player can do either first; the game lets them watch the tethered animal fall behind before Ume, unhurried, swaps it.
+**Does.** Out on the horns, Ume hands Sayo two ropes for lame old Mochi. With the **tether** he bellows and stops as the crescent moves on. With the **hobble** he grazes and keeps up. The player can try both. In the guild wagon Ume opens a chest: a staff with a soft braided loop, and a tiny ancient receipt. She guides the player's thumb over its single mark.
 
-**Hears.** Ume: "A tether keeps him. A hobble keeps him near." That is the only line.
+**Hears.** Ume: "A tether keeps him. A hobble keeps him near." Then, over the receipt: "Sékou Ballo stayed with a dying man. He cut it on the dying man's half: steep side to the head, *stayed*. Cut it on your own and it reads the other way. *Was left*."
 
-**Plants:** the price of the whole game. Also Mochi, who carries Sayo home on D60.
+**Plants:** the price of the whole game; the glyph pair; the staff; Mochi.
 
 ---
 
 ## 3. The body (D1, evening)
 
-**Does.** Tōkichi's roof run (the player's first control of him) ends with a crash through Sayo's awning; the camera hands back to Sayo as she arrives home and finds Uke on the floor. The player kneels (controller rumble at the heartbeat that isn't there) and lifts the torn dust veil. Under it is the Mother's face. Seydou arrives in minutes with house guards, composed. He looks at the face, then at Sayo. "The Mother's body was stolen." The player, as Sayo, can say only one thing: "Her name was Uke."
+**Does.** Tōkichi's roof run ends with him crashing through Sayo's awning, and control passes to Sayo as she comes home. She kneels by Uke; the controller pulses at a heartbeat that isn't there. The player lifts the torn veil: the Mother's face. Seydou arrives with guards, composed: "The Mother's body was stolen." Sayo: "Her name was Uke."
 
-**Sees.** In the corner, a pigeon in a cage, which the player can pick up. Two shallow parallel furrows in the dust on the boards, which the player can notice but which mean nothing yet.
-
-**Plants:** the pigeon (D9, D20); the furrows (D6); the face.
+**Sees.** A caged pigeon. Two shallow furrows in the dust on the boards. Uke's boots, never off in six years.
 
 ---
 
-## 4. Two bodies (D5 to D6)
+## 4. Two bodies, and what Sayo knew (D5 to D11)
 
-**Does.** Body attribution, the cloning pillar's verb. On D5 the player handles Uke's feet in the clone-medics' cold wagon: thumb along the sole, heel, toes. Calluses read as raised texture, highlighted by touch. Sayo's hands know a vessel's feet (from the harmless D2 test on Vessel 12, soft and flat), and these are not a vessel's. On D6, at night in the Tenmaya wagon with Tōkichi keeping watch from the roof, the player examines **Vessel 14**: toe-tops scraped raw, and two fresh **harness bruises**, one at the head-and-right-hand toggle and one at the left toggle. None at the feet.
+**Does (D5).** In the clone-medics' cold wagon the player runs a thumb over Uke's soles: calluses, heels, thread-work calluses on the fingers. Then the left foot. The second toe is crooked, and the player's hands, without a prompt, perform the stirrup-straightening motion from the opening. The screen holds. One wordless memory: YM 208, a starving woman's soft feet, the same toe, and Sayo's eyes turning away to the cooking pot. She knew whose feet those were and chose not to ask.
 
-**Sees.** The feet operator understands what no one else could: this body was walked by two people and dragged. The player connects the toe-tops to the furrows in her wagon on the case board.
+**Does (D6).** At night in the Tenmaya wagon, with Tōkichi watching from the roof, the player examines Vessel 14: toe-tops scraped raw, and harness bruises at two toggles and none at the feet. The furrows in Sayo's wagon match.
 
-**Payoff of:** D2, the furrows. **Plants:** the grip question.
+**Does (D8 to D11).** On Uke's throat the player separates two grips by size and pressure: small soft fingertips, and a larger hand pressed behind them. Sayo knows the larger grip from sixteen years under it.
+
+**Payoff of:** the opening rhythm, the furrows. **Memorable because:** the detective's first discovery is her own evasion.
 
 ---
 
 ## 5. Market court and the Edge (D13)
 
-**Does.** The player cuts the **case receipt** (slots: victim, weapon, hands, person or property) at a court table in the middle of a walking market, the crowd moving past. Each slot takes a mark from the case board. When three marks are right, the receipt "holds" and the clerk takes it.
+**Does.** The player cuts the **case receipt** at a court table in the moving market. When three marks are right, the receipt holds.
 
-**Sees and hears.** Jūzaburō stands when his grip is named. He does not deny it. "We were the Mother's hands." He says nothing else. Then, from the litter, the chanter's voice changes register and the Mother speaks to the whole market: "No mark is cut after the sixtieth day." A sound passes through the crowd; a hundred hands go to a hundred wrapped receipts at a hundred throats.
-
-**Payoff of:** Act 1's investigation. **Opens:** the Edge. **Text:** none.
+**Sees and hears.** Jūzaburō stands: "We were the Mother's hands." Then the chanter's register changes, and the Mother speaks to everyone: "No mark is cut after the sixtieth day." A hundred hands go to a hundred wrapped receipts.
 
 ---
 
 ## 6. The feet, one last time (D19)
 
-**Does.** Jūzaburō is walked to the rear edge of the column to be left. He asks for Sayo. The player walks beside him and the controller mirrors his gait: each of his steps is a button press in time, as the feet operator matches a puppet's steps. The column's edge is a line of dust where the last wagon's wheels run. The player can keep walking past it. If they do, Sayo stops on her own, two steps over, and the law-guards' hands are already on her shoulders. Jūzaburō walks on alone toward the heat haze, and he does not look back, because no one does.
+**Does.** Jūzaburō is walked to the trailing edge to be left. He asks for Sayo. The controller mirrors his gait, a press for each of his steps, the feet operator matching a body she once moved. At the line of dust the player can keep walking; if they do, Sayo stops two steps over with the law-guards' hands on her shoulders. He walks on toward the haze of the scour without looking back.
 
-**Sees.** The clerk cuts Jūzaburō's mark on the court receipt: "was left," steep face toward the foot. Sayo watches the bevel, and the player watches her watch.
+**Sees.** Before the crowd, the clerk unwraps his body half and cuts **"was left,"** steep side to the foot: the glyph from Ume's chest, now true of someone the player knows.
 
-**Plants:** what "was left" looks like when it is true; the passive bevel; the law's line. **Memorable because:** it is the opposite of the ending.
+**Plants:** what being left looks like; the passive glyph. **Memorable because:** it is the exact inverse of D60.
 
 ---
 
 ## 7. The creditor's grammar and Uke's last gift (D25)
 
-**Does.** The alien pillar's verb. At the Jurutigi's feet, among the market crowd, the player lays down things from Sayo's pack. A cracked cup comes back unchanged. Her spindle comes back wrapped in pale fibre. A coin comes back with a notch in its rim. She lays a buffalo-hair rope; it comes back hobbled into a soft loop. The player builds the grammar on the board by experiment. Nobody explains it.
+**Does.** At the Jurutigi's feet the player lays things down: a cup comes back unchanged, a spindle wrapped, a coin notched, a rope hobbled. Beside her a merchant's gift comes back unchanged; he walks off without it, and the player watches the plates fold it in. Then the player lays down **Uke's sandal**, and ledger recall returns the last thing Uke left: a **tether in a wrist loop**. The board fills in where the player has earned it: Uke offered herself, tied, and was refused.
 
-Then the player lays down **Uke's sandal**. The plates shift. What comes back is not the sandal but a **tether rope, tied into a wrist loop**, unchanged: refused. The board fills in by itself where the player has earned it: Uke tried to give herself to it, tied. It said no.
-
-**Hears.** Nothing from the creditor, ever. Only the plates and the market.
-
-**Payoff of:** the toys in scene 1. **Plants:** "unchanged," the tether it never uses, and the hobble it does.
+**Hears.** The plates. The market. The creditor never makes another sound.
 
 ---
 
 ## 8. Midpoint: the foretold correction and the broken count (D31)
 
-**Does (Seydou, morning).** The player is Seydou at the court table, holding Tenmaya's half of the court receipt, with its shadow correction mark due today. Sayo stands across the table, holding the other half. The player cuts the mark. It settles into the shadow; on Sayo's half the shadow becomes real at the same moment. The line he speaks is the one the player has known for a month: "The Mother commanded it. I held her left hand."
+**Does (Seydou, morning).** At the court table, holding Tenmaya's half, the player cuts the correction mark due today; on Sayo's half across the table the shadow turns real at the same moment. Then the words, chosen from two: "The Mother commanded it. I held her left hand." Or: "I held her left hand." The second protects the dead, for six more days.
 
-**Does (Sayo, afternoon).** At the creditor's feet, the player lays down a fresh receipt notched with sixty day-marks. It comes back **broken at the sixtieth**. Then she lays down one of its own shed plates. It comes back broken too.
+**Does (Sayo, afternoon).** The player lays a sixty-notch sliver at the creature's feet and gets it back **broken at the sixtieth**; then one of its own plates, broken.
 
-**Sees.** Tōkichi in the crowd (his routing told him to be here), watching Sayo's face change from fear to something larger.
-
-**Two reversals, both fair:** the correction shadow was visible from D7; the broken count rests on the herders' saying and the thinning plates. **Opens:** what is owed?
+**Sees.** Tōkichi in the crowd, routed here, watching Sayo's fear turn into something larger.
 
 ---
 
-## 9. The vault that would not burn (D44 night, D45 morning)
+## 9. The dead are broken, and the receipts that would not burn (D44 night, D49)
 
-**Does (Seydou).** The player walks Seydou through the dark column in his head-clerk mask, through the guard post (the mask passes him), to the vault wagon, as smoke starts at the other end. The Juruntan are already inside, smashing shelves of bone. A shape with a hammer turns. The player can raise Seydou's hands. The cut to black comes on the swing.
+**Does (Seydou, D44).** The player walks Seydou, masked, to the Tenmaya wagon and works the strongbox's stuck lock. Hammers in the next wagons, and the sound of bone breaking. Vessel 14 lies in twilight in the next berth, eyes half open. The player can keep working the lock or step in front of her; the raiders arrive before it gives. Facing Gonbei, the player can raise Seydou's hands. Black on the swing.
 
-**Does (Tōkichi, morning).** The player walks the ashes. Heat shimmer. Charred lashings. Thousands of receipts are ash. Here and there, a whole receipt lies in the cinders, clean as new. The player can pick them up: each carries an uncut shadow mark.
+**Does (Tōkichi, D49).** The player crosses the burnt wagon while the household walks to market. Ash. Charred lashings. Inside the strongbox's slumped iron a few receipts lie clean as new. Each carries an uncut shadow. In the melted relic case lies the brass astrolabe, blackened and whole.
 
-**Payoff of:** D3 (the receipt that would not burn in a cookfire), at the scale of a civilisation. **Memorable because:** the rule the player learned as a curiosity becomes the image of fate.
-
----
-
-## 10. The Gully across two centuries (D50 to D52)
-
-**Does.** The AGI pillar's verb at full strength. In the staging hall, under the abacus's slow clatter, a dozen frozen puppets hold the Gully scene: a ravine of painted cloth, a storm of hanging dust, two figures at the edge. The player moves a year-slider from YM 190 back to YM 30. The scene changes under their eyes: the ravine shrinks back into existence; a puppet named Bakary reappears; the Mother's hand, reaching toward him, slides until in YM 30 to 40 it rests **on** his back. The astrolabe prop in her other hand turns. The player can take it, hold it to the painted sky, and read midnight. In the early years Bakary's puppet carries a staff with a soft loop; the Mother's puppet takes it and ties it as a tether.
-
-**Sees.** Marked differences stay highlighted on the diff board. The player states the reconstruction on a case receipt.
-
-**Hears.** Dōjima, through Nana, as the Mother, gives different answers to the same question in different years' voices. The player can play the YM 42 Mother and the YM 205 Mother against each other.
-
-**Payoff of:** D4 (reading the astrolabe), D1 (hobble against tether), D9 (the astrolabe's stars).
+**Payoff of:** the D3 cookfire receipt, at the scale of a house; Seydou's arc (he died for a sleeper).
 
 ---
 
-## 11. The Mother stops walking (D55, the replastering market day)
+## 10. The audit: the Gully across two centuries (D50 to D54)
 
-**Does.** Hooded, Sayo is back under the feet of Vessel 14 for the annual replastering performance before the whole market. The master's place is taken by a stranger, the left hand by Fatoumata Tenmaya. The player works the feet in time with the chant (a rhythm section the player has practised since D2). Mid-performance, when the Mother is to walk forward and name the price, the player loops the staff's soft hobble between the vessel's ankles. The Mother takes a step and cannot take another. The crowd sees the dead woman try to walk and stay where she is.
+**Does.** In the staging hall, under the abacus, a dozen frozen puppets hold the Gully: a ravine of painted cloth, a storm of hanging dust, two figures at the edge. The player moves the year slider back from YM 190 to YM 30. Bakary reappears; the Mother's hand slides from reaching toward him to resting **on** his back; her puppet reties his soft loop as a tether. The player raises the real astrolabe beside the prop and reads its sky: midnight.
 
-Sayo comes out from under the hood, a thing puppeteers never do, and lays down the staff, the pact receipt and the diff board before the chanter.
+**Hears.** Bound by the audit, Dōjima recites Ofusa's diary through Nana, in Ofusa's cadence: "If it is shown, it will be." "Someone left with it." "I can make sure it is no one we know." Asked about Jūzaburō, the voice says only: "Was left, D19. Read since his split."
 
-**Hears.** The chanter opens her mouth and nothing comes; the abacus behind the stage, clattering all game, goes silent for the first time. Then, through Nana, in her own voice but not the Mother's cadence: "I read her as she read. I was wrong in the way she was wrong." Fatoumata lifts the Mother's vessel down onto the wagon bed. It lies still. Across the market, house by house, the other dead are laid down.
-
-**Memorable because:** two hundred years of the dead walking end with a herder's knot.
+**Payoff of:** D4 (the stars), D1 (hobble against tether), D9 (the astrolabe).
 
 ---
 
-## 12. The Gully mark (D59)
+## 11. Kaeshi (D50 to D52)
 
-**Does.** Night, a quiet wagon. The player holds the pact receipt and Sayo's knife. On Bakary's line, the shadow of the Tenmaya mark, the cross-cut and three year-notches. The game offers two actions: **cut** or **put down**. No prompt explains them; the player knows.
+**Does.** In the House of Forms, Kadiatou brings Vessel 14 up from twilight. The player, as Sayo, holds her feet while she wakes: the same rhythm, the same stirrup motion, recognised a third time. The woman's first act is to look at her own hands. Later (D52) she asks, in a voice the market has never heard from that face, what her hands owe. The player chooses Sayo's answer from two: "Nothing. Choose." Or: "Uke's debt is mine to settle." Either way Kaeshi names herself.
 
-- If the player cuts, the knife bites (it has skidded on every shadow all game) and the mark settles. The game cuts to the YM 1 debtor half in Ofusa's hands, the shadow exactly as it always was, and her face as she reads it.
-- If the player puts it down, Nana Kōriya enters, says "It asks me to," and cuts it. The same YM 1 shot follows.
-
-**Memorable because:** it is the founding crime's cause, and either way the player watches the truth reach back and do harm.
+**Plants:** the face the hub obeys; a person the machine cannot see.
 
 ---
 
-## 13. The one who stopped (D60, the climax)
+## 12. The Mother stops walking (D55, the replastering market day)
 
-**Does.** Dawn. The Jurutigi stops in the middle of the column. The wagons part around it, as around the broken wagon in scene 1. Juruntan come with hammers. The player can stand between them and it; Gonbei looks at the being lowering itself to the ground and lowers his hammer. His people go; he stays for an hour (the game passes it in a few held shots) and leaves. Tōkichi presses a pigeon into Sayo's hands and runs after the post wagons.
+**Does.** Hooded under the feet of **Vessel 12**, with Fatoumata on the left hand and a junior master on the head, the player works the rhythm practised since D1. When the Mother is to step forward and repeat the price, the player loops the staff's hobble between the vessel's ankles. The Mother tries to step and stays where she is. Sayo comes out from the hood and lays the staff, the pact receipt and the diff board before the chanter.
 
-Then the column is gone. The player hobbles Mochi beside the creditor, which is the scene 2 action and the same input. The day passes in real minutes: wind, dust, the plates ticking as they cool. The player can do nothing, and the game lets them. When the light reddens, the player takes out three receipts.
-
-- **Uke's debt receipt.** The shadow "settled" mark Uke saw for five years. The player cuts it.
-- **Sayo's body half**, unwrapped. The shadow "was left." The player cuts it held toward herself, the way she was taught not to. The game does not explain; the D3 line plays faintly in memory: "Now it says we were paid, not that we paid."
-- **The creditor half**, visible in a seam of its plates. The hobble-mark. The player cuts it.
-
-The player lays Sayo's hand on its plates. It returns a last gift: a tiny, very old split receipt of bone, its other half missing. At dusk the plates loosen, one by one, and the wind takes them.
-
-**Payoff of:** never stop (scene 1), the hobble (scene 2), the bevel (D3), Jūzaburō's walk (scene 6), Uke's tether (scene 7). The win and the cost are one act: the debt is paid and the creditor accompanied, and foresight ends for everyone.
+**Hears.** The chanter opens her mouth and nothing comes. The abacus, clattering all game, stops. Then, through Nana, not in the Mother's cadence: "I read her as she read. I was wrong in the way she was wrong." Fatoumata lifts the vessel down, and it lies still. House by house, the dead are laid down.
 
 ---
 
-## 14. Home by the stars (D60 night to D62)
+## 13. The Gully mark (D59)
 
-**Does.** Night falls. The player raises Ofusa's brass astrolabe to the sky and aligns it, as Ume taught on D4. The colour-blind foundress's miscoloured stars are wrong, and the player has to correct for them (a final, fair use of the D9 clue). North is found. The player releases Tōkichi's pigeon and watches it climb and turn. Then Sayo rides Mochi through two nights of starlight to a glow on the horizon, and walks into the rear of the column at dawn on D62. Nobody stops for her. She stops for no one. She is home.
+**Does.** Night. The pact receipt and the knife: **cut** or **put down**. If cut, the knife bites for the first time on a shadow. If put down, Nana comes in ("It asks me to") and cuts it. The scene then cuts to YM 1: Ofusa holding the debtor half, the shadow exactly as it always was, and her face as she reads it.
 
 ---
 
-## 15. The first mark (coda, D67 market)
+## 14. The halt and the one who stayed (D60, the climax)
 
-**Does.** A plain market day. No dead walk. The receipts at every stall are plain bone. Sayo and Tōkichi split one of the creditor's last shed plates. Both halves are blank: no shadows. The game offers Sayo's knife and the whole notation she has learned (values, house marks, act-marks, either bevel). The player cuts any mark they like.
+**Does.** Dawn. The Jurutigi stops in the hub. Kagaya's drums sound, and for the first time in two hundred years the whole crescent halts. Dust is rising on the horns; the player sees it on the board as a timer. Clerks bring the tether. The player walks Sayo out in front of every witness and lays her own hobble at the creature's feet. It comes back hobbled: accepted. Salif shakes his head; the Mother said *tethered*.
 
-**Sees.** The mark appears on both halves now, and the camera holds long enough to show that it was not there a moment ago, and that there is no shadow of a second.
+Then the crowd parts for the Mother, walking alone, unharnessed. Kaeshi lifts the veil off the mask and speaks in her own voice: "Walk on. It is settled by her choice." Salif looks at the baby on his hip, and the drums stop. The crescent moves before the scour reaches the horns.
 
-**Final frame.** Two halves of bone, one mark each, and the market walking on around them.
+Gonbei comes and stands an hour (a few held shots), then goes. Tōkichi gives Sayo a pigeon and runs after the post wagons. The player hobbles Mochi beside the creature, the same input as scene 2.
+
+The day passes in real minutes. The player can do nothing, and the game lets them. When the light reddens, the player cuts:
+- **Uke's "settled,"** the shadow Uke saw for five years;
+- **"stayed" on her own body half**, held toward herself as Ume warned, so it reads "was left" (Ume's D1 line plays faintly in memory);
+- **the hobble-mark** on the creditor half, in a seam of its plates.
+
+The player lays Sayo's hand on its plates. It returns its old half-receipt, carrying the Kitasugu glyph. At dusk the plates loosen one by one, and the wind takes them.
+
+**Payoff of:** never stop (1), the hobble (2), the glyph pair (2), the bevel (D3), Jūzaburō's walk (6), Uke's tether (7), Kaeshi's face (11), the Kitasugu cloth (1). The win and the cost are one act.
+
+---
+
+## 15. Home by the stars (D60 night to D62)
+
+**Does.** The player raises the astrolabe and aligns it; its colour-blind maker's star-pointers are miscoloured, and the player must go by shape, not colour (the D9 clue as a skill). North is found. The pigeon climbs and turns. Mochi carries Sayo through two nights to a glow on the horizon; on D62 she rides into the trailing horn. Nobody stops for her, and she is home.
+
+---
+
+## 16. The first mark (coda, D67 market)
+
+**Does.** No dead walk. Salif unwraps Awa's receipt (plain bone) and laughs. Nana sings at a stall in her own voice. Sayo and Tōkichi hold two halves of one of the last slivers together, and the player chooses any mark from the notation and **cuts across both**.
+
+**Sees.** The mark is on both halves, now, and no shadow of a second one appears. Then the Exchange's drum announces the course: the equator crossing, Kitasugu, eighty days on. Sayo tucks the old half-receipt into her wrap.
+
+**Final frame.** Two halves of bone with one mark across them, and the market walking on around them toward a line no one in it has crossed.
