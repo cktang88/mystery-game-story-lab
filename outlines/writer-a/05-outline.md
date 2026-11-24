@@ -106,7 +106,7 @@ Ottai leaves.
 
 **Ch 17 (C). Night of Day −5: a sealing night.** On Ilavenil, Thumbi reads the same round, and the Crossing map lights two worlds dark. Below her, another couple's **sealing procession** passes: the groom's-house escort to the threshold of the Sealing Hall, the assessor-witness walking behind with her seal, the 23:00 hum, the couple coming out laughing. On the open roost Thumbi finds Sevvanthi, who will not sleep in a room that can be sealed because a gift toy arrived tonight. They watch the sky until dawn.
 
-**Ch 18 (A). Day −4: the Proof.** On the Exchange floor a broker is tried by **Proof**: three rounds of exhibits on the lightbox, with beads dropped into the urn. Her advocate files the count lease first, with the standard term, *"count the urn as it lies"*. She is acquitted. Thamarai, campaigning: "No one has ever signed a closure. The day someone does, the court must hear them."
+**Ch 18 (A). Day −4: the Proof.** On the Exchange floor a broker is tried by **Proof**: three rounds of exhibits on the lightbox, with beads dropped into the urn. Her advocate files the count lease first, with the standard term, *"count the urn as it lies"*. She is acquitted. Thamarai, campaigning, waves off the bond panic ("Panics find their floor. Let it run.") and then: "No one has ever signed a closure. The day someone does, the court must hear them."
 
 **Ch 19 (B). Day −4: the chest.** The record film of Kayal's room shows a dense rectangle in her sealed bridal chest. She breaks custom and opens it: a lead **sheath**, *188-1, late, live*.
 
