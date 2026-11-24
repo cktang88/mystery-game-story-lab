@@ -21,11 +21,10 @@ The deliverable the owner asked for:
 | Research notes (14) | Done, ~82k words | `research/notes/` |
 | Compiled report | Done, ~13.8k words; ends with 16 principles, checklist, trope table, 13-step development process | `research/REPORT.md` |
 | Research index and grep cheatsheet | Done | `research/INDEX.md` |
-| Three writer outlines, round 1 | Done. A, B and C all converged on one template (northern-European sea coast, drowning, sound-based alien, ~19-year cycle) | A kept in `outlines/writer-a/`; B and C v1 in `outlines/archive/` |
-| Graders' reviews, round 1 | Done. A 7.5, B 7, C 6.6 out of 10 | `judging/review-writer-a.md`; B and C v1 reviews in `judging/archive/` |
-| Writer A revision | In progress (adds `08-revision-log.md`) | `outlines/writer-a/` |
-| Writers B and C, round 2 | In progress. The owner chose to redo both under a banned list of the converged elements. B must use a dense non-European city (world first); C must be off-world or mobile (ending first) | `outlines/writer-b/`, `writer-c/` |
-| Graders for B and C v2, then their revisions | After round 2 | `judging/` |
+| Round 1 (A, B, C) | Done, archived. All three converged on one northern-sea template | `outlines/archive/writer-*-v1/` |
+| Round 2 (A revised; B and C redone with seeds) | Done, archived. Diverse, but small and folk-scale; the owner then required big futuristic sci-fi with galactic reach, spy and court intrigue, politics and economics (`BRIEF.md`, "Scope and genre") | `outlines/archive/` (see its README), reviews in `judging/archive/` |
+| Round 3: three fresh writers | **In progress.** Shared instructions in `outlines/ROUND-3.md`, seeds in `outlines/seeds/round-3.md`. A question first, B world first, C ending first | `outlines/writer-a/`, `writer-b/`, `writer-c/` |
+| Round 3 graders, then writer revisions | After round 3 outlines | `judging/review-writer-*.md` |
 | Fable judge's comparison | Last | `judging/` |
 
 ## Repo conventions
