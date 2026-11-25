@@ -29,7 +29,7 @@ The deliverable the owner asked for:
 | Merge pass on A | Done. Graded 8.0 (from 7.9): grafts G1, G4, G5 pass; G2, G3 and all five open problems partial; new contradictions in the sealed history | `outlines/writer-a/`, `judging/review-writer-a-merged.md` |
 | Tone and consistency pass on A | Done. Owner added "cool, not spooky" and no-horror/body-horror rules (BRIEF.md). Foreseen death became a sealing, the murder a time-napping and vault heist, the ordeal "the Proof"; nobody dies | `outlines/writer-a/` |
 | Round 3 | Archived: the owner rejected all three as weird and hard to understand | `outlines/archive/round-3/` |
-| Pitch exploration | **In progress.** Five simple pitches (GoT/Halo-level frames), one explorer subagent each, researching and expanding threads | `pitches/` (see its README) |
+| Pitch exploration | Done: plain-English rewrite, wow pass, and one adversarial worldbuilder per pitch (`world.md`, `world-challenges.md`) | `pitches/`, summary in `pitches/ROUNDUP.md` |
 | Next | Owner picks a pitch; develop only that one, keeping the frame simple | |
 
 ## Repo conventions
