@@ -14,7 +14,7 @@ By noon his mother, the Empress, has parked her throne-ship over the station: ha
 
 The humans hand the case to Sam Okafor, a night-shift cop with a bad war record. The Empress sends Patience, the giant bodyguard who failed to save her son, to stay at his side. Sam lost a brother to the Aun. Patience can hear through walls, and she doesn't trust humans.
 
-The station's AI, the Clerk, can rebuild any moment on the human half, and Sam can walk around inside the rebuild. The garden shows up as a blank white space, because by treaty the Clerk can't see in there. And the Clerk has logged something odd. A letter from the future landed on the Empress's ship that morning, hours before the murder. Nobody spends a letter on good news. Someone knew.
+The station's AI, the Clerk, can rebuild any moment on the human half, and Sam can walk around inside the rebuild. The garden shows up as a blank white space, because by treaty the Clerk can't see in there. And the Clerk has logged something odd. A letter from the future landed on the Empress's ship that morning, hours before the murder. "Nobody spends a letter on good news," the Clerk says. Someone knew.
 
 On day five, Patience takes Sam to a hydroponics bay. A tall figure in a dock worker's coat turns around.
 
@@ -147,13 +147,13 @@ Planted by:
 *Set up by:* "You can't surprise the Aun," the Clerk's "nobody spends a letter on good news," and Patience's count of letters.
 *Why it isn't contrived:* it's cold logic from the one rule the player knows. Letters cost something, so they're only spent on disaster.
 
-**The loudest hawk needs peace most.** Keen learns on day 8 that her brother is alive. One word from her and the throne is hers. She stays silent. She keeps the vault, and she knows a war now would be the first one the Aun can't undo.
+**The loudest hawk needs peace most.** Keen learns on day 8 that her brother is alive. One word about the double and he is barred from the throne for good, and it's hers. She says nothing, which buys Sam two days. She keeps the vault, and she knows a war now would be the first one the Aun can't undo.
 *Set up by:* Keen guarding the vault, losing her temper when Patience mentions the count, and her broadcasts that boast of Aun strength a little too often.
 *Why it isn't contrived:* she acts on what she wants. She wants the throne of an empire that still exists.
 
-**Two copies and a cup.** Patience finally plays Sam what she heard through the wall. Two doubles find out the other is a copy and laugh about the leaders who sent them. He raises the Truce Cup: "To the ones who get sent." She pours. Neither knows what's in the wine.
+**Two copies and a cup.** Patience finally tells Sam what she heard through the wall. Two doubles who trained together years ago meet again over the Truce Cup and laugh about the leaders who sent them. He raises the cup: "To the ones who get sent." She pours. Neither knows what's in the wine.
 *Set up by:* Ines's humming, the left hand, and the Clinic training both doubles side by side.
-*Why it isn't contrived:* both leaders used doubles for the reason all leaders do, because the eve-of-treaty drink was a risky event.
+*Why it isn't contrived:* each leader had a plain reason to send a double. Maren sends Ines to every risky event, and Promise had his mother's warning.
 
 **The Chancellor sends her double.** On day 10 the Empress summons the Chancellor in person, with both fleets outside. Maren does what she has always done for dangerous meetings: she sends Ines. Standing in Maren's place before two empires, Ines says, "I'm not the Chancellor. I'm what she sends. And this is what she had me carry." Sam's copied file does the rest.
 *Set up by:* Maren's habit of sending doubles to risky events, set up on day 1, and Sam showing Ines the poison report on day 9.
