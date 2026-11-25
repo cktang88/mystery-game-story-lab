@@ -72,19 +72,27 @@ The four pillars:
 - Cloning: doubles give us fake alibis, swapped heirs and the bank scandal. A double shares the original's genes, so the spymaster can hand the aliens the wrong woman.
 - Time travel: one traveller, one trip, one way. It gives the killer her edge, and the rule itself slowly takes it away.
 
+### The one thing that explains the world: the Gates
+
+Like spice in Dune, the Gates sit under every part of this world. Trade crosses them, so the toll runs the economy. Fortune is rich because the toll flows through its one account. Resolute is dangerous because its hidden fleet wants to own the Gates. Providence's farm worlds live or die by whether food ships get through. The houses exist because five crews signed the Gate deal. The throne exists because the Founder came back through a Gate. And the murder happened because a Gate can run backwards.
+
+Pull on any thread, from the bank to the war to the killer, and it leads back to the rings.
+
 ---
 
 ## 5. Backstory (the iceberg)
 
 [MAIN] marks what the story needs. [DEPTH] marks what players can dig up. The story works with only the [MAIN] parts.
 
-**The law [MAIN].** The Gatekeepers have run the Gates for about a hundred thousand years, and dozens of species trade through them. Anyone who runs a Gate backwards gets taken. [DEPTH] Long ago, one Gatekeeper went back to stop a war that was destroying their people. It worked, and today's Gatekeepers live in the history that traveller made. They have never known what was lost, so they let nobody choose history again, themselves included.
+**The law [MAIN].** The Gatekeepers have run the Gates for about a hundred thousand years, and dozens of species trade through them. Anyone who runs a Gate backwards gets taken.
+
+**Why the law exists [MAIN, told in Act 4].** Any Gate can send someone back. So whoever is losing a war will always go back to undo it. Every war between Gate users ends in someone rewriting history. The Gatekeepers learned this first: one of their own went back to undo a war they were losing, and today's Gatekeepers live in the history that traveller made. Since then they have followed one cold rule. Never let anyone lose. They never fight, because a beaten enemy goes back. They take every ship's gene print, because they must know who passes. And when a people turns violent, they close the Gates on them gently, before anyone gets desperate enough to go back.
 
 **The Shut Gate [MAIN, short].** A dark ring hangs at the edge of human space. Behind it live the Lanterns, named by human sailors for the lights of their cities. Three hundred years ago the Lanterns broke the law. The Gatekeepers didn't fire a shot. They shut every Gate to them. Every human child learns this in school. [DEPTH] The Lanterns still send the same message, over and over. In Act 4 the player can fly out and see their lights across the gap.
 
 **The Five Ships [MAIN].** About 420 years ago Earth sent five slow sleeper ships: a troop carrier, a farm ship, an engineering ship, a survey ship and the merchant ship that paid for the trip. The Gatekeepers met them halfway and offered the Gates, paid through the merchant ship's account, forever. The crews said yes and became the houses. The rebuilt ships still orbit the capital as house seats; Providence still grows wheat inside. [DEPTH] Earth never sent anyone else, or answered another message. The game never says why.
 
-**The Founder [DEPTH].** The crews nearly wiped each other out in their first twenty years. A woman later called the Founder stopped it by seeming to know every house's next move. She built the palace around the Gate, made the heir rule and set up the yearly key. Then she walked into the Gate. In truth she was a time traveller, and the Gatekeepers took her. Each emperor learns this on coronation day, which is how Nora, as empress, knew a Gate could run backwards. The emperor died in the Founder's own room.
+**The Founder [MAIN, short].** The crews nearly wiped each other out in their first twenty years. A woman later called the Founder stopped it by seeming to know every house's next move. She built the palace around the Gate, made the heir rule and set up the yearly key. Then she walked into the Gate. In truth she was a traveller from a future where the crews lost everything, and the Gatekeepers took her. Each emperor learns this on coronation day, which is how Nora, as empress, knew a Gate could run backwards.
 
 **The Year of Knives [MAIN].** Two hundred years ago, assassins killed eleven heirs in a year. Families began growing doubles, and the Double Law followed.
 
@@ -106,8 +114,9 @@ What we borrow:
 - It builds shocks, like the Red Wedding, from causes we watched pile up. Hollis's death and the bank crash work that way.
 - Jon Snow's parentage is solved from clues spread across many threads. So is the killer: the scar, the song and the servants' passage each turn up in a different thread.
 - In Succession, people fight over a father's chair and never say what they mean. Our court scenes are fights over who sits and who speaks first.
+- Dune hangs a whole world on one resource. Ours hangs on the Gates.
+- The Three-Body Problem answers a huge question (why is the sky silent?) with cold logic. We answer "why do the aliens never fight?" the same way, with "the loser always goes back."
 - Return of the Obra Dinn checks answers a few at a time, so guessing doesn't pay.
-- The Caves of Steel pairs a human detective with a robot. Here the player is the robot.
 
 Nearest lookalikes:
 
@@ -196,16 +205,18 @@ Fair because: the player sees the clue being made in front of them.
 Set up by: rule 2 and the Year of Knives, both known from Act 1.
 Fair because: it is exactly what a spymaster would do with the rules everyone knows.
 
+**7. The loser always goes back.** In Act 4 Ward asks the Envoy why the Gatekeepers never fight. The Envoy answers with a question: what does a people do when it is losing a war, and it owns a Gate? Ward lines up every traveller it knows. The Gatekeepers' own traveller. The Founder, after the crews' war. Ruth, after the Gates closed. Each one was on the losing side. The aliens' calm, the toll, the gene prints and the Shut Gate all follow from that one fact. And the emperor's war was worse than anyone thought. Winning or losing, it would have ended with someone going back.
+Set up by: rule 1; the Shut Gate lesson ("they didn't fire a shot"); the Envoy's "We do not fight"; the Founder legend; every gene print taken at every Gate.
+Fair because: the player holds every piece before the Envoy speaks. It needs no new rule, only the one they already know, followed to the end.
+
 ---
 
 ## 10. Memorable moments
 
 1. Ward works out its key for forty years ahead and checks it against the lock. The numbers match. Every light in the palace flickers.
-2. Morning in the throne hall: five delegations and an empty chair. Through the window, house fleets drop out of the Gate until they fill the sky.
-3. Odile's secret goes out live in the bank hall. She climbs onto the counter. "I ran this bank better than she did. Check the numbers." Most people stay.
-4. Ruth straightens Hollis's collar, exactly the way Nora does, then catches herself and walks off.
-5. Near the deadline, the Gatekeepers dim one Gate a day. From the capital you watch the rings in the night sky go out.
-6. Young Nora finds her older self. Ruth looks at her a long time. "You'll be good at it. That's the problem."
+2. Odile's secret goes out live in the bank hall. She climbs onto the counter. "I ran this bank better than she did. Check the numbers." Most people stay.
+3. Near the deadline, the Gatekeepers dim one Gate a day. From the capital you watch the rings in the night sky go out.
+4. Young Nora finds her older self. Ruth looks at her a long time. "You'll be good at it. That's the problem."
 
 ---
 
