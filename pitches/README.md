@@ -14,6 +14,8 @@ The owner asked for each of these five pitches to be explored by its own subagen
 
 ## Rules for every explorer
 
+- **Write in plain, simple English.** Follow "How to write" in `CLAUDE.md`: short common words, active verbs, varied sentence lengths, no AI slop.
+
 - **Keep the frame simple.** Everything you add must still let someone say the story in one line. If a thread needs a glossary, cut it. At most one or two sci-fi rules, each one sentence. Few invented words; prefer plain English names for things ("the Gate", "the Fleet") over coined jargon.
 - **Simple on top, deep underneath.** Like Halo: the surface is "a soldier and an AI fight the Covenant", but beneath it sits a huge, interesting backstory (who built the rings, what happened to them, why the Covenant worships them) that players love uncovering. Every pitch needs that iceberg: a deep history, how the factions came to be, and the big buried secrets, revealed bit by bit through play. The backstory can be as rich as you like, as long as the main story never needs it to make sense.
 - **Complexity lives in people.** Factions with clear wants, characters with secrets, double agents, betrayals, twists that reframe earlier scenes, threads that collide. Game of Thrones and Halo depth, not invented systems.
