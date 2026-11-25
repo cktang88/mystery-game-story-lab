@@ -36,6 +36,7 @@ Constraints from the project owner, in priority order.
 - At most one or two sci-fi rules, each explainable in one sentence. Complexity comes from characters, factions, secrets, betrayals and twists, never from a stack of invented systems, laws or jargon.
 - Round 3's outlines were rejected as "weird" and not compelling: anklet law, sealing scans, coupons and invented terms buried the story. Random seeds that force odd specifics are no longer mandatory; use them only as optional inspiration.
 - New stories start as short plain-language pitches that the owner picks from before any outline is written.
+- The owner's test, in their words: Game of Thrones is "5 kingdoms fight for the crown"; Halo is "a dude and an AI fight the alien Covenant to save humanity". Easy. A pitch must name clear sides, a clear prize or threat, and who we follow, in that many words. Mysteries and twists sit on top of that simple frame and never replace it.
 
 ## Something new
 
