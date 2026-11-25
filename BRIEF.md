@@ -10,7 +10,8 @@ Constraints from the project owner, in priority order.
 ## The story
 
 - As complex and interesting as Code Geass or NieR, and then more so.
-- Built around AGI, aliens, cloning and time travel.
+- Built around AGI, aliens and cloning, with time travel only if it earns its place.
+- Time travel is optional. Its tropes and paradoxes are so well worn that it stays only if the story adds something genuinely new: a new rule, a new perspective, or uses readers can't predict. If it can't, drop it and use a different, more novel mechanic instead. The same test applies to any pillar that only repeats what other stories have done.
 - Insane and memorable underneath, but **everything must make sense**.
 - Layered like Game of Thrones: multiple character threads that run in parallel and converge.
 - Unveiled bit by bit over time.
