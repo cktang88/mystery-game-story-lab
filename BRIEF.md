@@ -37,6 +37,7 @@ Constraints from the project owner, in priority order.
 - Round 3's outlines were rejected as "weird" and not compelling: anklet law, sealing scans, coupons and invented terms buried the story. Random seeds that force odd specifics are no longer mandatory; use them only as optional inspiration.
 - New stories start as short plain-language pitches that the owner picks from before any outline is written.
 - The owner's test, in their words: Game of Thrones is "5 kingdoms fight for the crown"; Halo is "a dude and an AI fight the alien Covenant to save humanity". Easy. A pitch must name clear sides, a clear prize or threat, and who we follow, in that many words. Mysteries and twists sit on top of that simple frame and never replace it.
+- Simple on top, deep underneath: beneath the one-line frame sits a rich, genuinely interesting backstory and world (Halo's Forerunners and rings beneath "soldier and AI versus the Covenant"), uncovered bit by bit. The main story never needs the optional depth to make sense.
 
 ## Something new
 
