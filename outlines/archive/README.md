@@ -11,3 +11,7 @@ Round 2 kept writer A (revised after review) and redid B and C under the banned 
 - `writer-c-v2/`: "The Walking Market", graded 7.1, fully revised.
 
 Their reviews are in `judging/archive/`. Recurring shape across rounds 1 and 2, now banned: a society whose founding secret is a debt, pledge or promise to a bound, captive or dying alien that it lives off, settled in person at the end.
+
+## Round 3 (archived: too weird, not simple)
+
+Three fresh writers under the big-sci-fi scope: A "The Unsigned", B "The Light Weight", C "The Ouro's Hand". The Fable judge picked A (7.9); after a merge pass and a tone pass it held at 8.0. The owner then rejected all three as weird and hard to understand: the complexity lived in invented rules and jargon, not in characters and plot. `BRIEF.md` now requires a premise as simple as "5 kingdoms fight for the crown" (Game of Thrones) or "a dude and an AI fight the alien Covenant to save humanity" (Halo). Files are in `round-3/`; reviews and the verdict in `judging/archive/round-3/`.
