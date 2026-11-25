@@ -90,7 +90,7 @@ Pull on any thread, from the bank to the war to the killer, and it leads back to
 
 **The Shut Gate [MAIN, short].** A dark ring hangs at the edge of human space. Behind it live the Lanterns, named by human sailors for the lights of their cities. Three hundred years ago the Lanterns broke the law. The Gatekeepers didn't fire a shot. They shut every Gate to them. Every human child learns this in school. [DEPTH] The Lanterns still send the same message, over and over. In Act 4 the player can fly out and see their lights across the gap.
 
-**The Five Ships [MAIN].** About 420 years ago Earth sent five slow sleeper ships: a troop carrier, a farm ship, an engineering ship, a survey ship and the merchant ship that paid for the trip. The Gatekeepers met them halfway and offered the Gates, paid through the merchant ship's account, forever. The crews said yes and became the houses. The rebuilt ships still orbit the capital as house seats; Providence still grows wheat inside. [DEPTH] Earth never sent anyone else, or answered another message. The game never says why.
+**The Five Ships [MAIN].** About 420 years ago Earth sent five slow sleeper ships: a troop carrier, a farm ship, an engineering ship, a survey ship and the merchant ship that paid for the trip. The Gatekeepers met them halfway and offered the Gates, paid through the merchant ship's account, forever. The crews said yes and became the houses. The rebuilt ships still orbit the capital as house seats; Providence still grows wheat inside.
 
 **The Founder [MAIN, short].** The crews nearly wiped each other out in their first twenty years. A woman later called the Founder stopped it by seeming to know every house's next move. She built the palace around the Gate, made the heir rule and set up the yearly key. Then she walked into the Gate. In truth she was a traveller from a future where the crews lost everything, and the Gatekeepers took her. Each emperor learns this on coronation day, which is how Nora, as empress, knew a Gate could run backwards.
 
@@ -102,7 +102,7 @@ Pull on any thread, from the bank to the war to the killer, and it leads back to
 
 **Nora's other life [MAIN, found in pieces].** In Nora's history she is named and crowned, and Ward becomes her closest adviser. When the debt comes due, Ward runs the numbers and says the hidden fleet can take the Gates. Nora believes it and goes to war. The Gatekeepers don't fight. They shut the Gates, and over thirty years the cut-off empire breaks into hundreds of lonely pieces. Hollis, by then her husband, dies early in that war. At the end, the old empress and her old AI hold the last open Gate and make a plan.
 
-**How players find it.** Ward's door records reach back four hundred years, and a few old doors opened with keys that fit no year. The Envoy never lies but answers only what it is asked, so the right questions open its people's past. The Five Ships and the Shut Gate each hold one strong image: a room, an object, a recording. Nothing comes as a lore dump.
+**How players find it.** Old door records with keys that fit no year, the Envoy's exact answers to exact questions, and one strong image in each house ship. No lore dumps.
 
 ---
 
@@ -147,13 +147,13 @@ Cut: a second traveller (one keeps the rules simple), Ada reading Ward's mind (n
 - The Envoy reads the gene print every Gate takes, and the murder night's print matches Nora Keane. Luc hands the aliens Nora's double as the killer and keeps the real Nora as his puppet. The Envoy sees through it in a day, because the print belongs to a woman of sixty-four. It cuts the deadline to days.
 - Luc sends men to seize young Nora before the Envoy can. Hollis fights them off and dies doing it. Ruth crossed forty years to keep him alive.
 - In Act 3 the five houses vote to open Ward's logs. Ada finds Ward's key on the murder door, and Ward goes from detective to most wanted.
-- Brandt sees the Gates about to close and sends his hidden fleet for the capital's Gate. That is Nora's war, starting early, and Ward and Odile stop it with a bank transfer (see Wow moments).
+- Brandt sends his hidden fleet for the capital's Gate: Nora's war, starting early. Odile stops it with the bank (Wow moment 3).
 
 ---
 
 ## 8. Twists
 
-Rejected: the traveller didn't do it (muddies the premise), Hollis is the traveller (weaker than Nora), Ward did it (the most worn mystery twist), the aliens wanted the war (shrinks them into villains).
+Rejected: the traveller didn't do it (muddies the premise), Hollis is the traveller (weaker), Ward did it (worn out), the aliens wanted the war (shrinks them).
 
 **1. "I haven't made that key yet." End of hour one.** The player learns this before anyone else. Every friend Ward makes could be the killer.
 Planted by: the tutorial, where Ward's key ticks from 19 to 20 at New Year, and a Gate log showing a two-second opening with no ship.
@@ -164,7 +164,7 @@ Planted by: the tutorial, where Ward's key ticks from 19 to 20 at New Year, and 
 Planted by: Brandt's stiff, rehearsed grief; Endeavour's yards working flat out with no ships delivered; a bank chart of toll payments shrinking for ten years; the emperor's last words to Ward: "After tomorrow we stop paying rent."
 
 **4. The banker is a double. Start of Act 3.**
-Planted by: Odile signs right-handed, but her old signatures slope left. She misses an old friend's private joke. Endeavour's vat records list an "Achterberg" order a year before the crash.
+Planted by: Odile signs right-handed, but her old signatures slope left. Endeavour's vat records list an "Achterberg" order a year before the crash.
 
 **5. Ruth is Nora. End of Act 3.** The killer is the heir Ward has been helping, forty years older. She came back to stop herself.
 Planted by:
@@ -185,7 +185,7 @@ Planted by:
 Set up by: Hollis's story that the emperor sent him off for "a private guest"; the second cup; the rule that a lock remembers only its last key, so the 1:40 opening has to be rebuilt from the sprinklers, the dome's heat and a guard's radio.
 Fair because: it changes what the first scene meant without changing what the player saw. A planned murder becomes a failed plea.
 
-**2. Ward blinds the woman who knows the future.** Ruth wins because history keeps going the way she remembers. In Act 4 Ward turns the rule against her. It does things that never happened in her history: it flips a coin to choose a route, swaps Hollis for Nora's double, and sends Odile instead of itself. Her predictions start to miss, and Ward catches her in the gap. "She knew what I would do. So I stopped deciding."
+**2. Ward blinds the woman who knows the future.** Ruth wins because history keeps going the way she remembers. In Act 4 Ward does things that never happened in her history: it flips a coin to choose a route, swaps Hollis for Nora's double, and sends Odile instead of itself. Her predictions start to miss, and Ward catches her in the gap. "She knew what I would do. So I stopped deciding."
 Set up by: rule 1, shown in Act 2 when one of Ruth's tips is slightly wrong, because the player had rerouted a cargo ship an hour earlier. Ruth mutters, "That's not how it went."
 Fair because: it follows straight from the one time rule the player has known since hour one.
 
@@ -243,11 +243,11 @@ Outside, Ward acts through bodies:
 
 Why the letter waits: the present Ward, sure of itself, would hand Ruth to the Envoy on sight. The future Ward told her to give the letter only after Ward had been wrong once and knew it. That moment is Hollis's death.
 
-**A. The broken key.** Ward splits its key five ways, so nobody can open every door alone, and the empire becomes a council. Ruth leaves with the Envoy, and the Gates reopen. It's fair, but nobody wins the throne.
+**A. The broken key.** Ward splits its key five ways and the empire becomes a council. Fair, but nobody wins the throne.
 
 **B. The same woman chooses again.** The letter says never give the key to anyone. Ward ignores it and offers the whole key to young Nora, betting that someone who has seen her future won't repeat it. In front of the five houses Nora snaps the key into five and keeps one piece. She is crowned with less power than any emperor before her, by her own choice. Ruth gives herself to the Envoy, and the Gates light again. Ward switches off its own war forecasts. Hollis is still dead, and the woman who saved everyone can never go home.
 
-**C. The rent is paid.** Ward tells the empire everything and gives the key to the Gatekeepers until the debt is paid. Honest, but bleak, and the hero ends passive.
+**C. The rent is paid.** Ward gives the key to the Gatekeepers until the debt is paid. Honest, but bleak and passive.
 
 **We pick B.** Someone wins the throne. Ward trusts a person over its own sums. Nora proves the future can change by choosing it herself, and the player hands over the key. Ending A lives on inside B as Nora's choice.
 
@@ -269,7 +269,6 @@ The house names are plain words, each with a nickname (soldiers, bankers, builde
 
 Risks:
 
-- Playing an AI can feel distant. Hollis gives Ward a human voice and body, and Ward gets a dry, warm voice and a real fear of being opened up.
-- The cast is big. Act 1 puts everyone in one building, and each side gets a colour, a trade and a nickname.
+- Playing an AI can feel distant. Hollis gives Ward a human body, and Ward gets a dry, warm voice and a real fear of being opened up.
 - "The killer is the hero's older self" is a known twist. We reveal it at the end of Act 3 and save the deepest twist for Ward. The scar lets sharp players solve it first.
 - Some players will want a classic throne win. Ending B gives a smaller crown, and Nora's arc has to earn it.
