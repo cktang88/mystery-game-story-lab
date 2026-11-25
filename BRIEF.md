@@ -39,6 +39,12 @@ Constraints from the project owner, in priority order.
 - The owner's test, in their words: Game of Thrones is "5 kingdoms fight for the crown"; Halo is "a dude and an AI fight the alien Covenant to save humanity". Easy. A pitch must name clear sides, a clear prize or threat, and who we follow, in that many words. Mysteries and twists sit on top of that simple frame and never replace it.
 - Simple on top, deep underneath: beneath the one-line frame sits a rich, genuinely interesting backstory and world (Halo's Forerunners and rings beneath "soldier and AI versus the Covenant"), uncovered bit by bit. The main story never needs the optional depth to make sense.
 
+## Wow, never contrived
+
+- Every story needs moments and ideas that make the player say "holy shit, I can't believe they did that", "that's so interesting" or "how did I not think of that". This covers big set pieces, clever uses of the sci-fi rules, reveals that flip what you saw, and ideas you want to tell a friend about.
+- Nothing may feel contrived. A wow moment must follow from rules the player already knows and from people acting on what they want. No coincidences that help the heroes, no one acting stupid so the plot works, no rule bent for one scene, and no twist that only works because information was hidden unfairly.
+- The test for each one: after the shock, does the player think "of course, it was there all along"? If they think "that came out of nowhere", cut it.
+
 ## Something new
 
 - It must add something genuinely new, not be yet another entry in the genre.
