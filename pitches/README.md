@@ -26,3 +26,7 @@ The owner asked for each of these five pitches to be explored by its own subagen
 - **Generate before choosing.** For threads, twists, characters and endings, brainstorm more options than you need, then pick the most interesting and say why. Reject the obvious first idea when a better one exists.
 - **Game, not novel.** Say how the player investigates and plays (not point-and-click, not walls of text).
 - Use `research/` (see `research/INDEX.md`) and the web where useful. Do not use anything in `outlines/archive/` or `judging/archive/`.
+
+## Worldbuilding (one subagent per pitch)
+
+Each pitch also gets a dedicated worldbuilder, writing `world.md` and `world-challenges.md` in its folder. The worldbuilder grows the world across thousands of years of evolving civilisations and technology, then argues with every choice ("why X and not Y?", "what would really happen?") over several rounds until each part feels natural and inevitable. It does not edit `exploration.md`; it lists suggested changes for the story instead.
