@@ -30,6 +30,13 @@ Constraints from the project owner, in priority order.
 - Crime is fine (an assassination, sabotage, a heist, a disappearance), played as a thriller, not dwelt on morbidly.
 - Nothing horror or gross. No body horror: no mutation, flesh merging, grafting tissue, parasites, rot, decay, gore or creatures growing out of people. The owner found the film Annihilation too gross; that is the line. Biotech, clones and aliens should look clean, elegant and high-tech (sleek vats, not wet flesh), and alien life should inspire awe, not disgust.
 
+## Simple to understand (owner's top priority after round 3)
+
+- The premise must be understandable in one plain sentence with no invented terms, the way Code Geass ("a boy gets the power to command anyone, and uses it to overthrow the empire") or Steins;Gate ("a guy finds he can text the past") is.
+- At most one or two sci-fi rules, each explainable in one sentence. Complexity comes from characters, factions, secrets, betrayals and twists, never from a stack of invented systems, laws or jargon.
+- Round 3's outlines were rejected as "weird" and not compelling: anklet law, sealing scans, coupons and invented terms buried the story. Random seeds that force odd specifics are no longer mandatory; use them only as optional inspiration.
+- New stories start as short plain-language pitches that the owner picks from before any outline is written.
+
 ## Something new
 
 - It must add something genuinely new, not be yet another entry in the genre.
@@ -61,7 +68,7 @@ Constraints from the project owner, in priority order.
 - For every important element (premise, hidden history, twists, characters, names, setting, ending), generate at least three genuinely different options.
 - A separate grader reviews and revises the options, then picks one, instead of the first idea standing by default.
 - Names in particular should come from a specific culture, era and logic in the world, never from the generic sci-fi name pool.
-- Random seeds are mandatory. Before writing, every writer draws a seed set with `python3 scripts/seeds.py` (culture/era, terrain, professions, objects, phenomena, material, relationship, ritual, creature or plant), with no seed shared between writers in a round. Every seed must visibly shape the story and may be reinterpreted but never silently dropped. Round 1 showed why: three writers with different starting points still converged on the same northern-sea template, because instructions to avoid the average make every copy of the model pick the same "non-obvious" choice.
+- Random seeds are optional inspiration (see "Simple to understand"); they were mandatory in rounds 2 and 3. Before writing, every writer draws a seed set with `python3 scripts/seeds.py` (culture/era, terrain, professions, objects, phenomena, material, relationship, ritual, creature or plant), with no seed shared between writers in a round. Every seed must visibly shape the story and may be reinterpreted but never silently dropped. Round 1 showed why: three writers with different starting points still converged on the same northern-sea template, because instructions to avoid the average make every copy of the model pick the same "non-obvious" choice.
 
 ## Original
 
