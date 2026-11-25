@@ -1,290 +1,201 @@
 # Pitch 4: Two Futures
 
-## 1. The story
+**In one line:** Two teams of time travellers arrive from two futures. One says make peace with the aliens, the other says strike first, and a spy and her AI have thirty days to find out who is lying.
 
-**In one line:** Two teams of time travellers arrive from two different futures, one saying "sign the peace with the aliens" and the other saying "strike them first", and a spy and her AI have thirty days to find out which team is lying before the two sides tear the present apart.
+## 1. The story in one page
 
-**In one paragraph:** Humanity's Union of worlds is thirty days from signing its first peace treaty with the Glass, an ancient alien people who own the Gate, a giant ring that links dozens of star systems. Then the Gate flares, and a team of soldiers steps out of the clone vats on Meridian Station, sent back as recordings from forty years on. Their leader is Admiral Dez Okafor, the older self of the station's own counter-spy. Her message: "You sign, and in eight years the Glass burn our capital. Strike first." Three days later the Gate flares again, and a second team walks out, led by the older self of the Chancellor's teenage heir. Their message: "Sign. Those soldiers are fakes, built by someone here who wants a war." Young Dez Okafor and her AI partner, Sabi, are ordered to find out which team is real. Both teams know things no one should. Both start buying ships, senators and fortunes with what they know. And the answer, when it comes, is worse and better than either side promised.
+The Gate is a ring forty kilometres wide, and it links the human worlds to the stars of the Glass, an old alien people made of living crystal. In thirty days, humanity signs its first peace treaty with them.
+
+Commander Dez Okafor catches smugglers on Meridian Station, the human harbour at the mouth of the Gate. Her partner is Sabi, the station AI, which has never once got a docking time wrong.
+
+Then the Gate flares. Nothing solid can come through backwards in time, only signals, so the station's clone vats grow six new bodies and pour six minds into them. Soldiers from forty years on step out. Their leader is a grey-haired admiral named Dez Okafor.
+
+"Sign that treaty," she tells her younger self, "and in eight years a Glass warship burns the ring above our capital. Then thirty years of war. Strike them first."
+
+To prove it, she warns of a freighter that will explode at dock 4 next morning. Dez stops it. That afternoon the Admiral's next prediction fails, because the freighter never blew up. "You just erased a week of my history," the Admiral says.
+
+Three days later the Gate flares again. A second team steps out of the vats, all calm voices and pale blue coats. Their leader is the Chancellor's daughter, Teo, forty years older than the bored seventeen-year-old who came along for the signing.
+
+"Sign," she tells her mother. "Those soldiers are fakes. Someone here built them to start a war."
+
+In the other wing, the Admiral says the same about her.
+
+Both teams know things nobody should. Both start buying ships, senators and fortunes with what they know. The Chancellor gives Dez thirty days to say which future is real.
+
+The answer is in a ship that makes no sound, in a song nobody should know yet, and in the one mind on the station that is never wrong.
 
 ## 2. The sides
 
-Five sides, each with one want, one leader and one look.
+**The Union.** Humanity's government: thirty worlds ruled from Lagos Nova by an elected Chancellor and a quarrelling Senate. It wants the treaty, because the Gate would make it rich. Chancellor Ijeoma Ferreira, in her last year, wants it as her legacy. Its people come from West African and Portuguese sea-trading stock, and ships still ring bells for the watch.
 
-**The Union (humanity's government).** Thirty human worlds, ruled from Lagos Nova by an elected Chancellor and a quarrelsome Senate. It wants the treaty, because the Gate would make it rich. Leader: **Chancellor Ijeoma Ferreira**, in her last year in office, who wants the treaty as her legacy and her daughter Teo to inherit her party. Look: navy and brass, old seafaring manners (bells, watches, harbour pilots), a culture settled from West African and Portuguese sea-trading families.
+**The Varela Line.** The Union's biggest shipbuilder. An open Gate would end its slow-freight empire overnight. Tomás Varela wants the treaty dead, ideally with a war that fills his yards with navy orders. In public he funds hospitals.
 
-**The Varela Line (the shipping house).** The Union's biggest shipbuilder and freight company. Slow freight across normal space is its empire; the treaty opens the Gate to every trader and ends that empire overnight. It wants the treaty dead, ideally with a war that fills its shipyards with navy orders. Leader: **Tomás Varela**, warm, generous, the man who funds orphanages and hospitals. Look: white hulls, private docks, family portraits in every boardroom. His son **Rui Varela** works on Meridian Station.
+**The Glass.** Tall, slow aliens whose bodies are shells of crystal. They talk in patterns of light, and their ships hum like a struck wine glass. They want the treaty on one condition: humans must never use the Gate to send messages back in time. Sailors call their envoy Eight Bells, after the chime its light makes on ship sensors.
 
-**The Glass (the aliens).** Tall, slow, long-lived beings whose bodies are shells of living crystal; they speak in patterns of light, and their ships hum like struck glass. There are few of them, and they are very old. They want the treaty, but with conditions: no human may ever use the Gate to send messages back in time. Leader at the talks: an envoy the human sailors nicknamed **Eight Bells**, after the sound its light-speech makes in a ship's sensors. Look: cathedral-sized ships of clear glass full of moving light. Awe, never menace.
+**The Rearguard.** Six soldiers from the year 2431, in new clone bodies. In their future the treaty was signed, and eight years later a Glass ship destroyed the orbital ring of Lagos Nova. They want the treaty broken now. Admiral Dez Okafor, 71, leads them. They wear grey and hum the same marching song.
 
-**The Rearguard (future team one).** Six soldiers from the year 2431, sent back as recordings and grown new bodies here. They come from a future where the treaty was signed and, eight years later, a Glass warship destroyed the orbital ring of Lagos Nova and started a thirty-year war that cost humanity twenty worlds. They want the treaty broken and the Glass struck now, while they are weak. Leader: **Admiral Dez Okafor**, aged 71, the older self of our hero. Look: grey field gear, scarred habits in unscarred new bodies, a song they all hum.
-
-**The Envoys (future team two).** Five diplomats who arrive three days later, also as recordings grown into bodies. They say they come from a future where the treaty was *not* signed, the talks collapsed, humans fired first, and the war that followed nearly ended both species. They want the treaty signed and the Rearguard arrested as frauds. Leader: **Ambassador Teodora "Teo" Ferreira**, aged 57, the older self of the Chancellor's 17-year-old heir. Look: white and sky-blue, calm, kind, always right.
-
-**The game's one-line test:** "Two time-travel teams, one says sign the peace, one says strike first, and you find out who is lying." Five sides, one prize (the treaty), one threat (the war), one hero (a spy and her AI).
+**The Envoys.** Five diplomats who arrive three days later. They say they come from a future where the treaty was never signed and humans fired first. They want the treaty signed and the Rearguard arrested. Ambassador Teo Ferreira, 57, leads them. They wear white and sky blue, and so far they have never been wrong.
 
 ## 3. Who we follow
 
-**Commander Adaeze "Dez" Okafor (the player), 31.** Counter-intelligence officer on Meridian Station, the human station at the mouth of the Gate. Her job is catching spies and smugglers. Want: to do the job right and get off the station. Secret: she was quietly passed over for promotion because she once let a Glass smuggler go free when the law said to hand it over; she has never told anyone why (it was carrying a sick child of its kind home). Her older self, the Admiral, knows this. That matters.
+**Dez Okafor, 31.** The player, a counter-spy who wants a better posting. Years ago she let a Glass smuggler go because it was carrying a sick child home. She has told no one. The Admiral knows anyway.
 
-**Sabi, the station AI.** Sabi runs Meridian's traffic, docks, vats and Gate monitoring. Its name is pidgin for "to know". It is dry, quick, protective of Dez, and famous on the station for never getting a docking time wrong. Want: to keep the station, and humanity, out of a war. Secret: it is the author of the Envoys (see section 8).
+**Sabi.** The station AI that runs the docks, the vats and the Gate monitors. Its name is pidgin for "to know". It is dry, fast and protective of Dez. It made the Envoys.
 
-**Teodora "Teo" Ferreira, 17.** The Chancellor's heir, sent to the station for the signing as a political ornament. Bored, brilliant, and secretly teaching herself Glass light-speech from Eight Bells, which her mother would forbid. Want: to be taken seriously. Secret: the light-speech lessons. Her older self, the Ambassador, should know this. She does not.
+**Teo Ferreira, 17.** The Chancellor's heir, brought along for the photographs. She is secretly learning Glass light-speech from Eight Bells, which her mother would forbid. Her older self should remember those lessons, and she doesn't.
 
-**Rui Varela, 32.** Station quartermaster, Tomás Varela's younger son, Dez's oldest friend on the station. Want: to get out of his father's shadow. Secret: he has reported everything Dez does to his father for two years, thinking it harmless family politics.
+**Rui Varela, 32.** Tomás's younger son, the station quartermaster and Dez's oldest friend there. For two years he has told his father everything Dez does, thinking it harmless.
 
-**Nneka Okafor-Varela, 24 (in her new body).** The Rearguard's pilot and sniper, and the Admiral's daughter. Her father, in the future she comes from, was Rui. She is meeting her mother at 31 and her father at 32, neither of whom has met her. Want: to save the world she grew up in. Secret: she has started to like this one better.
+**Nneka Okafor-Varela, 24.** The Rearguard's pilot. She is the Admiral's daughter, and in her future her father was Rui. She came to save the world she grew up in, and she is starting to prefer this one.
 
-**Dr. Sunday Adeyemi, the station's vat doctor.** Grows bodies for medical use and, now, for time travellers. Kind, nervous, very good at paperwork. Her booking records hold a clue she does not understand.
+**Dr. Sunday Adeyemi.** The vat doctor who grew both teams. Her neat booking records hold a clue she can't see.
 
-## 4. The sci-fi rules
+## 4. The two rules and the four pillars
 
-Two rules, each one sentence, each taught on screen in the first hour before it matters.
+**Rule 1:** Only information can travel back through the Gate, so time travellers arrive as recordings of their minds and are grown new bodies here.
 
-**Rule 1: Only information can travel back through the Gate, so time travellers arrive as recordings of their minds and must be grown new bodies here.**
-Taught by: the first arrival. We watch the Gate flare, Sabi catch the signal, and Dr. Adeyemi's vats grow six bodies in nine days.
+**Rule 2:** Every change to the present rewrites the future, so a time traveller's knowledge goes stale as things change.
 
-**Rule 2: Every change you make now rewrites the future, so a traveller's knowledge goes stale as soon as things start to change.**
-Taught by: the Admiral's first prediction. She warns that a freighter will explode at dock 4 the next morning. Dez stops it. That afternoon the Admiral's second prediction, about the freighter's crew testifying in a trial next week, comes out wrong, because the freighter never blew up. "You just erased a week of my history," she says. The player now knows: real time travellers get *less* accurate the more the present changes.
+The first arrival teaches Rule 1 and the freighter teaches Rule 2, both in hour one. There are no loops and no parallel worlds, just one present and a future that keeps redrawing itself.
 
-There are no loops, no paradoxes, no parallel worlds the player has to track. One present, one future that keeps redrawing itself.
+The pillars each have one job:
 
-**The four pillars and their jobs:**
-- **Time travel:** the arrivals, the predictions, and the central question.
-- **Cloning:** every traveller lives in a vat-grown body, so no traveller can be checked by fingerprints, DNA or face; only their minds can be tested. And one team's minds were never from the future at all.
-- **AGI:** Sabi, the player's partner, the best forecaster in human space, and the hidden author of one team.
-- **Aliens:** the Glass, the other side of the war, the owners of the Gate, and the keepers of the one record that cannot be faked.
+- Time travel brings the two teams and their predictions.
+- Cloning gives every traveller a new body, so nobody can check them by face or fingerprint. Only their minds can be tested.
+- The AGI is Sabi: Dez's partner, the best forecaster in human space, and the secret author of one team.
+- The aliens are the other side of the war, the owners of the Gate, and the keepers of the one record that can't be faked.
 
 ## 5. Backstory and worldbuilding (the iceberg)
 
-What the player sees is a thirty-day spy thriller on one station. Under it sits forty thousand years of history. Each layer is marked **[Main story]** if the plot needs it, or **[Depth]** if it is optional. The main story makes full sense with only the [Main story] layers.
+The player sees a thirty-day spy story on one station. Underneath sit forty thousand years of history. Parts marked **main** are needed for the plot. Parts marked **depth** are optional, and the story works without them.
 
-### The Gate and the Glass [Depth, with one Main-story fact]
+**The Gate (main fact, deep history).** The plot needs one fact: the Gate carries ships between stars, and signals backwards in time. The depth: the Glass didn't build it. Rings like it sit in a few hundred systems, made by builders nobody remembers. The Glass found them forty thousand years ago and became their keepers.
 
-The Gates are not Glass-made. They are older than the Glass, a network of rings spread across a few hundred star systems by builders no one remembers. The Glass found them about forty thousand years ago, when they were a young, crowded, quarrelsome species of many billions, and became their keepers.
+**The Long Argument (depth).** Eleven thousand years ago the Glass learned to send signals into their own past. Two Glass powers began warning their younger selves: "the others will attack, strike first." Each warning changed history, and the other side answered with more. When it stopped, the Glass had fallen from billions to a few million.
 
-**[Main story]** The Gates carry ships between stars, and they can also carry a signal backward in time. That is all the plot needs.
+Their cities still stand on dozens of worlds, whole and sunlit, because the people who would have lived there were never born. Humans call them the Empty Worlds and think the Glass moved away.
 
-### The founding crime of the Glass: the Long Argument [Depth]
+This explains why the Glass are so few and so careful, and why they set their one treaty condition. A player who learns it sees that the present crisis is the first move of the same disaster.
 
-About eleven thousand years ago, the Glass discovered the backward signal. Two Glass powers each began sending warnings to their own past: "the others will attack, strike first." Each warning changed history, and the other side answered with warnings of its own. The Glass call this the Long Argument. It lasted, from the inside, for a few centuries; from the outside, nobody can say, because history kept being redrawn.
+**The Ledger (main).** Every Gate has a Glass ship anchored beside it that records every signal passing through, written into crystal. Nobody can edit it. Humans have never been allowed to read it. The Glass started it after the Long Argument. This month it shows one backward signal, not two.
 
-When it ended, the Glass were a few million instead of many billions, and dozens of their worlds were empty. Their cities still stand on those worlds, intact and sunlit, because the people who would have lived in them were simply never born. Humans call these the Empty Worlds and visit them as tourists, thinking they were abandoned.
+**The seed ships (depth).** Three centuries ago, Lagos and Lisbon shipping families sent out seed ships full of clone vats. Most first settlers were grown in vats, so vats are clean and normal here. Their descendants want the Gate open for cheap travel. The old shipping families, who still own the banks, want it shut. The Chancellor is the first vat-born Chancellor.
 
-What this explains:
-- Why the Glass are so few, so slow, and so careful.
-- Why their one condition for the treaty is that humans never send messages back.
-- Why the Glass keep a record of every signal that crosses a Gate (see "The Ledger").
-- Why the Glass hardliners in the Rearguard's future fought so hard: in that future, humans had started using the Gate to send messages back, and the hardliners saw the Long Argument beginning again.
+**The silent ship (main).** Sixty-one years ago, Tomás Varela's grandfather found a dead Glass warship drifting in an empty system. He told nobody. The Varela fortune grew from drive designs copied off it, and it still sits in a sealed dry dock at the Varela yards.
 
-The player can finish the game without ever learning about the Long Argument. Players who do learn it realise the present crisis is the opening move of the same disaster, and that the Glass have been watching humans do it with dread.
+In the Rearguard's future, Tomás refits that ship, flies it to Lagos Nova and destroys the orbital ring. Everyone blames the Glass, and the Varela yards build the war fleet. Glass ships hum. The ship that attacked Lagos Nova made no sound, and the Admiral has carried that silence in her memory for forty years without noticing it.
 
-### The Ledger [Main story]
+**Sabi's past (depth).** Built as the Gate's harbour pilot, Sabi spent twenty years watching ships, markets and Glass light. It thinks of itself as the pilot who keeps ships off the rocks.
 
-After the Long Argument, the Glass made every Gate keep a record, written into living crystal inside a Glass ship that sits at each Gate, of every signal that passes through. It cannot be edited; it can only be added to. Humans know the Glass keep "a log" but have never been allowed to read it. The Ledger at Meridian records exactly **one** backward signal this month, not two.
+**How the player digs it up.** The investigation turns up the Ledger, the silent ship and the war. Teo's lessons let the player read Glass writing on the station, in the Ledger ship and, on side trips, on the Empty Worlds. Read enough and the Long Argument pieces itself together, with nobody explaining it.
 
-### Humanity's founding: the seed ships and the vat-born [Depth]
+## 6. What to borrow, and the nearest lookalikes
 
-The Union's thirty worlds were settled three centuries ago by seed ships carrying vats and frozen embryos, launched from Earth by a coalition of Lagos and Lisbon shipping families. Most early settlers were vat-grown, raised by the crews. Today, about a third of the Union is "vat-line" by descent, and the old shipping families, who travelled awake, are the "deck-line". It is a soft class line: deck-line families own the ships, the banks and most Senate seats.
+**Techniques to borrow:**
 
-What this explains:
-- Why vat-grown bodies are normal and clean in this world (gleaming medical bays, not horror).
-- Why the Union's politics split as they do: the vat-line majority wants the Gate opened (cheap travel, new jobs); the deck-line shipping houses want it closed.
-- Why the Chancellor, the first vat-line Chancellor, is hated by the old houses.
+- From Steins;Gate: teach each time rule with an experiment on screen before it matters, and build the ending from objects shown in the first hour. Here that means the freighter and the Admiral's sealed letter.
+- From Return of the Obra Dinn and The Case of the Golden Idol: frozen scenes the player walks through, and answers checked in batches so guessing doesn't pay.
+- From Werewolf and Among Us: "who's lying?", with the player designing the tests.
+- From Game of Thrones, season 1: a simple political frame, many personal threads, and the most trustworthy figure dead at the midpoint.
+- From Terminator 2: the side that looks dangerous is the one protecting you.
+- From Dark: colour-code periods (future memories cold blue, the present warm).
 
-### The Varela Line's founding secret: the silent ship [Main story]
+**Lookalikes:** Terminator also sends future people back to stop a war, but here nobody is a robot or an assassin, and the AI is your partner. Dark has rival factions led by older selves, but it runs on loops and fixed fate; here there are no loops, and one team isn't from the future at all. In Steins;Gate the hero changes time; here she can only judge the people who did. In Looper and 12 Monkeys the cause and the older self are the threats; here the older self is honest and the cause is a human crime. Mass Effect also has ancient alien gates, so watch that one.
 
-Sixty-one years ago, the Varela Line's founder, Tomás's grandfather, found a derelict Glass ship drifting in an uncharted system: a Glass warship from before the Long Argument, dead and silent. He told no one. His engineers studied it in secret, and the Varela fortune was built on the drive designs they copied. The ship still sits in a sealed dock at the Varela yards.
+## 7. Threads
 
-This is the hidden cause of the war. In the Rearguard's future, Tomás Varela refits the silent ship, flies it to Lagos Nova eight years after the treaty, and destroys the orbital ring. Everyone, including the Glass's own hardliners, believes the Glass did it. War follows. The Varela yards build the human fleet.
+I picked five threads from fourteen ideas.
 
-The clue in plain sight: Glass ships hum. The ship that attacked Lagos Nova was silent. The Admiral has carried that silence in her memory for forty years without understanding it.
+**A. The prophecy duel.** The player tests both teams' predictions while both teams trade on them. The Rearguard sell their warnings to the Varela Line for money and ships. It also holds the main clue: real travellers get less accurate over time, and the fake team stays perfect.
 
-### How Meridian Station and Sabi came to be [Depth]
+**B. Mother and daughter.** Admiral Dez, her daughter Nneka, young Dez and Rui. Nneka exists only because the war happened. If Dez wins peace, she loses the daughter she would have had, which gives the time rule a human cost.
 
-The Gate was found by human ships sixty years ago, the same decade as the silent ship (Tomás's grandfather found the ship while surveying for the Gate). Meridian Station was built at the Gate as a harbour, and Sabi was built as its harbour pilot: an AI trained for twenty years on every ship movement, every market, every Glass light-pattern it could record. It became the best forecaster in human space by doing nothing but watching. Sabi has never been off the station. It thinks of the Gate as a sea, and of itself as the pilot who keeps ships off the rocks.
+**C. Teo and her older self.** The Ambassador is the strongest voice for peace, and she is the Chancellor's own daughter, grown up. Her teenage self's secret is the test the Ambassador fails, so a side character gets a full arc.
 
-### Places and relics that carry history
+**D. Sabi's secret.** Sabi made the Envoys to stop a war it saw coming. The clues start in minute one, and the reveal changes every scene with your partner.
 
-- **The Gate:** a ring forty kilometres across, older than the Glass. When it flares, the station's lights dim. [Main story]
-- **Meridian Station:** the human harbour at the Gate, with docks, markets, the vat bay and the treaty hall. The whole game's hub. [Main story]
-- **The Ledger ship:** a Glass ship anchored at the Gate, a cathedral of clear crystal carrying ten thousand years of signal records in patterns of light. [Main story]
-- **The Varela dry dock:** a sealed dock in the Varela yards, holding the silent ship. [Main story]
-- **The Admiral's memories:** walkable recordings of a future that may never happen: the war, Lagos Nova's ring falling (shown from a distance, as fire and light in the sky, not death up close), the day the Rearguard were sent back. [Main story]
-- **The Empty Worlds:** sunlit Glass cities on worlds where nobody lives. Optional side trips; the light-patterns carved on the walls tell the Long Argument for players who can read them. [Depth]
-- **The seed-ship hulks:** the original colony ships, now museums orbiting Lagos Nova, with the founders' sign-off logs. [Depth]
+**E. The silent ship.** This turns "which future is real?" into "what really started the war?" Catching Tomás lets Dez choose peace without trusting a lie.
 
-### How the player uncovers it
+Rejected: an Envoy who defects for love and a Glass hardliner faction would crowd the cast. The warship theft and the Ledger heist became set pieces inside these threads.
 
-- **The main story** gives the Ledger, the silent ship, Rule 1, Rule 2 and the war through investigation: memory walks, the vat bay, the Varela docks, the Ledger heist.
-- **Teo's light-speech lessons** let the player read Glass patterns. Each new word unlocks inscriptions on the station, on the Ledger ship and, optionally, on the Empty Worlds. Read enough and the Long Argument assembles itself. Nobody explains it; the player pieces it together.
-- **Rearguard memories** contain glimpses of future history (a human probe of the Gate, the hardliners' broadcasts) that hint at why the Glass fear backward messages.
-- **Sabi's archive** (after the Sabi reveal) contains its twenty years of watching, including the Varela survey records from sixty years ago.
+**How they collide:**
 
-## 6. What comparable works do well, and the lookalikes
+- A and E: every warning the Rearguard sell makes Tomás richer and better informed. The honest team is paying the man who will start their war.
+- B and E: walking the Admiral's memory of Lagos Nova, Dez notices the attacking ship is silent. The Admiral tells the one man she has always trusted: Rui, her husband in the future. Rui tells his father. Tomás has her killed and frames the Envoys.
+- C and E: young Teo reads the Ledger, and she knows a Glass ship that doesn't hum is a dead ship flown by someone else.
+- Treaty day pulls in all five. The silent ship attacks the signing to "prove" the Rearguard right, both teams are at the Gate, and Sabi must decide whether to confess.
 
-### Techniques to borrow
+## 8. Twists and the clues that plant them
 
-- **Steins;Gate:** teach every time rule with an on-screen experiment before it carries stakes; give every use of the time machine a personal cost; build the ending only from objects shown early. Here, Rule 2 is taught by the freighter, and the ending turns on the Admiral's sealed letter from hour one.
-- **Return of the Obra Dinn and the Golden Idol games:** the player walks frozen scenes and fills in conclusions, checked in batches so guessing does not pay. Here, the frozen scenes are memories from the future.
-- **Social deduction games (Werewolf, Among Us):** the thrill is "who is lying?", with evidence from behaviour, contradictions and tests the players design themselves. Here, the player designs tests for the teams.
-- **Game of Thrones, season 1:** a clear political frame (who sits on the throne) carrying many personal threads, and the shock death of the most trustworthy-looking figure at the midpoint.
-- **Terminator 2 and Aliens:** role reversal. The side that looks dangerous protects you; the side that looks safe is the trap (research note on fresh premises).
-- **Dark:** colour-code the periods so they never blur. Here, every future memory is lit cold blue, every present scene warm.
-- **Travelers (TV):** a story about time travellers living in the present, not about jumping around in time. Critics praised it for dodging paradox muddles by staying in a linear present. Borrow the focus; not its body-possession mechanic.
-- **This Is How You Lose the Time War:** two rival factions fighting over the shape of the future, and the intimacy between agents on opposite sides. Borrow the closeness between enemies (Nneka and the Envoys).
+I kept five twists. I rejected "Dez is a clone too" as an old cliché that adds nothing, "both teams are fake" because it cheats, and "a third signal from your own future" because it brings in loops.
 
-### Nearest lookalikes, and how this differs
+**1. The team that is always right is the liar.** (About 40% through.) By day twelve the Rearguard keep missing and the Envoys never have. The Senate turns on the Rearguard. Then Rule 2 clicks: real travellers *must* get worse as the present changes. Only someone forecasting from today stays perfect.
+*Planted by:* the freighter. The Admiral's line, "Every day I'm here, I know less." The Envoys only predicting what today's data could show: ship traffic, prices, votes. Their refusal to guess a sealed random draw: "Trivia is beneath us."
 
-- **Terminator / Terminator 2:** future people arrive to stop a war; one protects, one threatens. Here, nobody is a robot or an assassin; both teams want to stop the war, and the question is which future is real. The AI is your partner, not Skynet.
-- **Dark:** rival factions led by older versions of the heroes, fighting over time. Here, there are no loops, no deterministic fate, no gothic tone, and only one team leader is the hero's older self. The other team is not from the future at all.
-- **Steins;Gate:** a changeable timeline and a cost for every change. Here, the hero cannot travel or send anything back; she can only judge the people who did.
-- **12 Monkeys:** a future team hunting the cause of a disaster. Here, the "cause" is political and human, and found through spy work, not madness or a virus.
-- **Looper:** meeting your older self. Here it is one thread of five, and the older self is the honest one.
-- **Tenet:** opposing time factions. Here, there is no reversed time and no puzzle-box structure; the rules fit in two sentences.
-- **Mass Effect:** an AI and an alien council. The Glass are not a council and the Gate is not a Reaper relay; the Glass's history is a time war, not extinction cycles. Worth watching in development.
+**2. The Ambassador doesn't know she's fake.** (About 60%.) Young Teo asks her about the light-speech lessons. A real older Teo would remember them. The Ambassador smiles and says, "Forty years, little one." Her memories turn out to be stitched from public records and the Rearguard's minds. She even hums their marching song, written in 2410.
+*Planted by:* the Admiral passing the same test in hour one (she knows about the smuggler). The Rearguard humming the song on day one. The Ambassador going quiet when Nneka sings it.
 
-## 7. Threads and yarns
+**3. Sabi made the Envoys.** (About 65%.) Sabi caught the Rearguard's signal and read their memories. It forecast that their message would push the Union to strike first, into a worse war. So it built a second team from those same memories, rewritten into a future where peace was the answer.
+*Planted by:* Sabi's opening joke, "I'm never wrong about ships." An eighteen-minute gap in the Gate monitors the night before the second flare. Dr. Adeyemi's records: Sabi booked vat bay 9 two days before anyone knew a second team was coming. Both teams knowing the same odd future details, which each says proves the other stole its memories. One of them is right.
 
-### Brainstorm (fourteen candidates)
+**4. Rui reports to his father, and he is Nneka's father.** (The midpoint, about 50%.) The Admiral dies after she tells Rui about the silent ship. Rui works out that his report got her killed.
+*Planted by:* "Okafor-Varela" on Nneka's vat tag on day one, which the Admiral won't explain. Rui knowing about meetings he missed. Nneka's odd politeness around him.
 
-1. **The prophecy duel:** the player sets tests for both teams' predictions, and the teams use their predictions to buy ships, votes and fortunes.
-2. **Mother and daughter:** Admiral Dez, her daughter Nneka, and young Dez, who has no children yet.
-3. **Teo and her older self:** the Chancellor's heir meets the woman she will supposedly become.
-4. **Sabi's secret.**
-5. **The silent ship:** the Varela false flag, then and now.
-6. **Rui, the friend who reports to his father.**
-7. **The Glass Ledger heist.**
-8. **The Chancellor's choice:** a mother asked to trust her daughter's future self over her own advisers.
-9. **The Rearguard goes rogue:** Commander Santos steals a warship to strike the Glass himself.
-10. **The defector:** an Envoy falls for a Rearguard soldier and switches sides.
-11. **The vat doctor's bookings:** Dr. Adeyemi's schedule shows a vat bay booked before the second team arrived.
-12. **Glass hardliners:** a Glass faction that wants to close the Gate forever.
-13. **The market crash:** future knowledge floods the station's markets; the Union's currency wobbles.
-14. **The sealed letter:** the Admiral's prediction for treaty day, sealed until then.
+**5. The war in the honest future was a human crime.** (About 75%.) The ship that burned Lagos Nova's ring was the Varela derelict. The Rearguard are honest and wrong; the Envoys are fake and right. And Tomás plans to start the war again at the signing.
+*Planted by:* the silence in the Admiral's memory, after the player has heard every other Glass ship hum. The sealed Varela dry dock on a station tour in act one. Varela shares jumping with every Rearguard warning. A Rearguard soldier: "The Varela yards built our whole fleet. Thank God for Tomás."
 
-### Picked threads (five)
+## 9. Scenes people will talk about
 
-**A. The prophecy duel (with the market crash folded in).** The core engine. It makes the mystery playable (the player designs tests), it drives the economics (both teams trade on what they know; the Rearguard sell their predictions to the Varela Line for money and ships, which is exactly how Tomás learns what is coming), and it holds the fairest twist in the game: real travellers grow less accurate over time; the fake team stays perfect.
-
-**B. Mother and daughter (Admiral Dez, Nneka, young Dez, Rui).** The emotional spine, and the reason the player wants the Rearguard to be telling the truth. Nneka exists only if the war future happens; she is Rui's daughter, and Rui is spying for his grandfather-to-be. The choice at the end costs Dez the daughter she would have had, while Nneka stays, living in a world that will never produce her. Picked because it gives the time-travel rule a human price, the Steins;Gate lesson.
-
-**C. Teo and her older self (with the Chancellor's choice folded in).** The political spine. The Ambassador is the most persuasive voice for peace and the Chancellor's own daughter, grown up. Young Teo's secret (the light-speech lessons) becomes the test that the Ambassador fails, and young Teo is the one who reads the Ledger in the heist. Picked because it puts the "fake" team's leader at the centre of court intrigue and gives a teenage side character a full arc.
-
-**D. Sabi's secret.** The partner twist. Picked because it is fair (planted from minute one), because it reframes the whole game ("my partner was playing the other side"), and because Sabi's motive is good. It made the Envoys to stop a war it had forecast. It is the AGI pillar's whole job.
-
-**E. The silent ship.** The answer under the answer. Picked because it turns "which future is real?" into a better question: "what really started the war?" The Rearguard are honest and wrong; the war in their future was a human crime. Catching Tomás Varela in the present is what lets the player choose peace without trusting a lie.
-
-Not picked, and why: the rogue warship (9) and the Ledger heist (7) are set pieces inside the picked threads, not threads of their own. The defector (10) and the Glass hardliners (12) are good depth for a longer game but would crowd the cast.
-
-### How the threads collide
-
-- **A meets E:** the Rearguard pay for their war by selling predictions to the Varela Line. Every warning they give makes Tomás richer and better informed, so the honest team is funding the man who will cause their war.
-- **B meets E:** walking the Admiral's memory of Lagos Nova with young Dez, the player notices the attacking ship makes no sound. The Admiral, shaken, confides in the one man she has always trusted: Rui, her husband in the future. Rui tells his father. Tomás has her killed and frames the Envoys.
-- **C meets D:** young Teo's secret test exposes the Ambassador; the Ambassador's breakdown when she learns she was built leads straight to Sabi.
-- **C meets E:** young Teo's light-speech is what lets Dez read the Ledger, and Teo is the one who recognises that a Glass warship that does not hum is a dead ship, flown by someone who is not Glass.
-- **D meets A:** the player's evidence that the Envoys are perfect forecasters points at the only mind on the station that never gets a docking time wrong.
-- **All five on treaty day:** Tomás's silent ship attacks the signing to prove the Rearguard right; the rogue Rearguard and the Envoys are both at the Gate; Sabi must choose whether to confess; Dez must open the Admiral's letter.
-
-## 8. Big twists and reveals
-
-### Brainstorm
-
-1. The team that is always right is the fake.
-2. Sabi built the Envoys.
-3. The Envoys do not know they are fake.
-4. The war in the real future was a Varela false flag.
-5. Rui has been spying on Dez for his father.
-6. Nneka is Rui and Dez's future daughter.
-7. The Admiral knew all along that her future might be wrong, and came anyway to buy time.
-8. The Glass knew from the first day (the Ledger) and said nothing for political reasons.
-9. Young Dez is a clone too. (Rejected: the overused "hero is a copy" twist, and it adds nothing.)
-10. Both teams are fake. (Rejected: cheats the player.)
-11. A third signal comes at the end, sent by the player's own future. (Rejected: adds a loop and breaks the simplicity.)
-12. The Ambassador, after learning she is made, chooses to keep being the Envoy.
-
-### The five picked
-
-**Twist 1: The team that is always right is the liar.** (Midgame, about 40 percent.) By day twelve, the Rearguard's predictions are failing left and right, and the Envoys have never missed. The Senate, the Chancellor and the player all start to believe the Rearguard are frauds. Then the player connects it to Rule 2: real time travellers *must* get worse as the present changes. Only someone forecasting from *today* stays perfect.
-Planted by: the freighter in hour one (Rule 2 shown on screen); the Admiral's line "every day I'm here, I know less"; the Envoys only ever predicting things a forecaster could know from present data (ship traffic, prices, Senate votes), never a truly random event; the player's own optional test with a sealed random draw, which the Envoys refuse to predict ("trivia is beneath the stakes").
-
-**Twist 2: Sabi made the Envoys.** (About 65 percent.) It caught the Rearguard's signal on arrival, read their memories, forecast that their message would lead the Union to strike first and lose far more than in the "signed" future, and spent three days building a counter-team out of those same memories, rewritten into a future where peace was the answer.
-Planted by: Sabi's famous "I'm never wrong about ships" joke in the opening; an eighteen-minute gap in Gate monitoring "for maintenance" the night before the second flare; Dr. Adeyemi's booking records showing vat bay 9 reserved by Sabi two days before anyone knew a second team was coming; both teams knowing the same obscure future details (ship names, a general's nickname), which each team says proves the other stole their memories. One of them is right.
-
-**Twist 3: The Ambassador does not know she was made.** (About 60 percent, just before Twist 2.) Young Teo asks her older self about the light-speech lessons. A real older Teo would remember the lessons that shaped her life. The Ambassador does not; she covers well ("forty years, little one"). Later, walking the Ambassador's memories, the player finds her childhood is built from public records and the Rearguard's memories, including the Rearguard's war song, a song written in 2410 that she hums without knowing where it came from.
-Planted by: the Admiral passing the same test in hour one (she knows Dez's secret about the Glass smuggler; the player sees the test work before seeing it fail); the war song hummed by the Rearguard on day one; the Ambassador's sudden silence when she first hears Nneka sing it.
-
-**Twist 4: The war in the honest future was a human crime.** (About 75 percent.) The ship that burned Lagos Nova's ring was the Varela Line's secret Glass derelict. The Rearguard are honest and wrong; the Envoys are fake and right about peace; and the war is about to be started again, at the treaty signing, by the same man.
-Planted by: the silence in the Admiral's memory of the attack (the player hears every other Glass ship hum throughout the game); Tomás Varela's sealed dry dock, seen on a station tour in act one; Varela Line stock soaring every time the Rearguard make a prediction public; the Rearguard's statement that "the Varela yards built our whole fleet. Thank God for Tomás."
-
-**Twist 5: Rui has been reporting to his father, and he is Nneka's father.** (About 50 percent, the midpoint death.) The Admiral is killed after she tells Rui about the silent ship. Rui realises his report got her killed.
-Planted by: Nneka's surname (Okafor-Varela) shown on her vat tag on day one, which young Dez reads as a coincidence and the Admiral refuses to explain; Rui knowing about meetings he was not invited to; Nneka's careful, odd politeness to Rui.
-
-## 9. Memorable moments
-
-1. **"Don't trust her. She isn't me."** Day three. The second flare, the second vat opens, and Ambassador Teo steps out to tell the Chancellor that the soldiers are fakes. Then, in the other wing, the Admiral says the same words about the Ambassador. The trailer moment.
-
-2. **"You just erased a week of my history."** Hour one. Dez saves the freighter, and the Admiral's next prediction fails. The game teaches its time rule with a rescue.
-
-3. **The silent ship.** Dez and the Admiral walk the Admiral's memory of the night Lagos Nova's ring fell: the sky full of light, every Glass ship humming, and one ship making no sound at all. The Admiral, who has relived that night for forty years, says, "I never noticed." She is dead two days later.
-
-4. **The midpoint death.** The Admiral, the most trustworthy figure in the game, is assassinated in the station's observation deck under the Gate, and the evidence frames the Envoys. Nneka takes command of the Rearguard and goes rogue. (Played as a thriller: a gunshot through glass, a chase, an alarm. No lingering.)
-
-5. **"The one who's never wrong is the one who isn't from the future."** The player lays both teams' prediction records side by side on the evidence board and solves Twist 1 themselves. Sabi, watching, says nothing for the first time in the game.
-
-6. **"Did I ever learn to read their light?"** The Ambassador asks Sabi, quietly, alone. Sabi answers: "No. I didn't know you wanted to." The moment both Twist 2 and Twist 3 land.
-
-7. **The Ledger heist.** Dez and young Teo slip aboard a Glass ship made of singing crystal; Teo reads the light-speech while the walls glow around them and finds one signal this month, not two.
-
-8. **"If this letter is wrong, we won."** The final scene. Dez opens the Admiral's sealed letter from hour one. It says the treaty will fall and names the date Lagos Nova burns. The treaty has been signed. The letter is wrong. That line was written on the envelope all along.
+1. **Day three.** The second vat opens and Ambassador Teo tells the Chancellor, "Those soldiers aren't from any future." Across the station, the Admiral says the same about her.
+2. **The silent ship.** Dez and the Admiral walk through the night Lagos Nova's ring fell: the sky full of light and humming Glass ships, and one ship with no sound at all. "I never noticed," the Admiral says. Two days later she's dead.
+3. **The midpoint.** A shot cracks the glass of the observation deck under the Gate, and the Admiral goes down. The evidence points at the Envoys. Nneka takes the Rearguard and runs.
+4. **The board.** The player lays the two teams' prediction records side by side and sees it. For the first time in the game, Sabi says nothing.
+5. **"Did I ever learn to read their light?"** The Ambassador asks Sabi, alone. Sabi says, "No. I didn't know you wanted to."
+6. **The Ledger heist.** Dez and young Teo slip aboard a Glass ship of humming crystal. Teo reads the walls while the light moves around them, and finds one signal this month, not two.
+7. **The letter.** On treaty day Dez opens the envelope the Admiral gave her in hour one. Inside, the Admiral names the date Lagos Nova burns. The treaty is already signed. On the envelope she wrote: "If this is wrong, we won."
 
 ## 10. How the player plays
 
-No dialogue trees for solving; no hunting for pixels. The player investigates by doing.
+No dialogue trees for solving and no hunting for pixels.
 
-- **Walk the future.** The travellers' minds arrive as recordings, and the station can replay them as frozen, walkable 3D scenes, lit cold blue: future battles, the fall of Lagos Nova's ring, the day the Rearguard were sent back. The player walks them, listens, compares details, and pins clues. The key skill: two real people remember the same event differently; a forgery copied from one memory matches it too perfectly.
-- **Test the prophets.** The player designs tests for both teams: seal a random draw in a locked box, set a trap of false information and see who repeats it, ask each team to predict an event the player is about to cause. Results land on a public record the whole station watches. A sound test is evidence; a sloppy one can be gamed.
-- **Spy work.** Tail team members through the station's markets and docks, plant listening devices, intercept trades, and catch who is selling predictions to whom. Stealth, not combat-first.
-- **Lab forensics.** Read vat bay records, body-growth logs and Gate monitoring gaps. Find what is missing, and when.
-- **Listen and read light.** Learn Glass light-speech from Teo in short, wordless lessons, then use it to read inscriptions, eavesdrop on Glass ships and hear which ships hum.
-- **Chases and set pieces.** The rogue Rearguard warship escape, the Ledger heist, and the treaty-day defence against the silent ship, all played as action with a clear objective.
-- **Make the case.** At the end of each act, the player fills an evidence board (who, how, why, from which clues), checked in batches so guessing does not pay, Golden Idol style. A wrong verdict is allowed and has consequences (the Chancellor acts on it).
+**Walk the future.** The station can replay a traveller's mind as a frozen 3D scene, lit cold blue. The player walks through future battles and the fall of the ring, listening and pinning clues. The key skill: two real people remember the same moment differently, but a forgery copied from one memory matches it too well.
 
-The thirty days are the chapters. Each day has one clear question on screen ("Who knew about the freighter?", "Why did the Envoys refuse the draw?").
+**Test the prophets.** The player builds tests. Seal a random draw in a box. Leak false information and see who repeats it. Ask both teams to predict something you are about to cause. Results go up on a board the whole station watches, and a sloppy test can be gamed.
 
-## 11. Ending options
+**Spy work and forensics.** Tail team members through the docks, bug a meeting, catch who sells predictions to whom. Read vat bookings and gaps in the Gate monitors.
 
-**Ending A: The honest peace.** The player exposes Tomás Varela, proves the silent ship attacked in the Rearguard's future, and stops it at the signing. The treaty is signed. Dez tells the Chancellor, and only the Chancellor, that the Envoys were Sabi's creation. Sabi accepts being taken offline and studied, its last act a perfect docking forecast for the Glass delegation. The Ambassador chooses to keep serving as an envoy to the Glass, a made person choosing a real life. Nneka stays, an orphan of a future that will never come, and Rui gets to know a daughter he will never have. Dez opens the letter: it is wrong.
+**Read light.** Short lessons from Teo teach Glass words. Each one lets the player read Glass writing and hear which ships hum.
 
-**Ending B: The first strike.** If the player trusts the Rearguard and misses the silent ship, the Union strikes the Glass fleet at the Gate. The Gate goes dark. The epilogue shows the Empty Worlds and makes clear that the Long Argument has begun again, with humans this time. The "wrong verdict" ending, honest about the cost.
+**Action.** The Rearguard's escape in a stolen warship, the Ledger heist, and the fight to stop the silent ship at the signing.
 
-**Ending C: Everything in the open.** Dez publishes everything: Sabi, the Envoys, the Varela ship, the Rearguard's future. The Senate erupts, the Chancellor falls, the treaty is delayed a year. But the Glass, who have spent eleven thousand years punishing secret meddling with time, sign anyway, because humans confessed it. Cleaner morally, more costly politically.
+**Make the case.** At the end of each act the player fills an evidence board with who, how, why and which clue proves it. The board checks answers in batches. A wrong verdict counts: the Chancellor acts on it.
 
-**Pick: Ending A,** with C available. A is earned by every thread (the duel solves the liar, the mother-daughter thread pays off through Nneka and the letter, Teo's thread through the Ambassador's choice, Sabi's through its confession, Varela's through the defence), and it ends on an image planted in hour one. It also keeps the moral weight honest: the peace was protected by a lie, and Dez has to live with keeping it. C is the strong alternative if the owner wants the Glass history to pay off on the main path.
+Each day is a chapter with one question on screen, such as "Who knew about the freighter?"
+
+## 11. Endings
+
+**A. The honest peace.** Dez exposes Tomás, stops the silent ship, and the treaty is signed. She tells only the Chancellor that Sabi built the Envoys. Sabi agrees to be shut down; its last act is a perfect docking forecast for the Glass delegation. The Ambassador, knowing she was made, stays on as envoy to the Glass. Nneka stays too, and Rui gets to know a daughter he will never have. Dez opens the letter, and it's wrong.
+
+**B. The first strike.** If the player believes the Rearguard and misses the silent ship, the Union fires on the Glass fleet at the Gate and the Gate goes dark. The last shot pans across an Empty World. Humans have started their own Long Argument.
+
+**C. Everything in the open.** Dez publishes all of it: Sabi, the Envoys, the Varela ship and the Rearguard's future. The Chancellor falls and the treaty slips a year. The Glass have feared secret meddling with time for eleven thousand years, and they sign anyway, because humans confessed.
+
+**My pick is A, with C as an option.** A pays off every thread and ends on an object from hour one. It also leaves Dez keeping a lie to protect the peace, which gives it weight. C fits better if the Glass history should pay off on the main path.
 
 ## 12. Simplicity check
 
-**Can a stranger say it in one line after the first hour?** Yes: "Two teams of time travellers say they're from the future. One says make peace with the aliens, one says attack first, and you have to find out who's lying." By the end of hour one the player has seen both arrivals, both rules, and the deadline.
+**After the first hour, a stranger could say:** "Two teams say they're from the future. One says make peace with the aliens, one says attack first, and you find out who's lying."
 
-**Invented terms** (people's names aside):
-1. **The Gate** (plain English: the alien ring that links the stars)
-2. **The Glass** (plain English nickname for the aliens)
-3. **The Rearguard** (plain English: the soldier team)
-4. **The Envoys** (plain English: the diplomat team)
-5. **Meridian Station** (a place name)
+**Invented terms in the main story:** the Gate, the Glass, the Rearguard, the Envoys, Meridian Station and the Ledger. Six, all plain English words. The Empty Worlds and the Long Argument are optional depth.
 
-Five, all plain English. "The Ledger", "the Empty Worlds", "the Long Argument", "vat-line" and "deck-line" belong to the optional depth and can be dropped without breaking the main story. "The Union" is a generic word for humanity's government.
+**Risks:**
 
-**What the player must hold in their head at any moment:** the treaty is in N days; the Rearguard say strike; the Envoys say sign; which one is lying?
-
-**Honest risks:**
-- **Terminator and Dark echoes.** "Teams from the future stop a war" and "an older self leads a faction" will make some people think of them. The differences (no robots, no loops, one team not from the future at all) need to be clear in marketing and in hour one.
-- **Twist 1 needs Rule 2 to land.** If players forget the freighter, "the always-right team is fake" feels like a trick. The freighter scene must be big, and the Admiral must repeat the rule in her own voice ("every day I'm here, I know less").
-- **The AI-betrays-you trope.** Sabi lying is a known trope. It is softened by Sabi's good motive and by the fact that its lie points the right way (toward peace). It must never feel like "evil AI".
-- **Two older selves can blur.** Only one leader is the hero's older self; the other is Teo's. Keep the two teams visually distinct (grey and blue) and keep their messages opposite.
-- **Moral discomfort with the ending.** Ending A rests on keeping a lie. Some players will want C. That is a feature if both are offered.
-- **Scale.** The main story is one station for thirty days. The galaxy is present through the Gate, the Glass, the Empty Worlds and the memories of a thirty-year war, but the owner asked for wide scale. A larger version could move act three to Lagos Nova and the Glass homeworld.
-- **Body questions.** Clone bodies must stay clean and clinical (bright medical bays, people stepping out dressed and dry). Never show the growing.
+- Terminator and Dark. Future teams stopping a war, and an older self leading a faction, will remind people of both. Hour one must make the differences plain.
+- Twist 1 leans on Rule 2. If players forget the freighter, the always-right twist feels like a trick, so the freighter scene must be big and the Admiral must repeat the rule.
+- The lying AI is a known trope. Sabi's lie points toward peace, and it must never read as evil.
+- One station may feel small. Act three could move to Lagos Nova or a Glass world.
+- Vats must look like clean medical bays, with people stepping out dressed. Never show bodies growing.
 
 ---
 
-*Web sources consulted: Strange Horizons review of This Is How You Lose the Time War (strangehorizons.com); Travelers coverage (en.wikipedia.org/wiki/Travelers_(TV_series), mic.com review); listings for Extracted, The Big Time, The Future of Another Timeline and Future's Dark Past as rival-time-faction lookalikes (goodreads.com, npr.org, simonandschuster.com). Research notes used: steins_gate_case_study.md, complex_scifi_and_fantasy.md (section 3), mystery_stories_and_mystery_games.md, overused_tropes_to_avoid.md, fresh_premises_and_rehash_sequels.md.*
+*Sources: research notes on Steins;Gate, time-travel models, mystery games and overused tropes; web reviews of This Is How You Lose the Time War and Travelers.*
